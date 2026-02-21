@@ -14,8 +14,8 @@ sources:
       url: "https://www.almeezan.qa/Default.aspx?language=en"
       summary: "Official legal texts are published by the government legal portal."
     coverage:
-      scope: "Legislation listed on Al Meezan English laws list with downloadable DOCX text."
-      limitations: "Current ingestion covers 10 targeted laws; other laws require additional mapping and parsing."
+      scope: "All 44 entries listed on Al Meezan English laws list (English DOCX collection)."
+      limitations: "Coverage is limited to laws present on the Al Meezan English laws index at ingestion time."
     languages:
       - "ar"
       - "en"

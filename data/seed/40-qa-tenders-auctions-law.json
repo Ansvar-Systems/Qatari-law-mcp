@@ -6,7 +6,7 @@
   "short_name": "Law 24/2015 (Tenders)",
   "status": "in_force",
   "url": "https://www.almeezan.qa/EnglishLaws//242015.docx",
-  "description": "Official legislation text retrieved from Al Meezan Legal Portal (English laws collection).",
+  "description": "Official legislation text retrieved from Al Meezan Legal Portal (English laws list source).",
   "provisions": [
     {
       "provision_ref": "art1",
@@ -54,7 +54,7 @@
       "provision_ref": "art8",
       "section": "8",
       "title": "Article (8)",
-      "content": "Contracting by way of Direct Agreement with a supplier, contractor, consultant or service provider to purchase items, implement works or provide specified services, shall be in Emergency or Urgent Cases that cannot afford to follow tender or practice procedures, or due to the nature and particularity of the items, works or services required, in accordance with the controls and procedures specified by the Regulation.\nArticle (8 / Bis)\nThe provisions relating to tender bond provided for in this Law shall not apply to practice and Direct Agreement.\nChapter Three\nTenders and Auctions Committee"
+      "content": "Contracting by way of Direct Agreement with a supplier, contractor, consultant or service provider to purchase items, implement works or provide specified services, shall be in Emergency or Urgent Cases that cannot afford to follow tender or practice procedures, or due to the nature and particularity of the items, works or services required, in accordance with the controls and procedures specified by the Regulation."
     },
     {
       "provision_ref": "art9",
@@ -108,7 +108,7 @@
       "provision_ref": "art17",
       "section": "17",
       "title": "Article (17)",
-      "content": "Tender shall be cancelled before disposition thereof, by a decision of the Head, if permanently dispensed with, or if the public interest so requires.\nBy a reasoned decision from the Head, according to a recommendation from the Committee, tender may be cancelled and rebidded again in the following cases:\nIf only a single bid is submitted, or only one bid remains after the exclusion of the disqualified bids.\nIf the value of the best bid exceeds the estimated value.\nIf all or most of the bids were accompanied by reservations.\nArticle (17 / Bis)\nAny bidder has the right to appeal the award decision before the Disputes Settlement Committee within five working days from the day following the date the award decision is announced on the Unified Website of State Procurement.\nThe Committee shall decide upon the grievance within five working days from the date on which its secretariat receives the request for adjudication.\nThe Competent Department may not complete the award procedures until this period has expired without a grievance, or after a decision has been issued by the Disputes Settlement Committee confirming the validity of the award decision.\nIn all cases, the bidder who has been awarded the contract may not begin implementing the required works before concluding the contract, and he is not entitled to claim any compensation if he implements the work in a manner other than that, even if his implementation is based on a request from the Government Authority.\nChapter Seven\nThe Contract’s Conclusion and Implementation"
+      "content": "/ Bis)\nAny bidder has the right to appeal the award decision before the Disputes Settlement Committee within five working days from the day following the date the award decision is announced on the Unified Website of State Procurement.\nThe Committee shall decide upon the grievance within five working days from the date on which its secretariat receives the request for adjudication.\nThe Competent Department may not complete the award procedures until this period has expired without a grievance, or after a decision has been issued by the Disputes Settlement Committee confirming the validity of the award decision.\nIn all cases, the bidder who has been awarded the contract may not begin implementing the required works before concluding the contract, and he is not entitled to claim any compensation if he implements the work in a manner other than that, even if his implementation is based on a request from the Government Authority.\nChapter Seven\nThe Contract’s Conclusion and Implementation"
     },
     {
       "provision_ref": "art18",
@@ -222,7 +222,7 @@
       "provision_ref": "art36",
       "section": "36",
       "title": "Article (36)",
-      "content": "The Regulation shall specify rules, controls and procedures of classification of contractors, suppliers and service providers into different categories and specializations, according to their financial and technical capabilities, experiences, competencies and previous works, as well as performance evaluation of contractors, suppliers and service providers.\nDetermination of fees of issuance of classification certificate or exemption thereof shall be issued by a decision from the Minister, upon a proposal from the Department.\nThe Department may announce the results of the classification and evaluation of contractors, suppliers and service providers on the Unified Website of State Procurement.\nArticle (36 / Bis)\nBy a decision from the Council of Ministers, upon the proposal of the Minister, it is permissible to specify the items that the Government Authorities are committed to providing from among the national products.\nArticle (36 / Bis 1)\nThe participation of companies and entities established and registered with the Free Zones Authority and Qatar Financial Centre, or with any other authority legally authorized therefor, in tenders and auctions, practices and competitions and Direct Agreement, shall be in accordance with the terms and conditions issued by a decision of the Council of Ministers, upon the proposal of the Minister.\nArticle (36 / Bis 2)\nSmall, medium and micro-sized enterprises and environmentally friendly projects may be granted benefits, exemptions and facilities, in accordance with what is specified by the Regulation."
+      "content": "The Regulation shall specify rules, controls and procedures of classification of contractors, suppliers and service providers into different categories and specializations, according to their financial and technical capabilities, experiences, competencies and previous works, as well as performance evaluation of contractors, suppliers and service providers.\nDetermination of fees of issuance of classification certificate or exemption thereof shall be issued by a decision from the Minister, upon a proposal from the Department.\nThe Department may announce the results of the classification and evaluation of contractors, suppliers and service providers on the Unified Website of State Procurement."
     },
     {
       "provision_ref": "art37",

@@ -20,16 +20,16 @@ beforeAll(() => {
 });
 
 describe('Database integrity', () => {
-  it('should have 10 legal documents (excluding EU cross-refs)', () => {
+  it('should have 44 legal documents (excluding EU cross-refs)', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'"
     ).get() as { cnt: number };
-    expect(row.cnt).toBe(10);
+    expect(row.cnt).toBe(44);
   });
 
-  it('should have at least 100 provisions', () => {
+  it('should have at least 2000 provisions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(100);
+    expect(row.cnt).toBeGreaterThanOrEqual(2000);
   });
 
   it('should have FTS index', () => {
@@ -87,6 +87,8 @@ describe('All target laws are present', () => {
     'qa-aml-cft-exec-regulation',
     'qa-tenders-auctions-law',
     'qa-tenders-auctions-exec-regulation',
+    'qa-law-no-16-of-2018-on-the-regulation-of-non-qataris-ownership-and-usage-o',
+    'qa-law-no-17-of-2018-on-establishing-workers-support-and-insurance-fund',
   ];
 
   for (const docId of expectedDocs) {

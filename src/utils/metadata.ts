@@ -30,12 +30,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Official Legal Database (almeezan.qa) — Government (State Chancellery of Qatari)',
-    jurisdiction: 'EE',
+    data_source: 'Al Meezan Legal Portal (almeezan.qa) — Ministry of Justice, State of Qatar',
+    jurisdiction: 'QA',
     disclaimer:
-      'This data is sourced from the Official Legal Database under public domain. ' +
-      'The authoritative versions are maintained by Government (State Chancellery of Qatari). ' +
-      'Always verify with the official Official Legal Database portal (almeezan.qa).',
+      'This data is sourced from Al Meezan Legal Portal. ' +
+      'Authoritative legal texts are maintained by the State of Qatar. ' +
+      'Always verify citations against the official portal before relying on them.',
     freshness,
   };
 }

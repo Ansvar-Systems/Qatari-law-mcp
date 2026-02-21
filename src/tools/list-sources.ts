@@ -44,15 +44,14 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Official Legal Database',
-          authority: 'Government (State Chancellery of Qatari)',
+          name: 'Al Meezan Legal Portal',
+          authority: 'Ministry of Justice, State of Qatar',
           url: 'https://www.almeezan.qa',
-          license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
+          license: 'Government portal terms (see sources.yml)',
           coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
-          languages: ['en'],
+            'Qatari legislation ingested from the Al Meezan English laws list, ' +
+            'including cybersecurity, privacy, criminal law, procurement, and related regulations',
+          languages: ['ar', 'en'],
         },
       ],
       database: {

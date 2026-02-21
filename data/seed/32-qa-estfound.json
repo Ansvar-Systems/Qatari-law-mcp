@@ -1,0 +1,37 @@
+{
+  "id": "qa-estfound",
+  "type": "statute",
+  "title": "Establishment Document for Qatar Scientific Foundation",
+  "title_en": "Establishment Document for Qatar Scientific Foundation",
+  "short_name": "Establishment Document for Qatar Scientific Foundation",
+  "status": "in_force",
+  "url": "https://www.almeezan.qa/EnglishLaws//estfound.docx",
+  "description": "Official legislation text retrieved from Al Meezan Legal Portal (English laws list source).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "We have established, pursuant to this document, a foundation named “Qatar Scientific Foundation”, which shall possess an independent legal personality and full legal capacity to act. Its principal headquarters shall be located in the city of Doha."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "The foundation’s capital shall be five million Qatari Riyals (5,000,000 QR)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "The foundation shall be managed by a Board of Directors composed of not fewer than five (5) and not more than seven (7) members, including the Chairman and Vice-Chairman, to be appointed by the Founder. The foundation shall be governed in accordance with the bylaws to be issued and approved by the Founder."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "A preparatory committee shall be formed to draft the foundation’s bylaws and internal regulations necessary for its management and to organize its operations and define its departments.\nThe formation of this committee shall be decided by the founder.\nThe Founder\nHamad Bin Khalifa Al-Thani\nIssued by: 08/07/1416 (H)\nCorresponding to: 05/08/1995 (AD)"
+    }
+  ],
+  "definitions": []
+}

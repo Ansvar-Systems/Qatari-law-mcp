@@ -3,10 +3,13 @@
  *
  * This module parses:
  * 1) The English laws index page (HTML table)
- * 2) Individual DOCX files into article-level provisions
+ * 2) Individual DOCX / legacy DOC files into article-level provisions
+ * 3) Arabic LawViewWord HTML pages when English DOCX text is unavailable
  */
 
 import { execFileSync } from 'child_process';
+import * as fs from 'fs';
+import * as os from 'os';
 import * as path from 'path';
 
 export interface ListedLaw {
@@ -51,6 +54,15 @@ export interface TargetLawConfig {
   id: string;
   short_name: string;
   docx_file_name: string;
+}
+
+export interface SeedBuildOptions {
+  sourceUrl?: string;
+  sourceDescription?: string;
+}
+
+function cleanHrefPath(value: string): string {
+  return decodeHtmlEntities(value).replace(/[\r\n\t]/g, '').trim();
 }
 
 function decodeHtmlEntities(value: string): string {
@@ -122,8 +134,8 @@ export function parseEnglishLawsList(html: string): ListedLaw[] {
 
   while ((match = rowRegex.exec(html)) !== null) {
     const rawTitle = match[1];
-    const pdfPath = normaliseWhitespace(decodeHtmlEntities(match[2]));
-    const docxPath = normaliseWhitespace(decodeHtmlEntities(match[3]));
+    const pdfPath = cleanHrefPath(match[2]);
+    const docxPath = cleanHrefPath(match[3]);
 
     const titles = splitBilingualTitle(rawTitle);
     const decodedDocxPath = safeDecodeURIComponent(docxPath);
@@ -167,15 +179,10 @@ function decodeXmlEntities(value: string): string {
 }
 
 function readDocxXml(docxFilePath: string): string {
-  try {
-    return execFileSync('unzip', ['-p', docxFilePath, 'word/document.xml'], {
-      encoding: 'utf8',
-      maxBuffer: 64 * 1024 * 1024,
-    });
-  } catch (error) {
-    const message = error instanceof Error ? error.message : String(error);
-    throw new Error(`Unable to read DOCX XML (${docxFilePath}): ${message}`);
-  }
+  return execFileSync('unzip', ['-p', docxFilePath, 'word/document.xml'], {
+    encoding: 'utf8',
+    maxBuffer: 64 * 1024 * 1024,
+  });
 }
 
 function extractParagraphsFromDocxXml(xml: string): string[] {
@@ -223,35 +230,260 @@ function extractParagraphsFromDocxXml(xml: string): string[] {
   return paragraphs;
 }
 
+function extractParagraphsFromPlainText(text: string): string[] {
+  const lines = text.replace(/\r/g, '').split('\n');
+  const paragraphs: string[] = [];
+  let current: string[] = [];
+
+  const flushCurrent = (): void => {
+    if (current.length === 0) return;
+    const combined = normaliseWhitespace(current.join(' '));
+    current = [];
+    if (!combined) return;
+
+    const underscoreOnly = combined.replace(/[\s_]/g, '') === '';
+    if (underscoreOnly) return;
+
+    paragraphs.push(combined);
+  };
+
+  for (const rawLine of lines) {
+    const line = normaliseWhitespace(rawLine);
+    if (!line) {
+      flushCurrent();
+      continue;
+    }
+    current.push(line);
+  }
+  flushCurrent();
+
+  return paragraphs;
+}
+
+function convertLegacyWordToText(wordFilePath: string): string | null {
+  const tempDir = fs.mkdtempSync(path.join(os.tmpdir(), 'almeezan-doc-'));
+  try {
+    execFileSync('soffice', [
+      '--headless',
+      '--convert-to',
+      'txt:Text',
+      '--outdir',
+      tempDir,
+      wordFilePath,
+    ], {
+      stdio: 'ignore',
+      maxBuffer: 64 * 1024 * 1024,
+    });
+
+    const expected = path.join(
+      tempDir,
+      `${path.basename(wordFilePath, path.extname(wordFilePath))}.txt`,
+    );
+
+    if (fs.existsSync(expected)) {
+      return fs.readFileSync(expected, 'utf8');
+    }
+
+    const txtFiles = fs.readdirSync(tempDir).filter(file => file.toLowerCase().endsWith('.txt'));
+    if (txtFiles.length === 0) {
+      return null;
+    }
+
+    return fs.readFileSync(path.join(tempDir, txtFiles[0]!), 'utf8');
+  } catch {
+    return null;
+  } finally {
+    try {
+      fs.rmSync(tempDir, { recursive: true, force: true });
+    } catch {
+      // ignore cleanup errors
+    }
+  }
+}
+
+function readLegislationParagraphs(wordFilePath: string): string[] {
+  try {
+    const xml = readDocxXml(wordFilePath);
+    return extractParagraphsFromDocxXml(xml);
+  } catch (docxError) {
+    const legacyText = convertLegacyWordToText(wordFilePath);
+    if (legacyText) {
+      return extractParagraphsFromPlainText(legacyText);
+    }
+
+    const message = docxError instanceof Error ? docxError.message : String(docxError);
+    throw new Error(`Unable to read legislation source (${wordFilePath}): ${message}`);
+  }
+}
+
 interface HeadingMatch {
   section: string;
   consumed: number;
   inlineText?: string;
 }
 
+const DIGIT_MAP: Record<string, string> = {
+  '٠': '0', '١': '1', '٢': '2', '٣': '3', '٤': '4',
+  '٥': '5', '٦': '6', '٧': '7', '٨': '8', '٩': '9',
+  '۰': '0', '۱': '1', '۲': '2', '۳': '3', '۴': '4',
+  '۵': '5', '۶': '6', '۷': '7', '۸': '8', '۹': '9',
+};
+
+const ORDINAL_SECTION_MAP: Record<string, string> = {
+  'first': '1',
+  'second': '2',
+  'third': '3',
+  'fourth': '4',
+  'fifth': '5',
+  'sixth': '6',
+  'seventh': '7',
+  'eighth': '8',
+  'ninth': '9',
+  'tenth': '10',
+  'eleventh': '11',
+  'twelfth': '12',
+  'thirteenth': '13',
+  'fourteenth': '14',
+  'fifteenth': '15',
+  'sixteenth': '16',
+  'seventeenth': '17',
+  'eighteenth': '18',
+  'nineteenth': '19',
+  'twentieth': '20',
+  'twenty-first': '21',
+  'twenty-second': '22',
+  'twenty-third': '23',
+  'twenty-fourth': '24',
+  'twenty-fifth': '25',
+  'twenty-sixth': '26',
+  'twenty-seventh': '27',
+  'twenty-eighth': '28',
+  'twenty-ninth': '29',
+  'thirtieth': '30',
+};
+
+function normaliseDigits(value: string): string {
+  return value.replace(/[٠-٩۰-۹]/g, digit => DIGIT_MAP[digit] ?? digit);
+}
+
 function parseSectionToken(value: string): string | null {
-  const match = value.match(/^\(?\s*([0-9]+[A-Za-z]?)\s*\)?$/);
-  return match ? match[1] : null;
+  const normalised = normaliseDigits(normaliseWhitespace(value))
+    .replace(/[()]/g, '')
+    .replace(/[.:،]/g, '')
+    .trim();
+  const numeric = normalised.match(/^([0-9]+[A-Za-z]?)$/);
+  if (numeric) {
+    return numeric[1];
+  }
+
+  const ordinalKey = normalised
+    .toLowerCase()
+    .replace(/[^a-z\s-]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .replace(/\s/g, '-');
+  if (ordinalKey in ORDINAL_SECTION_MAP) {
+    return ORDINAL_SECTION_MAP[ordinalKey];
+  }
+
+  return null;
+}
+
+function matchOrdinalHeading(line: string): { section: string; inlineText?: string } | null {
+  const compact = normaliseWhitespace(normaliseDigits(line));
+  if (!compact) return null;
+
+  const withText = compact.match(/^([A-Za-z]+(?:[-\s][A-Za-z]+)?)\s*[:.)-]\s*(.*)$/);
+  if (withText) {
+    const section = parseSectionToken(withText[1]);
+    if (!section) return null;
+    const inlineText = normaliseWhitespace(withText[2]);
+    return { section, inlineText: inlineText || undefined };
+  }
+
+  const standalone = compact.match(/^([A-Za-z]+(?:[-\s][A-Za-z]+)?)\s*[:.)-]?$/);
+  if (!standalone) return null;
+  const section = parseSectionToken(standalone[1]);
+  if (!section) return null;
+  return { section };
+}
+
+function matchEnglishArticleHeading(line: string): { section: string; inlineText?: string } | null {
+  const compact = normaliseWhitespace(normaliseDigits(line));
+  const singleLine = compact.match(
+    /^Article\s*\(?\s*([0-9]+[A-Za-z]?)\s*\)?(?:\s*[-–:.]\s*(.*)|\s+(.+))?(?:\s*\([^)]*\))?\s*$/i,
+  );
+  if (!singleLine) return null;
+
+  const inlineText = normaliseWhitespace(singleLine[2] ?? singleLine[3] ?? '');
+  return {
+    section: singleLine[1],
+    inlineText: inlineText || undefined,
+  };
+}
+
+function matchArabicArticleHeading(line: string): { section: string; inlineText?: string } | null {
+  const compact = normaliseWhitespace(normaliseDigits(line));
+  const singleLine = compact.match(
+    /^(?:المادة|مادة)\s*\(?\s*([0-9]+)\s*\)?(?:\s*[-–:.]\s*(.*)|\s+(.+))?(?:\s*\([^)]*\))?\s*$/,
+  );
+  if (!singleLine) return null;
+
+  const inlineText = normaliseWhitespace(singleLine[2] ?? singleLine[3] ?? '');
+  return {
+    section: singleLine[1],
+    inlineText: inlineText || undefined,
+  };
 }
 
 function matchArticleHeading(lines: string[], index: number): HeadingMatch | null {
   const line = normaliseWhitespace(lines[index] ?? '');
   if (!line) return null;
 
-  const singleLine = line.match(/^Article\s*\(?\s*([0-9]+[A-Za-z]?)\s*\)?(?:\s*[-–:.]\s*(.*))?$/i);
-  if (singleLine) {
-    const inlineText = singleLine[2]?.trim();
+  const englishHeading = matchEnglishArticleHeading(line);
+  if (englishHeading) {
     return {
-      section: singleLine[1],
+      section: englishHeading.section,
       consumed: 1,
-      inlineText: inlineText || undefined,
+      inlineText: englishHeading.inlineText,
+    };
+  }
+
+  const arabicHeading = matchArabicArticleHeading(line);
+  if (arabicHeading) {
+    return {
+      section: arabicHeading.section,
+      consumed: 1,
+      inlineText: arabicHeading.inlineText,
+    };
+  }
+
+  const ordinalHeading = matchOrdinalHeading(line);
+  if (ordinalHeading) {
+    return {
+      section: ordinalHeading.section,
+      consumed: 1,
+      inlineText: ordinalHeading.inlineText,
     };
   }
 
   const next = normaliseWhitespace(lines[index + 1] ?? '');
   if (next) {
-    if (/^Article\s*\(?$/i.test(line) || /^Article$/i.test(line)) {
-      const token = parseSectionToken(next);
+    const lineDigits = normaliseDigits(line);
+    const nextDigits = normaliseDigits(next);
+
+    if (/^Article\s*\(?$/i.test(lineDigits) || /^Article$/i.test(lineDigits)) {
+      const token = parseSectionToken(nextDigits);
+      if (token) {
+        return {
+          section: token,
+          consumed: 2,
+        };
+      }
+    }
+
+    if (/^(?:المادة|مادة)\s*\(?$/.test(lineDigits) || /^(?:المادة|مادة)$/.test(lineDigits)) {
+      const token = parseSectionToken(nextDigits);
       if (token) {
         return {
           section: token,
@@ -261,13 +493,31 @@ function matchArticleHeading(lines: string[], index: number): HeadingMatch | nul
     }
 
     const combined = normaliseWhitespace(`${line} ${next}`);
-    const combinedLine = combined.match(/^Article\s*\(?\s*([0-9]+[A-Za-z]?)\s*\)?(?:\s*[-–:.]\s*(.*))?$/i);
-    if (combinedLine && line.length <= 40 && next.length <= 40) {
-      const inlineText = combinedLine[2]?.trim();
+
+    const combinedEnglish = matchEnglishArticleHeading(combined);
+    if (combinedEnglish && line.length <= 80 && next.length <= 120) {
       return {
-        section: combinedLine[1],
+        section: combinedEnglish.section,
         consumed: 2,
-        inlineText: inlineText || undefined,
+        inlineText: combinedEnglish.inlineText,
+      };
+    }
+
+    const combinedArabic = matchArabicArticleHeading(combined);
+    if (combinedArabic && line.length <= 80 && next.length <= 120) {
+      return {
+        section: combinedArabic.section,
+        consumed: 2,
+        inlineText: combinedArabic.inlineText,
+      };
+    }
+
+    const combinedOrdinal = matchOrdinalHeading(combined);
+    if (combinedOrdinal && line.length <= 80 && next.length <= 200) {
+      return {
+        section: combinedOrdinal.section,
+        consumed: 2,
+        inlineText: combinedOrdinal.inlineText,
       };
     }
   }
@@ -316,9 +566,10 @@ function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
   return definitions;
 }
 
-export function parseDocxLegislation(docxFilePath: string): { provisions: ParsedProvision[]; definitions: ParsedDefinition[] } {
-  const xml = readDocxXml(docxFilePath);
-  const paragraphs = extractParagraphsFromDocxXml(xml);
+function parseLinesToDocument(lines: string[]): { provisions: ParsedProvision[]; definitions: ParsedDefinition[] } {
+  if (lines.length === 0) {
+    return { provisions: [], definitions: [] };
+  }
 
   const provisions: ParsedProvision[] = [];
 
@@ -346,8 +597,8 @@ export function parseDocxLegislation(docxFilePath: string): { provisions: Parsed
     currentLines = [];
   };
 
-  for (let i = 0; i < paragraphs.length; i++) {
-    const heading = matchArticleHeading(paragraphs, i);
+  for (let i = 0; i < lines.length; i++) {
+    const heading = matchArticleHeading(lines, i);
     if (heading) {
       flushCurrent();
       currentSection = heading.section;
@@ -363,7 +614,7 @@ export function parseDocxLegislation(docxFilePath: string): { provisions: Parsed
       continue;
     }
 
-    currentLines.push(paragraphs[i]);
+    currentLines.push(lines[i]);
   }
 
   flushCurrent();
@@ -383,10 +634,90 @@ export function parseDocxLegislation(docxFilePath: string): { provisions: Parsed
   return { provisions: deduped, definitions };
 }
 
+function extractElementInnerHtmlById(html: string, elementId: string, tagName = 'div'): string | null {
+  const startRegex = new RegExp(`<${tagName}\\b[^>]*\\bid=["']${elementId}["'][^>]*>`, 'i');
+  const startMatch = startRegex.exec(html);
+  if (!startMatch) return null;
+
+  const contentStart = startMatch.index + startMatch[0].length;
+  const tokenRegex = new RegExp(`<${tagName}\\b[^>]*>|</${tagName}>`, 'gi');
+  tokenRegex.lastIndex = contentStart;
+
+  let depth = 1;
+  let token: RegExpExecArray | null;
+  while ((token = tokenRegex.exec(html)) !== null) {
+    if (/^<\//.test(token[0])) {
+      depth -= 1;
+    } else {
+      depth += 1;
+    }
+
+    if (depth === 0) {
+      return html.slice(contentStart, token.index);
+    }
+  }
+
+  return null;
+}
+
+function htmlToCleanLines(html: string): string[] {
+  const text = decodeHtmlEntities(
+    html
+      .replace(/<script\b[\s\S]*?<\/script>/gi, ' ')
+      .replace(/<style\b[\s\S]*?<\/style>/gi, ' ')
+      .replace(/<br\s*\/?>/gi, '\n')
+      .replace(/<\/(p|div|tr|li|td|table|h[1-6])>/gi, '\n')
+      .replace(/<hr\b[^>]*>/gi, '\n')
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/\r/g, ''),
+  );
+
+  return text
+    .split('\n')
+    .map(line => normaliseWhitespace(line))
+    .filter(line => line.length > 0)
+    .filter(line => !/^فهرس الموضوعات$/.test(line))
+    .filter(line => !/^المواد$/.test(line))
+    .filter(line => !/^الميزان\s*\|/.test(line))
+    .filter(line => !/^الرجاء عدم اعتبار/.test(line));
+}
+
+function extractLawViewWordLines(html: string): string[] {
+  const treeDetails = extractElementInnerHtmlById(html, 'divTreeDetails');
+  if (treeDetails) {
+    return htmlToCleanLines(treeDetails);
+  }
+
+  const notes = extractElementInnerHtmlById(html, 'NotesHolders');
+  if (notes) {
+    return htmlToCleanLines(notes);
+  }
+
+  return htmlToCleanLines(html);
+}
+
+export function parseDocxLegislation(docxFilePath: string): { provisions: ParsedProvision[]; definitions: ParsedDefinition[] } {
+  const paragraphs = readLegislationParagraphs(docxFilePath);
+  return parseLinesToDocument(paragraphs);
+}
+
+export function parseLawViewWordLegislation(html: string): { provisions: ParsedProvision[]; definitions: ParsedDefinition[] } {
+  const primaryLines = extractLawViewWordLines(html);
+  const primary = parseLinesToDocument(primaryLines);
+  if (primary.provisions.length > 0) {
+    return primary;
+  }
+
+  // Fallback parser pass on full HTML body if main content wrappers are not present.
+  const fallbackLines = htmlToCleanLines(html);
+  return parseLinesToDocument(fallbackLines);
+}
+
 export function buildSeedDocument(
   target: TargetLawConfig,
   law: ListedLaw,
   parsed: { provisions: ParsedProvision[]; definitions: ParsedDefinition[] },
+  options: SeedBuildOptions = {},
 ): ParsedDocument {
   const title = law.title_ar || law.title_en;
   const titleEn = law.title_en || law.title;
@@ -398,8 +729,8 @@ export function buildSeedDocument(
     title_en: titleEn,
     short_name: target.short_name,
     status: 'in_force',
-    url: law.docx_url,
-    description: 'Official legislation text retrieved from Al Meezan Legal Portal (English laws collection).',
+    url: options.sourceUrl ?? law.docx_url,
+    description: options.sourceDescription ?? 'Official legislation text retrieved from Al Meezan Legal Portal.',
     provisions: parsed.provisions,
     definitions: parsed.definitions,
   };
