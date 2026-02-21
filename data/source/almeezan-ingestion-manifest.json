@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-02-21T21:58:33.353Z",
+  "source": {
+    "portal": "https://www.almeezan.qa",
+    "english_index": "https://www.almeezan.qa/EnglishLawsList.aspx",
+    "year_index": "https://www.almeezan.qa/LawsByYear.aspx"
+  },
+  "options": {
+    "corpus": "all",
+    "skip_fetch": false,
+    "refresh": false,
+    "limit": null
+  },
+  "summary": {
+    "seed_files_written": 9428,
+    "skipped_count": 0
+  },
+  "english_docx": {
+    "listed_laws_discovered": 44,
+    "written": 44,
+    "skipped": 0,
+    "fallback_used": 0,
+    "total_provisions": 2465,
+    "total_definitions": 43
+  },
+  "arabic_corpus": {
+    "years_discovered": 67,
+    "listed_laws_discovered": 9384,
+    "written": 9384,
+    "fetch_failed": 0,
+    "textless_written": 9384,
+    "total_provisions": 0,
+    "total_definitions": 0
+  }
+}

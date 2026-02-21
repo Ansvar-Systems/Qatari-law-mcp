@@ -10,21 +10,33 @@
 import { execFileSync } from 'child_process';
 
 const USER_AGENT = 'Ansvar-Qatari-Law-MCP/1.0 (+https://github.com/Ansvar-Systems/Qatari-law-mcp)';
-const MIN_DELAY_MS = 1200;
+const MIN_DELAY_MS = 1000;
 
 let lastRequestAt = 0;
+let rateLimitChain: Promise<void> = Promise.resolve();
 
 async function sleep(ms: number): Promise<void> {
   await new Promise(resolve => setTimeout(resolve, ms));
 }
 
 async function enforceRateLimit(): Promise<void> {
-  const now = Date.now();
-  const elapsed = now - lastRequestAt;
-  if (elapsed < MIN_DELAY_MS) {
-    await sleep(MIN_DELAY_MS - elapsed);
+  let release!: () => void;
+  const previous = rateLimitChain;
+  rateLimitChain = new Promise<void>(resolve => {
+    release = resolve;
+  });
+
+  await previous;
+  try {
+    const now = Date.now();
+    const elapsed = now - lastRequestAt;
+    if (elapsed < MIN_DELAY_MS) {
+      await sleep(MIN_DELAY_MS - elapsed);
+    }
+    lastRequestAt = Date.now();
+  } finally {
+    release();
   }
-  lastRequestAt = Date.now();
 }
 
 function collectErrorMessages(error: unknown): string {
@@ -54,7 +66,7 @@ function isTlsVerificationError(error: unknown): boolean {
 function fetchViaCurl(url: string, binary: boolean): Buffer {
   const output = execFileSync(
     'curl',
-    ['-k', '-fsSL', '-A', USER_AGENT, url],
+    ['-k', '-fsSL', '--connect-timeout', '5', '--max-time', '10', '-A', USER_AGENT, url],
     { encoding: binary ? undefined : 'utf8', maxBuffer: 64 * 1024 * 1024 },
   );
 
@@ -63,6 +75,31 @@ function fetchViaCurl(url: string, binary: boolean): Buffer {
   }
 
   return output;
+}
+
+function isCurlTransientError(error: unknown): boolean {
+  const message = collectErrorMessages(error);
+  return /Empty reply from server|timed out|Timeout|Failed to connect|Connection reset|HTTP\/2 stream/i.test(message);
+}
+
+async function fetchViaCurlWithRetry(url: string, binary: boolean, maxRetries = 0): Promise<Buffer> {
+  await enforceRateLimit();
+
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      return fetchViaCurl(url, binary);
+    } catch (error) {
+      if (!isCurlTransientError(error) || attempt >= maxRetries) {
+        throw error;
+      }
+
+      const backoffMs = Math.pow(2, attempt + 1) * 1000;
+      await sleep(backoffMs);
+      await enforceRateLimit();
+    }
+  }
+
+  throw new Error(`curl fallback failed for ${url}`);
 }
 
 async function fetchWithRetry(url: string, accept: string, maxRetries = 3): Promise<Response> {
@@ -116,8 +153,7 @@ export async function fetchTextFromUrl(url: string): Promise<string> {
       throw error;
     }
 
-    await enforceRateLimit();
-    return fetchViaCurl(url, false).toString('utf8');
+    return (await fetchViaCurlWithRetry(url, false)).toString('utf8');
   }
 }
 
@@ -131,8 +167,7 @@ export async function fetchBinaryFromUrl(url: string): Promise<Buffer> {
       throw error;
     }
 
-    await enforceRateLimit();
-    return fetchViaCurl(url, true);
+    return fetchViaCurlWithRetry(url, true);
   }
 }
 

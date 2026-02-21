@@ -23,7 +23,7 @@ npx @ansvar/qatari-law-mcp
 
 ## Data Sources
 
-Real legislation ingested from the official Al Meezan legal portal (https://www.almeezan.qa) using official source documents from the English laws list (44 ingested instruments).
+Real legislation ingested from the official Al Meezan legal portal (https://www.almeezan.qa), with full Arabic year-index law coverage as official metadata records and full article text from the English DOCX collection where available.
 
 ## License
 

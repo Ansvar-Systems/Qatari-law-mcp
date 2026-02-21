@@ -49,8 +49,8 @@ export async function listSources(
           url: 'https://www.almeezan.qa',
           license: 'Government portal terms (see sources.yml)',
           coverage:
-            'Qatari legislation ingested from the Al Meezan English laws list, ' +
-            'including cybersecurity, privacy, criminal law, procurement, and related regulations',
+            'Qatari legislation ingested from Al Meezan full Arabic year-index corpus as official ' +
+            'metadata records, with full English DOCX article text included where available',
           languages: ['ar', 'en'],
         },
       ],
