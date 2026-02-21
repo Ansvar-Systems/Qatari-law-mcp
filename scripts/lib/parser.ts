@@ -1,42 +1,28 @@
 /**
- * HTML parser for Qatari legislation from the Sejm ELI API (api.sejm.gov.pl).
+ * Parsers for Al Meezan legislation ingestion.
  *
- * Parses the structured HTML served by the ELI text endpoint into seed JSON.
- * The HTML structure uses:
- *
- * - <div class="unit unit_chpt" id="chpt_N"> for chapters (Rozdział)
- * - <div class="unit unit_arti" id="chpt_N-arti_M"> for articles (Art.)
- * - <h3> inside articles for article number (Art. N.)
- * - <div class="unit unit_pass"> for numbered paragraphs (ustępy)
- * - <div class="unit unit_pint"> for numbered points (punkty)
- * - <div data-template="xText" class="pro-text"> for text content
- *
- * Qatari legislation references: Dz.U. YYYY poz. NNNN
- * API endpoint: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
+ * This module parses:
+ * 1) The English laws index page (HTML table)
+ * 2) Individual DOCX files into article-level provisions
  */
 
-export interface ActIndexEntry {
-  id: string;
+import { execFileSync } from 'child_process';
+import * as path from 'path';
+
+export interface ListedLaw {
+  raw_title: string;
+  title_en: string;
+  title_ar?: string;
   title: string;
-  titleEn: string;
-  shortName: string;
-  status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issuedDate: string;
-  inForceDate: string;
-  /** ISAP display address, e.g. "Dz.U. 2018 poz. 1000" */
-  dziennikRef: string;
-  /** Year of publication in Dziennik Ustaw */
-  year: number;
-  /** Position number (poz.) in Dziennik Ustaw */
-  poz: number;
-  /** Human-readable URL on ISAP */
-  url: string;
-  description?: string;
+  pdf_path: string;
+  docx_path: string;
+  pdf_url: string;
+  docx_url: string;
+  docx_file_name: string;
 }
 
 export interface ParsedProvision {
   provision_ref: string;
-  chapter?: string;
   section: string;
   title: string;
   content: string;
@@ -48,401 +34,373 @@ export interface ParsedDefinition {
   source_provision?: string;
 }
 
-export interface ParsedAct {
+export interface ParsedDocument {
   id: string;
   type: 'statute';
   title: string;
   title_en: string;
   short_name: string;
   status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
-  issued_date: string;
-  in_force_date: string;
   url: string;
-  description?: string;
+  description: string;
   provisions: ParsedProvision[];
   definitions: ParsedDefinition[];
 }
 
+export interface TargetLawConfig {
+  id: string;
+  short_name: string;
+  docx_file_name: string;
+}
+
+function decodeHtmlEntities(value: string): string {
+  return value
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'")
+    .replace(/&#x27;/gi, "'")
+    .replace(/&#x2F;/gi, '/')
+    .replace(/&#160;/gi, ' ');
+}
+
+function stripHtml(value: string): string {
+  return value.replace(/<[^>]+>/g, ' ');
+}
+
+function normaliseWhitespace(value: string): string {
+  return value.replace(/\u00a0/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+function toAbsoluteAlMeezanUrl(pathOrUrl: string): string {
+  if (/^https?:\/\//i.test(pathOrUrl)) {
+    return pathOrUrl;
+  }
+  const trimmed = pathOrUrl.startsWith('/') ? pathOrUrl : `/${pathOrUrl}`;
+  return `https://www.almeezan.qa${trimmed}`;
+}
+
+function splitBilingualTitle(rawTitle: string): { title_en: string; title_ar?: string; title: string } {
+  const cleaned = normaliseWhitespace(decodeHtmlEntities(stripHtml(rawTitle)));
+  const arabicStart = cleaned.search(/[\u0600-\u06FF]/);
+
+  if (arabicStart === -1) {
+    return {
+      title_en: cleaned,
+      title: cleaned,
+    };
+  }
+
+  const title_en = cleaned.slice(0, arabicStart).trim();
+  const title_ar = cleaned.slice(arabicStart).trim();
+
+  return {
+    title_en: title_en || title_ar,
+    title_ar,
+    title: title_ar || title_en,
+  };
+}
+
+function safeDecodeURIComponent(value: string): string {
+  try {
+    return decodeURIComponent(value);
+  } catch {
+    return value;
+  }
+}
+
 /**
- * Strip HTML tags and decode common entities, normalising whitespace.
+ * Parse Al Meezan English law list table rows.
  */
-function stripHtml(html: string): string {
-  return html
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
+export function parseEnglishLawsList(html: string): ListedLaw[] {
+  const rowRegex = /<tr>\s*<td[^>]*>([\s\S]*?)<\/td>\s*<td[^>]*>\s*<a[^>]+href="([^"]+\.pdf)"[\s\S]*?<\/td>\s*<td[^>]*>\s*<a[^>]+href="([^"]+\.docx)"[\s\S]*?<\/td>\s*<\/tr>/gi;
+
+  const laws: ListedLaw[] = [];
+  let match: RegExpExecArray | null;
+
+  while ((match = rowRegex.exec(html)) !== null) {
+    const rawTitle = match[1];
+    const pdfPath = normaliseWhitespace(decodeHtmlEntities(match[2]));
+    const docxPath = normaliseWhitespace(decodeHtmlEntities(match[3]));
+
+    const titles = splitBilingualTitle(rawTitle);
+    const decodedDocxPath = safeDecodeURIComponent(docxPath);
+    const docxFileName = path.basename(decodedDocxPath);
+
+    laws.push({
+      raw_title: normaliseWhitespace(decodeHtmlEntities(stripHtml(rawTitle))),
+      title_en: titles.title_en,
+      title_ar: titles.title_ar,
+      title: titles.title,
+      pdf_path: pdfPath,
+      docx_path: docxPath,
+      pdf_url: toAbsoluteAlMeezanUrl(pdfPath),
+      docx_url: toAbsoluteAlMeezanUrl(docxPath),
+      docx_file_name: docxFileName,
+    });
+  }
+
+  return laws;
+}
+
+function normaliseFileName(value: string): string {
+  return normaliseWhitespace(value).toLowerCase();
+}
+
+export function findLawByDocxFileName(laws: ListedLaw[], fileName: string): ListedLaw | undefined {
+  const needle = normaliseFileName(fileName);
+  return laws.find(law => normaliseFileName(law.docx_file_name) === needle);
+}
+
+function decodeXmlEntities(value: string): string {
+  return value
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
-    .replace(/&shy;/g, '')
-    .replace(/\u00a0/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
+    .replace(/&#x27;/g, "'")
+    .replace(/&#160;/g, ' ')
+    .replace(/\u00a0/g, ' ');
 }
 
-/**
- * Find the chapter heading (Rozdział) for a given article position.
- * Searches backwards from the article position for the nearest chapter div.
- */
-function findChapterHeading(html: string, articlePos: number): string | undefined {
-  const beforeArticle = html.substring(Math.max(0, articlePos - 10000), articlePos);
-
-  // Look for the last chapter heading: Rozdział N ... Title
-  // Pattern in ISAP HTML: <div class="unit unit_chpt"...> <h3> Rozdział N ... Title </h3>
-  const chapterMatches = [
-    ...beforeArticle.matchAll(/Rozdzia[łl]\s*&nbsp;\s*(\d+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
-
-  if (chapterMatches.length > 0) {
-    const last = chapterMatches[chapterMatches.length - 1];
-    const chapterNum = last[1].trim();
-    // Try to find the title in subsequent <P> or <SPAN> tags
-    const afterChapter = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterChapter.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
-
-    return title
-      ? `Rozdział ${chapterNum} - ${title}`
-      : `Rozdział ${chapterNum}`;
-  }
-
-  // Also check for Dział (Division) used in larger codes
-  const dzialMatches = [
-    ...beforeArticle.matchAll(/Dzia[łl]\s*&nbsp;\s*([IVXLCDM]+[a-z]?)\s*(.*?)(?=<\/h3>|<\/P>)/gi),
-  ];
-
-  if (dzialMatches.length > 0) {
-    const last = dzialMatches[dzialMatches.length - 1];
-    const dzialNum = last[1].trim();
-    const afterDzial = beforeArticle.substring(last.index! + last[0].length);
-    const titleMatch = afterDzial.match(/<SPAN[^>]*class="pro-title-unit"[^>]*>(.*?)<\/SPAN>/i);
-    const title = titleMatch ? stripHtml(titleMatch[1]) : '';
-
-    return title
-      ? `Dział ${dzialNum} - ${title}`
-      : `Dział ${dzialNum}`;
-  }
-
-  return undefined;
-}
-
-/**
- * Parse HTML from the Sejm ELI API (api.sejm.gov.pl/eli/acts/DU/YYYY/POZ/text.html)
- * to extract provisions from a Qatari statute.
- *
- * The HTML uses div-based structure:
- *   <div class="unit unit_arti" id="chpt_N-arti_M" data-id="arti_M">
- *     <h3><B>Art. M.</B></h3>
- *     <div class="unit-inner">
- *       <div class="unit unit_pass">
- *         <h3>1.</h3>
- *         <div class="unit-inner">
- *           <div data-template="xText">...content...</div>
- *         </div>
- *       </div>
- *     </div>
- *   </div>
- */
-export function parseQatariHtml(html: string, act: ActIndexEntry): ParsedAct {
-  const provisions: ParsedProvision[] = [];
-  const definitions: ParsedDefinition[] = [];
-
-  // Match all article divs: <div class="unit unit_arti ..." id="...-arti_N" data-id="arti_N">
-  const articleRegex = /<div[^>]*class="unit unit_arti[^"]*"[^>]*id="([^"]*-)?arti_(\d+[a-z_]*)"[^>]*data-id="arti_(\d+[a-z_]*)"[^>]*>/gi;
-  const articleStarts: { fullId: string; artNum: string; pos: number }[] = [];
-
-  let match: RegExpExecArray | null;
-  while ((match = articleRegex.exec(html)) !== null) {
-    // Skip nested articles inside amendment provisions (chpt_12-arti_111-arti_22_2 etc.)
-    const fullId = match[0];
-    const idAttr = fullId.match(/id="([^"]+)"/)?.[1] ?? '';
-    // Count how many "arti_" segments appear in the ID
-    const artiSegments = (idAttr.match(/arti_/g) ?? []).length;
-    if (artiSegments > 1) continue;
-
-    articleStarts.push({
-      fullId: idAttr,
-      artNum: match[3],
-      pos: match.index,
+function readDocxXml(docxFilePath: string): string {
+  try {
+    return execFileSync('unzip', ['-p', docxFilePath, 'word/document.xml'], {
+      encoding: 'utf8',
+      maxBuffer: 64 * 1024 * 1024,
     });
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    throw new Error(`Unable to read DOCX XML (${docxFilePath}): ${message}`);
   }
+}
 
-  for (let i = 0; i < articleStarts.length; i++) {
-    const article = articleStarts[i];
-    const startPos = article.pos;
+function extractParagraphsFromDocxXml(xml: string): string[] {
+  const paragraphRegex = /<w:p\b[\s\S]*?<\/w:p>/g;
+  const paragraphs: string[] = [];
 
-    // Extract content up to next article or end
-    const endPos = i + 1 < articleStarts.length
-      ? articleStarts[i + 1].pos
-      : html.length;
-    const articleHtml = html.substring(startPos, endPos);
+  let paragraphMatch: RegExpExecArray | null;
+  while ((paragraphMatch = paragraphRegex.exec(xml)) !== null) {
+    const paragraphXml = paragraphMatch[0]
+      .replace(/<w:tab\s*\/?\s*>/g, '\t')
+      .replace(/<w:br\s*\/?\s*>/g, '\n')
+      .replace(/<w:br\s+[^>]*\/>/g, '\n');
 
-    // Extract article number from <h3><B>Art. N.</B></h3> or <h3><B>Art. N<sup>...</B></h3>
-    const artHeadingMatch = articleHtml.match(
-      /<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*(\d+[a-z]*)\b/i
-    );
+    const textParts: string[] = [];
+    const textRegex = /<w:t(?:\s+[^>]*)?>([\s\S]*?)<\/w:t>/g;
 
-    const artNum = artHeadingMatch
-      ? artHeadingMatch[1].trim()
-      : article.artNum.replace(/_/g, '');
-
-    // Normalize: remove underscores from article numbers like "22_2"
-    const normalizedNum = artNum.replace(/_/g, '');
-    const provisionRef = `art${normalizedNum}`;
-
-    // Find chapter heading
-    const chapter = findChapterHeading(html, startPos);
-
-    // Extract text content, stripping HTML
-    // Remove the article heading to avoid duplication
-    const contentHtml = articleHtml
-      .replace(/<h3[^>]*>\s*<B[^>]*>\s*Art\.?\s*&nbsp;?\s*\d+[a-z]*\.?\s*<\/B>\s*<\/h3>/i, '');
-    let content = stripHtml(contentHtml);
-
-    // Skip very short articles (likely just structural markers)
-    if (content.length < 5) continue;
-
-    // Cap content at 12K characters
-    if (content.length > 12000) {
-      content = content.substring(0, 12000);
+    let textMatch: RegExpExecArray | null;
+    while ((textMatch = textRegex.exec(paragraphXml)) !== null) {
+      textParts.push(decodeXmlEntities(textMatch[1]));
     }
 
-    // Build a title from the first sentence or paragraph if meaningful
-    const title = `Art. ${normalizedNum}`;
+    if (textParts.length === 0) {
+      continue;
+    }
+
+    const combined = textParts.join('');
+    const cleaned = combined
+      .replace(/\r/g, '')
+      .replace(/[ \t]+/g, ' ')
+      .replace(/\s*\n\s*/g, '\n')
+      .trim();
+
+    if (!cleaned) {
+      continue;
+    }
+
+    const underscoreOnly = cleaned.replace(/[\s_]/g, '') === '';
+    if (underscoreOnly) {
+      continue;
+    }
+
+    paragraphs.push(cleaned);
+  }
+
+  return paragraphs;
+}
+
+interface HeadingMatch {
+  section: string;
+  consumed: number;
+  inlineText?: string;
+}
+
+function parseSectionToken(value: string): string | null {
+  const match = value.match(/^\(?\s*([0-9]+[A-Za-z]?)\s*\)?$/);
+  return match ? match[1] : null;
+}
+
+function matchArticleHeading(lines: string[], index: number): HeadingMatch | null {
+  const line = normaliseWhitespace(lines[index] ?? '');
+  if (!line) return null;
+
+  const singleLine = line.match(/^Article\s*\(?\s*([0-9]+[A-Za-z]?)\s*\)?(?:\s*[-–:.]\s*(.*))?$/i);
+  if (singleLine) {
+    const inlineText = singleLine[2]?.trim();
+    return {
+      section: singleLine[1],
+      consumed: 1,
+      inlineText: inlineText || undefined,
+    };
+  }
+
+  const next = normaliseWhitespace(lines[index + 1] ?? '');
+  if (next) {
+    if (/^Article\s*\(?$/i.test(line) || /^Article$/i.test(line)) {
+      const token = parseSectionToken(next);
+      if (token) {
+        return {
+          section: token,
+          consumed: 2,
+        };
+      }
+    }
+
+    const combined = normaliseWhitespace(`${line} ${next}`);
+    const combinedLine = combined.match(/^Article\s*\(?\s*([0-9]+[A-Za-z]?)\s*\)?(?:\s*[-–:.]\s*(.*))?$/i);
+    if (combinedLine && line.length <= 40 && next.length <= 40) {
+      const inlineText = combinedLine[2]?.trim();
+      return {
+        section: combinedLine[1],
+        consumed: 2,
+        inlineText: inlineText || undefined,
+      };
+    }
+  }
+
+  return null;
+}
+
+function makeProvisionRef(section: string): string {
+  const normalised = section.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  return `art${normalised || section.toLowerCase()}`;
+}
+
+function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
+  const definitions: ParsedDefinition[] = [];
+  const seen = new Set<string>();
+
+  const candidates = provisions.filter(p =>
+    /^1$/i.test(p.section) || /definition/i.test(p.title) || /means/i.test(p.content)
+  );
+
+  const definitionRegex = /(?:^|[.;]\s+)(?:"|“|')?([A-Za-z][A-Za-z0-9\-()\/, ]{1,80})(?:"|”|')?\s+means\s+([^.;\n]{10,500})/gi;
+
+  for (const provision of candidates) {
+    let match: RegExpExecArray | null;
+    while ((match = definitionRegex.exec(provision.content)) !== null) {
+      const term = normaliseWhitespace(match[1]);
+      const definition = normaliseWhitespace(match[2]);
+      if (term.length < 2 || definition.length < 10) continue;
+
+      const key = term.toLowerCase();
+      if (seen.has(key)) continue;
+      seen.add(key);
+
+      definitions.push({
+        term,
+        definition,
+        source_provision: provision.provision_ref,
+      });
+
+      if (definitions.length >= 50) {
+        return definitions;
+      }
+    }
+  }
+
+  return definitions;
+}
+
+export function parseDocxLegislation(docxFilePath: string): { provisions: ParsedProvision[]; definitions: ParsedDefinition[] } {
+  const xml = readDocxXml(docxFilePath);
+  const paragraphs = extractParagraphsFromDocxXml(xml);
+
+  const provisions: ParsedProvision[] = [];
+
+  let currentSection: string | null = null;
+  let currentLines: string[] = [];
+
+  const flushCurrent = (): void => {
+    if (!currentSection) return;
+
+    const content = currentLines.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+    if (!content) {
+      currentSection = null;
+      currentLines = [];
+      return;
+    }
 
     provisions.push({
-      provision_ref: provisionRef,
-      chapter,
-      section: normalizedNum,
-      title,
+      provision_ref: makeProvisionRef(currentSection),
+      section: currentSection,
+      title: `Article (${currentSection})`,
       content,
     });
 
-    // Extract definitions from definition articles
-    // Qatari acts use "ilekroć mowa" (whenever mentioned), "rozumie się przez to"
-    // (this is understood as), or "oznacza" (means)
-    if (
-      content.includes('ilekro') ||
-      content.includes('rozumie si') ||
-      content.includes('oznacza') ||
-      content.includes('nale') && content.includes('rozumie')
-    ) {
-      extractDefinitions(content, provisionRef, definitions);
+    currentSection = null;
+    currentLines = [];
+  };
+
+  for (let i = 0; i < paragraphs.length; i++) {
+    const heading = matchArticleHeading(paragraphs, i);
+    if (heading) {
+      flushCurrent();
+      currentSection = heading.section;
+      currentLines = [];
+      if (heading.inlineText) {
+        currentLines.push(heading.inlineText);
+      }
+      i += heading.consumed - 1;
+      continue;
+    }
+
+    if (!currentSection) {
+      continue;
+    }
+
+    currentLines.push(paragraphs[i]);
+  }
+
+  flushCurrent();
+
+  // Dedupe by provision_ref while keeping the most complete content.
+  const byRef = new Map<string, ParsedProvision>();
+  for (const provision of provisions) {
+    const existing = byRef.get(provision.provision_ref);
+    if (!existing || provision.content.length > existing.content.length) {
+      byRef.set(provision.provision_ref, provision);
     }
   }
+
+  const deduped = Array.from(byRef.values());
+  const definitions = extractDefinitions(deduped);
+
+  return { provisions: deduped, definitions };
+}
+
+export function buildSeedDocument(
+  target: TargetLawConfig,
+  law: ListedLaw,
+  parsed: { provisions: ParsedProvision[]; definitions: ParsedDefinition[] },
+): ParsedDocument {
+  const title = law.title_ar || law.title_en;
+  const titleEn = law.title_en || law.title;
 
   return {
-    id: act.id,
+    id: target.id,
     type: 'statute',
-    title: act.title,
-    title_en: act.titleEn,
-    short_name: act.shortName,
-    status: act.status,
-    issued_date: act.issuedDate,
-    in_force_date: act.inForceDate,
-    url: act.url,
-    description: act.description,
-    provisions,
-    definitions,
+    title,
+    title_en: titleEn,
+    short_name: target.short_name,
+    status: 'in_force',
+    url: law.docx_url,
+    description: 'Official legislation text retrieved from Al Meezan Legal Portal (English laws collection).',
+    provisions: parsed.provisions,
+    definitions: parsed.definitions,
   };
 }
-
-/**
- * Extract definitions from Qatari legal text.
- *
- * Qatari definitions typically use patterns like:
- *   - "«term» – oznacza ..." ("term" – means ...)
- *   - "N) term – ..." (numbered list of definitions)
- *   - "ilekroć ... mowa o «term» – rozumie się przez to ..."
- */
-function extractDefinitions(
-  text: string,
-  sourceProvision: string,
-  definitions: ParsedDefinition[],
-): void {
-  // Pattern: numbered definitions like "1) term - definition;"
-  const numberedDefRegex = /\d+\)\s+([^–\-]+?)\s+[–\-]\s+(.*?)(?=;\s*\d+\)|$)/g;
-  let defMatch: RegExpExecArray | null;
-
-  while ((defMatch = numberedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/;$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-
-  // Pattern: «quoted term» – definition
-  const quotedDefRegex = /[„«\u201e]([^"»\u201d]+)["\u201d»]\s*[–\-]\s*(.*?)(?=[;.]\s*[„«\u201e]|[;.]\s*$)/g;
-  while ((defMatch = quotedDefRegex.exec(text)) !== null) {
-    const term = defMatch[1].trim();
-    const definition = defMatch[2].replace(/[;.]$/, '').trim();
-
-    if (term.length > 1 && term.length < 100 && definition.length > 5) {
-      definitions.push({
-        term,
-        definition,
-        source_provision: sourceProvision,
-      });
-    }
-  }
-}
-
-/**
- * Pre-configured list of key Qatari Acts to ingest.
- *
- * Source: api.sejm.gov.pl (Sejm ELI API)
- * URL pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * These are the most important Qatari statutes for cybersecurity, data protection,
- * and compliance use cases. References use the Dziennik Ustaw (Journal of Laws)
- * format: Dz.U. YYYY poz. NNNN.
- */
-export const KEY_QATARI_ACTS: ActIndexEntry[] = [
-  {
-    id: 'dpa-2018',
-    title: 'Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych',
-    titleEn: 'Personal Data Protection Act 2018',
-    shortName: 'UODO 2018',
-    status: 'in_force',
-    issuedDate: '2018-05-10',
-    inForceDate: '2018-05-25',
-    dziennikRef: 'Dz.U. 2018 poz. 1000',
-    year: 2018,
-    poz: 1000,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000',
-    description: 'GDPR implementing provisions (RODO); establishes UODO (Urząd Ochrony Danych Osobowych) as the supervisory authority; covers certification, codes of conduct, and administrative penalties',
-  },
-  {
-    id: 'ksc-2018',
-    title: 'Ustawa z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa',
-    titleEn: 'National Cybersecurity System Act 2018 (KSC)',
-    shortName: 'KSC',
-    status: 'in_force',
-    issuedDate: '2018-07-05',
-    inForceDate: '2018-08-28',
-    dziennikRef: 'Dz.U. 2018 poz. 1560',
-    year: 2018,
-    poz: 1560,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001560',
-    description: 'NIS Directive implementation; establishes national cybersecurity system with CSIRT teams (CSIRT NASK, CSIRT GOV, CSIRT MON); covers essential services operators and digital service providers',
-  },
-  {
-    id: 'ksh-2000',
-    title: 'Ustawa z dnia 15 września 2000 r. - Kodeks spółek handlowych',
-    titleEn: 'Commercial Companies Code (KSH)',
-    shortName: 'KSH',
-    status: 'in_force',
-    issuedDate: '2000-09-15',
-    inForceDate: '2001-01-01',
-    dziennikRef: 'Dz.U. 2000 nr 94 poz. 1037',
-    year: 2000,
-    poz: 1037,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000940037',
-    description: 'Comprehensive commercial companies law governing partnerships (spółka jawna, komandytowa, etc.) and capital companies (sp. z o.o. and S.A.); corporate governance requirements',
-  },
-  {
-    id: 'kodeks-karny-1997',
-    title: 'Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny',
-    titleEn: 'Criminal Code (Kodeks karny)',
-    shortName: 'KK',
-    status: 'in_force',
-    issuedDate: '1997-06-06',
-    inForceDate: '1998-09-01',
-    dziennikRef: 'Dz.U. 1997 nr 88 poz. 553',
-    year: 1997,
-    poz: 553,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553',
-    description: 'Criminal Code; cybercrime provisions in Art. 267 (unauthorized access), Art. 268 (data destruction), Art. 268a (computer sabotage), Art. 269 (sabotage of critical systems), Art. 269a (DoS), Art. 269b (hacking tools)',
-  },
-  {
-    id: 'e-services-2002',
-    title: 'Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną',
-    titleEn: 'Act on Provision of Electronic Services',
-    shortName: 'E-Services Act',
-    status: 'in_force',
-    issuedDate: '2002-07-18',
-    inForceDate: '2002-10-10',
-    dziennikRef: 'Dz.U. 2002 nr 144 poz. 1204',
-    year: 2002,
-    poz: 1204,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441204',
-    description: 'E-Commerce Directive implementation; regulates electronic services, ISP liability, spam prohibition, electronic contracts',
-  },
-  {
-    id: 'telecom-2004',
-    title: 'Ustawa z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne',
-    titleEn: 'Telecommunications Law',
-    shortName: 'PT',
-    status: 'in_force',
-    issuedDate: '2004-07-16',
-    inForceDate: '2004-09-03',
-    dziennikRef: 'Dz.U. 2004 nr 171 poz. 1800',
-    year: 2004,
-    poz: 1800,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041711800',
-    description: 'Telecommunications regulation; data retention, communications security, network integrity obligations, UKE (Office of Electronic Communications) authority',
-  },
-  {
-    id: 'constitution-1997',
-    title: 'Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.',
-    titleEn: 'Constitution of the Republic of Poland',
-    shortName: 'Konstytucja RP',
-    status: 'in_force',
-    issuedDate: '1997-04-02',
-    inForceDate: '1997-10-17',
-    dziennikRef: 'Dz.U. 1997 nr 78 poz. 483',
-    year: 1997,
-    poz: 483,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970780483',
-    description: 'Supreme law; Art. 47 (privacy), Art. 49 (communication secrecy), Art. 51 (personal data protection), Art. 54 (freedom of expression)',
-  },
-  {
-    id: 'kodeks-cywilny-1964',
-    title: 'Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny',
-    titleEn: 'Civil Code (Kodeks cywilny)',
-    shortName: 'KC',
-    status: 'in_force',
-    issuedDate: '1964-04-23',
-    inForceDate: '1965-01-01',
-    dziennikRef: 'Dz.U. 1964 nr 16 poz. 93',
-    year: 1964,
-    poz: 93,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640160093',
-    description: 'Core private law; personality rights protection (Art. 23-24), contract law, liability for damages, electronic declarations of intent',
-  },
-  {
-    id: 'banking-law-1997',
-    title: 'Ustawa z dnia 29 sierpnia 1997 r. - Prawo bankowe',
-    titleEn: 'Banking Law',
-    shortName: 'PB',
-    status: 'in_force',
-    issuedDate: '1997-08-29',
-    inForceDate: '1998-01-01',
-    dziennikRef: 'Dz.U. 1997 nr 140 poz. 939',
-    year: 1997,
-    poz: 939,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971400939',
-    description: 'Banking regulation; banking secrecy obligations, outsourcing of banking activities, IT security requirements for banks, cloud computing provisions',
-  },
-  {
-    id: 'kpa-1960',
-    title: 'Ustawa z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego',
-    titleEn: 'Code of Administrative Procedure (KPA)',
-    shortName: 'KPA',
-    status: 'in_force',
-    issuedDate: '1960-06-14',
-    inForceDate: '1961-01-01',
-    dziennikRef: 'Dz.U. 1960 nr 30 poz. 168',
-    year: 1960,
-    poz: 168,
-    url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600300168',
-    description: 'Administrative procedure code; governs proceedings before UODO (data protection authority), UKE, and other regulators; electronic administration provisions',
-  },
-];

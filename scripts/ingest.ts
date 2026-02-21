@@ -1,186 +1,212 @@
 #!/usr/bin/env tsx
 /**
- * Qatari Law MCP -- Ingestion Pipeline
+ * Real-data ingestion for Qatari Law MCP.
  *
- * Fetches Qatari legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Qatari Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
- *
- * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Qatari legislation is public domain under Art. 4 of the Copyright Act
+ * Source portal: https://www.almeezan.qa/EnglishLawsList.aspx
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseQatariHtml, KEY_QATARI_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { fetchBinaryFromUrl, fetchTextFromUrl } from './lib/fetcher.js';
+import {
+  buildSeedDocument,
+  findLawByDocxFileName,
+  parseDocxLegislation,
+  parseEnglishLawsList,
+  type TargetLawConfig,
+} from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
+const SOURCE_DOCX_DIR = path.resolve(SOURCE_DIR, 'docx');
+const SOURCE_INDEX_FILE = path.resolve(SOURCE_DIR, 'almeezan-english-laws-list.html');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+const INDEX_URL = 'https://www.almeezan.qa/EnglishLawsList.aspx';
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+const TARGET_LAWS: TargetLawConfig[] = [
+  {
+    id: 'qa-pdp-law',
+    short_name: 'Law 13/2016 (PDP)',
+    docx_file_name: '132016.docx',
+  },
+  {
+    id: 'qa-cybercrime-law',
+    short_name: 'Law 14/2014 (Cybercrime)',
+    docx_file_name: '142014.docx',
+  },
+  {
+    id: 'qa-ncsa-establishment',
+    short_name: 'Amiri Decision 1/2021',
+    docx_file_name: '012021.docx',
+  },
+  {
+    id: 'qa-egov-policies',
+    short_name: 'CoM Decision 18/2010',
+    docx_file_name: '182010.docx',
+  },
+  {
+    id: 'qa-right-to-access-information',
+    short_name: 'Law 9/2022',
+    docx_file_name: '092022.docx',
+  },
+  {
+    id: 'qa-penal-code',
+    short_name: 'Law 11/2004 (Penal Code)',
+    docx_file_name: 'Law No. 11 of 2004 Promulgating the Penal Code.docx',
+  },
+  {
+    id: 'qa-aml-cft-law',
+    short_name: 'Law 20/2019 (AML/CFT)',
+    docx_file_name: 'Law No. (20) of 2019 on the Promulgation of Anti-Money Laundering and Terrorism Financing Law.docx',
+  },
+  {
+    id: 'qa-aml-cft-exec-regulation',
+    short_name: 'CoM Decision 41/2019',
+    docx_file_name: 'The Council of Ministers Decision No. (41) of 2019 on issuance of the Executive Regulation of The Anti-Money Laundering and Terrorism Financing Law Promulgated by Law No. (20) of 2019.docx',
+  },
+  {
+    id: 'qa-tenders-auctions-law',
+    short_name: 'Law 24/2015 (Tenders)',
+    docx_file_name: '242015.docx',
+  },
+  {
+    id: 'qa-tenders-auctions-exec-regulation',
+    short_name: 'CoM Decision 16/2019',
+    docx_file_name: '162019.docx',
+  },
+];
+
+function parseArgs(): { skipFetch: boolean; limit: number | null } {
   const args = process.argv.slice(2);
-  let limit: number | null = null;
   let skipFetch = false;
+  let limit: number | null = null;
 
   for (let i = 0; i < args.length; i++) {
-    if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
-      i++;
-    } else if (args[i] === '--skip-fetch') {
+    if (args[i] === '--skip-fetch') {
       skipFetch = true;
-    }
-  }
-
-  return { limit, skipFetch };
-}
-
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
-}
-
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Qatari Acts from api.sejm.gov.pl...\n`);
-
-  fs.mkdirSync(SOURCE_DIR, { recursive: true });
-  fs.mkdirSync(SEED_DIR, { recursive: true });
-
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
-  let totalProvisions = 0;
-  let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
-
-  for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
-
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
-      continue;
-    }
-
-    try {
-      let html: string;
-
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
-      } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
-
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
+    } else if (args[i] === '--limit' && args[i + 1]) {
+      const parsed = Number.parseInt(args[i + 1], 10);
+      if (Number.isFinite(parsed) && parsed > 0) {
+        limit = parsed;
       }
-
-      const parsed = parseQatariHtml(html, act);
-      fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-      totalProvisions += parsed.provisions.length;
-      totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
-      results.push({
-        act: act.shortName,
-        provisions: parsed.provisions.length,
-        definitions: parsed.definitions.length,
-        status: 'OK',
-      });
-    } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
+      i += 1;
     }
-
-    processed++;
   }
 
-  console.log(`\n${'='.repeat(72)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Qatari Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
-  for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
+  return { skipFetch, limit };
+}
+
+function ensureDirs(): void {
+  fs.mkdirSync(SOURCE_DIR, { recursive: true });
+  fs.mkdirSync(SOURCE_DOCX_DIR, { recursive: true });
+  fs.mkdirSync(SEED_DIR, { recursive: true });
+}
+
+function clearSeedFiles(): void {
+  const files = fs.readdirSync(SEED_DIR).filter(file => file.endsWith('.json'));
+  for (const file of files) {
+    fs.unlinkSync(path.join(SEED_DIR, file));
   }
-  console.log('');
+}
+
+async function loadIndexHtml(skipFetch: boolean): Promise<string> {
+  if (skipFetch && fs.existsSync(SOURCE_INDEX_FILE)) {
+    return fs.readFileSync(SOURCE_INDEX_FILE, 'utf8');
+  }
+
+  const html = await fetchTextFromUrl(INDEX_URL);
+  fs.writeFileSync(SOURCE_INDEX_FILE, html, 'utf8');
+  return html;
+}
+
+async function loadDocxFile(docxUrl: string, localPath: string, skipFetch: boolean): Promise<void> {
+  if (skipFetch && fs.existsSync(localPath)) {
+    return;
+  }
+
+  const encodedUrl = encodeURI(docxUrl);
+  const body = await fetchBinaryFromUrl(encodedUrl);
+  fs.writeFileSync(localPath, body);
 }
 
 async function main(): Promise<void> {
-  const { limit, skipFetch } = parseArgs();
+  const { skipFetch, limit } = parseArgs();
 
-  console.log('Qatari Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Qatari Copyright Act)`);
+  console.log('Qatari Law MCP — Real Data Ingestion');
+  console.log('====================================');
+  console.log(`Source index: ${INDEX_URL}`);
+  if (skipFetch) console.log('Mode: --skip-fetch');
+  if (limit) console.log(`Mode: --limit ${limit}`);
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  ensureDirs();
 
-  const acts = limit ? KEY_QATARI_ACTS.slice(0, limit) : KEY_QATARI_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  const indexHtml = await loadIndexHtml(skipFetch);
+  const listedLaws = parseEnglishLawsList(indexHtml);
+  if (listedLaws.length === 0) {
+    throw new Error('No laws found in EnglishLawsList.aspx parsing step');
+  }
+
+  const targets = limit ? TARGET_LAWS.slice(0, limit) : TARGET_LAWS;
+
+  clearSeedFiles();
+
+  let written = 0;
+  let skipped = 0;
+  let totalProvisions = 0;
+  let totalDefinitions = 0;
+
+  console.log(`\nTarget laws: ${targets.length}`);
+
+  for (const target of targets) {
+    const law = findLawByDocxFileName(listedLaws, target.docx_file_name);
+
+    if (!law) {
+      console.log(`  SKIP ${target.id}: docx not found in index (${target.docx_file_name})`);
+      skipped += 1;
+      continue;
+    }
+
+    const localDocxPath = path.join(SOURCE_DOCX_DIR, law.docx_file_name);
+
+    process.stdout.write(`  Fetching ${target.id}...`);
+    await loadDocxFile(law.docx_url, localDocxPath, skipFetch);
+
+    const parsed = parseDocxLegislation(localDocxPath);
+    if (parsed.provisions.length === 0) {
+      console.log(' no article provisions found');
+      skipped += 1;
+      continue;
+    }
+
+    const seed = buildSeedDocument(target, law, parsed);
+    written += 1;
+    totalProvisions += seed.provisions.length;
+    totalDefinitions += seed.definitions.length;
+
+    const outFile = path.join(SEED_DIR, `${String(written).padStart(2, '0')}-${target.id}.json`);
+    fs.writeFileSync(outFile, `${JSON.stringify(seed, null, 2)}\n`, 'utf8');
+
+    console.log(` ok (${seed.provisions.length} provisions, ${seed.definitions.length} definitions)`);
+  }
+
+  console.log('\nIngestion summary');
+  console.log('-----------------');
+  console.log(`Listed laws discovered: ${listedLaws.length}`);
+  console.log(`Seed files written: ${written}`);
+  console.log(`Targets skipped: ${skipped}`);
+  console.log(`Total provisions: ${totalProvisions}`);
+  console.log(`Total definitions: ${totalDefinitions}`);
+
+  if (written === 0) {
+    throw new Error('Ingestion produced zero seed files');
+  }
 }
 
 main().catch(error => {
-  console.error('Fatal error:', error);
+  console.error('Fatal ingestion error:', error);
   process.exit(1);
 });

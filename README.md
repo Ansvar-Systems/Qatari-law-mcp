@@ -23,7 +23,7 @@ npx @ansvar/qatari-law-mcp
 
 ## Data Sources
 
-AI-generated seed data covering 10 key cybersecurity and data protection laws. Full official ingestion pending.
+Real legislation ingested from the official Al Meezan legal portal (https://www.almeezan.qa) using downloadable source documents.
 
 ## License
 

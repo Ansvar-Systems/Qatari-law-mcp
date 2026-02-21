@@ -1,73 +1,146 @@
 /**
- * Rate-limited HTTP client for Qatari legislation from the Sejm ELI API.
+ * HTTP fetch utilities for Al Meezan ingestion.
  *
- * Data source: api.sejm.gov.pl — the official ELI (European Legislation Identifier)
- * API provided by the Chancellery of the Sejm of the Republic of Poland.
- *
- * URL patterns:
- *   Metadata: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}
- *   HTML text: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * - 500ms minimum delay between requests (respectful to government servers)
- * - User-Agent header identifying the MCP
- * - Retry on 429/5xx with exponential backoff
- * - No auth needed (public government data)
+ * - Uses a descriptive User-Agent.
+ * - Applies a minimum delay between requests (1.2s).
+ * - Retries transient 429/5xx failures.
+ * - Falls back to curl -k for environments with broken CA bundles.
  */
 
-const USER_AGENT = 'Qatari-Law-MCP/1.0 (https://github.com/Ansvar-Systems/qatari-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 500;
+import { execFileSync } from 'child_process';
 
-let lastRequestTime = 0;
+const USER_AGENT = 'Ansvar-Qatari-Law-MCP/1.0 (+https://github.com/Ansvar-Systems/Qatari-law-mcp)';
+const MIN_DELAY_MS = 1200;
 
-async function rateLimit(): Promise<void> {
+let lastRequestAt = 0;
+
+async function sleep(ms: number): Promise<void> {
+  await new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function enforceRateLimit(): Promise<void> {
   const now = Date.now();
-  const elapsed = now - lastRequestTime;
+  const elapsed = now - lastRequestAt;
   if (elapsed < MIN_DELAY_MS) {
-    await new Promise(resolve => setTimeout(resolve, MIN_DELAY_MS - elapsed));
+    await sleep(MIN_DELAY_MS - elapsed);
   }
-  lastRequestTime = Date.now();
+  lastRequestAt = Date.now();
 }
 
-export interface FetchResult {
-  status: number;
-  body: string;
-  contentType: string;
-  url: string;
-}
+function collectErrorMessages(error: unknown): string {
+  const parts: string[] = [];
+  let current: unknown = error;
 
-/**
- * Fetch a URL with rate limiting and proper headers.
- * Retries up to 3 times on 429/5xx errors with exponential backoff.
- */
-export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<FetchResult> {
-  await rateLimit();
-
-  for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/json, */*',
-      },
-      redirect: 'follow',
-    });
-
-    if (response.status === 429 || response.status >= 500) {
-      if (attempt < maxRetries) {
-        const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
-        await new Promise(resolve => setTimeout(resolve, backoff));
-        continue;
-      }
+  while (current) {
+    if (typeof current === 'object' && current !== null && 'message' in current) {
+      const msg = String((current as { message?: unknown }).message ?? '');
+      if (msg) parts.push(msg);
+      current = (current as { cause?: unknown }).cause;
+      continue;
     }
 
-    const body = await response.text();
-    return {
-      status: response.status,
-      body,
-      contentType: response.headers.get('content-type') ?? '',
-      url: response.url,
-    };
+    parts.push(String(current));
+    break;
   }
 
-  throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);
+  return parts.join(' | ');
+}
+
+function isTlsVerificationError(error: unknown): boolean {
+  const message = collectErrorMessages(error);
+  return /UNABLE_TO_VERIFY_LEAF_SIGNATURE|unable to verify the first certificate|SSL certificate/i.test(message);
+}
+
+function fetchViaCurl(url: string, binary: boolean): Buffer {
+  const output = execFileSync(
+    'curl',
+    ['-k', '-fsSL', '-A', USER_AGENT, url],
+    { encoding: binary ? undefined : 'utf8', maxBuffer: 64 * 1024 * 1024 },
+  );
+
+  if (typeof output === 'string') {
+    return Buffer.from(output, 'utf8');
+  }
+
+  return output;
+}
+
+async function fetchWithRetry(url: string, accept: string, maxRetries = 3): Promise<Response> {
+  await enforceRateLimit();
+
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await fetch(url, {
+        method: 'GET',
+        headers: {
+          'User-Agent': USER_AGENT,
+          'Accept': accept,
+        },
+        redirect: 'follow',
+      });
+
+      if ((response.status === 429 || response.status >= 500) && attempt < maxRetries) {
+        const backoffMs = Math.pow(2, attempt + 1) * 1000;
+        await sleep(backoffMs);
+        continue;
+      }
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status} while fetching ${url}`);
+      }
+
+      return response;
+    } catch (error) {
+      if (isTlsVerificationError(error)) {
+        throw error;
+      }
+
+      if (attempt >= maxRetries) {
+        throw error;
+      }
+
+      const backoffMs = Math.pow(2, attempt + 1) * 1000;
+      await sleep(backoffMs);
+    }
+  }
+
+  throw new Error(`Failed to fetch ${url} after ${maxRetries + 1} attempts`);
+}
+
+export async function fetchTextFromUrl(url: string): Promise<string> {
+  try {
+    const response = await fetchWithRetry(url, 'text/html, text/plain, */*');
+    return response.text();
+  } catch (error) {
+    if (!isTlsVerificationError(error)) {
+      throw error;
+    }
+
+    await enforceRateLimit();
+    return fetchViaCurl(url, false).toString('utf8');
+  }
+}
+
+export async function fetchBinaryFromUrl(url: string): Promise<Buffer> {
+  try {
+    const response = await fetchWithRetry(url, 'application/vnd.openxmlformats-officedocument.wordprocessingml.document, application/octet-stream, */*');
+    const bytes = await response.arrayBuffer();
+    return Buffer.from(bytes);
+  } catch (error) {
+    if (!isTlsVerificationError(error)) {
+      throw error;
+    }
+
+    await enforceRateLimit();
+    return fetchViaCurl(url, true);
+  }
+}
+
+export function toAbsoluteAlMeezanUrl(pathOrUrl: string): string {
+  if (/^https?:\/\//i.test(pathOrUrl)) {
+    return pathOrUrl;
+  }
+
+  const trimmed = pathOrUrl.startsWith('/') ? pathOrUrl : `/${pathOrUrl}`;
+  return `https://www.almeezan.qa${trimmed}`;
 }

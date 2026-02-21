@@ -4,20 +4,21 @@ jurisdiction: "QA"
 
 sources:
   - name: "Al Meezan Legal Portal"
-    authority: "Al Meezan Legal Portal"
+    authority: "Ministry of Justice, State of Qatar"
     official_portal: "https://www.almeezan.qa"
     retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
+    update_frequency: "unknown"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Government Open Data"
-      url: "https://www.almeezan.qa"
-      summary: "Official legislative texts are public domain"
+      type: "government_terms"
+      url: "https://www.almeezan.qa/Default.aspx?language=en"
+      summary: "Official legal texts are published by the government legal portal."
     coverage:
-      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "Legislation listed on Al Meezan English laws list with downloadable DOCX text."
+      limitations: "Current ingestion covers 10 targeted laws; other laws require additional mapping and parsing."
     languages:
       - "ar"
+      - "en"
 
 data_freshness:
   automated_checks: true

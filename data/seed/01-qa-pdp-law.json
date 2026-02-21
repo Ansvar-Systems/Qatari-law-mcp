@@ -1,0 +1,205 @@
+{
+  "id": "qa-pdp-law",
+  "type": "statute",
+  "title": "Law No. (13) of 2016 on Protecting Personal Data Privacy",
+  "title_en": "Law No. (13) of 2016 on Protecting Personal Data Privacy",
+  "short_name": "Law 13/2016 (PDP)",
+  "status": "in_force",
+  "url": "https://www.almeezan.qa/EnglishLaws//132016.docx",
+  "description": "Official legislation text retrieved from Al Meezan Legal Portal (English laws collection).",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "For the implementation of the provisions hereof, the following terms and words shall have such meanings assigned to the same, unless otherwise required by context:\nMinistry: Ministry of Transport and Communications\nMinister: Minister of Transport and Communications\nCompetent Department: the competent administrative unit at the Ministry\nCompetent Authority: any government entity competent, as per law, to regulate acts or procedures pertinent to Personal Data Processing and supervision of the same.\nIndividual: a natural person whose Personal Data are processed.\nController: a natural or legal person who, whether acting individually or jointly with others, determines how Personal Data may be processed and determines the purpose(s) of any such processing Personal Data Processing.\nProcessor: a natural or legal person who processes Personal Data for the Controller.\nPersonal Data: data of an individual whose identity is defined or can be reasonably defined whether through such Personal Data or through the combination of such data with any other data.\nPersonal Data Processing: Personal Data Processing through one operation or more such as gathering, receipt, registration, organization, storage, preparation, modification, retrieval, usage, disclosure, publication, transfer, withholding, destruction, erasure and cancellation.\nCross-Border Data Flows: access, watch, retrieve, use or store Personal Data without restrictions of the State’s borders.\nLawful Purpose: The purpose for which Personal Data of an Individual is processed, in accordance with the law.\nAcceptable Practices: processing activities determined or approved by the Competent Department with regard to various types of Lawful Purposes.\nDirect Marketing: sending any advertising or marketing material, in whatsoever means, to certain individuals.\nWire and Wireless Communications: sending, broadcasting or receiving signals, images, shapes, sound, data, texts or information, of whatsoever kind or nature, via wire, wireless, radio, visual means, other electromagnetic communication means or any other similar communication means.\nElectronic Communication: a communication by means of any of Wire and Wireless Communications.\nElectronic Communication Establishment: establish, send or transfer an Electronic Communication or help therewith, or give directions to the Processor to do that.\nWebsite Operator: an individual who operates a web site, or offers products or services therethrough and gathers or processes Personal Data of users or visitors of such website."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "Provisions hereof shall apply to Personal Data when it is electronically processed, or obtained, gathered or extracted in preparation in any other way for electronic processing, or when processed via a combination of electronic and traditional processing.\nProvisions hereof shall not apply to Personal Data processed by individuals within a private or a family scope, or to any Personal Data processed for the purpose of obtaining official statistical data as per provisions of the referred to law No (2) of 2011.\nChapter Two\nRights of Individuals"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "Each Individual has the right to the protection of the Personal Data thereof that shall be processed only within the framework of transparency, honesty, and respect of human dignity, and acceptable practices according to provisions hereof."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "The Controller shall process Personal Data only after obtaining the consent of the Individual, unless data processing is necessary to achieve a Lawful Purpose for the Controller or the other recipient of such data."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "An Individual may, at any time:\nWithdraw the prior consent thereof for Personal Data Processing.\nObject to processing the Personal Data thereof if such processing is not necessary to achieve the purposes for which such Personal Data have been collected or where such collected Personal Data are beyond the extent required, discriminatory, unfair or illegal.\nRequest omission or erasure of the Personal Data thereof in any of the cases referred to in the preceding two items, upon cessation of the purpose for which the processing has been conducted, or where all justifications for maintaining such Personal Data by the Controller cease to exist.\nRequest corrections to the Personal Data thereof. A request so made shall be accompanied with proof of the accuracy of such request."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "An Individual may, at any time, access the Personal Data thereof and apply to review the same, in facing any Controller, and an Individual has, in particular, the right to:\nBe notified of processing of the Personal Data thereof and the purposes for which such processing is conducted.\nBe notified of any disclosure of inaccurate Personal Data.\nObtain a copy of the Personal Data thereof after paying an amount that shall not exceed the service charge."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "The controls and procedures, related to individuals’ exercise of rights provided for in the two preceding Articles, shall be specified by a decision of the Minister.\nChapter Three\nLiabilities of Controller and Processor"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "The Controller shall abide by the following:\nProcessing Personal Data honestly and legitimately.\nConsidering the controls related to designing, changing or developing products, systems and services pertinent to Personal Data Processing.\nTaking appropriate administrative, technical and financial precautions to protect Personal Data, in accordance with what is determined by the Competent Department.\nThe privacy protecting policies developed by the Competent Department, and a decision thereon shall be issued by the Minister."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article (9)",
+      "content": "The Controller shall, prior to starting to process any Personal Data, inform the Individual with the following:\nThe Controller’s details or any other party conducting the processing for the Controller or to be used thereby.\nThe Lawful Purposes that the Controller or any other party wants to process the Personal Data therefor.\nComprehensive and accurate description of the processing activities and the levels of disclosure of such Personal Data for the Lawful Purposes, and if the Controller fails to do so, the Controller shall provide the Individual with a general description thereof.\nAny other information that is necessary and required for fulfilling conditions of Personal Data Processing."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article (10)",
+      "content": "The Controller shall verify that Personal Data that he collects, or being collected for the benefit thereof, is relevant to the Lawful Purposes and adequate for achieving the same. The Controller shall, also, ensure such data is accurate, complete and up to date to meet such Lawful Purposes. In addition, the Controller shall not keep any Personal Data for a period of time that exceeds the necessary period for achieving such purposes."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article (11)",
+      "content": "The Controller shall take the following procedures:\nReviewing privacy protection measures before proceeding with new processing operations.\nIdentifying Processors responsible for Personal Data protection.\nTraining and raising awareness of Processors on protecting personal data.\nDeveloping internal systems to receive and investigate complaints, and data access and omission or correction requests; and they shall be made available to individuals.\nDeveloping internal systems for the effective management of Personal Data, and reporting any breach of measures aiming at the protection thereof.\nUsing appropriate technologies to enable individuals to exercise their rights to directly access, review and correct their respective Personal Data.\nConducting comprehensive audits and reviews on the compliance extent with Personal Data protection requirements.\nVerifying Processor’s compliance with the instructions directed thereto, taking the appropriate precautions to protect Personal Data, and monitoring and following up the same constantly."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article (12)",
+      "content": "The Controller shall, at the time of disclosing Personal Data or transferring it to the Processor, take into consideration that it is in line with Lawful Purposes and is processed according to provisions hereof."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article (13)",
+      "content": "Each of the Controller and the Processor shall take the precautions necessary to protect Personal Data against loss, damage, change, disclosure, access thereto, or the inadvertent or illegal use thereof.\nSuch precautions shall be commensurate with the nature and the importance of the Personal Data intended to be protected.\nThe Processor shall forthwith notify the Controller of the existence of any breach of the precautions referred to, or where any risk arises threatening Personal Data in any way."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article (14)",
+      "content": "The Controller shall inform the Individual and Competent Department of the occurrence of any breach of the precautions provided for in the preceding Article, and if such breach may cause serious damage to Personal Data or individual privacy."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article (15)",
+      "content": "Taking into account the liabilities provided for hereto, the Controller shall be forbidden from taking any decision or measure that may limit the Cross-Border Data Flow, unless the processing of such data is in breach of this Law, or where such processing may cause serious damage to the Personal Data or to the Individual’s privacy.\nChapter Four\nPersonal Data with Special Nature"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article (16)",
+      "content": "The Personal Data, related to ethnic origin, children, health, physical or psychological condition, religious creeds, marital relations, and criminal offenses, shall be regarded as Personal Data with special nature.\nThe Minister may add other types of Personal Data of a special nature, where the misuse or disclosure of the same may cause serious damage to Individual.\nPersonal Data of a special nature may only be processed after obtaining the permission from the Competent Department, as per the measures and controls determined by a decision issued by the Minister.\nThe Minister may, upon a decision therefrom, impose additional precautions with the intent of protecting Personal Data of a special nature."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article (17)",
+      "content": "Taking into consideration the liabilities provided for hereto, an owner or operator of any website addressing children shall take into account the following:\nPosting a notification on the website as to what child data is, the way of its use, and the policies followed in the disclosure thereof.\nObtaining, either electronically or through any other appropriate means, an explicit consent from the guardian of the child whose Personal Data is processed.\nProviding a child's guardian, upon the request thereof, and after verifying the identity thereof, with a description of the type of the Personal Data processed, along with stating the purpose of the process together with a copy of the data processed or gathered about the child.\nDeleting, removing or suspending processing any Personal Data that has been gathered from or about a child, if such is requested by child's guardian.\nA child’s participation in a game, promotional award or any other activity shall not be conditional on the child’s provision of Personal Data in excess of the necessary for the participation in such activity.\nChapter Five\nExemptions"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article (18)",
+      "content": "The Competent Authority may decide to process some Personal Data, without abiding by the provisions of Articles (4), (9), (15) and (17) hereof, for achieving any of the following purposes:\nProtecting National and public security.\nProtecting international relations of the State.\nProtecting the economic or financial interests of the State.\nPreventing any criminal offense, or gathering information thereon or investigating therein.\nThe Competent Authority shall keep a special record where the data achieving the aforementioned purposes shall be entered. Conditions, controls and statuses of entry on such record shall be specified by virtue of a decision issued by the Minister."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article (19)",
+      "content": "The Controller shall be exempted from the provisions of Articles (4), (5\\ Items 1, 2, and 3) and (6) hereof, in any of the following cases:\nExecuting a task related to the public interest as per the law.\nImplementing a legal obligation or an order rendered by a competent court.\nProtecting vital interests of Individual.\nAchieving purposes of scientific research which is underway for public interest.\nGathering necessary information for investigation into a criminal offense, upon an official request of investigative bodies."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article (20)",
+      "content": "The Controller shall be exempted from disclosing the reasons for the refusal thereof of abiding by the rights of the Individual, as provided for in Article (6) hereof, if such disclosure would prevent achieving the purposes stipulated in Article (18) hereof."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article (21)",
+      "content": "Taking into consideration the provisions of the preceding two Articles, the Controller shall be exempted from abiding by provisions of Article (6) hereof, in either of the following two cases:\nWhen disclosure would cause harm to commercial interests of another individual.\nWhen implementation of such liability would cause disclosing Personal Data related to another Individual who does not consent thereto, and disclosure may lead to physical or moral damage either to this Individual or to any other Individual.\nChapter Six\nElectronic Communication for the Purpose of Direct Marketing"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Article (22)",
+      "content": "The transmission of any Electronic Communication to an Individual, for the purpose of Direct Marketing, shall be forbidden, except after obtaining the prior consent thereof.\nThe Electronic Communication shall include the identity of the originator thereof, and highlight that it is sent for the purpose of Direct Marketing. In addition, it shall include a valid address for easy access thereto and through which an Individual can send a request to the originator to stop such communications or revoke the consent for the sending thereof.\nChapter Seven\nPenalties"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article (23)",
+      "content": "Without prejudice to any more severe penalty stipulated in any other law, a penalty that shall not exceed (1, 000,000) one million QR shall be applicable to anyone violating any of the provisions of the Articles (4, 8, 9, 10, 11, 12, 14, 15, and 22) hereof."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Article (24)",
+      "content": "Without prejudice to any more severe penalty stipulated in any other law, a penalty that shall not exceed (5, 000, 000) five million QR shall be applicable to anyone violating any of the provisions of the Articles (13), (16\\ paragraph 3), and (17) hereof."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Article (25)",
+      "content": "A penalty that shall not exceed (1,000,000) One million QR shall be applicable to violating legal person, in the event of committing any of those crimes stipulated herein on the name or for the interest thereof, without prejudice to criminal liability taken by affiliated natural person.\nChapter Eight\nFinal Provisions"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article (26)",
+      "content": "An Individual may file a complaint to the Competent Department in case of violating provisions hereof and the issued decisions in the implementation thereof.\nThe Competent Department may, after investigating received complaints and proving the seriousness thereof, issue a reasoned decision binding the Controller or Processor, as the case may be, to rectify such breach within a period it specifies.\nThe Controller or Processor may raise a grievance against such decision to the Minister, within sixty days from the notification date thereof.\nThe Minister shall decide on the grievance within sixty days from the date of the submission thereof, and the lapse of such period without a response shall be considered as an implicit rejection of the grievance, and the decision of the Minister thereon shall be final."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Article (27)",
+      "content": "The Competent Department may, for the purpose of applying and implementing provisions hereof, take all necessary measures thereto, and in particular the following:\nCoordinating with any professional group or association, and any other association representing Controllers or Website Operators for the purpose of self-organization encouragement and development, and raising awareness of this Law and developing training and learning programs.\nWorking with organizations and societies interested in family affairs to enhance the safety of children on the internet.\nConducting research and monitor developments in technology’s fields related to issues covered by this Law and preparing reports or recommendations on the same."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article (28)",
+      "content": "Any contract or agreement made in violation of the provisions hereof shall be regarded as null and void."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Article (29)",
+      "content": "The Ministry employees, authorized as law enforcement officers as per a decision by the Public Prosecutor, in agreement with the Minister, may detect and prove crimes committed in violation of provisions hereof."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Article (30)",
+      "content": "Parties falling under provisions hereof shall, within six months from the date of the effectiveness thereof, adjust their conditions in line with provisions hereof.\nSuch period may be extended for other similar period or periods by virtue of a decision of the Council of Ministers, upon the proposal of the Minister."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article (31)",
+      "content": "The Minister shall issue the necessary decisions for the implementation of the provisions hereof."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Article (32)",
+      "content": "All the competent authorities, each within the competences thereof, shall implement this Law, and it shall be published in the Official Gazette.\nTamim Bin Hamad Al-Thani\nAmir of the State of Qatar\nIssued at the Amiri Diwan on :03/02/1438 (H)\nCorresponding to :03/11/2016 (AD)"
+    }
+  ],
+  "definitions": []
+}

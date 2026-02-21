@@ -1,6 +1,6 @@
 /**
  * Golden contract tests for Qatari Law MCP.
- * Validates core tool functionality against seed data.
+ * Validates core tool functionality against ingested real data.
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
@@ -27,14 +27,14 @@ describe('Database integrity', () => {
     expect(row.cnt).toBe(10);
   });
 
-  it('should have at least 73 provisions', () => {
+  it('should have at least 100 provisions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(73);
+    expect(row.cnt).toBeGreaterThanOrEqual(100);
   });
 
   it('should have FTS index', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'data'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'law'"
     ).get() as { cnt: number };
     expect(row.cnt).toBeGreaterThanOrEqual(0);
   });
@@ -43,7 +43,7 @@ describe('Database integrity', () => {
 describe('Article retrieval', () => {
   it('should retrieve a provision by document_id and section', () => {
     const row = db.prepare(
-      "SELECT content FROM legal_provisions WHERE document_id = 'qa-commercial-companies-trade-secrets' AND section = '1'"
+      "SELECT content FROM legal_provisions WHERE document_id = 'qa-pdp-law' AND section = '1'"
     ).get() as { content: string } | undefined;
     expect(row).toBeDefined();
     expect(row!.content.length).toBeGreaterThan(50);
@@ -52,10 +52,10 @@ describe('Article retrieval', () => {
 
 describe('Search', () => {
   it('should find results via FTS search', () => {
-    const rows = db.prepare(
+    const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'data'"
     ).get() as { cnt: number };
-    expect(rows.cnt).toBeGreaterThan(0);
+    expect(row.cnt).toBeGreaterThan(0);
   });
 });
 
@@ -69,24 +69,25 @@ describe('Negative tests', () => {
 
   it('should return no results for invalid section', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'qa-commercial-companies-trade-secrets' AND section = '999ZZZ-INVALID'"
+      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'qa-pdp-law' AND section = '999ZZZ-INVALID'"
     ).get() as { cnt: number };
     expect(row.cnt).toBe(0);
   });
 });
 
-describe('All 10 laws are present', () => {
+describe('All target laws are present', () => {
   const expectedDocs = [
-    'qa-commercial-companies-trade-secrets',
-    'qa-critical-infrastructure',
-    'qa-cybercrime-law',
-    'qa-cybersecurity-strategy',
-    'qa-ecommerce-etransactions',
-    'qa-electronic-signature',
-    'qa-national-information-assurance',
     'qa-pdp-law',
-    'qa-qfc-data-protection',
-    'qa-telecommunications',  ];
+    'qa-cybercrime-law',
+    'qa-ncsa-establishment',
+    'qa-egov-policies',
+    'qa-right-to-access-information',
+    'qa-penal-code',
+    'qa-aml-cft-law',
+    'qa-aml-cft-exec-regulation',
+    'qa-tenders-auctions-law',
+    'qa-tenders-auctions-exec-regulation',
+  ];
 
   for (const docId of expectedDocs) {
     it(`should contain document: ${docId}`, () => {
