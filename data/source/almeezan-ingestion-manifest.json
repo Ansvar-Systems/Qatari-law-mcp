@@ -9,7 +9,8 @@
     "corpus": "all",
     "skip_fetch": false,
     "refresh": false,
-    "limit": null
+    "limit": null,
+    "ar_metadata_only": true
   },
   "summary": {
     "seed_files_written": 9428,

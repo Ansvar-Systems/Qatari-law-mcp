@@ -854,6 +854,7 @@ async function main(): Promise<void> {
       skip_fetch: opts.skipFetch,
       refresh: opts.refresh,
       limit: opts.limit,
+      ar_metadata_only: opts.arMetadataOnly,
     },
     summary: {
       seed_files_written: totalWritten,
