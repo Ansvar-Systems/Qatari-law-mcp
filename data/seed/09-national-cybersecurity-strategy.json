@@ -1,0 +1,62 @@
+{
+  "id": "qa-cybersecurity-strategy",
+  "type": "statute",
+  "title": "الاستراتيجية الوطنية للأمن السيبراني — قطر",
+  "title_en": "National Cyber Security Strategy — Qatar",
+  "short_name": "QNCSS",
+  "status": "in_force",
+  "issued_date": "2021-01-01",
+  "in_force_date": "2021-01-01",
+  "url": "https://www.motc.gov.qa/en/Regulations/Pages/Cybersecurity-Strategy.aspx",
+  "description": "Qatar's National Cyber Security Strategy (NCSS) defines the strategic vision, goals and initiatives for enhancing the cybersecurity posture of the State of Qatar through 2025. The Strategy, developed by the Ministry of Transport and Communications, addresses national cybersecurity governance, critical infrastructure protection, cybercrime prevention, international cooperation, and the development of national cybersecurity capabilities.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Vision and Strategic Goals",
+      "content": "Qatar's National Cyber Security Strategy (NCSS 2021-2025) sets out the vision of a secure, resilient, and trusted cyberspace that supports Qatar's National Vision 2030 and the advancement of Qatar's digital economy. The Strategy's five strategic goals are: (1) Establishing a robust cybersecurity governance framework across all sectors; (2) Protecting critical national infrastructure and essential services from cyber threats; (3) Building national cybersecurity capabilities, skills and awareness; (4) Combating cybercrime effectively and fostering a safe digital environment; (5) Strengthening Qatar's position in international cybersecurity cooperation. Each strategic goal is supported by a set of initiatives with defined outputs, timelines and responsible entities. The Minister of Transport and Communications shall be accountable for the overall delivery of the NCSS, with implementation coordinated by the MOTC's Cybersecurity Division."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Cybersecurity Governance Framework",
+      "content": "Qatar's national cybersecurity governance framework comprises: (1) the Supreme Committee for Cybersecurity — the apex national body for cybersecurity policy direction, chaired by the Minister of Transport and Communications; (2) the MOTC Cybersecurity Division — responsible for policy, standards, and the NIA framework; (3) Q-CERT — the national incident response authority; (4) Sector lead agencies — responsible for sector-specific cybersecurity supervision; (5) the Ministry of Interior Cybercrime Combating Centre — responsible for cybercrime investigation and prosecution. The MOTC shall maintain and publish a national cybersecurity framework that integrates the NIA Policy, the CNI Protection Framework, and sector-specific standards. The governance framework shall be reviewed annually and updated as necessary. A National Cyber Risk Register, maintained by the MOTC, shall identify and track national-level cyber risks."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Critical Infrastructure Protection Initiatives",
+      "content": "Under the NCSS, Qatar shall implement the following critical infrastructure protection initiatives: (1) establish sector-specific cybersecurity requirements for all eight designated CNI sectors within 18 months; (2) implement mandatory cyber maturity assessments for all CNI operators, with a baseline target of maturity Level 3 by 2025; (3) establish an Operational Technology (OT) security programme to address cybersecurity of industrial control systems in energy, water, and transport sectors; (4) develop a national cybersecurity threat intelligence sharing platform enabling real-time exchange of indicators of compromise among government entities and CNI operators; (5) implement a national cybersecurity drill programme with two national exercises per year; (6) establish a national cyber crisis management framework with tested procedures for coordinating government response to large-scale cyber incidents."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. National Cybersecurity Capabilities",
+      "content": "Qatar shall invest in building national cybersecurity capabilities through: (1) establishing a National Cybersecurity Academy offering certified programmes for government cybersecurity professionals; (2) implementing a national cybersecurity skills development programme targeting 1,000 qualified cybersecurity professionals by 2025; (3) supporting cybersecurity research and development at Qatar's universities and research institutes; (4) establishing a national cybersecurity testing and evaluation facility for assessing the security of hardware and software used in critical systems; (5) supporting the development of Qatari cybersecurity companies through the Qatar Science and Technology Park; (6) implementing a national school cybersecurity awareness programme; (7) establishing a national Capture the Flag (CTF) competition to identify and develop cybersecurity talent. The MOTC shall publish annual progress reports on national cybersecurity capability development."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. International Cooperation",
+      "content": "Qatar shall strengthen its cybersecurity position through international engagement: (1) implement the GCC Cybersecurity Strategy and coordinate with GCC member states on cybersecurity standards, incident response, and information sharing; (2) participate in international cybersecurity forums including the ITU, the Global Forum on Cyber Expertise (GFCE), and the UN Group of Governmental Experts (GGE) on cybersecurity; (3) conclude bilateral cybersecurity cooperation agreements with key partner states; (4) expand Q-CERT's membership and active participation in international CERT networks including FIRST; (5) cooperate with international partners on cybercrime investigation and mutual legal assistance in cybercrime matters; (6) host international cybersecurity events and conferences; (7) participate in joint cybersecurity exercises with partner states. Qatar shall position itself as a regional cybersecurity hub, leveraging its infrastructure and expertise."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Measurement and Review",
+      "content": "The MOTC shall measure the progress of NCSS implementation through a set of key performance indicators (KPIs) including: (1) percentage of government entities achieving NIA compliance; (2) percentage of CNI operators achieving mandatory maturity levels; (3) time to detect and contain significant cyber incidents; (4) number of qualified cybersecurity professionals in Qatar; (5) number of cybercrimes reported, investigated and prosecuted; (6) Qatar's ranking in the ITU Global Cybersecurity Index. The MOTC shall publish annual NCSS progress reports, including an assessment of the national cybersecurity threat landscape and the effectiveness of implemented measures. The NCSS shall be subject to a full review at the mid-point (2023) and at the end of the strategy period (2025). The review shall take into account developments in the global threat landscape, technology trends, and lessons learned from incidents."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "الاستراتيجية الوطنية للأمن السيبراني (National Cyber Security Strategy / NCSS)",
+      "definition": "The strategic document defining Qatar's vision, goals and initiatives for cybersecurity, adopted for the period 2021-2025.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "مستوى النضج السيبراني (Cyber Maturity Level)",
+      "definition": "A measure of an organisation's cybersecurity capability across defined domains, assessed against a defined maturity model with levels from 1 (Initial) to 5 (Optimising).",
+      "source_provision": "art3"
+    }
+  ]
+}

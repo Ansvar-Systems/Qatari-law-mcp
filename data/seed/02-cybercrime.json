@@ -1,0 +1,79 @@
+{
+  "id": "qa-cybercrime-law",
+  "type": "statute",
+  "title": "قانون رقم (14) لسنة 2014 بشأن مكافحة الجرائم الإلكترونية",
+  "title_en": "Law No. 14 of 2014 on Combating Cybercrimes",
+  "short_name": "QCCL",
+  "status": "in_force",
+  "issued_date": "2014-09-16",
+  "in_force_date": "2014-09-16",
+  "url": "https://www.motc.gov.qa/en/Regulations/Pages/Cybercrime-Law.aspx",
+  "description": "Qatar Law No. 14 of 2014 on Combating Cybercrimes defines criminal offences committed through the use of information technology networks and systems, and establishes the applicable penalties. The Law covers unauthorised access, hacking, denial of service attacks, identity theft, content offences, and threats to national security through cyber means, and is enforced by the Ministry of Interior and the Cybercrime Combating Centre.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Definitions",
+      "content": "For the purposes of this Law: 'Information Technology System' means any electronic, magnetic, optical, digital or other system capable of processing, storing, retrieving or transmitting data or information electronically; 'Network' means any interconnected set of information technology systems or devices enabling communication or data exchange; 'Cybercrime' means any act committed using information technology systems or networks and punishable under this Law; 'Data' means any information, programme or software stored or transmitted electronically, including text, images, audio, video, and encrypted or coded data; 'Service Provider' means any person or entity providing information technology services, including internet service providers; 'Electronic Card' means any card containing electronic or magnetic data used to conduct transactions electronically; 'Authority' means the competent authority designated by the Minister for the implementation of this Law, namely the Cybercrime Combating Centre under the Ministry of Interior."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Unauthorised Access",
+      "content": "Whoever, without authorisation or by exceeding authorised access, accesses an information technology system or network shall be punished by imprisonment for a term not exceeding three years and a fine not exceeding QAR 500,000, or either of these penalties. The penalty shall be imprisonment for a term not exceeding five years and a fine not exceeding QAR 1,000,000 if the act is accompanied by deletion, modification, disclosure or damage to the data accessed; or where the system accessed belongs to a governmental or financial institution; or where the access was for the purpose of committing another offence. Whoever manufactures, imports, offers for sale, sells, or distributes equipment or programmes designed to facilitate unauthorised access shall be punished by imprisonment for a term not exceeding three years and a fine not exceeding QAR 500,000."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Denial of Service and Infrastructure Attacks",
+      "content": "Whoever, by any means, causes a denial of service attack resulting in the disruption of the functioning of an information technology system, website or network shall be punished by imprisonment for a term not exceeding five years and a fine not exceeding QAR 1,000,000, or either of these penalties. Where the attack targeted the systems of a government entity, the financial system, or critical national infrastructure, the penalty shall be imprisonment for a term not exceeding ten years and a fine not exceeding QAR 3,000,000. The same penalty shall apply to whoever introduces malware, viruses, worms, Trojan horses, ransomware, or any other malicious software into an information technology system. The provision, hosting, or operation of infrastructure used to conduct denial of service attacks, including the management of botnets used for such attacks, shall be punished by imprisonment for up to five years and a fine of up to QAR 1,000,000."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Data Theft and Interception",
+      "content": "Whoever intercepts, without authorisation, any data transmitted through an information technology system or network shall be punished by imprisonment for a term not exceeding three years and a fine not exceeding QAR 500,000. Whoever obtains, modifies, discloses, sells or disseminates confidential data or information without authorisation shall be punished by imprisonment for a term not exceeding three years and a fine not exceeding QAR 1,000,000. Where the confidential data relates to national security, bank and financial accounts, or personal data of a sensitive nature, the penalty shall be imprisonment for a term not exceeding five years and a fine not exceeding QAR 2,000,000. Identity theft — impersonating another person or entity through information technology systems for the purpose of obtaining benefits or causing harm — shall be punishable by imprisonment for a term not exceeding five years and a fine not exceeding QAR 1,000,000."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Content Offences",
+      "content": "Whoever uses an information technology system or network to publish or disseminate content that: (1) contradicts public order or public morals — imprisonment for a term not exceeding one year and fine not exceeding QAR 100,000; (2) defames or slanders another person — imprisonment for a term not exceeding one year and fine not exceeding QAR 200,000; (3) violates the privacy of another person through recording, transmitting or distributing images or voice recordings without consent — imprisonment for a term not exceeding two years and fine not exceeding QAR 500,000; (4) promotes terrorism or incites sectarian discord — imprisonment for a term not exceeding five years and fine not exceeding QAR 1,000,000; (5) constitutes extremist religious content — imprisonment for a term not exceeding three years and fine not exceeding QAR 500,000. The court may additionally order the blocking of websites or electronic platforms used to publish prohibited content. Repeated offences shall result in doubled penalties."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. National Security Offences",
+      "content": "Whoever uses an information technology system or network to: (1) target the security of the State, its political system, or the position of the Emir — imprisonment for a term not exceeding five years; (2) communicate with a foreign entity in a manner prejudicial to national interests — imprisonment for a term not exceeding seven years; (3) obtain state secrets or classified information through cyber means — imprisonment for a term not exceeding ten years; (4) attack or disable the information systems of government bodies, critical infrastructure, or the financial system with the intent to cause national harm — imprisonment for a term not exceeding ten years. In cases involving organised groups or where the act is part of foreign state-sponsored cyber operations, the penalty shall be imprisonment for a term not exceeding fifteen years. The Cybercrime Combating Centre shall maintain an intelligence function to identify and attribute threats to national cyber security."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Service Provider Obligations",
+      "content": "Information technology service providers operating in Qatar shall: (1) preserve technical logs and records relevant to the investigation of cybercrimes for a minimum period of one year; (2) provide competent authorities with all technical assistance necessary for investigations, including access to stored logs and records; (3) notify the Cybercrime Combating Centre of any cybercrime activity detected in the course of their operations; (4) remove or block access to content hosted on their platforms that has been determined to be unlawful by a competent authority; (5) not assist persons suspected of cybercrimes, including by providing services knowing they will be used for criminal purposes; (6) designate a point of contact for law enforcement requests and respond to such requests within 48 hours. Failure to comply with obligations under this Article shall result in a fine not exceeding QAR 500,000 and, in repeated cases, suspension of operating licence."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Investigation Powers and International Cooperation",
+      "content": "The Cybercrime Combating Centre shall have the following investigative powers: (1) obtain and execute search warrants for information technology systems and devices; (2) require service providers to preserve and provide electronic evidence; (3) with appropriate judicial authorisation, intercept electronic communications; (4) seize information technology equipment and data for forensic analysis; (5) request technical assistance from international agencies. International cooperation in cybercrime investigations shall be conducted through: (1) the Arab Convention on Combating Information Technology Offences; (2) bilateral mutual legal assistance treaties; (3) INTERPOL channels. Electronic evidence collected in accordance with applicable procedural rules shall be admissible in Qatari courts. The principle of double criminality shall apply to extradition requests related to cybercrimes, with exemption where the offence constitutes a cybercrime under the Arab Convention."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "نظام المعلوماتي (Information Technology System)",
+      "definition": "Any electronic, magnetic, optical, digital or other system capable of processing, storing, retrieving or transmitting data or information electronically.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "الجريمة الإلكترونية (Cybercrime)",
+      "definition": "Any act committed using information technology systems or networks and punishable under this Law.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "مزود الخدمة (Service Provider)",
+      "definition": "Any person or entity providing information technology services, including internet service providers.",
+      "source_provision": "art1"
+    }
+  ]
+}

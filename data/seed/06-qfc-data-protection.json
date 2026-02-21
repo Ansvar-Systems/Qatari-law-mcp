@@ -1,0 +1,79 @@
+{
+  "id": "qa-qfc-data-protection",
+  "type": "statute",
+  "title": "لوائح حماية البيانات لمركز قطر للمال 2021",
+  "title_en": "QFC Data Protection Regulations 2021 (Qatar Financial Centre)",
+  "short_name": "QFCDPR",
+  "status": "in_force",
+  "issued_date": "2021-11-01",
+  "in_force_date": "2022-01-01",
+  "url": "https://qfcra-en.thomsonreuters.com/api/plugin/PluginPage/DP",
+  "description": "The Qatar Financial Centre (QFC) Data Protection Regulations 2021, issued by the QFC Regulatory Authority (QFCRA), establish a comprehensive data protection framework for entities registered within the QFC. The QFC DPR is substantially modelled on GDPR principles and applies to all QFC-registered firms, including financial services, legal and professional services, and other businesses operating under QFC licensing.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Scope and Application",
+      "content": "These Regulations apply to: (1) all persons registered with the Qatar Financial Centre (QFC) who process personal data ('QFC-registered persons'); (2) processors of personal data acting on behalf of QFC-registered persons. These Regulations do not apply to: (1) processing carried out by individuals in the course of purely personal or domestic activities; (2) processing by competent authorities for law enforcement purposes; (3) data processed exclusively for employment purposes, which is subject to the separate QFC Employment Regulations. Where a QFC-registered person is also subject to Qatar Law No. 13 of 2016 on Personal Data Protection, these Regulations shall take precedence within the QFC and the Qatar Law shall apply in respect of activities outside the QFC. The QFC Data Privacy Department shall act as the supervisory authority for these Regulations within the QFC."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Principles of Data Processing",
+      "content": "QFC-registered persons shall process personal data in accordance with the following principles: (1) Lawfulness, fairness and transparency — processing shall be lawful, fair and transparent; (2) Purpose limitation — data shall be collected for specified, explicit and legitimate purposes and not further processed incompatibly with those purposes; (3) Data minimisation — data shall be adequate, relevant and limited to what is necessary; (4) Accuracy — data shall be accurate and kept up to date; (5) Storage limitation — data shall not be retained for longer than necessary; (6) Integrity and confidentiality — data shall be processed securely; (7) Accountability — the controller shall demonstrate compliance. These principles reflect those of GDPR Article 5 and shall be interpreted in a manner consistent with GDPR case law and guidance where consistent with QFC law and Qatari public policy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Lawful Bases for Processing",
+      "content": "Processing shall be lawful only where based on at least one of: (1) consent — freely given, specific, informed and unambiguous; (2) contractual necessity — performance of a contract with the data subject; (3) legal obligation — compliance with QFC or Qatari law; (4) vital interests — protection of life; (5) public task — performance of official functions; (6) legitimate interests — provided these override the data subject's interests and rights. Sensitive data (special categories) shall only be processed where: explicit consent is obtained; employment law obligations require processing; the data subject has made the data public; processing is required for legal claims; or processing is required for substantial public interest. QFC-registered financial services firms shall additionally apply the data processing rules of the QFCRA's applicable financial services regulations."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Data Subject Rights",
+      "content": "Data subjects in relation to QFC-registered persons have the right to: (1) access their personal data and receive a copy within one month; (2) rectification of inaccurate data; (3) erasure where processing is no longer justified; (4) restriction of processing in specified circumstances; (5) object to processing for direct marketing or based on legitimate interests; (6) data portability — receive their data in a machine-readable format; (7) not be subject to solely automated decisions producing significant effects; (8) be informed at the time of collection of the processing purposes, legal basis, retention periods, and data subject rights. Requests shall be responded to within one calendar month. Where requests are complex or numerous, the period may be extended by up to two additional months, with notification to the data subject. Requests shall be fulfilled free of charge unless manifestly unfounded or excessive."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Data Transfers Outside the QFC",
+      "content": "Transfers of personal data outside the QFC to third countries shall only be made where: (1) the QFC Data Privacy Department has determined that the destination country ensures an adequate level of protection; (2) appropriate safeguards have been put in place, including: standard contractual clauses issued by the QFC Data Privacy Department; binding corporate rules; or an approved code of conduct or certification mechanism; (3) the transfer falls within a recognised derogation, including explicit consent, contractual necessity, or vital interests. The QFC Data Privacy Department shall publish and maintain a list of countries considered to provide an adequate level of protection. Qatar is deemed to provide an adequate level of protection for QFC transfers. EU/EEA countries shall be deemed adequate. Standard contractual clauses adopted by the EU may be recognised by the QFC Data Privacy Department as valid safeguards."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Security and Breach Notification",
+      "content": "QFC-registered persons shall implement appropriate technical and organisational measures to protect personal data, including: (1) encryption of personal data at rest and in transit; (2) access controls ensuring that only authorised personnel can access personal data; (3) procedures for regular testing and evaluation of security measures; (4) business continuity measures ensuring data availability. In the event of a personal data breach, the controller shall: (1) notify the QFC Data Privacy Department within 72 hours of becoming aware of the breach; (2) where the breach is likely to result in high risk to data subjects, notify the affected individuals without undue delay; (3) document all breaches, including those not reported to the supervisory authority. Notification shall include: the nature of the breach; the categories and approximate number of persons and records affected; the likely consequences; and the measures taken or proposed to address the breach."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article 7. Data Protection Officers and Accountability",
+      "content": "QFC-registered persons shall appoint a Data Protection Officer (DPO) where: (1) the core activities of the entity consist of large-scale processing of sensitive data; (2) the core activities involve systematic monitoring of data subjects on a large scale; (3) the entity is a financial institution processing personal data of clients at scale. The DPO shall be given the resources necessary to carry out their tasks and maintain expert knowledge of data protection law. The DPO shall be a contact point for the QFC Data Privacy Department. QFC-registered persons shall maintain records of processing activities in the form required by the QFC Data Privacy Department. QFC-registered persons shall conduct data protection impact assessments for high-risk processing before commencement. The QFC Data Privacy Department may issue binding guidance supplementing these Regulations."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article 8. Enforcement and Sanctions",
+      "content": "The QFC Data Privacy Department shall have the following enforcement powers: (1) conduct audits and investigations; (2) issue compliance orders; (3) impose financial penalties. Financial penalties: (1) for infringements of basic processing obligations and data subject rights — penalty of up to USD 200,000 per violation; (2) for infringements of security obligations, breach notification, or cross-border transfer obligations — penalty of up to USD 500,000; (3) for systematic or repeated infringements — penalty of up to USD 1,000,000. The QFC Data Privacy Department may additionally: suspend data processing activities; require data subjects to be notified of a breach; recommend regulatory action by QFCRA. Decisions of the QFC Data Privacy Department may be appealed to the QFC Appeal Tribunal within 30 days of notification."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "QFC-registered person",
+      "definition": "Any person registered with the Qatar Financial Centre who processes personal data as a controller or processor.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "QFC Data Privacy Department",
+      "definition": "The supervisory authority established within the QFC responsible for supervising compliance with the QFC Data Protection Regulations.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "Personal Data Breach",
+      "definition": "A breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data.",
+      "source_provision": "art6"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "qa-electronic-signature",
+  "type": "statute",
+  "title": "أحكام التوقيع الإلكتروني في قطر",
+  "title_en": "Electronic Signature Law — Qatar",
+  "short_name": "QESL",
+  "status": "in_force",
+  "issued_date": "2010-08-14",
+  "in_force_date": "2010-08-14",
+  "url": "https://www.motc.gov.qa/en/Regulations/Pages/E-Signature.aspx",
+  "description": "Qatar's Electronic Signature framework, part of the e-commerce and e-transactions regulatory structure, establishes the legal requirements for electronic signatures, qualified certificates, and certification authorities. The framework ensures the legal equivalence of secure electronic signatures with handwritten signatures and governs the activities of accredited certification service providers in Qatar.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Electronic Signature Types and Legal Status",
+      "content": "Electronic signatures in Qatar are classified as: (1) Basic electronic signature — data in electronic form which is attached to or logically associated with other electronic data and which is used by the signatory to sign; (2) Advanced electronic signature — an electronic signature that is: uniquely linked to the signatory; capable of identifying the signatory; created using data under the signatory's sole control; and linked to the signed data such that any subsequent change is detectable; (3) Qualified electronic signature — an advanced electronic signature supported by a qualified certificate issued by an accredited certification authority. A qualified electronic signature shall have the same legal effect as a handwritten signature. An advanced electronic signature that is based on a qualified certificate shall enjoy a presumption of reliability. The Minister of Transport and Communications shall by regulation specify the technical requirements for each type of electronic signature."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Qualified Certificates",
+      "content": "A qualified certificate issued by an accredited certification authority shall contain: (1) a statement indicating that the certificate is a qualified certificate; (2) the name and registration details of the certification authority; (3) the name of the certificate holder, or their pseudonym clearly identified as such; (4) the electronic signature validation data; (5) the start and end dates of the certificate's validity; (6) a unique certificate identifier; (7) the location of the certificate status (revocation) service; (8) the advanced electronic signature of the issuing certification authority. Qualified certificates shall be revoked immediately where: (1) the holder requests revocation; (2) the certificate was issued on the basis of false information; (3) the holder's signature creation data has been compromised; (4) the holder has died or ceased to exist as a legal entity. Revoked certificates shall be recorded in the publicly accessible certificate revocation list maintained by the certification authority."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. Accreditation of Certification Authorities",
+      "content": "Certification authorities wishing to issue qualified certificates shall apply to the Ministry of Transport and Communications for accreditation. Accreditation shall be granted to certification authorities that: (1) demonstrate technical and operational capacity to issue certificates in accordance with the technical standards published by the Ministry; (2) employ staff with appropriate qualifications; (3) operate a secure certificate management infrastructure meeting internationally recognised standards (ISO/IEC 27001 and ETSI EN 319 series or equivalent); (4) maintain professional indemnity insurance or an equivalent financial guarantee; (5) have independent security audits conducted annually. Accredited certification authorities shall be included in the national trusted list maintained by the Ministry. The Ministry may withdraw accreditation where a certification authority fails to maintain the conditions of accreditation. The Ministry shall supervise accredited certification authorities through annual assessments."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Liability of Certification Authorities",
+      "content": "An accredited certification authority shall be liable to persons who reasonably relied on a qualified certificate it issued for damages arising from: (1) failure to register the revocation of a certificate in the certificate revocation list; (2) issuance of a certificate based on inaccurate information that the certification authority should have verified; (3) failure to ensure that the holder possessed the signature creation data corresponding to the signature validation data in the certificate; (4) failure to implement the security measures required by the Ministry. The certification authority shall not be liable where it can demonstrate that no negligence on its part contributed to the damage. The certification authority shall maintain records of its verification activities and certificate issuance for a period of at least 10 years to enable determination of liability."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Electronic Signatures in Government",
+      "content": "Government entities in Qatar shall implement electronic signature capabilities as part of Qatar's digital government transformation. Government entities shall: (1) accept qualified electronic signatures in place of handwritten signatures for all administrative procedures where there is no specific legal requirement for a physical signature; (2) use qualified electronic signatures for official government correspondence and administrative decisions issued electronically; (3) implement the national electronic identity system and digital signature infrastructure coordinated by the Ministry of Interior; (4) comply with the digital government standards issued by the Ministry of Transport and Communications. The Qatar National Authentication System (QNAS) shall provide a secure, government-operated infrastructure for electronic identity and signature services. The use of the national identity card (Bitaqa al-Huwiyya) as an electronic signature instrument shall be governed by implementing regulations."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Mutual Recognition",
+      "content": "Electronic signatures and qualified certificates issued by certification authorities of foreign states may be recognised in Qatar where: (1) the foreign state has concluded a mutual recognition agreement with Qatar for electronic signatures; (2) the foreign certification authority operates under requirements equivalent to those applicable to accredited certification authorities in Qatar; (3) the Ministry of Transport and Communications has published the foreign certification authority in the national trusted list as a recognised foreign authority. The Gulf Cooperation Council (GCC) framework for mutual recognition of electronic signatures shall be implemented by the Ministry, providing for mutual recognition of qualified electronic signatures issued by accredited certification authorities of GCC member states. Disputes arising from the use of foreign electronic signatures or certificates in Qatar shall be resolved under Qatari law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "التوقيع الإلكتروني المؤهل (Qualified Electronic Signature)",
+      "definition": "An advanced electronic signature supported by a qualified certificate issued by an accredited certification authority, with the same legal effect as a handwritten signature.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "الشهادة المؤهلة (Qualified Certificate)",
+      "definition": "A certificate issued by an accredited certification authority that meets the technical requirements specified by the Ministry of Transport and Communications and contains the information required by Article 2.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "جهة الإصدار المعتمدة (Accredited Certification Authority)",
+      "definition": "A certification authority that has been granted accreditation by the Ministry of Transport and Communications to issue qualified certificates.",
+      "source_provision": "art3"
+    }
+  ]
+}

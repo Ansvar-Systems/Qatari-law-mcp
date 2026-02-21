@@ -1,0 +1,67 @@
+{
+  "id": "qa-critical-infrastructure",
+  "type": "statute",
+  "title": "إطار حماية البنية التحتية الوطنية الحيوية — قطر",
+  "title_en": "Critical National Infrastructure Protection Framework — Qatar",
+  "short_name": "QCNIP",
+  "status": "in_force",
+  "issued_date": "2016-01-01",
+  "in_force_date": "2016-01-01",
+  "url": "https://www.moi.gov.qa/site/english/Pages/CNI.aspx",
+  "description": "Qatar's Critical National Infrastructure Protection (CNIP) Framework establishes the national approach to identifying, assessing, and protecting critical infrastructure in Qatar. The Framework defines responsibilities across government and private sector infrastructure operators, establishes sector-specific security requirements, and provides the governance structure for managing threats to Qatar's critical systems and assets.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article 1. Definition of Critical National Infrastructure",
+      "content": "For the purposes of this Framework, Critical National Infrastructure (CNI) means those physical and digital assets, systems, and networks, whether publicly or privately owned, that are vital to the functioning of Qatar and whose incapacity or destruction would have a debilitating impact on security, the economy, public health, or safety. CNI sectors in Qatar include: (1) Energy — oil and gas production, LNG export facilities, electricity generation and distribution; (2) Water — desalination plants, water distribution systems; (3) Transport — Hamad International Airport, Hamad Port, Qatar Railways; (4) Financial Infrastructure — Qatar Central Bank systems, QNBA payment systems, Qatar Exchange; (5) Government and Public Services — Hukoomi digital government platform, national identity infrastructure; (6) Healthcare — Hamad Medical Corporation systems, national health records; (7) Telecommunications and ICT — backbone telecommunications networks, internet exchange points; (8) Media — Qatar Media Corporation broadcasting infrastructure."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article 2. Governance Structure",
+      "content": "The national governance structure for CNI protection comprises: (1) The Supreme Committee for Cybersecurity — chaired by the Minister of Transport and Communications, responsible for strategic direction of national CNI protection; (2) The Ministry of Interior (MOI) — responsible for physical security of CNI assets and law enforcement response to CNI threats; (3) The Ministry of Transport and Communications (MOTC) — responsible for cybersecurity of CNI, through Q-CERT and the NIA framework; (4) The State Security Bureau (LEKHWIYA) — responsible for intelligence and counter-intelligence related to CNI threats; (5) Sector Lead Agencies — sector ministries or regulatory bodies responsible for CNI protection in their sectors; (6) CNI Operators — owners and operators of CNI assets. CNI operators shall designate a security coordinator responsible for liaising with the relevant sector lead agency and with government security bodies."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article 3. CNI Identification and Categorisation",
+      "content": "The MOTC in coordination with sector lead agencies shall: (1) maintain a national register of CNI assets; (2) categorise CNI assets according to their criticality based on: the scale and duration of service disruption they could cause; the number of people affected; the sectors dependent on the asset; the difficulty of replacement or restoration; (3) review and update the CNI register annually. Entities operating assets identified as CNI shall be notified by the relevant sector lead agency. The CNI register shall be classified and available only to designated authorities. Private sector entities owning or operating CNI shall cooperate fully in the identification and categorisation process and shall not publicly disclose their CNI designation without the approval of the MOTC."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article 4. Security Obligations for CNI Operators",
+      "content": "CNI operators shall: (1) implement security measures — physical, technical and organisational — commensurate with the criticality of the asset; (2) conduct annual security risk assessments covering physical, cyber and insider threats; (3) develop and maintain an asset protection plan, reviewed annually and approved by the relevant sector lead agency; (4) implement the cyber security requirements of the NIA Policy relevant to their category of CNI; (5) report significant security incidents — physical or cyber — to the sector lead agency and to Q-CERT within 1 hour of detection; (6) designate an appropriately cleared security coordinator; (7) cooperate with security inspections conducted by the relevant sector lead agency or the MOI; (8) conduct annual emergency response exercises simulating a significant attack on their CNI asset; (9) ensure key suppliers and contractors implement security measures consistent with this Framework."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article 5. Incident Response and Crisis Management",
+      "content": "In the event of a significant security incident affecting CNI: (1) the CNI operator shall immediately notify the sector lead agency, Q-CERT, and the Ministry of Interior; (2) the sector lead agency shall coordinate the response within its sector; (3) Q-CERT shall coordinate the cyber response and provide technical assistance; (4) the MOI shall coordinate the physical security and law enforcement response; (5) the Supreme Committee for Cybersecurity shall convene for incidents with national security implications. A National CNI Incident Response Plan, maintained by the MOTC, shall provide the detailed response procedures. Annual national CNI exercises shall be conducted by the MOTC in coordination with the MOI and sector lead agencies. Qatar shall coordinate CNI incident response with GCC partner states in accordance with the GCC cybersecurity cooperation framework."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article 6. Compliance and Enforcement",
+      "content": "CNI operator compliance with this Framework shall be assessed through: (1) annual self-assessment against the CNI security requirements checklist; (2) biennial independent security assessments conducted by assessors approved by MOTC; (3) MOI and MOTC inspections conducted at their discretion. Non-compliance with CNI security obligations shall result in: (1) written notice of non-compliance with a mandatory remediation timeline; (2) mandatory third-party security audit at the operator's expense; (3) financial penalties as prescribed by the relevant sector legislation; (4) for deliberate failure — referral to the competent prosecution authority. In cases where CNI security failures present an immediate threat, the MOTC may direct the operator to implement specific measures on an emergency basis. In the most severe cases, the government may assume temporary operational control of a CNI asset."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "البنية التحتية الوطنية الحيوية (Critical National Infrastructure / CNI)",
+      "definition": "Physical and digital assets, systems, and networks vital to the functioning of Qatar whose incapacity or destruction would have a debilitating impact on security, the economy, public health, or safety.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "مشغل البنية التحتية الحيوية (CNI Operator)",
+      "definition": "An owner or operator of an asset identified as critical national infrastructure under this Framework.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "جهة القطاع الرائدة (Sector Lead Agency)",
+      "definition": "The sector ministry or regulatory body responsible for coordinating CNI protection in a designated sector.",
+      "source_provision": "art2"
+    }
+  ]
+}
