@@ -1,6 +1,9 @@
 /**
  * Contract tests for Qatari Law MCP.
  * Validates database integrity against the currently ingested real dataset.
+ *
+ * Skipped automatically when the database file is absent (e.g. CI without
+ * artefacts or fresh clone before ingestion).
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
@@ -15,6 +18,10 @@ const ROOT_DIR = path.resolve(__dirname, '../..');
 const DB_PATH = path.resolve(ROOT_DIR, 'data/database.db');
 const SEED_DIR = path.resolve(ROOT_DIR, 'data/seed');
 
+const DB_EXISTS = fs.existsSync(DB_PATH);
+
+const describeIfDb = DB_EXISTS ? describe : describe.skip;
+
 let db: InstanceType<typeof Database>;
 let sampleProvision: { document_id: string; section: string; content: string } | undefined;
 
@@ -23,6 +30,7 @@ function seedFileCount(): number {
 }
 
 beforeAll(() => {
+  if (!DB_EXISTS) return;
   db = new Database(DB_PATH, { readonly: true });
   db.pragma('journal_mode = DELETE');
 
@@ -31,7 +39,7 @@ beforeAll(() => {
   ).get() as { document_id: string; section: string; content: string } | undefined;
 });
 
-describe('Database integrity', () => {
+describeIfDb('Database integrity', () => {
   it('should contain one legal document row per seed file', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'",
@@ -52,7 +60,7 @@ describe('Database integrity', () => {
   });
 });
 
-describe('Article retrieval', () => {
+describeIfDb('Article retrieval', () => {
   it('should retrieve a known section 1 provision', () => {
     expect(sampleProvision).toBeDefined();
     expect(sampleProvision!.content.length).toBeGreaterThan(20);
@@ -66,7 +74,7 @@ describe('Article retrieval', () => {
   });
 });
 
-describe('Negative tests', () => {
+describeIfDb('Negative tests', () => {
   it('should return no results for fictional document', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'fictional-law-2099'",
@@ -88,7 +96,7 @@ describe('Negative tests', () => {
   });
 });
 
-describe('Coverage checks', () => {
+describeIfDb('Coverage checks', () => {
   it('should include full-corpus style IDs (qa-law-*)', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE id LIKE 'qa-law-%'",
