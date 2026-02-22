@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (34) لسنة 1995 بتعديل بعض أحكام القانون رقم (13) لسنة 1987 بإنشاء المؤسسة العامة القطرية للاتصالات السلكية واللاسلكية",
   "short_name": "مرسوم بقانون رقم (34) لسنة 1995 بتعديل بعض أحكام القانون رقم (13) لسنة 1987 بإنشاء المؤسسة العامة القطرية للاتصالات ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2714&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2714&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (44) من القانون رقم (13) لسنة 1987 المشار إليه، النص الآتي:\nتتولى المؤسسة تحديد الرسوم المستحقة على منح وتجديد التراخيص المنصوص عليها في هذا القانون.\nكما تتولى تصنيف الأجهزة والترددات والمحطات اللاسلكية في درجات، تبعاً لأنواعها، وأغراض استعمالها، وقوتها، ومواصفاتها الفنية، وتحديد الرسوم المستحقة على كل درجة منها.\nويصدر بهذه الرسوم، وبتصنيف الأجهزة والترددات والمحطات، قرار من مجلس إدارة المؤسسة، ويرفع القرار الصادر في هذا الشأن إلى مجلس الوزراء، للإحاطة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

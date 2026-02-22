@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (26) لسنة 2004 بنقل المندوب الدائم لدولة قطر لدى المقر الأوروبي للأمم المتحدة بجنيف إلى ديوان عام وزارة الخارجية",
   "short_name": "قرار أميري رقم (26) لسنة 2004 بنقل المندوب الدائم لدولة قطر لدى المقر الأوروبي للأمم المتحدة بجنيف إلى ديوان عام وزار...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5349&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5349&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُنقل الشيخ/ فهد بن عويضة بن محمد آل ثاني، المندوب الدائم لدولة قطر لدى المقر الأوروبي للأمم المتحدة بجنيف، سفيراً بديوان عام وزارة الخارجية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

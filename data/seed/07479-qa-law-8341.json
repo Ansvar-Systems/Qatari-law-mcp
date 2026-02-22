@@ -4,8 +4,21 @@
   "title": "قرار رقم (39) لسنة 2020م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (39) لسنة 2020م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8341&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8341&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون المشار إليه والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nمقبل مضهور مسلم منير الشمري\nمدير إدارة النظافة العامة\n2\nمحمد فرج متعب جمعه الكبيسي\nمساعد مدير إدارة النظافة العامة\n3\nسعد عيسى ماجد علي البدر\nرئيس قسم الشواطئ والجزر\n4\nصالح محمد حمد الغفران المري\nمفتش نظافة وصحة بيئية ثاني\n5\nنواف أحمد علي التميمي\nباحث قانوني ثاني\n6\nحسن عبدالله حويدر سلطان المالكي\nمشرف تفتيش شواطئ وجزر أول\n7\nخالد حسن محمد إبراهيم النعيمي\nمراقب نظافة وصحة بيئية ثاني\n8\nطالب علي حمد مبارك الفهيدي\nمراقب نظافة وصحة بيئية ثالث\n9\nمحمد عبدالله محمد قرينيس القحطاني\nمراقب نظافة وصحة بيئية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

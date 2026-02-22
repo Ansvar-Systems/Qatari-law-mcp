@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (36) لسنة 2005 بشأن تجديد تعيين محافظ ونائب محافظ مصرف قطر المركزي",
   "short_name": "مرسوم رقم (36) لسنة 2005 بشأن تجديد تعيين محافظ ونائب محافظ مصرف قطر المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5798&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5798&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجدد تعيين كل من:\n1- سعادة السيد/ عبدالله بن خالد العطية،\nمحافظاً لمصرف قطر المركزي .\n2- سعادة الشيخ/ فهد بن فيصل بن ثاني آل ثاني،\nنائباً لمحافظ مصرف قطر المركزي\nوذلك لمدة خمس سنوات تبدأ من 13/1/2005."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

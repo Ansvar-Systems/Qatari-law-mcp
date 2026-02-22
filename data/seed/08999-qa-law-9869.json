@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (18) لسنة 2025 بتعديل بعض أحكام القرار رقم (6) لسنة 2008 بتحديد أيام العطلات الرسمية في الدولة وتنظيم العمل خلالها",
   "short_name": "قرار مجلس الوزراء رقم (18) لسنة 2025 بتعديل بعض أحكام القرار رقم (6) لسنة 2008 بتحديد أيام العطلات الرسمية في الدولة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9869&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9869&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "&laquo;تكون العطلات الرسمية في الوزارات والأجهزة الحكومية الأخرى والهيئات والمؤسسات العامة، على النحو التالي:\n1- عطلة عيد الفطر: من اليوم الثامن والعشرين من شهر رمضان إلى نهاية اليوم الرابع من شهر شوال.\n2- عطلة عيد الأضحى: من اليوم التاسع إلى نهاية اليوم الثالث عشر من شهر ذي الحجة.\n3- عطلة اليوم الوطني: يوم الثامن عشر من شهر ديسمبر.\nوإذا كان الفاصل بين عطلتين رسميتين يوم عمل واحد ، فيُعتبر عطلة ضمن العطلتين&raquo;."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

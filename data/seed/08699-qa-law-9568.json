@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (14) لسنة 2024 بتشكيل المجلس الوطني للتخطيط",
   "short_name": "قرار أميري رقم (14) لسنة 2024 بتشكيل المجلس الوطني للتخطيط",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9568&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9568&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل المجلس الوطني للتخطيط برئاسة رئيس مجلس الوزراء، ونائب رئيس مجلس الوزراء ووزير الدولة لشؤون الدفاع، نائباً للرئيس، وعضوية كل من :\n1- وزير المالية.\n2- وزير البيئة والتغيّر المناخي.\n3- وزير الدولة لشؤون الطاقة.\n4- وزير العمل.\n5- وزير الاتصالات وتكنولوجيا المعلومات.\n6- وزير الدولة لشؤون مجلس الوزراء.\n7- وزير البـلـديـة.\n8- وزير التربية والتعليم والتعليم العالي.\n9- وزير التجارة والصناعة.\n10 - الأمين العام للمجلـس الـوطـنـي للـتـخـطـيـط.\nويجوز لرئيس مجلس الوزراء إضافة ممثلين عن الجهات المعنية الأخرى إلـى عضوية المجلس"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

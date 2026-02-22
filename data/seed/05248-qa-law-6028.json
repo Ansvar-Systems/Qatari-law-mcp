@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (14) لسنة 2010 بتعيين مساعدي نيابة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (14) لسنة 2010 بتعيين مساعدي نيابة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6028&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6028&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين في وظيفة مساعد نيابة كل من:\n1- حمد صقر محمد صقر المفتاح.\n2- سعيد موسى فرج الماس.\n3- أحمد يوسف أحمد الكواري.\n4- محمد إبراهيم يوسف الحسن المهندي.\n5- طارق محمد عمر محسن الكثيري.\n6- صالح عبدالله محمد راشد الوارد.\n7- أحمد صالح أحمد عبدالرحمن الزمان.\n8- محمد سلطان محمد علي المنصوري.\n9- شافي عبدالله مذكر شافي آل شافي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

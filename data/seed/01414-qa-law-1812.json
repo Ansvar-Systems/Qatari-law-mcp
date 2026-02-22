@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (125) لسنة 2000 بإعتبار مشروع إقامة منشآت تعليمية واجتماعية بمنطقة غرافة الريان من أعمال المنفعة العامة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (125) لسنة 2000 بإعتبار مشروع إقامة منشآت تعليمية واجتماعية بمنطقة غرافة الريان...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1812&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1812&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر من أعمال المنفعة العامة مشروع إقامة منشآت تعليمية واجتماعية بمنطقة غرافة الريان، والمشروع موضح موقعه وتفاصيله بالمذكرة و الرسم التخطيطي المرفقين بهذا القرار، وحدود العقارات اللازمة للمشروع معينة هندسياً طبقاً لما ورد بالمادة (2) منه،\nوتتخذ الإجراءات اللازمة لاستصدار مرسوم نزع الملكية طبقاً لأحكام القانون رقم (13) لسنة 1988 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسيا المنطقة التي تشمل العقارات موضوع هذا القرار، وبالمضلع الهندسي ذي النقاط الركنية المبينة إحداثياتها بالجدول التالي:\nمسلسل\nشرقاُ\nشمالاً\n1\n222814\n396277\n2\n222858\n395751\n3\n222909\n495450\n4\n222803\n395397\n5\n222263\n395752\n6\n222240\n396036\n7\n222071\n396218\n8\n222325\n396277"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر مع مرفقاته في ملحق الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (28) لسنة 2013 بتخويل بعض موظفي وزارة البيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (28) لسنة 2013 بتخويل بعض موظفي وزارة البيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4672&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4672&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المُشار إليها والقرارات المنفذة لها وهم:-\nم\nالإسم\nالمسمى الوظيفي\n1\nأحمد محمد أحمد إبراهيم المنصوري\nأخصائي رصد بيئي\n2\nأحمد عبدالله محمد بلال\nمهندس تفتيش صناعي أول\n3\nمحمد يوسف محمد يوسف المحمدي\nمهندس تفتيش صناعي ثاني\n4\nمحمد علي عبدالله محمد المرفدي\nأخصائي بيولوجي\n5\nعبدالله راشد فرج راشد العصيمي\nمراقب بيئة برية رابع\n6\nأحمد مال الله محمد المالكي\nمراقب بيئة برية رابع\n7\nحسين علي راشد الكبيسي\nأخصائي بيولوجي أول\n8\nعبدالسلام مسعد عبدالقوي الحربي\nأخصائي تفتيش بيئي\n9\nسالم سعيد سالم الجربوعي\nمراقب بيئة برية ثالث\n10\nبدر يوسف أحمد المالكي\nمراقب بيئة برية رابع\n11\nسالم علي راشد المهندي\nمفتش بيئي أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

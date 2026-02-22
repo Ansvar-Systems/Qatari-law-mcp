@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (42) لسنة 2018 بتعيين قضاة بالمحكمة الابتدائية",
   "short_name": "مرسوم رقم (42) لسنة 2018 بتعيين قضاة بالمحكمة الابتدائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7716&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7716&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين في وظيفة قاض بالمحكمة الابتدائية كل من:\n1- السيدة/ الريم ناصر علي المزايدة النعيمي.\n2- السيد/ علي عبدالله علي سيف الجسيمان.\n3- السيد/ جاسم عبدالعزيز عبدالله عبدالرحمن عبيدان.\n4- السيد/ عبدالله ثقيل ساير الدرويش الشمري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

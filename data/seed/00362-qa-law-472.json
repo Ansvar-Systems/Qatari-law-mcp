@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (13) لسنة 1991 بمد الامتياز الممنوح لشركة قطر الوطنية لصناعة الاسمنت",
   "short_name": "مرسوم بقانون رقم (13) لسنة 1991 بمد الامتياز الممنوح لشركة قطر الوطنية لصناعة الاسمنت",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=472&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=472&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمد امتياز استغلال التربة والجبس والجير اللازم لصناعة الاسمنت الممنوح لشركة قطر الوطنية لصناعة الاسمنت (شركة مساهمة قطرية) بموجب القانون رقم (4) لسنة 1973 المشار إليه، لمدة سنتين تبدأ من تاريخ انتهاء المدة الأصلية في 8/ 10/ 1990."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم بقانون. ويعمل به بأثر رجعي اعتباراً من 8/ 10/ 1990. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

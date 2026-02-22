@@ -4,8 +4,39 @@
   "title": "قرار وزير الاقتصاد والمالية رقم (1) لسنة 2009 بضوابط وإجراءات إصدار أوراق الدين العام",
   "short_name": "قرار وزير الاقتصاد والمالية رقم (1) لسنة 2009 بضوابط وإجراءات إصدار أوراق الدين العام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3626&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3626&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تكون القيمة الأسمية للسندات الصادرة بشأن إقتراض وزارة الاقتصاد والمالية لمبلغ لا يتجاوز خمسة مليارات دولار باعتباره جزءً من المبلغ المنصوص عليه في المادة (2) من قرار مجلس الوزراء رقم (43) لسنة 2008 المعدل، المشار إليه، وذلك حسب متطلبات كل إصدار من إصدارات تلك السندات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون الغرض من إصدار أوراق الدين العام، تمويل عام لحكومة دولة قطر بما في ذلك تمويل احتياطي لتغطية أية حالات طارئة تحتاجها الجهات التي تمتلكها أو تسيطر عليها حكومة دولة قطر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون إستحقاق السندات لمدة لا تتجاوز الـ (30) ثلاثين سنة من تاريخ إصدارها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تطرح السندات للاكتتاب خارج دولة قطر إما عن طريق المناقصة أو عن طريق البنوك المتعهدة بالاكتتاب أو غير ذلك من الطرق."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

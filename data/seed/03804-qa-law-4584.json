@@ -4,8 +4,33 @@
   "title": "قرار أمين عام اللجنة الأولمبية القطرية رقم (254) لسنة 2012م بإصدار نموذج النظام الأساسي الموحد للأندية الرياضية",
   "short_name": "قرار أمين عام اللجنة الأولمبية القطرية رقم (254) لسنة 2012م بإصدار نموذج النظام الأساسي الموحد للأندية الرياضية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4584&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4584&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلتزم الأندية الرياضية في وضع نظمها الأساسية بنموذج النظام الأساسي الموحد للأندية الرياضية المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على الأندية القائمة وقت العمل بهذا القرار توفيق أوضاعها بما يتفق وأحكامه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تستمر مجالس إدارات الأندية الرياضية القائمة وقت العمل بهذا النظام في مباشرة أعمالها حتى نهاية المدة المقررة لها على أن يتم تشكيل المجالس بعد ذلك وفقاً لأحكامه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، وينشر في الجريدة الرسمية، ويُعمل به من تاريخ نشره"
+    }
+  ],
   "definitions": []
 }

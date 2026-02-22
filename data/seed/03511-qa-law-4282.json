@@ -4,8 +4,57 @@
   "title": "قرار مجلس الوزراء رقم (27) لسنة 2001 بإنشاء اللجنة الدائمة لفحص طلبات اكتساب الجنسية القطرية",
   "short_name": "قرار مجلس الوزراء رقم (27) لسنة 2001 بإنشاء اللجنة الدائمة لفحص طلبات اكتساب الجنسية القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4282&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4282&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ لجنة بوزارة الداخلية تسمى «اللجنة الدائمة لفحص طلبات اكتساب الجنسية القطرية»، تشكل برئاسة وزير الدولة للشؤون الداخلية، وعضوية اثنين من وزارة الداخلية، يكون أحدهما نائباً للرئيس، واثنين من خارج الوزارة.\nويصدر بتسمية أعضاء اللجنة ونائب رئيسها ومقررها قرار من وزير الداخلية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص اللجنة بالنظر في الطلبات المقدمة من ذوي الشأن لاكتساب الجنسية القطرية والتحقق من انطباق الشروط الواردة بقانون الجنسية القطرية عليهم، ورفع توصياتها بشأن هذه الطلبات إلى وزير الداخلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تكون مدة عضوية اللجنة سنة واحدة تبدأ من تاريخ العمل بقرار وزير الداخلية بتسمية أعضائها، ويجوز تمديد العضوية بقرار من مجلس الوزراء لمدة أو لمدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تعقد اللجنة أربعة اجتماعات شهرياً على الأقل، في غير مواعيد العمل الرسمية، ويجوز لها عقد اجتماعات في أوقات العمل الرسمية إذا اقتضت الضرورة ذلك."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يتقاضى كل من رئيس وأعضاء اللجنة ومقررها مكافأة مالية قدرها (2000) ألفا ريال شهرياً."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "تضع اللجنة نظاماً لعملها على أن يتضمن مواعيد اجتماعاتها، والقواعد اللازمة لممارسة اختصاصاتها."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "يلغى قرار مجلس الوزراء رقم (13) لسنة 1995 المشار إليه."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

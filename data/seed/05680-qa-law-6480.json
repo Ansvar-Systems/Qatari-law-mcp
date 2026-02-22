@@ -4,8 +4,27 @@
   "title": "قرار رقم (219) لسنة 2014م بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (219) لسنة 2014م بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6480&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6480&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الاقتصاد والتجارة التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المُشار إليها والقرارات المنفذة لها وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nخليفة جمعه خليفه الهتمي\nباحث شؤون تجارية أول\n2\nرومي سلطان زايد النعيمي\nمدخل بيانات\n3\nحمد عبدالله حمد المري\nكاتب شؤون إدارية\n4\nعبدالله علي تويم المري\nكاتب شؤون إدارية\n5\nفهد جابر محمد المري\nعامل ملفات ثالث\n6\nحمد محمد حمد آل مايقة الاحبابي\nكاتب تسجيل براءات إختراع رابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تلغى صفة الضبطية القضائية الممنوحة للسيد / عبدالله أحمد محمد قايد العمادي بالقرار رقم (73) لسنة 2011 م."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

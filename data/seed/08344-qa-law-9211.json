@@ -4,8 +4,21 @@
   "title": "قرار وزير الدولة لشؤون الطاقة رقم (1) لسنة 2023 بمدّ مهلة توفيق الأوضاع للمقاولين المخاطبين بالمادة (20) من قرار وزير الدولة لشؤون الطاقة رقم (2) لسنة 2022 بتحديد القواعد المنظمة لأعمال التوصيلات الكهربائية والتمديدات المائية وشروط منح وتجديد تراخيص مزاول",
   "short_name": "قرار وزير الدولة لشؤون الطاقة رقم (1) لسنة 2023 بمدّ مهلة توفيق الأوضاع للمقاولين المخاطبين بالمادة (20) من قرار وزير...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9211&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9211&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمد مهلة توفيق أوضاع المقاولين المنصوص عليها في المادة (20) من قرار وزير الدولة لشؤون الطاقة رقم (2) لسنة 2022 بتحديد القواعد المنظمة لأعمال التوصيلات الكهربائية والتمديدات المائية وشروط منح وتجديد تراخيص مزاولة تلك الأعمال، لمدة ستة أشهر تبدأ من تاريخ 4/4/2023."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به اعتباراً من تاريخ 4/4/2023 ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

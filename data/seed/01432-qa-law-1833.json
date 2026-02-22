@@ -4,8 +4,33 @@
   "title": "قرار رئيس الهيئة العامة للشباب والرياضة رقم (13) لسنة 1993 بإنشاء الاتحاد القطري للجولف",
   "short_name": "قرار رئيس الهيئة العامة للشباب والرياضة رقم (13) لسنة 1993 بإنشاء الاتحاد القطري للجولف",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1833&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1993.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1833&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينشأ اتحاد رياضي يسمى \"الاتحاد القطري للجولف\" ويضم هذا الاتحاد أندية اللعبة القائمة حالياً والتي تتكون مستقبلاً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يضع مجلس إدارة الاتحاد لوائحه الداخلية متضمنة القواعد المنظمة لأعماله ولكل أوجه نشاطه، وبوجه خاص أهدافه واختصاصاته، وفقاً للنظام الأساسي للاتحادات الرياضية المعتمد بقرار رئيس الهيئة العامة للشباب والرياضة رقم (105) لسنة 1992 ولا تكون هذه اللوائح داخلية نافذة إلا بعد اعتمادها من الهيئة العامة للشباب والرياضة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى قرار رئيس الهيئة العامة للشباب والرياضة رقم (15) لسنة 1991 بالترخيص بإنشاء الجمعية القطرية للجولف، وتؤول أموال وموجودات الجمعية القطرية للجولف إلى الاتحاد القطري للجولف."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

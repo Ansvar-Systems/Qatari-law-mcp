@@ -4,8 +4,21 @@
   "title": "قرار رقم (74) لسنة 2017م بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (74) لسنة 2017م بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7398&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7398&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة التالي أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم(8) لسنة 1990 م المشار إليه والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nد. موسى محمد فضل المولي.\nأخصائي أول ومشرف وحدة النفايات\n2\nمريم يوسف عبدالرحمن الشملان.\nمفتش صحي.\n3\nأحمد محمد فوزي سعفان.\nفني تفتيش صحي.\n4\nسدرا محمد يونس ميران.\nفني تفتيش صحي.\n5\nأسماء محمد رضوي.\nفني تفتيش صحي.\n6\nناصر على محمد سعيد باعلي.\nفني تفتيش صحي.\n6\nناصر على محمد سعيد باعلي.\nفني تفتيش صحي.\n7\nصلاح على محمد سعيد باعلي.\nمفتش صحي.\n8\nعبير عيسى عبدالله شمس.\nمفتش صحي ثاني.\n9\nفضة مسعود حارب سعيد العلي.\nمفتش صحي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

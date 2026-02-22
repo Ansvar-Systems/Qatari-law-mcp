@@ -4,8 +4,27 @@
   "title": "قانون رقم (3) لسنة 2005 بتعديل بعض أحكام القانون رقم (6) لسنة 1993 بشأن تنظيم شؤون الحج",
   "short_name": "قانون رقم (3) لسنة 2005 بتعديل بعض أحكام القانون رقم (6) لسنة 1993 بشأن تنظيم شؤون الحج",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=285&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=285&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص الفقرة الثانية من المادة ( 7 ) من القانون رقم (6) لسنة 1993 المشار إليه النص التالي:"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "فقرة ثانية) :\n«ويجب عليه أن يودع خزانة الوزارة تأميناً مالياً مقداره 15 % من المبلغ الذي يتم تحصيله من الحجاج المسجلين عن تسيير كل حملة قبل قيامها، وذلك لضمان تنفيذ التزاماته قبل الحجاج، ولا يرد هذا التأمين إلى المقاول إلا بعد عودة الحجاج بشهرين على الأقل، وموافقة الوزير بناءً على توصية اللجنة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

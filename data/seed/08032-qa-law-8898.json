@@ -4,8 +4,21 @@
   "title": "قرار رقم (3) لسنة 2022م بتخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (3) لسنة 2022م بتخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8898&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8898&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي المؤسسة العامة القطرية للكهرباء والماء التالية أسماؤهما صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (26) لسنة 2008 المُشار إليه، والقرارات المُنفذة له وهما:\nم\nالإسم\nالمسمى الوظيفي\n1\nعبد الله ماجد الخليفي\nرئيس قسم مراقبة الترشيد\n2\nفيصل محمد راشد النعيمي\nمفتش"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يَخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

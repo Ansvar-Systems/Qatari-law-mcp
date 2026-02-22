@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (43) لسنة 2003 بالتصديق على اتفاقية المحافظة على الحياة الفطرية ومواطنه الطبيعية في دول مجلس التعاون لدول الخليج العربية.",
   "short_name": "مرسوم رقم (43) لسنة 2003 بالتصديق على اتفاقية المحافظة على الحياة الفطرية ومواطنه الطبيعية في دول مجلس التعاون لدول ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1127&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1127&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية المحافظة على الحياة الفطرية ومواطنه الطبيعية في دول مجلس التعاون لدول الخليج العربية المرفق نصها بهذا المرسوم، وتكون لها قوة القانون وفقا للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

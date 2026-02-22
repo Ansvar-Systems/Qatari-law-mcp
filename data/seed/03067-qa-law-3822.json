@@ -4,8 +4,21 @@
   "title": "قرار رقم (62) لسنة 2011 بتخويل بعض موظفي وزارة البيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (62) لسنة 2011 بتخويل بعض موظفي وزارة البيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3822&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3822&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (4) لسنة 1995 المُشار إليه، والقرارات المنفذة له وهم:-\nالاسم\nالمسمى الوظيفي\n1\nأحمد عبدالله محمد عبدالله أمين\nمشرف رقابة جودة\n2\nأيمن محمد خليل أحمد محسن\nأخصائي جودة\n3\nعيسى عبد الحسين إبراهيم عبدالله\nخبير جودة\n4\nفيصل عمير ناصر النعيمي\nباحث مواصفات قياسية أول\n5\nمشعل محمد الشيخ حسن الشيخ\nباحث جودة أول\n6\nمحمد عبدالله ناصر المسيفري\nباحث مختبرات قياسية أول\n7\nسلطان حسن سلطان الكواري\nأخصائي جودة\n8\nخالد العيدي صياح الفريجي الرويلي\nأخصائي جودة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

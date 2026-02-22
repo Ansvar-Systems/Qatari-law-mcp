@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (22) لسنة 2006 بفض دور الانعقاد العادي الرابع والثلاثين لمجلس الشورى",
   "short_name": "مرسوم رقم (22) لسنة 2006 بفض دور الانعقاد العادي الرابع والثلاثين لمجلس الشورى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5731&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5731&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُفض دور الانعقاد العادي الرابع والثلاثين لمجلس الشورى عقب جلسة يوم الاثنين والثلاثين من جمادى الأولى 1427هـ، الموافق للسادس والعشرين من يونيو 2006م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

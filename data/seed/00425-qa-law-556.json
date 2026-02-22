@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (31) لسنة 2004 بتعديل بعض أحكام القانون رقم (13) لسنة 2000 بتنظيم استثمار رأس المال الأجنبي في النشاط الاقتصادي",
   "short_name": "مرسوم بقانون رقم (31) لسنة 2004 بتعديل بعض أحكام القانون رقم (13) لسنة 2000 بتنظيم استثمار رأس المال الأجنبي في النشا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=556&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=556&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص البند (3) من المادة (2) من القانون رقم (13) لسنة 2000 المشار إليه، النص التالي:\n«3- يحظر على الاستثمارات الأجنبية الاستثمار في المجالات التالية:\nأ‌- البنوك وشركات التأمين، عدا ما يستثنى منها بقرار من مجلس الوزراء.\nب-‌ الوكالات التجارية وشراء العقارات.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

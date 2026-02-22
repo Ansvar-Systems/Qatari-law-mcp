@@ -4,8 +4,33 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (102) لسنة 2005 بإضافة خدمة إستخدام مواقف السيارات ذات العدادات إلى الخدمات التي تؤديها الوزارة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (102) لسنة 2005 بإضافة خدمة إستخدام مواقف السيارات ذات العدادات إلى الخدمات الت...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1762&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1762&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف خدمة إستخدام مواقف السيارات ذات العدادات إلى الخدمات التي تؤديها وزارة الشئون البلدية والزراعة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يضاف إلي الجداول المرفقة بالقرار رقم (43) لسنة 2005 المشار إليه، الجدول رقم (16) المرفق بهذا القرار بتحديد مناطق أداء الخدمة المشار اليها ورسوم إستخدامها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون موعد تشغيل العدادات المشار اليها، من السبت إلى الخميس من كل اسبوع، في الاوقات التالية:\nمن الساعة الثامنة صباحاً حتي الساعة الواحدة بعد الظهر.\nمن الساعة الرابعة بعد الظهر حتي الساعة التاسعة مساءً.\nولا يجوز ان تجاوز مدة الإنتظار في كل فترة أربع ساعات متصلة.\nويكون استخدام المواقف خارج المواعيد المشار اليها وفي أيام الجمع والأعياد الرسمية مجانا."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "علي جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به فور صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

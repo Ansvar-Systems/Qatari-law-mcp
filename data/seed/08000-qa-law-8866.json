@@ -4,8 +4,27 @@
   "title": "قرار وزير التنمية الاجتماعية والأسرة رقم (4) لسنة 2022 بتمديد فترة مجلس الإدارة المؤقت لجمعية المحامين القطرية والمعين بقرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية رقم (30) لسنة 2021",
   "short_name": "قرار وزير التنمية الاجتماعية والأسرة رقم (4) لسنة 2022 بتمديد فترة مجلس الإدارة المؤقت لجمعية المحامين القطرية والمعي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8866&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8866&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مدد فترة ولاية مجلس الإدارة المؤقت والمعين بقرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية المشار إليه، لمدة ستة أشهر تبدأ من تار&#1740;خ 12/03/2022 أو إلى انتخاب مجلس إدارة للجمعية المشار إليها، أيهما أقرب."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

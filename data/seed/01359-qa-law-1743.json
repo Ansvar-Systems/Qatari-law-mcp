@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (9) لسنة 1994 بشأن حقوق وإلتزامات المؤسسة العامة القطرية للبترول بالانتفاع بأراضي ومرافق منطقة رأس لفان",
   "short_name": "قرار مجلس الوزراء رقم (9) لسنة 1994 بشأن حقوق وإلتزامات المؤسسة العامة القطرية للبترول بالانتفاع بأراضي ومرافق منطقة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1743&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1743&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون للمؤسسة العامة القطرية للبترول - كمنتفع - حق استعمال واستغلال الأراضي والأرصفة والمرافق المخصصة لها بموجب المرسوم رقم (35) لسنة 1994 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون شروط الانتفاع على النحو التالي:\n1- مدة الانتفاع، هي مدة بقاء المؤسسة العامة القطرية للبترول.\n2- لا يجوز للمنتفع التنازل عن حق الانتفاع المقرر له للغير.\n3- يمارس المنتفع حق الانتفاع وفقاً لأحكام التشريعات المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يعتبر هذا القرار بمثابة سد انتفاع المؤسسة العامة القطرية للبترول بالأراضي والمرافق محل الامتياز."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

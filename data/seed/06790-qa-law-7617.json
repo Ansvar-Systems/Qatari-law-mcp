@@ -4,8 +4,45 @@
   "title": "قرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية رقم (39) لسنة 2018 بتحديد فترة اختبار المستخدمين في المنازل وضوابط العمل",
   "short_name": "قرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية رقم (39) لسنة 2018 بتحديد فترة اختبار المستخدمين في المنازل وضوا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7617&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7617&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يخضع المستخدم لفترة اختبار لا تزيد على ثلاثة أشهر، تبدأ من تاريخ مباشرة المستخدم العمل.\nوتهدف فترة الاختبار إلى تقييم صاحب العمل للكفاءة المهنية للمستخدم، وسلامة سلوكه الشخصي خلال هذه الفترة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "لا يجوز تجديد فترة الاختبار، أو وضع المستخدم تحت الاختبار أكثر من مرة لدى صاحب عمل واحد.\nويستثنى من حكم الفقرة السابقة قيام صاحب العمل بإبرام عقد جديد مع المستخدم يكون موضوعه القيام بعمل مختلف من الأعمال المنزلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يجوز للإدارة التصديق على أي عقد استخدام لم تُحدد فيه صراحةً مدة فترة الاختبار، أو تم تحديدها بما يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تدخل فترة الاختبار في مدة الخدمة المستحق عنها إجازة سنوية ومكافأة نهاية الخدمة طبقاً لأحكام المادتين ( 14 ) و( 15 ) من القانون رقم (15) لسنة 2017 المشار إليه."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "لصاحب العمل إنهاء عقد الاستخدام خلال فترة الاختبار إذا تبين له عدم صلاحية العامل لأداء العمل، وفقاً لما هو منصوص عليه في المادة الأولى من هذا القرار."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

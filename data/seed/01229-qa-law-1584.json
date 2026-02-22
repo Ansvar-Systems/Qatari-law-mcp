@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (2) لسنة 1970 بشأن تنظيم تجاوز اعتمادات بنود الميزانية",
   "short_name": "قرار مجلس الوزراء رقم (2) لسنة 1970 بشأن تنظيم تجاوز اعتمادات بنود الميزانية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1584&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1970.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1584&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "التجاوز هو المبلغ الذي يطلب زيادة على اعتماد بند من البنود مقابل وفر يساويه في بند أو بنود أخرى في حدود الباب الواحد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "لا يجوز التجاوز إلا بقرار من الوزير المختص وبشرط أن يكون ذلك في حدود ربع الاعتماد المقرر المنقول إليه أو ألف ريال أيهما أكبر، وبحيث لا يزيد الربع على عشرة آلاف ريال في أي حال من الأحوال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يجوز التجاوز إلا بقرار من وزير المالية والبترول إذا ما زاد التجاوز عن الحدود المبينة في المادة السابقة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يعمل بهذا القرار اعتباراً من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

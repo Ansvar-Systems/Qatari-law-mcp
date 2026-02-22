@@ -4,8 +4,27 @@
   "title": "قانون رقم (1) لسنة 2010 بتعديل بعض أحكام القانون رقم (13) لسنة 2000 بتنظيم استثمار رأس المال غير القطري في النشاط الاقتصادي",
   "short_name": "قانون رقم (1) لسنة 2010 بتعديل بعض أحكام القانون رقم (13) لسنة 2000 بتنظيم استثمار رأس المال غير القطري في النشاط الا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2529&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2529&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارتا «وزارة الأعمال والتجارة» و«وزير الأعمال والتجارة» بعبارتي «وزارة المالية والاقتصاد والتجارة» و«وزير المالية والاقتصاد والتجارة»، أينما وردتا في القانون رقم (13) لسنة 2000 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "بند 2) :\n«ومع ذلك يجوز بقرار من الوزير السماح للمستثمرين غير القطريين بتجاوز نسبة مساهماتهم (49%) وحتى (100%) من رأس مال المشروع، في مجالات الزراعة والصناعة والصحة والتعليم والسياحة وتنمية واستغلال الموارد الطبيعية أو الطاقة أو التعدين وخدمات الأعمال الاستشارية والفنية وتقنية المعلومات والخدمات الثقافية والرياضية والترفيهية وخدمات التوزيع.\nويجوز بقرار من مجلس الوزراء إضافة أي مجال آخر إلى المجالات المشار إليها في الفقرة السابقة.»"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

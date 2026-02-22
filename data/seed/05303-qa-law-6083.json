@@ -4,8 +4,27 @@
   "title": "قرار رقم (1) لسنة 2009 بتعيين مدير مكتب الممثل الشخصي للأمير وتحديد اختصاصاته",
   "short_name": "قرار رقم (1) لسنة 2009 بتعيين مدير مكتب الممثل الشخصي للأمير وتحديد اختصاصاته",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6083&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6083&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين سعادة السيد/ خالد بن غانم العلي المعاضيد، مديراً لمكتب الممثل الشخصي للأمير."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يباشر مدير مكتب الممثل الشخصي للأمير الاختصاصات التالية:\n• الإشراف العام على إدارة شؤون مكتب الممثل الشخصي للأمير.\n• عرض المراسلات والتقارير والدراسات التي ترد من الوزارات والأجهزة الحكومية الأخرى على الممثل الشخصي للأمير وتنفيذ تعليماته بشأنها.\n• تنظيم مقابلات واجتماعات الممثل الشخصي للأمير، وتسجيل ما يشير بتسجيله منها.\n• إعداد برامج زيارات الممثل الشخصي للأمير الداخلية والخارجية.\n• إحاطة الممثل الشخصي للأمير علماً بما يستجد من أمور هامة في مختلف المجالات.\n• أية مهام يكلفه بها الممثل الشخصي للأمير."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

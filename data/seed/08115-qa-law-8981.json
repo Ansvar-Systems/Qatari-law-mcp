@@ -4,8 +4,27 @@
   "title": "قرار وزاري رقم (203) لسنة 2022 بإستبدال عضوين في لجان فض المنازعات الإيجارية",
   "short_name": "قرار وزاري رقم (203) لسنة 2022 بإستبدال عضوين في لجان فض المنازعات الإيجارية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8981&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8981&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "1) تحلّ السيّدة/ روزه عيد الشمري، محل السيّد/ عبدالله راشد المناعي، في عضوية لجنة فض المنازعات الإيجارية الأولى.\n2) يحل السيّد/ محمد باطح العنزي، محل السيّد/ حمد ناصر تركي السبيعي، في عضوية لجنة فض المنازعات الإيجارية الثالثة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُلاً فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (18) لسنة 2007 بأولويات وضوابط الانتفاع بنظام إسكان ذوي الحاجة",
   "short_name": "قرار مجلس الوزراء رقم (18) لسنة 2007 بأولويات وضوابط الانتفاع بنظام إسكان ذوي الحاجة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3192&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3192&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تكون أولوية الانتفاع بهذا النظام، عند توافر الاعتمادات المالية. وفقاً لمايلي:\n1- الإعالة.\n2- الزواج."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينتفع القطري ذكراً أو أنثى بهذا النظام، وفقاً للضوابط التالية:\n1- أن يكون من الفئات التي تحتاج إلى رعاية اجتماعية كالمعاق، واليتيم، والعاجز عن العمل، والمسن.\n2- ألا يكون قد آل إليه ملكية مسكن ملائم لسكناه.\n3- عدم المقدرة المالية للانتفاع بنظام الإسكان وفقاً للمادة (2) من القانون رقم (2) لسنة 2007 المشار إليه.\nويسترد المسكن في حالة زواج العزباء أو المطلقة أو الأرملة، ويوقف صرف بدل الإيجار.\nوفي حالة تعدد المنتفعين يخصص لهم مسكن واحد إذا كانت تجمعهم قرابة من الدرجة الأولى أو الثانية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يشترط لانتفاع المتجنس بهذا النظام وفقاً لحكم المادة السابقة أن يمضي على اكتسابه الجنسية القطرية خمس عشرة سنة على الأقل."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

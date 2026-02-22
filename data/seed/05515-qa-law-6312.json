@@ -4,8 +4,21 @@
   "title": "قرار رقم (113) لسنة 2014 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (113) لسنة 2014 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6312&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6312&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفتي وزارة الاقتصاد والتجارة التالية أسماؤهما، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لإحكام القانون رقم (5) لسنة 2002 ، المشار إليه وتعديلاته، والقرارات المنفذة له، وهما:\nم\nالاسم\nالوظيفة\nالرقم الشخصي\n1.\nالسيدة/ عائشة ناصر علي عمر المناعي.\nأخصائي تأسيس ومراقبة شركات\n27763401041\n2.\nالسيدة/ فاطمة راشد مبارك العجلان الهاجري.\nمدخل بيانات رابع\n27763402949"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

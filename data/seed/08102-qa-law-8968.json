@@ -4,8 +4,21 @@
   "title": "قانون رقم (7) لسنة 2022 بتعديل بعض أحكام المرسوم بقانون رقم (17) لسنة 2010 بتنظيم اللجنة الوطنية لحقوق الإنسان",
   "short_name": "قانون رقم (7) لسنة 2022 بتعديل بعض أحكام المرسوم بقانون رقم (17) لسنة 2010 بتنظيم اللجنة الوطنية لحقوق الإنسان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8968&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8968&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة (5/ فقرة أولى) من المرسوم بقانون رقم (17) لسنة 2010 المُشار إليه، النص التالي:\nمادة (5/فقرة أولى):\n\"تُشكل اللجنة من عدد من الأعضاء لا يقل عن سبعة، من ذوي الخبرة والمهتمين بحقوق الإنسان، يُمثلون المجتمع المدني، وممثل عن كل من الجهات التالية:\n1 - وزارة الداخلية.\n2 - وزارة الخارجية.\n3 - وزارة العدل.\n4 - وزارة العمل.\n5 - وزارة التنمية الاجتماعية والأسرة.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

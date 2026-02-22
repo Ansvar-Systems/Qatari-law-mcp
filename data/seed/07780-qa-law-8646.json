@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (29) لسنة 2021 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (29) لسنة 2021 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8646&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8646&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن الشيخ/ سلطان محمد سعود العبد الرحمن آل ثاني، في وظيفة وكيل نيابة أول، وتحدّد أقدميته فيها اعتباراً من 8/12/2020."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعيّن في وظيفة وكيل نيابة كل من:\n1 - السيّدة/: نور هاشم كامل هاشم مرتضى، وتُحدد أقدميتها فيها اعتباراً من 04/03/2021\n2 - السيد/ صالح ابن الحاج."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعين السيّد/ صالح حمد محمد راشد العطان، في وظيفة وكيل نيابة مساعد، وتُحدد أقدميته فيها اعتباراً من 01/10/2020."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كلّ فيما يخصُّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم ( 32 ) لسنة 2024 بالتصديق على اتفاقية المساهمة الأساسية لدعم الموارد العادية للأونروا للعام 2023-2024 من أجل لاجئي فلسطين في الشرق الأدنى",
   "short_name": "مرسوم رقم ( 32 ) لسنة 2024 بالتصديق على اتفاقية المساهمة الأساسية لدعم الموارد العادية للأونروا للعام 2023-2024 من أج...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9663&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9663&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية المساهمة الأساسية لدعم الموارد العادية للأونروا للعام 2023-2024 بين صندوق قطر للتنمية في دولة قطر ووكالة الأمم المتحدة لإغاثة وتشغيل اللاجئين الفلسطينيين في الشرق الأدنى من أجل لاجئي فلسطين في الشرق الأدنى ، الموقعة بتاريخ 2023/11/27 ، المرفق نصها بهذا المرسوم، وتكــــون لـهـــا قوة القانون ، وفقاً للمادة (68) من الدستور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عل&#1740; جم&#1740;ع الجهات المختصة ، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمــل بــــه مــن تاريــخ صـــــدوره . ويُنشـــــر فـــي الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

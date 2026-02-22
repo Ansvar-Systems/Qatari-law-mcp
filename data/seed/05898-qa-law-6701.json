@@ -4,8 +4,21 @@
   "title": "قرار وزير الشباب والرياضة رقم (154) لسنة 2015 باعتماد النظام الأساسي لمركز فتيات الخور",
   "short_name": "قرار وزير الشباب والرياضة رقم (154) لسنة 2015 باعتماد النظام الأساسي لمركز فتيات الخور",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6701&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6701&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد النظام الأساسي للمركز، المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويلغى كل حكم يخالف أحكامه. ويعمل به اعتباراً من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

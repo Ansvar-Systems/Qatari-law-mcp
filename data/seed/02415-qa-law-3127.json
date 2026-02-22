@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (7) لسنة 1963 بتحديد الدوائر الانتخابية لمجلس بلدي الدوحة",
   "short_name": "مرسوم رقم (7) لسنة 1963 بتحديد الدوائر الانتخابية لمجلس بلدي الدوحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3127&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1963.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3127&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تقسم الدوحة إلى خمس عشرة دائرة انتخابية على الوجه الآتي:\n(1) الرميلة\n(2) البدع\n(3) المشيرب\n(4) الجسره\n(5) النجادة\n(6)اللارية\n(7) الدوحة الجديدة\n(8) العماد دهية\n(9) عيال أحمد\n(10) البحارنة\n(11) الغانم\n(12) السلطة\n(13) المرقاب\n(14) الهتمي\n(15) الخليفات"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينتخب واحد من مرشحي كل دائرة ليكون عضواً بالمجلس البلدي وفقاً للإجراءات المنصوص عليها بالمرسوم رقم (6) لسنة 1963 بنظام جديد لانتخاب أعضاء مجلس بلدي الدوحة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره وينشر بالجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (48) لسنة 2010 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن سندات الاقتراض والصكوك الإسلامية وغيرها التي تصدرها شركة الديار القطرية للتمويل (ش.م.ق)",
   "short_name": "مرسوم رقم (48) لسنة 2010 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن سندات الاقتراض والصكوك الإسلامية وغيرها ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3074&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3074&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضمن حكومة دولة قطر الالتزامات المالية الناشئة عن سندات الاقتراض والصكوك الإسلامية وغيرها من وسائل الاقتراض التي تصدرها شركة الديار القطرية للتمويل (ش.م.ق)، وذلك في حدود مبلغ إسمي لا يتجاوز (3,500,000,000) ثلاثة مليارات وخمسمائة مليون دولار أمريكي أو ما يعادلها بأي عملة أخرى."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُفوَّض وزير الاقتصاد والمالية، أو من ينيبه، في التوقيع على الوثائق والمستندات اللازمة لتقديم الضمان المشار إليه، وفي تنفيذه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

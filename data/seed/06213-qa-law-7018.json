@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (244) لسنة 2016 بتحديد أنواع المحال التجارية والصناعية والعامة المماثلة",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (244) لسنة 2016 بتحديد أنواع المحال التجارية والصناعية والعامة المماثلة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7018&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7018&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد أنواع المحال التجارية والصناعية والعامة المماثلة المبينة في المادة (2) من القانون رقم (5) لسنة 2015 المشار إليه، وفقاً للجداول المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى قرار وزير الشؤون البلدية رقم (8) لسنة 1979 المشار إليه، كما يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

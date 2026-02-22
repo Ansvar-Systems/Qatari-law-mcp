@@ -4,8 +4,33 @@
   "title": "قانون رقم (27) لسنة 2005 بتعديل بعض أحكام القانون رقم (25) لسنة 2004 بشأن مكافحة التستر على ممارسة غير القطريين للأنشطة التجارية والاقتصادية والمهنية بالمخالفة للقانون",
   "short_name": "قانون رقم (27) لسنة 2005 بتعديل بعض أحكام القانون رقم (25) لسنة 2004 بشأن مكافحة التستر على ممارسة غير القطريين للأنش...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=224&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=224&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 3 ) و( 5 ) من القانون رقم (25) لسنة 2004 المشار إليه النصان التاليان:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "«تنشأ بوزارة الاقتصاد والتجارة لجنة تسمى (لجنة مكافحة التستر)، يصدر بتشكيلها قرار من مجلس الوزراء. ويكون للجنة أمين سر يصدر بندبه وتحديد اختصاصاته قرار من الوزير»."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "«يكون لرئيس وأعضاء اللجنة، وموظفي وزارة الاقتصاد والتجارة الذين يصدر بتخويلهم صفة مأموري الضبط القضائي قرار من النائب العام، بالاتفاق مع الوزير، ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام هذا القانون، ولهم في سبيل ذلك حق دخول الأماكن والمحال والمنشآت التي يزاول فيها المخالف نشاطه وتفتيشها والاطلاع على مستنداتها وسجلاتها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار وزير العمل والشؤون الاجتماعية والإسكان رقم (1) لسنة 1994 بالموافقة على تعديل تسمية (لجنة قطر لمشروع كافل اليتيم) لتكون (جمعية قطر الخيرية)",
   "short_name": "قرار وزير العمل والشؤون الاجتماعية والإسكان رقم (1) لسنة 1994 بالموافقة على تعديل تسمية (لجنة قطر لمشروع كافل اليتيم)...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6085&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6085&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على تعديل تسمية (لجنة قطر لمشروع كافل اليتيم) لتصبح (جمعية قطر الخيرية)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يسجل الاسم الجديد ويشهر طبقاً لأحكام الفقرة (ب) من المادة ( 6 ) من القانون رقم (2) لسنة 1974 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

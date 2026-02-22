@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة 1986 بشأن عرض خطط ومشروعات التنمية على اللجنة الدائمة لحماية البيئة",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة 1986 بشأن عرض خطط ومشروعات التنمية على اللجنة الدائمة لحماية البيئة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1654&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1986.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1654&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعرض خطط ومشروعات التنمية الحكومية والأهلية أياً كان نوعها أو مكانها، بما في ذلك المشروعات الصناعية والزراعية و العمرانية، على اللجنة الدائمة لحماية البيئة قبل تنفيذها لمراجعتها وتقييمها وإقرارها للتأكد من التزامها بالأساليب العلمية والعملية للتخطيط البيئي السليم.\nوعلى الجهات المعنية عدم منح تراخيص تنفيذ هذه المشروعات إلا بعد إقرارها من اللجنة الدائمة لحماية البيئة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الوزارات والهيئات والمؤسسات العامة الحكومية والأهلية والأفراد، أن تقدم إلى اللجنة الدائمة لحماية البيئة جميع المعلومات والبيانات والدراسات التي ترى لزومها لمباشرة اختصاصها في إقرار خطط و مشروعات التنمية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

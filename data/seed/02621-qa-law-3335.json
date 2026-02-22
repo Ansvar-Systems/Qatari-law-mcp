@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (39) لسنة 2006 بتعديل بعض أحكام القرار رقم (28) لسنة 2005 بإنشاء اللجنة الطبية لوزارة الداخلية وتنظيم اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (39) لسنة 2006 بتعديل بعض أحكام القرار رقم (28) لسنة 2005 بإنشاء اللجنة الطبية لوزارة الداخلية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3335&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3335&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى المادة (2) من قرار مجلس الوزراء رقم (28) لسنة 2005 المشار إليه، بند برقم (7) نصه التالي:\n«7- أي اختصاصات أخرى تنص عليها القوانين واللوائح والقرارات، وأي مهام أخرى تكلف بها من قبل وزير الداخلية»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

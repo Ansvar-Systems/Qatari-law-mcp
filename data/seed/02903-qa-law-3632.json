@@ -4,8 +4,27 @@
   "title": "قرار وزير العمل والشئون الاجتماعية رقم (1) لسنة 1979 بنموذج النظام الأساسي للجمعيات التعاونية",
   "short_name": "قرار وزير العمل والشئون الاجتماعية رقم (1) لسنة 1979 بنموذج النظام الأساسي للجمعيات التعاونية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3632&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1979.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3632&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "‏يكون النظام الأساسي للجمعيات التعاونية وفقا للنموذج المرافق لهذا القرار، وعلى الجمعيات أن تحتذي بهذا النموذج."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "‏على الاتحادات التعاونية والجمعيات المركبة أن تحتذي بهذا النموذج ، بما لا يتعارض مع طبيعة تكوينها وأغراضها ونشاطها، مع مراعاة الأحكام التالية:\n‏أ- لا يجوز لها أن تقبل الأفراد بين أعضائها.\n‏ب- يجوز للجمعيات المنتمية إليها أن يكون لها ممثل أو أكثر في جمعياتها العمومية، أيا كان عدد الأسهم التي تملكها كل جمعية.\n‏جـ- يجوز لها أن تنتخب أعضاء مجالس إداراتها من بين أعضاء جمعياتها العمومية أومن باقي أعضاء الجمعيات التعاونية المنتمية إليها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "‏ينشر هذا القرار في الجريدة الرسمية، ويعمل به من تاريخ نشره."
+    }
+  ],
   "definitions": []
 }

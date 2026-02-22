@@ -4,8 +4,21 @@
   "title": "قرار رقم (76) لسنة 2008 بتخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (76) لسنة 2008 بتخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3880&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3880&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الشؤون البلدية والزراعة التالية أسمائهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (8) لسنة 1990 والقرارات المنفذة له وهم:\nم\nالإسم\nجهة العمل\n1\nالسيد/ زياد عيسى الشداد\nبلدية الريان\n2\nالسيد/ مزمل محمد خليفة\nبلدية الريان\n3\nالسيد/ تامر حسن عثمان\nبلدية الريان\n4\nالسيد/ انتصار فضل أحمد\nبلدية الريان\n5\nالسيد/ محمود رفيق العبد الرزاق\nبلدية أم صلال\n6\nالسيد/ صلاح محمد على الأمين\nبلدية أم صلال\n7\nالسيد محمود محمد محمد\nإدارة الثروة الحيوانية\n8\nالسيد/ صالح مهدي هاشم\nإدارة الثروة الحيوانية\n9\nالسيد/ أسامة خلف الله العوض\nإدارة الثروة الحيوانية\n10\nالسيد/ أشرف عبد الخالق والي\nبلدية الضعاين"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

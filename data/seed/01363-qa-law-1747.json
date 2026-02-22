@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (9) لسنة 2000 بإعادة تشكيل لجنة معادلة الشهادات الدراسية",
   "short_name": "قرار مجلس الوزراء رقم (9) لسنة 2000 بإعادة تشكيل لجنة معادلة الشهادات الدراسية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1747&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1747&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل لجنة معادلة الشهادات الدراسية بوزارة التربية والتعليم والتعليم العالي على النحو التالي:\n1- مساعد وكيل الوزارة للتخطيط التربوي والمناهج بالوزارة\nرئيساً\n2- مدير إدارة الامتحانات وشؤون الطلاب بالوزارة\nعضواً\n3- مدير إدارة البعثات الدراسية بالوزارة\nعضواً\n4- عميد كلية العلوم بجامعة قطر\nعضواً\n5- عميد كلية التربية بجامعة قطر\nعضواً\n6- طبيب من وزارة الصحة العامة يرشحه وزير الصحة العامة\nعضواً\n7- مهندس من وزارة الشؤون البلدية والزراعة، يرشحه وزير الشؤون البلدية والزراعة\nعضواً\n8- مدير إدارة التنظيم وتخطيط القوى العاملة بوزارة شؤون الخدمة المدنية والإسكان\nعضواً\nويتولى أمانة سر اللجنة رئيس قسم معادلة الشهادات الدراسية بوزارة التربية والتعليم والتعليم العالي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتقاضى كل من رئيس وأعضاء اللجنة مكافأة شهرية قدرها (1000) ألف ريال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى قرار مجلس الوزراء رقم (4) لسنة 1997 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

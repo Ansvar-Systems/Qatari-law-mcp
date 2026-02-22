@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (22) لسنة 1994 بتعديل بعض أحكام القانون رقم (3) لسنة 1963 بتنظيم دخول وإقامة الأجانب في قطر",
   "short_name": "مرسوم رقم (22) لسنة 1994 بتعديل بعض أحكام القانون رقم (3) لسنة 1963 بتنظيم دخول وإقامة الأجانب في قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=988&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=988&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص الفقرة (1) من المادة (28) من القانون رقم (3) لسنة 1963 المشار إليه النص التالي:\n«(1) - يعاقب بالحبس مدى لا تقل عن سنة واحدة ولا تزيد على ثلاث سنوات، وبغرامة لا تقل عن عشرة آلاف ريال ولا تجاوز خمسين ألف ريال، أو بإحدى هاتين العقوبتين، كل من خالف أحكام المواد (1) ، (2) ، (4) ، (5) ، (6) ، (8) ، (9) ، (10) ، (11) ، (15) ، (16) ، (17) ، (18) ، (19) البندين (2,1)، (22) ، (23) من هذا القانون، أو أحكام اللوائح والقرارات المنفذة لهذه المواد.\nوفي جميع الأحوال، يحكم بمصادرة وسيلة النقل المستعملة في ارتكاب الجريمة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

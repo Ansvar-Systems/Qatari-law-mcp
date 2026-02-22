@@ -4,8 +4,21 @@
   "title": "قرار رقم (72) لسنة 2012 بشأن تخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (72) لسنة 2012 بشأن تخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4903&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4903&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي المؤسسة العامة القطرية للكهرباء والماء (كهرماء) التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لإحكام القانون رقم (26) لسنة 2008 ، المُشار إليه، والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1.\nفهد سعود الحنزاب.\n22525\nرئيس قسم الضبطية القضائية\n2.\nسالم عبدالله سعيد بن نورة.\n20866\nمفتش\n3.\nعيسى عبدالرحمن يوسف السبيعي.\n22736\nمفتش\n4.\nعيسى مبارك عبدالله السبيعي.\n22722\nمفتش\n5.\nفهد محمد جاسم الشملان.\n22685\nمفتش\n6.\nناصر سلطان ناصر الهاجري.\n22804\nمفتش"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

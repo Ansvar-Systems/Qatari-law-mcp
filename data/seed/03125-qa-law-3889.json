@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل رقم (7) لسنة 1981 دولة قطر شهادة تسجيل ‏(جمعية الغويرية التعاونية الاستهلاكية)",
   "short_name": "شهادة تسجيل رقم (7) لسنة 1981 دولة قطر شهادة تسجيل ‏(جمعية الغويرية التعاونية الاستهلاكية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3889&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1981.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3889&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل رقم (7) لسنة 1981\nدولة قطر\nشهادة تسجيل ‏(جمعية الغويرية التعاونية الاستهلاكية)\nشهادة تسجيل رقم (7) لسنة 1981\nدولة قطر\nشهادة تسجيل ‏(جمعية الغويرية التعاونية الاستهلاكية) 7 / 1981\n‏أشهد أن جمعية الغويرية التعاونية الاستهلاكية - محدودة المسئولية قد سجلت تحت رقم (7) ‏بموجب قانون الجمعيات التعاونية رقم (12) لسنة 1973م في اليوم الخامس من شهر رجب لسنة 1401هـ الموافق التاسع من شهر مايو (أيار) لسنة 1981 م."
+    }
+  ],
   "definitions": []
 }

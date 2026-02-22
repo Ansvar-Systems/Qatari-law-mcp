@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (148) لسنة 2005م بشأن اعتماد بعض المواصفات القياسية الخليجية كمواصفات قياسية قطرية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (148) لسنة 2005م بشأن اعتماد بعض المواصفات القياسية الخليجية كمواصفات قياسية قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1846&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1846&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعتمد المواصفات القياسية الخليجية المبين ملخصاتها في الجداول أرقام (1، 2، 3، 4، 5، 6) المرفقة بهذا القرار كمواصفات قياسية قطرية حسب البيانات الموضحة قرين كل منها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تلغى المواصفات القياسية القطرية الموضحة بالجدول رقم (7) المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به بعد ستة أشهر من تاريخ نشره بالجريدة الرسمية بالنسبة للمواصفات القياسية القطرية المبينة بالجداول أرقام (1، 3، 5، 6) المرفقة بهذا القرار، ومن تاريخ نشره في الجريدة الرسمية بالنسبة للمواصفات القطرية المبينة بالجداول أرقام (2، 4، 7) المرفقة بهذا القرار."
+    }
+  ],
   "definitions": []
 }

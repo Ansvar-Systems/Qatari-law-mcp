@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (21) لسنة 2003 بتأسيس شركة (بلكسكو) لسحب الألمنيوم",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (21) لسنة 2003 بتأسيس شركة (بلكسكو) لسحب الألمنيوم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1940&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1940&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تؤسس شركة مساهمة قطرية خاصة تسمى «شركة بلكسكو قطر لسحب الألمنيوم»\nبالإشتراك بين:\n1- مصرف قطر الإسلامي\nقطرية\n2- شركة البحرين لسحب الألمنيوم\nبحرينية\n3- سعيد عبد الهادي مبارك الخيارين\nقطري\n4- علي محمد علي العبيدلي\nقطري\n5- نبيل محمد هادي عبد القادر\nبحريني\n6- علي محمد العباسي\nبحريني\nوذلك بحسب نسبة كل منهم والواردة في المادة (7) من عقد التأسيس المشار إليه، وبرأسمال قدره (5000,000) خمسة مليون ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي ، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه تنفيذ هذا القرار. ويعمل به من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

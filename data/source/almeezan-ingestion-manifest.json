@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T21:58:33.353Z",
+  "generated_at": "2026-02-22T07:30:57.481Z",
   "source": {
     "portal": "https://www.almeezan.qa",
     "english_index": "https://www.almeezan.qa/EnglishLawsList.aspx",
@@ -10,7 +10,7 @@
     "skip_fetch": false,
     "refresh": false,
     "limit": null,
-    "ar_metadata_only": true
+    "ar_metadata_only": false
   },
   "summary": {
     "seed_files_written": 9428,
@@ -29,8 +29,8 @@
     "listed_laws_discovered": 9384,
     "written": 9384,
     "fetch_failed": 0,
-    "textless_written": 9384,
-    "total_provisions": 0,
-    "total_definitions": 0
+    "textless_written": 0,
+    "total_provisions": 68690,
+    "total_definitions": 4
   }
 }

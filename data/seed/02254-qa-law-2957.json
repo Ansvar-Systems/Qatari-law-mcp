@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (141) لسنة 1972 بالمصادقة على ميثاق التضامن الإسلامي",
   "short_name": "مرسوم رقم (141) لسنة 1972 بالمصادقة على ميثاق التضامن الإسلامي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2957&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1972.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2957&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يصادق على ميثاق التضامن الإسلامي الذي أقره وزراء خارجية الدول الإسلامية المنعقد بجدة في الفترة من 14 محرم 1392هـ (29 فبراير 1972م) إلى 19 محرم 1392هـ (4 مارس 1972م)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

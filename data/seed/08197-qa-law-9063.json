@@ -4,8 +4,21 @@
   "title": "قرار رقم (149) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (149) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9063&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9063&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانونين رقمي (4) لسنة 1985 و (29) لسنة 2006 المشار إليهما أعلاه، والقرارات المنفذة لهما وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nجابر خلف علي التميمي\nرئيس قسم مناطق الخدمات المساندة\n2\nأحمد المؤيد خالد عوض\nمهندس انشاءات ثالث\n3\nعمرو محمود مسعد صقر\nمراقب إسكان ثاني\n4\nراشد عبدالهادى على المرى\nأخصائي متابعة أول\n5\nابراهيم ازهرى عبدالله محمد\nمهندس مساحة ثالث\n6\nيوسف احمد اعبيد السالم\nمراقب رخص بناء رابع\n7\nعبدالله كليب مبارك الكوارى\nمشرف تفتيش أملاك دولة أول\n8\nرمضان عبد رمضان محمد\nمساح\n9\nعبدالله عثمان نعسان\nمهندس مدني ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

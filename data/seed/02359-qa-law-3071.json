@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (46) لسنة 1978 بالتصديق على اتفاق إنشاء شركة طيران الخليج",
   "short_name": "مرسوم رقم (46) لسنة 1978 بالتصديق على اتفاق إنشاء شركة طيران الخليج",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3071&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1978.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3071&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاق إنشاء شركة طيران الخليج الموقع في مدينة الدوحة بتاريخ 24 جمادى الأولى سنة 1398هـ، الموافق أول مايو سنة 1978م، والنظام الأساسي الملحق به، المرفق نصهما بهذا المرسوم. ويكون لهما قوة القانون وفقا للمادة (24) من النظام الأساسي المؤقت المعدل المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

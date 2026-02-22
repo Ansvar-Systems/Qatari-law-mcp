@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل لسنة 1991 لجمعية ابو بكر الصديق التعاونية الاستهلاكية",
   "short_name": "شهادة تسجيل لسنة 1991 لجمعية ابو بكر الصديق التعاونية الاستهلاكية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3945&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3945&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل لسنة 1991 لجمعية ابو بكر الصديق التعاونية الاستهلاكية\nشهادة تسجيل لسنة 1991 لجمعية ابو بكر الصديق التعاونية الاستهلاكية 0 / 1991\nأشهد أن جمعية أبو بكر الصديق التعاونية الاستهلاكية محدودة المسؤولية قد سجلت تحت رقم 12 بموجب قانون الجمعيات التعاونية رقم (12) لسنة 1973 في اليوم الرابع والعشرين من جمادي الثانية 1411هـ الموافق العاشر من يناير 1991م.\nوزير العمل والشؤون الاجتماعية والإسكان"
+    }
+  ],
   "definitions": []
 }

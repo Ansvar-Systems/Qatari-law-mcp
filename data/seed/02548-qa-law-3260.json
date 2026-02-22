@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (28) لسنة 2010 بتعديل بعض أحكام القرار رقم (26) لسنة 2003 بشأن اللجنة الدائمة للاستقدام",
   "short_name": "قرار مجلس الوزراء رقم (28) لسنة 2010 بتعديل بعض أحكام القرار رقم (26) لسنة 2003 بشأن اللجنة الدائمة للاستقدام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3260&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3260&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارة «وزارة العمل» بعبارة «وزارة العمل والشؤون الاجتماعية»، أينما وردت في قرار مجلس الوزراء رقم (26) لسنة 2003 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة (2) من قرار مجلس الوزراء رقم (26) لسنة 2003 المشار إليه، النص التالي:\n«تُشكل اللجنة على النحو التالي:\n- ممثلين اثنين عن وزارة العمل يكون أحدهما رئيساً للجنة.\n- ممثلين اثنين عن وزارة الداخلية يكون أحدهما نائباً للرئيس.\n- ممثل عن وزارة الطاقة والصناعة.\n- ممثل عن وزارة الاقتصاد والمالية.\n- ممثل عن وزارة الأعمال والتجارة.\n- ممثل عن غرفة تجارة وصناعة قطر.\nوتختار كل جهة من يمثلها في اللجنة، ويصدر بتسمية رئيس ونائب رئيس وأعضاء اللجنة قرار من وزير العمل.\nوتكون مدة عضوية اللجنة ثلاث سنوات قابلة للتجديد لمدة أو لمدد أخرى مماثلة.»"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

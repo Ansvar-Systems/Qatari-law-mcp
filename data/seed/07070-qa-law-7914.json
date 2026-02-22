@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (1) لسنة 2019 بتعديل الاستثناءات على بعض المحررات والمستندات المنصوص عليها في قانون المعاملات والتجارة الالكترونية الصادر بالمرسوم بقانون رقم (16) لسنة 2010",
   "short_name": "قرار مجلس الوزراء رقم (1) لسنة 2019 بتعديل الاستثناءات على بعض المحررات والمستندات المنصوص عليها في قانون المعاملات و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7914&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7914&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحذف الاستثناءان المنصوص عليهما في البندين رقمي (2، 3) من المادة ( 3 ) من قانون المعاملات والتجارة الالكترونية المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

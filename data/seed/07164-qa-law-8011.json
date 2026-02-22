@@ -4,8 +4,21 @@
   "title": "قرار رقم (89) لسنة 2019 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (89) لسنة 2019 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8011&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8011&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المشار إليها وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nد.عبدالباسط ابراهيم بشير\nطبيب بيطري\n2\nمنصور محمد يوسف الهاجري\nفني بيطري رابع\n3\nأحمد عبدالله أحمد الملا\nفني بيطري رابع\n4\nفيصل عبدالهادي سالم المري\nمراقب حظائر ثاني\n5\nراشد حمد خالد البحيح المري\nمنسق خدمة العملاء ثالث\n6\nحمد محمد عبدالله المري\nمراقب مزارع\n7\nخليفة جاسم محمد الفهد الكواري\nمساعد مراقب بيئي\n8\nمحمد سعيد علي القاضي\nمراقب نقليات أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

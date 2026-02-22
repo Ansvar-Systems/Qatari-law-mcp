@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (41) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (15) لسنة 1997 بإنشاء لجنة الشكاوي والتعويضات بوزارة الشؤون البلدية والزراعة",
   "short_name": "قرار مجلس الوزراء رقم (41) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (15) لسنة 1997 بإنشاء لجنة الشكاوي والتعو...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1637&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1637&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 8 ) من قرار مجلس الوزراء رقم (15) لسنة 1997 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "«يتقاضى كل من رئيس وأعضاء اللجنة مكافأة شهرية مقدارها (4000) أربعة آلاف ريال، وإذا تخلف أي منهم عن حضور أحد الاجتماعات خصم منه مبلغ (600) ستمائة ريال عن كل اجتماع يتخلف عنه.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

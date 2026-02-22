@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (3) لسنة 2000 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1998 بإنشاء اللجنة القطرية الدائمة لدعم القدس",
   "short_name": "قرار أميري رقم (3) لسنة 2000 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1998 بإنشاء اللجنة القطرية الدائمة لدعم القدس",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=742&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=742&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين باللجنة القطرية الدائمة لدعم القدس كل من:\n1- السيد/سعود عمر المانع عن جمعية الهلال الأحمر القطري، عضواً باللجنة بدلاً من السيد/حسن راشد السويدي.\n2- السيد/محمد علي المالكي مقرراً للجنة بدلاً من السيد/محمد عبد الكريم الشافعي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

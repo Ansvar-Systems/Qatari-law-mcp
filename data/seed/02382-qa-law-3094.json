@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (55) لسنة 1978 بالتصديق على اتفاقية الكويت الإقليمية للتعاون في حماية البيئة البحرية من التلوث والبروتوكول الخاص بالتعاون الإقليمي في مكافحة التلوث بالزيت والمواد الضارة الأخرى في الحالات الطارئة",
   "short_name": "مرسوم رقم (55) لسنة 1978 بالتصديق على اتفاقية الكويت الإقليمية للتعاون في حماية البيئة البحرية من التلوث والبروتوكول...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3094&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1978.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3094&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية الكويت الإقليمية للتعاون في حماية البيئة البحرية من التلوث والبروتوكول الخاص بالتعاون الإقليمي في مكافحة التلوث بالزيت والمواد الضارة الأخرى في الحالات الطارئة الملحق بها والموقعين في الكويت بتاريخ 24 ابريل 1978، المرفق نصهما بهذا المرسوم. ويكون لهما قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

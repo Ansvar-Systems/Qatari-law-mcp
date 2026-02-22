@@ -4,8 +4,21 @@
   "title": "قرار رقم (141) لسنة 2011 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (141) لسنة 2011 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3563&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3563&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (4) لسنة 1985 المُشار إليه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nحمد راشد علي المناعي\nمراقب أراضي مساعد\n2\nمحمد جاسم صالح الكواري\nكاتب شؤون إدارية\n3\nمبارك عبد الله مبارك الهاجري\nرئيس قسم التنفيذ والمتابعة\n4\nمحمد محسن صالح البرني\nمندوب متابعة\n5\nمحمد ماجد آل سعد الكواري\nموظف متابعة\n6\nناصر عبد الله علي حسن\nكاتب متابعة\n7\nعبد الله ربيعة سلطان الكواري\nموظف متابعة\n8\nأحمد عبد الله جمعة المريخي\nموظف متابعة\n9\nمحمد صالح حمد البديوي\nكاتب متابعة\n10\nعايض خجيم سالم العذبه (ملغي)\nضابط أول\n11\nحزام ناصر راشد المجارح\nمراقب أراضي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

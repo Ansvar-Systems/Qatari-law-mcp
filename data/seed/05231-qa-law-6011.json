@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (6) لسنة 2001 بمنح مكافأة لرئيس وأعضاء مجلس إدارة كلية قطر التقنية",
   "short_name": "قرار مجلس الوزراء رقم (6) لسنة 2001 بمنح مكافأة لرئيس وأعضاء مجلس إدارة كلية قطر التقنية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6011&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6011&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمنح رئيس وأعضاء مجلس إدارة كلية قطر التقنية مكافأة سنوية على النحو التالي:\n(50,000) خمسون ألف ريال للرئيس.\n(40,000) أربعون ألف ريال لكل عضو من الأعضاء."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به إعتباراً من 1/4/2000. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

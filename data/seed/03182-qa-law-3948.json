@@ -4,8 +4,15 @@
   "title": "اعلان عن تسجيل جمعية مدينة خليفة التعاونية",
   "short_name": "اعلان عن تسجيل جمعية مدينة خليفة التعاونية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3948&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3948&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "اعلان عن تسجيل جمعية مدينة خليفة التعاونية\nاعلان عن تسجيل جمعية مدينة خليفة التعاونية 0 / 1974"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار رئيس قطر للسياحة رقم (1) لسنة 2021 باعتبار بيوت العطلات من المنشآت الفندقية",
   "short_name": "قرار رئيس قطر للسياحة رقم (1) لسنة 2021 باعتبار بيوت العطلات من المنشآت الفندقية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8725&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8725&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتبر بيوت العطلات من المنشات الفندقية، وفقاً لأحكام القانون رقم (20) لسنة 2018 المشار إليه، وتسري عليها أحكامه"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُقصد ببيوت العطلات المنصوص عليها في المادة السابقة، الوحدات السكنية المفروشة والمعدة للإقامة، والمُزودة بالمرافق، سواء كانت من الغرف أو الشقق أو البيوت أو الفلل أو المخيمات، ويتم تأجيرها كوحدة كاملة أو مجزأة بشكل يومي أو أسبوعي أو أي مدة مؤقتة لا تزيد على ثلاثين يوماً متتالية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع مالكي بيوت العطلات القائمة، توفيق أوضاعهم وفقاً لأحكام القانون رقم (20) لسنة 2018 المشار إليه، خلال مدة لا تتجاوز ثلاثة أشهر من تاريخ العمل بهذا القرار"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخُصّه، تنفيذ هذا القرار ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

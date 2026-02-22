@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (69) لسنة 2003 بإعادة تشكيل مجلس إدارة الهيئة العامة للسياحة",
   "short_name": "قرار أميري رقم (69) لسنة 2003 بإعادة تشكيل مجلس إدارة الهيئة العامة للسياحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=808&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=808&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل مجلس إدارة الهيئة العامة للسياحة، على النحو التالي:\n1- السيد/أكبر الباكر رئيساً\n2- السيد/سعد إبراهيم آل محمود نائباً للرئيس\n3- السيد/محمد عبد الكريم المير عضواً\n4- السيد/ناصر أحمد المالكي عضواً\n5- السيد/إبراهيم عبد الرحيم يوسف السيد عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة المجلس ثلاث سنوات تبدأ من تاريخ العمل بهذا القرار، ويتولى أعضاء المجلس عملهم فيه بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى القرار الأميري رقم (22) لسنة 2003 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

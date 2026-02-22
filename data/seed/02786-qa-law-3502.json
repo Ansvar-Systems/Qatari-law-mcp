@@ -4,8 +4,21 @@
   "title": "قرار رقم (117) لسنة 2010 بشأن تخويل بعض موظفي وزارة الشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (117) لسنة 2010 بشأن تخويل بعض موظفي وزارة الشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3502&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3502&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الشؤون الاجتماعية التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (12) لسنة 2004 بشأن الجمعيات والمؤسسات الخاصة، والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nعبدالله محمد الودعاني\nمراقب\n2\nغانم ماجد العلي\nمراقب\n3\nمحمد جاسم سيف\nمراقب\n4\nمبارط صالح المهندي\nمراقب جمعيات ومؤسسات\n5\nمحمد سعيدان الراشدي\nمراقب\n6\nعبد الرحمن مبارك الكبيسي\nسكرتير\n7\nأحمد حسين المالكي\nمحاسب\n8\nأمينة عبدالله الحرم\nباحث شؤون مالية أول\n9\nخالد صادق الأنصاري\nمحاسب أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُلٍ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (17) لسنة 2013 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (17) لسنة 2013 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4710&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4710&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة الآتية أسماؤهم في الوظيفة المبينة قرين اسم كل منهم:\n1- السيد/ ناصر عيسى علي الخليفي\nقاضياً بمحكمة الاستئناف.\n2- السيد/ خليفة مبارك خليفة العسيري\nرئيساً بالمحكمة الابتدائية.\n3- السيد/ ناصر أحمد منصور السعدي\nرئيساً بالمحكمة الابتدائية.\n4- السيد/ فهد محمد راشد المناعي\nرئيساً بالمحكمة الابتدائية.\n5- السيد/ حارب راشد حارب محمد المهندي\nرئيساً بالمحكمة الابتدائية.\n6- الشيخة/ مها منصور سلمان جاسم آل ثاني\nقاضياً بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

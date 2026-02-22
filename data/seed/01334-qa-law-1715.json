@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (7) لسنة 1990 بإنشاء بلدية إمسيعيد",
   "short_name": "قرار مجلس الوزراء رقم (7) لسنة 1990 بإنشاء بلدية إمسيعيد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1715&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1990.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1715&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ بلدية لمدينة إمسيعيد، تكون لها الشخصية المعنوية، وتتبع وزارة الشؤون البلدية والزراعة، ويصدر بالحدود الجغرافية والقرى التابعة لها قرار من وزير الشؤون البلدية والزراعة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص بلدية إمسيعيد بالمسائل المبينة في المادة (13) من القانون رقم (11) لسنة 1963 المعدلة بالمرسوم بالقانون رقم (13) لسنة 1968 داخل حدودها الجغرافية وفي القرى التابعة لها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تواجه المصروفات المطلوبة لقيام بلدية إمسيعيد بواجباتها في السنة المالية الحالية، من الإحتياطي العام للدولة، وفقاً للإجراءات المقررة قانونا.ً"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

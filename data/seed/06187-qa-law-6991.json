@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (29) لسنة 2016 بمد خدمة قضاة بالمحاكم",
   "short_name": "مرسوم رقم (29) لسنة 2016 بمد خدمة قضاة بالمحاكم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6991&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6991&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمد خدمة السادة القضاة التالية أسماؤهم، الذين بلغوا سن التقاعد خلال العام القضائي 2015/2016، وذلك لمدة سنتين:\n1- السيد/ كمال جابر بندر، القاضي بمحكمة التمييز.\n2- السيد/ أحمد عبدالمنعم أحمد أبوالسعود، القاضي بمحكمة الاستئناف.\n3- السيد/ الهادي عباس عبدالله محمد، القاضي بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من 1/7/2016. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

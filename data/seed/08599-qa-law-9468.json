@@ -4,8 +4,27 @@
   "title": "قانون رقم (1) لسنة‏ 2024 بتعديل بعض أحكام قانون التجارة الصادر بالقانون رقم (27) لسنة 2006",
   "short_name": "قانون رقم (1) لسنة‏ 2024 بتعديل بعض أحكام قانون التجارة الصادر بالقانون رقم (27) لسنة 2006",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9468&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9468&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (585) من قانون التجارة المشارإليه، النص التالي :"
+    },
+    {
+      "provision_ref": "art585",
+      "section": "585",
+      "title": "Article (585)",
+      "content": "\"إذا كان مقابل الوفاء أقل من مبلغ الشيك فعلى المسحوب عليه الوفاء الجزئي بالقدر الموجود لديه، ما لم يرفض الحامل ذلك، وعلى المسحوب عليه في حال الوفاء الجزئي أن يؤشر عن كل إيفاء جزئي على ظهر الشيك بما يفيد ذلك وأن يسلم الحامل أصل الشيك وشهادة بهذا الإيفاء، ويثبت للحامل حق الرجوع بالباقي بهذه الشهادة ويأصل الشيك المؤشرعليه"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه تنفيذ هذا القانون وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

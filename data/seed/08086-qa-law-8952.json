@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (33) لسنة 2022 بالتصديق على اتفاق بين الأمم المتحدة ممثلـة بمكتب الممثلة الخاصة للأمين العام المعنية بالأطفال والنزاع المسلح ودولة قطر",
   "short_name": "مرسوم رقم (33) لسنة 2022 بالتصديق على اتفاق بين الأمم المتحدة ممثلـة بمكتب الممثلة الخاصة للأمين العام المعنية بالأطف...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8952&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8952&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاق بين الأمم المتحدة ممثلةً بمكتب الممثلة الخاصة للأمين العام المعنية بالأطفال والنزاع المسلح (مكتب الممثلة الخاصة) ودولة قطر بشأن إنشاء مركز التحليل والتواصل التابع لمكتب الممثلة الخاصة للأمين العام المعنية بالأطفال والنزاع المسلح في دولة قطر، المُوقع بمدينة الدوحة بتاريخ 15/12/2019، المُرفق نصه بهذا المرسوم، وتكون له قوة القانون، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (2) لسنة 1999 بتأسيس الشركة المتحدة للتنمية (شركة مساهمة قطرية)",
   "short_name": "مرسوم رقم (2) لسنة 1999 بتأسيس الشركة المتحدة للتنمية (شركة مساهمة قطرية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1031&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1031&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص لـ:\n1- الشيخ/ حمد بن جاسم بن جبر آل ثاني\nقطري.\n2- السادة/ مجموعة شركات الفردان\nقطرية.\n3- السادة/ شركة الانشاءات الإنمائية\nقطرية.\n4- السيد/ عبد الله بن خليفة العطية\nقطري.\n5- السيد/ عبد الله إبراهيم المناعي\nقطري.\n6- الشيخ/ ناصر بن فالح آل ثاني\nقطري.\n7- السيد/ عبد الرحمن عبد الله عبد الغني\nقطري.\n8- السادة/ البنك التجاري القطري\nقطرية.\n9- السيد/ محمد حمد المانع\nقطري.\nفي أن يُؤسسوا في قطر شركة مساهمة قطرية تُسمى (الشركة المتحدة للتنمية) برأسمال قدره (500,000,000) خمسمائة مليون ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الإلتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفق صورة من كل منهما بهذا المرسوم. وعليهم الالتزام بأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

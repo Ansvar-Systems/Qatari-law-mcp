@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (40) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (66) لسنة 2005 بتشكيل مجلس أمناء هيئة متاحف قطر",
   "short_name": "قرار أميري رقم (40) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (66) لسنة 2005 بتشكيل مجلس أمناء هيئة متاحف قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2834&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2834&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى تشكيل مجلس أمناء هيئة متاحف قطر كل من:\n1- سعادة الشيخة/ حصة بنت خليفة بن حمد آل ثاني.\n2- سعادة الشيخ/ عبد الرحمن بن سعود بن فهد آل ثاني.\n3- سعادة الدكتور/ محمد عبد الرحيم كافود."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

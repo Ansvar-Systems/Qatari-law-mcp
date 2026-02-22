@@ -4,8 +4,27 @@
   "title": "قرار وزير الطاقة والصناعة رقم (5) لسنة 2013 بتعديل بعض أحكام القرار رقم (4) لسنة 2012، بإنشاء أقسام فى الوحدات الإدارية التي تتألف منها المؤسسة العامة القطرية للكهرباء والماء \"كهرماء\" وتعيين إختصاصاتها",
   "short_name": "قرار وزير الطاقة والصناعة رقم (5) لسنة 2013 بتعديل بعض أحكام القرار رقم (4) لسنة 2012، بإنشاء أقسام فى الوحدات الإدار...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4684&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4684&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى قرار وزير الطاقة والصناعة، رقم (4) لسنة 2012 المشار إليه، النصوص التالية:"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article (17)",
+      "content": "مكرراً 2):\n\"يختص قسم التراخيص بما يلي:\n1. وضع شروط وإجراءات الحصول على التراخيص.\n2. دراسة طلبات التبريد وإصدار التراخيص الخاصة بها.\n3. اقتراح رسوم التراخيص.\n4. تحديد مناطق خدمات التبريد من خلال إجراء مسح ميداني.\n5. مراقبة الالتزام بالمواصفات والمقاييس.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

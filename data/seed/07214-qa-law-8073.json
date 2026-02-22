@@ -4,8 +4,21 @@
   "title": "قرار وزير الصحة العامة رقم (8) لسنة 2019 بتفويض المدير الطبي لمركز سدرة للطب والبحوث في الموافقة على تشريح الجثث الآدمية لأسباب مرضية",
   "short_name": "قرار وزير الصحة العامة رقم (8) لسنة 2019 بتفويض المدير الطبي لمركز سدرة للطب والبحوث في الموافقة على تشريح الجثث الآد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8073&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8073&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يفوض المدير الطبي لمركز سدرة للطب والبحوث في الموافقة على تشريح الجثث الآدمية لأسباب مرضية، في حالة تعذر معرفة سبب الوفاة بوسائل الفحص السريري والمخبري والإشعاعي والتحليل الطبي، بعد الحصول على موافقة ذوي المتوفى."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

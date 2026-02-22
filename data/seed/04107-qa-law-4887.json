@@ -4,8 +4,21 @@
   "title": "قرار مدير عام وكالة الأنباء القطرية رقم (57) لسنة 2012 بتحديد رسوم الخدمات الإخبارية التي تقدمها وكالة الأنباء القطرية",
   "short_name": "قرار مدير عام وكالة الأنباء القطرية رقم (57) لسنة 2012 بتحديد رسوم الخدمات الإخبارية التي تقدمها وكالة الأنباء القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4887&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4887&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد رسوم الخدمات الإخبارية التي تقدمها وكالة الأنباء القطرية للجهات الحكومية والخاصة، داخل الدولة أو خارجها، على النحو التالي:\nأولاً: الخدمات المقدمة لوكالات الأنباء الأجنبية:\n(3500) ريال شهرياً، أو ما يعادلها بالعملات الأجنبية\nثانياً: الخدمات المقدمة لوكالات الأنباء العربية:\n(1000) ريال شهرياً، أو ما يعادلها بالعملات الأجنبية.\nثالثاً: خدمات وكالة الأنباء القطرية:\n1) باللغة العربية (1000) ريال شهرياً، أو ما يعادلها بالعملات الأجنبية.\n2) باللغة الإنجليزية (1000) ريال شهرياً، أو ما يعادلها بالعملات الأجنبية.\n3) الخدمات المصورة (1000) ريال شهرياً، أو ما يعادلها بالعملات الأجنبية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

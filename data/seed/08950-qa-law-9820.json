@@ -4,8 +4,27 @@
   "title": "قانون رقم (21) لسنة 2024 بتعديل بعض أحكام القانون رقم (15) لسنة 2011 بشأن مكافحة الاتجار بالبشر",
   "short_name": "قانون رقم (21) لسنة 2024 بتعديل بعض أحكام القانون رقم (15) لسنة 2011 بشأن مكافحة الاتجار بالبشر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9820&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9820&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف إلى القانون رقم (15) لسنة 2011 المشار إليه ، النصوص التالية :\nمادة (5/ فقرة ثانية) :\n&laquo;وتتحمل وزارة الداخلية أية نفقات تترتب على إعادة المجني عليهم &raquo;\nمادة (6/ بندين 8، 9) :\n&laquo;8 - اتخاذ الإجراءات اللازمة لتقنين وضعهم في الدولة، بالتنسيق مع الجهات المختصة .\n9 - الإيداع بأحد المراكز المختصة بالإيواء أو التأهيل أو لدى جهة معتمدة تتـعـهـد بتوفير سكن لهم في حالة حاجتهم لذلك.&raquo;"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article (26)",
+      "content": "مكرراً)\n&laquo;استثناءً من أحكام قانون الإجراءات الجنائية المشار إليه ، تكون مدة احـتـجـاز من يُسـنـد إليه ارتكاب فعل من الأفعال المتعلقة بجرائم الاتجار بالبشر وتهريب المهاجرين ، أربعة أيام على الأكثر قبل عرضه على النيابة العامة ، ويكون الأمر الصادر بالحبس الاحتياطي من النيابة العامة ، بعد استجواب المتهم ، لمدة أربعة عشر يوماً يجوز مـدهـا لمدة أخرى مماثلة&raquo;."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه ، تنفيذ هذا القانون . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

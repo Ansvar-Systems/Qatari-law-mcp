@@ -4,8 +4,21 @@
   "title": "قرار رقم (120) لسنة 2005م بتخويل بعض موظفي الهيئة القطرية للأعمال الخيرية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (120) لسنة 2005م بتخويل بعض موظفي الهيئة القطرية للأعمال الخيرية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1804&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1804&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي الهيئة القطرية للأعمال الخيرية، التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (13) لسنة 2004 المشار اليه وهم:-\n1- السيد/ ناجي عبدربهُ علي عبدالله العجي.\n2- السيد/ عبدالله حامد عبدالله علي الملا.\n3- السيد/ طلال صباح مبارك العبدالله.\n4- السيد/ يوسف أحمد علي البنعلي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

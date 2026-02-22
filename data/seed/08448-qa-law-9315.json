@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (25) لسنة 2023 بتعيين مساعد لمدير مكتب رئيس مجلس الوزراء",
   "short_name": "قرار رئيس مجلس الوزراء رقم (25) لسنة 2023 بتعيين مساعد لمدير مكتب رئيس مجلس الوزراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9315&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9315&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن السيّد/ عبدالله عيد خميس أحمد السليطي، مساعداً لمدير مكتب رئـيس مجلس الوزراء للشؤون الخارجية، بالإضافة إلى عمله."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يُخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، تنفيذ هذا القرار. ويُعمل به من تـاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (135) لسنة 2011 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (135) لسنة 2011 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3547&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3547&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (3) لسنة 1975 المُشار إليه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nجاسم نجم علي أحمد الخليفي\nأمين مخزن أول\n2\nعبد الله حمد عبد الله آل خليفة\nباحث شؤون مالية أول\n3\nراشد محمد غالب الدوسري\nإداري أملاك دولة\n4\nجار الله جابر حمد البريدي\nمراقب أمن مساعد\n5\nناصر حمد عبد الله آل خليفة\nأخصائي شؤون إدارية أول\n6\nمحمد منصور مبارك الخيارين\nمراقب أسواق\n7\nسعود فيصل راشد النعيمي\nمراقب أسواق"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

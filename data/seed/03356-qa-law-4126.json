@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (28) لسنة 2011 بتشكيل مجلس إدارة اللجنة العليا لقطر 2022",
   "short_name": "قرار أميري رقم (28) لسنة 2011 بتشكيل مجلس إدارة اللجنة العليا لقطر 2022",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4126&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4126&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة اللجنة العليا لقطر 2022، من ولي العهد رئيساً، والممثل الشخصي للأمير نائباً للرئيس، وعضوية رئيس مجلس الوزراء ووزير الخارجية وكل من:\n- وزير الاقتصاد والمالية\nعضواً\n- وزير البلدية والتخطيط العمراني\nعضواً\n- الشيخ/ محمد بن حمد بن خليفة آل ثاني\nعضواً منتدباً\n- رئيس جهاز الإحصاء\nعضواً\n- وزير الدولة للشؤون الداخلية\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

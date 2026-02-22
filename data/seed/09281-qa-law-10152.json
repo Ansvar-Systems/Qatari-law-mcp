@@ -4,8 +4,27 @@
   "title": "قرار رئيس هيئة تنظيم الاتصالات رقم (54) لسنة 2025 بإصدار اللائحة التنظيمية لجودة خدمات الاتصالات العامة بالتجزئة",
   "short_name": "قرار رئيس هيئة تنظيم الاتصالات رقم (54) لسنة 2025 بإصدار اللائحة التنظيمية لجودة خدمات الاتصالات العامة بالتجزئة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10152&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10152&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إصدار اللائحة التنظيمية لجودة خدمات الاتصالات العامة بالتجزئة والمرفقة بهذا القرار برقم مرجعي CRACA/2025/07/29"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بأحكام هذه اللائحة التنظيمية لجودة خدمات الاتصالات العامة بالتجزئة، الصادرة بموجب هذا القرار، اعتبارًا من 1 يناير 2026 وتلغى الأداة التنظيمية السابقة الصادرة بقرار رئيس هيئة تنظيم الاتصالات رقم (11) لسنة 2023."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به ابتداءً من 1 يناير 2026، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

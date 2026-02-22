@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (11) لسنة 1997 بتشكيل مجلس إدارة شركة قطر للحديد والصلب المحدودة",
   "short_name": "قرار أميري رقم (11) لسنة 1997 بتشكيل مجلس إدارة شركة قطر للحديد والصلب المحدودة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=625&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=625&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة شركة قطر للحديد والصلب المحدودة، على الوجه التالي:\n1- السيد/أحمد محمد علي السبيعي\nرئيساً\n2- السيد/يوسف حسين كمال\nنائباً للرئيس\n3- السيد/ناصر محمد المنصوري\nعضواً\n4- الدكتور/محمد صالح السادة\nعضواً\n5- السيد/صالح علي المناعي\nعضواً\n6- الدكتور/ناصر عبد الغني عبد الغني\nعضواً\n7- السيد/فهد حمد المهندي\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

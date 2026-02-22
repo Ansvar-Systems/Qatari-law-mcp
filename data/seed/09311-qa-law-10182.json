@@ -4,8 +4,27 @@
   "title": "قرار وزير البيئة والتغير المناخي رقم ( 30 ) لسنة 2025 بإصدار دليل معايير الممارسة الإشعاعية في الطب النووي",
   "short_name": "قرار وزير البيئة والتغير المناخي رقم ( 30 ) لسنة 2025 بإصدار دليل معايير الممارسة الإشعاعية في الطب النووي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10182&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10182&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعمل بأحكام دليل معايير الممارسات الإشعاعية في الطب النووي، المرفق في هذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تسري أحكام الدليل المرفق على المنشآت الصحية الحكومية، والمنشآت الصحية الخاصة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

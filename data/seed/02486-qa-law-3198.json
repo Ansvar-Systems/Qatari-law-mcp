@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (19) لسنة 1995 بتشكيل لجنة التظلم الضريبي وتنظيم أعمالها",
   "short_name": "قرار مجلس الوزراء رقم (19) لسنة 1995 بتشكيل لجنة التظلم الضريبي وتنظيم أعمالها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3198&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3198&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة التظلم الضريبي المنصوص عليها في المرسوم بقانون رقم (11) لسنة 1993 المشار إليه، على النحو التالي:\n1- أحد قضاة المحاكم العدلية\nرئيساً\n2- ممثلان عن وزارة الاقتصاد والمالية\nأعضاء\n3- ممثل عن وزارة الخارجية\n4- ممثل عن ديوان المحاسبة\n5- ممثل عن غرفة تجارة وصناعة قطر\nويرشح الوزير المختص، أو الرئيس الأعلى لكل جهة، ممثله في اللجنة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتولى اللجنة ممارسة الاختصاصات والصلاحيات المنصوص عليها في المرسوم بقانون رقم (11) لسنسة 19993 المشار إليه، وفقاً للإجراءات المنصوص عليها فيه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تعقد اللجنة جلساتها بوزارة الاقتصاد والمالية، وتضع نظاماً لأداء عملها.\nويتولى سكرتارية اللجنة موظف من إدارة ضريبة الدخل، يصدر بند به قرار من وكيل وزارة الاقتصاد والمالية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بمن تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

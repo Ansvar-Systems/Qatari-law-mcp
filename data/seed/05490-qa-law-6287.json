@@ -4,8 +4,27 @@
   "title": "تعديل النظام الأساسي لشركة الوسيل الدولية للإعلام (شركة مساهمة قطرية)",
   "short_name": "تعديل النظام الأساسي لشركة الوسيل الدولية للإعلام (شركة مساهمة قطرية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6287&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6287&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "قبل التعديل:\nتؤسس الشركة طبقاً لأحكام المادة ( 68 ) من قانون الشركات التجارية الصادر ب القانون رقم (5) لسنة 2002 م، فيما لا يتعارض مع أحكام هذا النظام الأساسي، شركة مساهمة قطرية مملوكة بالكامل لجهاز قطر للاستثمار."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article (14)",
+      "content": "قبل التعديل:\nرئيس مجلس الإدارة هو رئيس الشركة وممثلها لدى الغير وأمام القضاء، وعليه أن ينفذ قرارات المجلس وأن يتقيد بتوصياته.\nويملك التوقيع عن الشركة رئيس مجلس الإدارة وأي عضو آخر من أعضاء مجلس الإدارة مجتمعين وفقاً للقرار الذي يصدره مجلس الإدارة في هذا الشأن."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Article (24)",
+      "content": "قبل التعديل:\nاستثناء من أحكام المادة ( 141 ) من قانون الشركات التجارية، يجوز لجهاز قطر للاستثمار الاكتفاء بإسناد مهمة مراقب حسابات الشركة إلى ديوان المحاسبة المسندة إليه بموجب المادة ( 22 ) من القرار الأميري رقم (22) لسنة 2005 م بإنشاء جهاز قطر للاستثمار، أو تعيين مراقب حسابات آخر أو أكثر لمدة سنة وتقدير أتعابه، ويجوز للجهاز إعادة تعيينه بناءً على اقتراح مجلس الإدارة."
+    }
+  ],
   "definitions": []
 }

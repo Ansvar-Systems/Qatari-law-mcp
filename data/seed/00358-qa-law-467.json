@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (12) لسنة 2000 بنقل إدارة البيئة وقسم المحميات الطبيعية بإدارة التنمية الزراعية من وزارة الشئون البلدية والزراعة إلى المجلس الأعلى للبيئة والمحميات الطبيعية",
   "short_name": "مرسوم بقانون رقم (12) لسنة 2000 بنقل إدارة البيئة وقسم المحميات الطبيعية بإدارة التنمية الزراعية من وزارة الشئون البل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=467&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=467&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنقل إدارة البيئة وقسم المحميات الطبيعية بإدارة التنمية الزراعية بمخصصاتها المالية وجميع أجهزتهما ومعداتهما من وزارة الشئون البلدية والزراعة إلى المجلس الأعلى للبيئة والمحميات الطبيعية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينقل العاملون بالإدارة والقسم المذكورة في المادة السابقة بذات درجاتهم وأوضاعهم المالية إلى المجلس الأعلى للبيئة والمحميات الطبيعية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

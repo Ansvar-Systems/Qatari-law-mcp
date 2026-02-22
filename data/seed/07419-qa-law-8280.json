@@ -4,8 +4,21 @@
   "title": "قرار وزير الصحة العامة رقم (16) لسنة 2020 بتعديل الجدول الملحق بالمرسوم بقانون رقم (17) لسنة 1990 بشأن الوقاية من الأمراض المعدية",
   "short_name": "قرار وزير الصحة العامة رقم (16) لسنة 2020 بتعديل الجدول الملحق بالمرسوم بقانون رقم (17) لسنة 1990 بشأن الوقاية من الأ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8280&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8280&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى قائمة أسماء الأمراض المعدية المدرجة بالقسم الثاني من جدول الأمراض المعدية الملحق بالمرسوم بقانون رقم (17) لسنة 1990 المشار إليه، المرض التنفسي الناتج عن الإصابة بفيروس كورونا (NCOV2019)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

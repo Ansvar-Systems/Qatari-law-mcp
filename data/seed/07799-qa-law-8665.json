@@ -4,8 +4,21 @@
   "title": "قانون رقم (6) لسنة 1991 بإعفاء بعض معاملات الشركات الأجنبية مع وزارتي الدفاع والداخلية من ضريبة الدخل",
   "short_name": "قانون رقم (6) لسنة 1991 بإعفاء بعض معاملات الشركات الأجنبية مع وزارتي الدفاع والداخلية من ضريبة الدخل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8665&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8665&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعفى الشركات الأجنبية من ضريبة الدخل الناشيء عن العقود والمعاملات الآتية :\nأولا : العقود التي تبرم مع وزارة الدفاع أو وزارة الداخلية بشأن توريد جميع المعدات والمهيات وقطع الغيار اللازمة للقوات المسلحة البرية والبحرية والجوية أو للأجهزة الأمنية.\nثانيا : العقود ذات الصفة السرية المتعلقة بالإنشاءات، والأعمال الفنية، والتدريب الخاصة بالمعدات العسكرية أو الأمنية، التي تقرر وزارة الدفاع أو وزارة الداخلية - كل في حدود إختصاصه - انه لا يمكن أن تقوم بها شركة أخرى.\nثالثا: العقود التي تتضمن بنودها عدم جواز الإطلاع عليها إلا من قبل وزارة الدفاع أو وزارة الداخلية والشركة المتعاقدة ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

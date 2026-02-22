@@ -4,8 +4,21 @@
   "title": "قرار رقم (57) لسنة 2007 بتخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (57) لسنة 2007 بتخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4427&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4427&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الشؤون البلدية والزراعة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المشار إليها والقرارات المنفذة لها وهم:-\n* أولاً: موظفي الرخص التجارية:\nم\nالإسم\nالعمل\n1\nحمد سالم محمد المكسور\nبلدية الدوحة\n2\nعبد الرحمن محمد آل سميح\nبلدية الدوحة\n3\nفيصل مطر على الهاجري\nبلدية الدوحة\n4\nناصر عبد الله محمد المهندي\nبلدية الخور والذخيرة\n* ثانياً: موظفي مراقبة المباني:\nم\nالإسم\nالعمل\n1\nعلي صالح راشد المنصوري\nبلدية الدوحة\n2\nعلي يوسف جاسم سرور\nبلدية الدوحة\n3\nمحمد عبد الرحمن مبارك النصر\nبلدية الدوحة\n4\nمحمد إبراهيم راشد المالكي\nبلدية الدوحة\n5\nخالد عبد الله علي المناعي\nبلدية الدوحة\n6\nفهد صالح أحمد الجوف\nبلدية الدوحة\n7\nعادل عبد الله راشد السليطي\nبلدية الدوحة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

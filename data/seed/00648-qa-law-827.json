@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (9) لسنة 2002 بإعادة تشكيل لجنة المناقصات المركزية",
   "short_name": "قرار أميري رقم (9) لسنة 2002 بإعادة تشكيل لجنة المناقصات المركزية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=827&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=827&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل لجنة المناقصات المركزية على النحو التالي:\nأولا:\n1- السيد/ خليفة صقر الهتمي\nرئيسا، ويتفرغ لهذا العمل\n2- السيد/ محمد عبد الكريم المير\nعضوا، ممثلا لوزارة المالية\n3- السيد/ طارق حمد النعيمي\nعضوا، ممثلا لوزارة العدل\n4- السيد/ محمد ناصر الفهيد\nعضواً\n5- السيد/ هلال جهام الكواري\nعضواً\n6- السيد/ سعد أحمد المسند\nعضواً\n7- السيد/ ناصر حمد الكبيسي\nعضواً\n8- السيد/ عبد الله عبد الرحمن بو حيمد\nعضواً\n9- السيد/ محمد جاسم العثمان فخرو\nعضواً\nوذلك لمدة ثلاث سنوات قابلة للتجديد.\nويعين وزير المالية نائب الرئيس من بين أعضاء اللجنة.\nثانيا: عضو ممثل للجهة الحكومية التي طرحت المناقصة لحسابها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتبارا من 5/4/2002. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

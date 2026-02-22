@@ -4,8 +4,21 @@
   "title": "قانون رقم (8) لسنة 1994 بشأن ضمان الحكومة لمديونية المؤسسة العامة القطرية للبترول في قرضي تمويل إنشاء ميناء رأس لفان",
   "short_name": "قانون رقم (8) لسنة 1994 بشأن ضمان الحكومة لمديونية المؤسسة العامة القطرية للبترول في قرضي تمويل إنشاء ميناء رأس لفان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=424&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=424&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "توافق حكومة دولة قطر على ضمان المؤسسة العامة القطرية للبترول في سداد (400) مليون دولار الصادر به قرار مجلس الوزراء رقم (7) لسنة 1992 المشار إليه، و(189.8) مليون دولار الصادر به قرار مجلس الوزراء رقم (4) لسنة 1994 المشار إليه، بشأن قرضي تمويل إنشاء ميناء رأس لفان المبرمين مع مجموعة بنوك بقيادة بنك (ميديو كريدتو) الإيطالي، وذلك وفقاً لشروط الضمان المتفق عليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

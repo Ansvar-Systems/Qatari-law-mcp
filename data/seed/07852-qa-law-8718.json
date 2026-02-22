@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (41) لسنة 2021 بالتصديق على اتفاق بين دولة قطر والأمم المتحدة حول إنشاء مكتب للأمم المتحدة في دولة قطر",
   "short_name": "مرسوم رقم (41) لسنة 2021 بالتصديق على اتفاق بين دولة قطر والأمم المتحدة حول إنشاء مكتب للأمم المتحدة في دولة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8718&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8718&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاق بين دولة قطر والأمم المتحدة حول إنشاء مكتب للأمم المتحدة في دولة قطر تابع لمكتب مكافحة الإرهاب دعماً لبرنامج مكتب الأمم المتحدة لمكافحة الإرهاب المتعلق بـ\"إنشاء مركز رئيسي دولي للرؤى السلوكية لمكافحة الإرهاب باعتباره مكتب برنامج تابعاً للأمم المتحدة في دولة قطر\"، الموقع بمدينة الدوحة بتاريخ 15/12/2019، المرفق نصّه بهذا المرسوم، وتكون له قوة القانون، وفقاً للمادة (68) من الدستور"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

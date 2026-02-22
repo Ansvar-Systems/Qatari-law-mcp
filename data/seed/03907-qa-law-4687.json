@@ -4,8 +4,15 @@
   "title": "استدراك",
   "short_name": "استدراك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4687&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4687&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "استدراك\nاستدراك 0 / 2013\nوفقا لكتاب الأمانة العامة لمجلس الوزراء رقم ق م و / 93 &ndash; 9 / 2013 بتاريخ 7/5/1434 هجري الموافق 19/3/2013، لنشر تصحيح الخطأ المادي لكلمة المخالفات الواردة في نهاية النص الأصلي للمادة (53) من القانون رقم (3) لسنة 2009 بتنظيم المؤسسات العقابية والإصلاحية في الجريدة الرسمية، والمنشور في الجريدة الرسمية العدد الثالث لسنة 2009، ينشر التصحيح على النحو التالي:\nالنص قبل التصحيح\nالنص بعد التصحيح\nوتبين اللائحة التنفيذية لهذا القانون المخالفات التي توقع عنها تلك المخالفات.\nوتبين اللائحة التنفيذية لهذا القانون المخالفات التي توقع عنها تلك الجزاءات."
+    }
+  ],
   "definitions": []
 }

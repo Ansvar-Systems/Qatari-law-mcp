@@ -4,8 +4,21 @@
   "title": "قرار رقم ( 29 ) لسنة 2024 بإلغاء تخويل بعض موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم ( 29 ) لسنة 2024 بإلغاء تخويل بعض موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9651&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9651&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي لبعض موظفي قطر للسياحة والسابق منحها لهم بموجب القرارات أرقام (21) لسنة 2015 و (95) لسنة 2016 و (50) لسنة 2021 المشار إليها أعلاه ، وهم:\nم\nالاسم\n1\nحسن عبدالرحمن حسن الإبراهيم\n2\nجواهر عبدالرحمن عبدالله الجابر\n3\nلم&#1740; جابر محمد حميد يوسف\n4\nحصة غازي مبروك سعد اسماعيل\n5\nبشاير عبدالعزيز عبدالله عبدالرحمن عب&#1740;دان\n6\nدلال عارف جمعان سعيد السعدي\n7\nحنان حسين يوسف الماجد\n8\nوضحى سيف حمدان الهاجري\n9\nمريم مبارك خلفان احمد الخلفان\n10\nغدير سليمان عبدالهادي سليمان الحيدر"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

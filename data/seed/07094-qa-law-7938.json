@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (8) لسنة 2019 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (8) لسنة 2019 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7938&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7938&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين في وظيفة نائب رئيس بمحكمة الاستئناف، كل من:\n1- السيد/ جاسم عبدالله شريدة المهندي، وتحدد أقدميته فيها اعتباراً من 16/8/2018.\n2- السيد/ فواز بخيت مبارك الجتال، وتحدد أقدميته فيها اعتباراً من 31/8/2018."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من الآتية أسماؤهم في وظيفة قاضي بمحكمة الاستئناف، وتحدد أقدميتهم فيها اعتباراً من 17/5/2018:\n1- السيد/ عايض سعد سعيد آل مسعود القحطاني.\n2- السيد/ محمد علي حمد المداد العذبي.\n3- السيد/ خالد محمد صالح الرومي المري."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

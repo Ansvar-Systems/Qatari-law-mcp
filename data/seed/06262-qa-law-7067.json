@@ -4,8 +4,21 @@
   "title": "قرار رقم (111) لسنة 2016 بتخويل بعض موظفي وزارة الصحة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (111) لسنة 2016 بتخويل بعض موظفي وزارة الصحة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7067&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7067&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي الصحة العامة التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون المُشار إليه أعلاه والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nالدكتورة / سومه حسن الشناوي التركي\nمشرف تسجيل\n2\nالدكتورة / إسراء عزيز قادر\nمنسق تسجيل\n3\nالدكتورة / أميرة خيرالله صالح سعيد\nمنسق تسجيل\n4\nالدكتور / عمر محمود غازي نجم\nمنسق تسجيل"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

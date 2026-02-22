@@ -4,8 +4,45 @@
   "title": "قرار رئيس مجلس الوزراء رقم (3) لسنة 2009 بتشكيل لجنة لدراسة مشروع إنشاء قمر صناعي قطري",
   "short_name": "قرار رئيس مجلس الوزراء رقم (3) لسنة 2009 بتشكيل لجنة لدراسة مشروع إنشاء قمر صناعي قطري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3463&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3463&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل لجنة تُسمى «لجنة دراسة مشروع إنشاء قمر صناعي قطري» برئاسة ممثل عن المجلس الأعلى للاتصالات وتكنولوجيا المعلومات، وعضوية ممثلين عن الجهات التالية:\n1- وزارة الدفاع.\n2- وزارة الداخلية.\n3- شركة الديار القطرية للاستثمار العقاري.\n4- شركة اتصالات قطر «كيوتل»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص اللجنة بدراسة مشروع إنشاء قمر صناعي قطري، يخدم أغراض البث التلفزيوني والإذاعي والاتصالات، ويلبي احتياجات مختلف قطاعات الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تضع اللجنة نظاماً لعملها يتضمن مكان انعقادها ومواعيد اجتماعاتها، والقواعد اللازمة لممارسة اختصاصاتها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "للجنة أن تستعين بمن ترى من موظفي الجهات الحكومية أو غيرهم من ذوي الكفاءة والخبرة، لتقديم ما تطلبه من مشورة أو بيانات أو إيضاحات."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تضع اللجنة تقريراً بنتائج أعمالها ومقترحاتها، وتعرضه على أمين عام المجلس الأعلى للاتصالات وتكنولوجيا المعلومات، لرفعه مشفوعاً بتوصياته إلى رئيس مجلس الوزراء."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

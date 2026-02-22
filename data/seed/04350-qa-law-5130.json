@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (66) لسنة 2013 بالتصديق على الميثاق العربي لحقوق الإنسان",
   "short_name": "مرسوم رقم (66) لسنة 2013 بالتصديق على الميثاق العربي لحقوق الإنسان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5130&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5130&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على الميثاق العربي لحقوق الإنسان، الذي وافق عليه مجلس جامعة الدول العربية على مستوى القمة بموجب قراره رقم (270) الصادر بتاريخ 23/5/2004 في دورته العادية (16)، والذي وقعته حكومة دولة قطر بمقر الأمانة العامة لجامعة الدول العربية بالقاهرة بتاريخ 24/1/2008، المرفق نصه بهذا المرسوم، وتكون له قوة القانون، وفقاً للمادة ( 68 ) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

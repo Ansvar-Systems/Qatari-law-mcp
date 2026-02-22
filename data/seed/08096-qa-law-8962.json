@@ -4,8 +4,21 @@
   "title": "قرار رقم (73) لسنة 2022 بتخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (73) لسنة 2022 بتخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8962&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8962&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي المؤسسة العامة القطرية للكهرباء والماء التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (4) لسنة 2018 المُشار إليه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nحمد سالم صالح الكاموخة المري\nمحلل تخطيط\n2\nعبدالعزيز عبدالرحمن حاجي محمد الشرشني\nمفتش ميداني\n3\nناصر عبدالله سعيد العلي\nمشرف محطة\n4\nخليل إبراهيم عبدالرحمن يوسف المالكي\nمشرف محطة\n5\nفرج علي فرج الغفراني المري\nمشرف محطة\n6\nحصين جابر علي الزبدان المري\nمفتش ميداني\n7\nعبد الله سالم جمعة بشيت المنصوري\nمشرف محطة\n8\nخالد محمد بخيت البكر الكواري\nمشرف محطة\n9\nحمد محمد حمد الزبدان المري\nمفتش ميداني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار رقم (143) لسنة 2010 بتخويل بعض موظفي وزارة الأعمال والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (143) لسنة 2010 بتخويل بعض موظفي وزارة الأعمال والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3567&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3567&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظف وزارة الأعمال والتجارة محمد حسين وقاف عمعش عناد- باحث شؤون تجارية صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (5) لسنة 2002 ، بإصدار قانون الشركات التجارية وتعديلاته."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون لموظفي وزارة الأعمال والتجارة التالية أسمائهم صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (8) لسنة 2008 ، بشأن حماية المستهلك وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nجاسم جبر حسن آل ثاني\nمدير إدارة حماية المستهلك\n2\nعلي صالح حمد الأحول الجحيش\nمراقب أسواق\n3\nشريفه داوود سلمان محمد\nمدخل بيانات"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

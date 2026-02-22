@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (62) لسنة 1981 بالتصديق على الاتفاق الثنائي للنقل الجوي بين دولة قطر وهولندا",
   "short_name": "مرسوم رقم (62) لسنة 1981 بالتصديق على الاتفاق الثنائي للنقل الجوي بين دولة قطر وهولندا",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3105&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1981.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3105&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على الاتفاق الثنائي للنقل الجوي بين دولة قطر وهولندا الموقع عليه بمدينة لاهاي بتاريخ 6/12/1980، ويكون له قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على الجميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المشروع، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

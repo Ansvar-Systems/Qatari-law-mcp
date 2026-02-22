@@ -4,8 +4,45 @@
   "title": "وثيقة تأسيس مؤسسة \"التعليم فوق الجميع\"",
   "short_name": "وثيقة تأسيس مؤسسة \"التعليم فوق الجميع\"",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4358&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4358&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "اسم المؤسسة: \"مؤسسة التعليم فوق الجميع\" (مؤسسة خاصة ذات نفع عام)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مقر المؤسسة ومحلها القانوني في مدينة الدوحة، ويجوز لها إنشاء فروع أو مكاتب في الداخل او الخارج، وفقا للنظام الأساسي المرفق."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تهدف المؤسسة إلى حماية ودعم وتعزيز الحق في التعليم بالمناطق الواقعة أو المهددة بالأزمات والصراعات والحروب."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "الاموال المخصصة للمؤسسة: عشرة ملايين ريال قطري مقدمة من المؤسس."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تسجل المؤسسة وتشهر طبقا لاحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "تعمل المؤسسة وفقا للنظام الأساسي الذي يصدره المؤسس."
+    }
+  ],
   "definitions": []
 }

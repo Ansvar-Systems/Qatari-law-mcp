@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم ( 9 ) لسنة 2024 بمنح علاوة احترافية للموظفين الفنيين القطريين العاملين بالمؤسسة العامة القطرية للكهرباء والماء",
   "short_name": "قرار مجلس الوزراء رقم ( 9 ) لسنة 2024 بمنح علاوة احترافية للموظفين الفنيين القطريين العاملين بالمؤسسة العامة القطرية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9589&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9589&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمنح الموظفون القطريون العاملون بالمؤسسة العامة القطرية للكهرباء والماء، شاغلو الوظائف الفنية بالمجموعة العامة الفنية والمكتبية (المجموعة النوعية للوظائف الهندسية المساعدة، والمجموعة النوعية لوظائف العلوم والمختبرات المساعدة علاوة شهرية بمسمى \"علاوة احترافية\" على النحو التالي:\nالفئة الوظيفية\nمبلغ العلاوة المستحق بالريال\nفني\n3000\nمشرف فني\n4000\nرئيس فنيين\n5000"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تصرف العلاوة الاحترافية المنصوص عليها في المادة السابقة، بالإضافة إلى بدل طبيعة العمل المقرر بقرار مجلس الوزراء في اجتماعه العادي (12) لعام 2010 المشار إليه"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

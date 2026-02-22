@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (72) لسنة 2008 بتعديل تشكيل لجنة تسيير مشروع ميناء الدوحة الجديد",
   "short_name": "قرار أميري رقم (72) لسنة 2008 بتعديل تشكيل لجنة تسيير مشروع ميناء الدوحة الجديد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2901&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2901&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيد/ أحمد يوسف الماس، خبير الموانئ بمكتب رئيس الهيئة العامة للجمارك والموانئ، محل السيد/ أحمد حسين الحايكي، في عضوية لجنة تسيير مشروع ميناء الدوحة الجديد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (4) لسنة 2003 بتعديل بعض أحكام المرسوم رقم (59) لسنة 1989 بالترخيص لقطر للبترول بالانتفاع بأراضي المنطقة الصناعية بمسيعيد",
   "short_name": "مرسوم رقم (4) لسنة 2003 بتعديل بعض أحكام المرسوم رقم (59) لسنة 1989 بالترخيص لقطر للبترول بالانتفاع بأراضي المنطقة ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1165&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1165&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعدل حدود المنطقة الصناعية بمسيعيد لتصبح على النحو المبين حدوده ومعالمه بالخريطة المرفقة بهذا المرسوم، وتستبدل هذه الخريطة بالخريطة المرفقة بالمرسوم رقم (59) لسنة 1989 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

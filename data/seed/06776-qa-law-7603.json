@@ -4,8 +4,21 @@
   "title": "قانون رقم (6) لسنة 2018 بتعديل بعض أحكام القانون رقم (5) لسنة 2015 بشأن المحال التجارية والصناعية والعامة المماثلة والباعة المتجولين",
   "short_name": "قانون رقم (6) لسنة 2018 بتعديل بعض أحكام القانون رقم (5) لسنة 2015 بشأن المحال التجارية والصناعية والعامة المماثلة وا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7603&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7603&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 8 / فقرة أولى) من القانون رقم (5) لسنة 2015 المشار إليه، النص التالي:\nمادة (8/ فقرة أولى) :\n\"تُحدد بقرار من مجلس الوزراء، بناءً على اقتراح الوزير، مدة الترخيص بحسب نوع المحل المرخص به، وتكون هذه المدة قابلة للتجديد لمدة أو مدد أخرى مماثلة، بعد استيفاء الرسم المقرر، وتتولى الإدارة المختصة، بناءً على طلب صاحب الشأن، تجديد الترخيص وفقاً لذلك.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

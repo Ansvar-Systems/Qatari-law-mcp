@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (13) لسنة 2002 بإعادة تشكيل مجلس إدارة الهيئة العامة للطيران المدني",
   "short_name": "قرار أميري رقم (13) لسنة 2002 بإعادة تشكيل مجلس إدارة الهيئة العامة للطيران المدني",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=637&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=637&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "( عدلت بموجب قرار أميري 23/2003 ) ( عدلت بموجب قرار أميري 24/2002 )\nيعاد تشكيل إدارة الهيئة العامة للطيران المدني، على النحو التالي:\n1- السيد/ عبد العزيز محمد النعيمي\nرئيسا وعضوا منتدبا\n2- السيد/إبراهيم عبد القادر إبراهيم ا\nنائبا للرئيس\n3- ممثل عن وزارة الخارجية\nعضواً\n4- ممثل عن وزارة الداخلية\nعضواً\n5- ممثل عن الهيئة العامة للجمارك والموانيء\nعضواً\n6- ممثل عن الهيئة العامة للسياحة\nعضواً\nممثل عن وزارة الدفاع\nعضواً\nوتفوض الجهات المشار إليها في تسمية ممثليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتبارا من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

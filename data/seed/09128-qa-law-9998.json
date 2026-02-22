@@ -4,8 +4,21 @@
   "title": "قرار النائب العام رقم (47) لسنة 2025 بإلغاء تخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار النائب العام رقم (47) لسنة 2025 بإلغاء تخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9998&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9998&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة للسادة التالية أسماؤهم، والسابق منحها لهم بموجب قراري النائب العام المشار إليهما أعلاه، وهم:\nم\nالإسـم\nالرقم الشخصي\n1\nنوره علي عبد الهادي مبخوت المري\n28863402423\n2\nهبه سعود راشد حلوان العنزي\n28663400070\n3\nشيخة هادي صالح العويري المري\n28063400196"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

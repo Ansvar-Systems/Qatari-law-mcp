@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (36) لسنة 2020 بتعديل بعض أحكام القرار رقم (13) لسنة 2019 بتحديد شروط وضوابط المزايا والحقوق التي يتمتع بها اللاجئ السياسي",
   "short_name": "قرار مجلس الوزراء رقم (36) لسنة 2020 بتعديل بعض أحكام القرار رقم (13) لسنة 2019 بتحديد شروط وضوابط المزايا والحقوق ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8480&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8480&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى المادة (10) من قرار مجلس الوزراء رقم (13) لسنة 2019 المشارإليه بند رقم (7)، نصه التالي:\n(مادة 10/ بند 7)\n7- يُعفى اللاجئ السياسي وزوجه وأفراد أسرته من الرسم الخاص بإصدار وثيقة السفر، وذلك حتى حصوله على فرصة عمل وفقاً لأحكام هذا القرار"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

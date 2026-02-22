@@ -4,8 +4,33 @@
   "title": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (3) لسنة 2019، بشأن تعديل بعض أحكام قواعد نشاط صانع السوق الصادرة بالقرار رقم (4) لسنة 2017",
   "short_name": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (3) لسنة 2019، بشأن تعديل بعض أحكام قواعد نشاط صانع السوق الصادرة بالقرا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8071&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8071&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بتعريف الأوراق المالية المؤهلة الوارد في المادة (1) من القواعد المشار إليها التعريف التالي:\nالأوراق المالية المؤهلة: الأوراق المالية المدرجة المحددة لممارسة نشاط صناعة السوق عليها كما هو محدد من وقت لآخر من قبل السوق بعد إخطار الهيئة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "بند 4)\nلا يجوز أن يكون مزود السيولة صانعاً للسوق على نفس الورقة المالية. ويجوز أن يكون للورقة المالية أكثر من صانع سوق."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يضاف إلى المادة (2) من القواعد المشار إليها بند برقم (16) نصه التالي:\nلا يجوز لصانع السوق استخدام أموال العملاء في مزاولة هذا النشاط."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

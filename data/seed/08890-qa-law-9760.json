@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (81) لسنة 2024 بالتصديق على اتفاقية المساهمة الأساسية لدعم الموارد الـعـاديـة لـبـرنـامج الأمم المتحدة الإنمائي لـعـامـي 2023 و 2024 بين صندوق قطر للتنمية في دولة قطر وبرنامج الأمم المتحدة الإنمائي 2024",
   "short_name": "مرسوم رقم (81) لسنة 2024 بالتصديق على اتفاقية المساهمة الأساسية لدعم الموارد الـعـاديـة لـبـرنـامج الأمم المتحدة الإن...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9760&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9760&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية المساهمة الأساسية لدعم الموارد الـعـاديـة لـبـرنـامـج الأمم المتحدة الإنمائي لعامي 2023 و 2024 بين صندوق قطر للتنمية في دولة قــطــر وبـرنـامـج الأمم المتحدة الإنمائي 2024 ، الموقعة بتاريخ 2024/01/21 ، المـــرفــــق نصها بهذا المرسوم، وتكون لها قوة القانون ، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

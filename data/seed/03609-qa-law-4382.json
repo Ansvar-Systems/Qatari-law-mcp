@@ -4,8 +4,39 @@
   "title": "وثيقة تأسيس \"المؤسسة أصدقاء ذوي الاحتياجات الخاصة\"",
   "short_name": "وثيقة تأسيس \"المؤسسة أصدقاء ذوي الاحتياجات الخاصة\"",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4382&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4382&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تؤسس مؤسسة خاصة ذات نفع عام يطلق عليها اسم أصدقاء ذوي الاحتياجات الخاصة، ويكون مقرها بالليوان للأجنحة الفندقية في منطقة أم غويلينا."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تهدف المؤسسة بشكل عام: الوصول إلى مجتمع متكامل بين فئاته"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تقوم المؤسسة بهدفها المذكور في المادة السابقة من خلال:\n1) إقامة أنشطة اجتماعية وتثقيفية لصالح ذوي الاحتياجات الخاصة تشمل محاضرات ودورات لأبناء هذه الفئة وللمتعاملين معها وذلك بالتنسيق مع الجهات والمؤسسات المختلفة.\n2) بناء صورة دقيقة وواضحة حول واقع ذوي الاحتياجات الخاصة، والتواصل مع الجهات المعنية في سبيل بناء واقع إيجابي لصالح أبناء هذه الفئة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يكون المؤسس مدير عام المؤسسة ويقوم بتعيين موظفين المؤسسة ويكون المؤسس هو من يمثلها أمام القضاء والغير."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تقتصر موارد المؤسسة على مقابل ما تقوم به من خدمات وما تقوم به من دورات بالتنسيق مع جهات ذوي الاحتياجات وذوي الإعاقة."
+    }
+  ],
   "definitions": []
 }

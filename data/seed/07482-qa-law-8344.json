@@ -4,8 +4,21 @@
   "title": "قرار رقم (52) لسنة 2020 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (52) لسنة 2020 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8344&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8344&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانونين المشار اليهما، والقرارات المنفذة لهما وهم:-\nم\nالإسم\nالمسمى الوظيفي\n1\nعبدالله ملفي عياده الجنيدي الشمري\nسكرتير ثالث\n2\nعلي محمد راشد الفهيدى والمري\nفني ميكانيكي ثاني\n3\nسالم عايض عسكر عايض العبيدى\nكاتب أرشيف ثالث\n4\nعمر احمد محمد العمادى\nمهندس ميكانيكي ثالث\n5\nاحمد عادل راشد مهنا النعيمي\nباحث رواتب وأجور ثالث\n6\nشمى عبدالله راشد ذياب النعيمي\nأخصائي فيزيائي\n7\nهويدا مدثر دفعالله رجب\nباحث كيميائي ثالث\n8\nعلي عبدالله هجاج المسعد الدوسري\nمراقب بيئة برية ثاني\n9\nعائشة درويش محمد درويش ابوهميل الدوسري\nمشرف تفتيش وقاية شعاعية أول\n10\nحمد سالم المري\nكاتب شؤون إدارية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قانون رقم (23) لسنة 2020 بتعديل بعض أحكام قانون الموارد البشرية المدنية الصادر بالقانون رقم (15) لسنة 2016",
   "short_name": "قانون رقم (23) لسنة 2020 بتعديل بعض أحكام قانون الموارد البشرية المدنية الصادر بالقانون رقم (15) لسنة 2016",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8513&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8513&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (64) من قانون الموارد البشرية المدنية المُشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Article (64)",
+      "content": "\"مع مراعاة حكم المادة السابقة، يجوز صرف منحة إجازة للموظف القطري تُعادل راتب أساسي لشهر واحد، أو جزء منها، عن كل سنة، في حال توافر الاعتماد المالي للبند المخصص لمنحة الإجازة في موازنة الجهة الحكومية .\nولا يجوز صرف هذه المنحة في حال قيام الموظف بأي إجازة تزيد مدتها على سنة باستثناء الإجازة المرضية.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

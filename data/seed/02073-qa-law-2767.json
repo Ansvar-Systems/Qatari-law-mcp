@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (20) لسنة 2009 بتعديل بعض أحكام القرار الأميري رقم (64) لسنة 2005 بشأن المكتب الهندسي الخاص",
   "short_name": "قرار أميري رقم (20) لسنة 2009 بتعديل بعض أحكام القرار الأميري رقم (64) لسنة 2005 بشأن المكتب الهندسي الخاص",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2767&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2767&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مع مراعاة الأحكام الواردة في القرار الأميري رقم (64) لسنة 2005 المشار إليه، يُلحق المكتب الهندسي الخاص بالديوان الأميري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تسري على موظفي المكتب الهندسي الخاص أحكام لائحة إدارة الموارد البشرية بالديوان الأميري، وتكون لرئيس المكتب الصلاحيات المقررة قانوناً لرئيس الديوان الأميري، فيما يتعلق بتطبيق أحكام هذه اللائحة على موظفي المكتب."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من أول إبريل 2009. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

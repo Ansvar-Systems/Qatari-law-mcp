@@ -4,8 +4,21 @@
   "title": "قرار وزير الداخلية رقم (14) لسنة 2016 بشأن تحديد النفقات الخاصة بحجز المركبات الميكانيكية",
   "short_name": "قرار وزير الداخلية رقم (14) لسنة 2016 بشأن تحديد النفقات الخاصة بحجز المركبات الميكانيكية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6954&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6954&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد نفقات نقل وحجز المركبات الميكانيكية التي تقرر السلطة المختصة حجزها بالمكان المعدّ لذلك، على النحو التالي:\n- (500) خمسمائة ريال، مقابل نقل المركبة الميكانيكية التي يكون وزنها الفارغ ثلاثة أطنان فأكثر.\n- (200) مائتا ريال، مقابل نقل المركبة الميكانيكية التي يقل وزنها الفارغ عن ثلاثة أطنان.\n- (20) عشرون ريالاً، عن كل يوم من أيام الحجز."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

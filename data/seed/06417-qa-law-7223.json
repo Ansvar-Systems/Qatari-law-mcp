@@ -4,8 +4,21 @@
   "title": "قرار رقم (41) لسنة 2017 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (41) لسنة 2017 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7223&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7223&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (30) لسنة 2002 م، بإصدار قانون حماية البيئة، والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1.\nفيصل عبدالله حسن يوسف بلال.\nمراقب بيئة برية ثالث\n2.\nخالد حمد محمد رمزان النعيمي.\nباحث شؤون إدارية ثالث\n3.\nتميم جمال محمد ناصر النعيمي.\nمراقب بيئة برية ثالث\n4.\nحمد علي محمد أبو زوير المري.\nمراقب بيئة برية ثالث\n5.\nبندر علي طالب الدهمان المري.\nمراقب بيئة برية ثالث\n6.\nمحمد ابراهيم محمد الانصاري.\nباحث شؤون إدارية ثالث\n7.\nصلاح حنظل علي الطلاب المري.\nمراقب عمليات بيئية رابع\n8.\nخليفة عبدالله أحمد كافود.\nمراقب بيئة برية ثاني\n9.\nعبدالهادي علي منيخر المري.\nمراقب بيئة برية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

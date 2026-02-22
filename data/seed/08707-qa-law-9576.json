@@ -4,8 +4,21 @@
   "title": "مرسوم رقم ( 21 ) لسنة 2024 بالتصديق على تعديل الميثاق العربي لحقوق الإنسان",
   "short_name": "مرسوم رقم ( 21 ) لسنة 2024 بالتصديق على تعديل الميثاق العربي لحقوق الإنسان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9576&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9576&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على تعديل الميثاق العربي لحقوق الإنسان ، الذي اعتمده مجلس جامعة الدول العربية على المستوى الوزاري بموجب القرار رقم (8640) الصادر بتاريخ 2021/03/03 في دورته العادية (155) ، المرفق نصه بهذا المرسوم ، وتكون له قوة القانون، وفقاً للمادة (68) من الدستور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

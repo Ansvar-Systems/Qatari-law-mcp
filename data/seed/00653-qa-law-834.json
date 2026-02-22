@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (100) لسنة 1976 بشأن تأسيس شركة خدمات دخان «شركة قطرية ذات مسئولية محدودة»",
   "short_name": "مرسوم رقم (100) لسنة 1976 بشأن تأسيس شركة خدمات دخان «شركة قطرية ذات مسئولية محدودة»",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=834&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1976.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=834&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لكل من:\n1- شركة النفط البريطانية للاستكشاف (الشرق الأوسط) المحدودة.\n2- شركة شل للبترول المحدودة.\n3- الشركة الفرنسية للبترول.\n4- مؤسسة اكسون.\n5- مؤسسة موبيل اويل.\n6- مؤسسة بارتيسبيشن اند اكسبلوريشن (المشاركة والاستكشافات).\nفي تأسيس شركة فيما بينها باسم (شركة خدمات دخان) تكون ذات مسؤولية محدودة وتتمتع بالجنسية القطرية، ويكون رأس مالها 104 ألف (مائة وأربعة ألف) ريال قطري، وغرضها تقديم مختلف الخدمات وفقاً لاتفاق تنفيذ تملك الدولة كامل حقوق وأموال شركة نفط قطر المحدودة والملاحق المرافقة له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

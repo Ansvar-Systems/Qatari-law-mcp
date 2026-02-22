@@ -4,8 +4,21 @@
   "title": "قرار وزير الداخلية رقم (5) لسنة 1991بتحديد قيمة إشارات المرور وأعمدتها في حالة إتلافها",
   "short_name": "قرار وزير الداخلية رقم (5) لسنة 1991بتحديد قيمة إشارات المرور وأعمدتها في حالة إتلافها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2149&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2149&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يلزم من تسبب في إتلاف إشارات المرور وأعمدتها حال ارتكابه أية مخالفة لأحكام قانون المرور أو اللوائح والقرارات الصادرة تنفيذاً له، بدفع قيمتها المحددة فيما يلي:\nم\nنوع الإشارة ومواصفاتها\nالقيمة بالريال\n1\nإشارة قطر 60 سم\n150\n2\nإشارة قطر 75 سم\n220\n3\nإشارة قطر 90 سم\n250\n4\nإشارة مسافات\n300\n5\nإشارة إتجاه إجباري\n600\n6\nعامود\n100\n7\nعلامة حديد أو بلاستيك\n150"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

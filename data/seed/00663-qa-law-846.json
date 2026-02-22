@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (109) لسنة 1974 بتأسيس شركة قطر للبتروكيماويات المحدودة",
   "short_name": "مرسوم رقم (109) لسنة 1974 بتأسيس شركة قطر للبتروكيماويات المحدودة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=846&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=846&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لدولة قطر ممثلة بوزير المالية والبترول ولشركتي سوسيتيه شيميك دي شاربوناج - سيه ديه ان شيمى الفرنسية ويمثلها السيد جاك بتيمنجان، وشركة جازوسيان الفرنسية ويمثلها السيد رينيه بوديه في أن يؤسسوا في قطر شركة مساهمة قطرية تسمى شركة قطر للبتروكيماويات المحدودة برأس مال قدره (240,000,000) مائتان وأربعون مليون ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة ونظامها الأساسي المرفق صورة من كل منهما بهذا المرسوم، وعليهم كذلك الالتزام بأحكام القانون رقم (3) لسنة 1961 بتنظيم شركات المساهمة المعدل بالمرسوم بقانون رقم (12) لسنة 1966 والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على وزير المالية والبترول تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

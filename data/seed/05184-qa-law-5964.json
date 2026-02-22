@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (7) لسنة 2012 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (7) لسنة 2012 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5964&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5964&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة الآتية أسماؤهم في الوظيفة المبينة قرين اسم كل منهم:\n1- السيد/ كمال جابر بندر\nقاضياً بمحكمة التمييز.\n2- السيد/ محمد خليفة علي خليفة البري\nقاضياً بمحكمة التمييز.\n3- السيد/ خليل إبراهيم عبد الحميد الملا حويش\nقاضياً بمحكمة الاستئناف.\n4- السيد/ محمد صفوت علي أحمد طرة\nقاضياً بمحكمة الاستئناف.\n5- السيد/ محمد محمد عبد الحميد يوسف\nقاضياً بمحكمة الاستئناف.\n6- السيد/ ندير أبو الفتوح مصطفى الديب\nقاضياً بمحكمة الاستئناف.\n7- السيد/ محمد بنزهرة\nقاضياً بمحكمة الاستئناف.\n8- السيد/ نوار محمد ناصر حسين\nرئيساً بالمحكمة الابتدائية.\n9- السيد/ رشيد سليم سعيد\nقاضياً بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

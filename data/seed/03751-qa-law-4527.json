@@ -4,8 +4,33 @@
   "title": "وثيقة تأسيس مؤسسة QLRS (كيولرز)",
   "short_name": "وثيقة تأسيس مؤسسة QLRS (كيولرز)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4527&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4527&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "بيانات المؤسسة\nاسم المؤسسة: QLRS (كيولرز)\nمقر المؤسسة: مدينة الدوحة\nالموقع الإلكتروني:http://www.QLRS.org\nرقم التواصل مع المؤسسة: 66687466\nصندوق البريد: 80222\nالبريد الإلكتروني: admin@QLRS.org"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "أهداف المؤسسة وأغراضها\nتهدف المؤسسة للوصول لمجتمع واع بقوانين بلاده من خلال ما تقوم به من ورش العمل الثقافية والمحاضرات والدورات المتاحة لممارسي مهنة القانون وطلاب وخريجي القانون من الجامعات المحلية والعالمية. تهدف المؤسسة للمحافظة على نزاهة أنشطتها بضمان الموضوعية وعدم التحيز والمحافظة على أهداف المؤسسة الأساسية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "الموارد المالية للمؤسسة\nتتكون الموارد المالية للمؤسسة مما يلي:\n1) كل ما يخصصه المؤسس من أموال للمؤسسة.\n2) مقابل ما تقدمه المؤسسة من أنشطه .\n3) أي مصدر آخر يتيحه القانون رقم 21/ 2006 وتعديلاته."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "بيانات المؤسس\nالاسم: محمد مبارك علي عيسى الخاطر\nالجنسية: قطري\nالوظيفة: محامي\nرقم الهاتف الجوال: 66687466\nصندوق البريد: 80222\nالبريد الإلكتروني: admin@QLRS.org\nالعنوان: الخليج الغربي - الدوحة\nمحمد مبارك علي عيسى الخاطر\nالمؤسس"
+    }
+  ],
   "definitions": []
 }

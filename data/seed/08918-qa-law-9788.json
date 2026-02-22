@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية رقم (22) لسنة 2024 بتسمية رئيس ونائب رئيس وأعضاء لجنة التمويل المستدام",
   "short_name": "قرار وزير المالية رقم (22) لسنة 2024 بتسمية رئيس ونائب رئيس وأعضاء لجنة التمويل المستدام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9788&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9788&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُسمى رئيس ونائب رئيس وأعضاء لجنة التمويل المستدام بوزارة المالية برئاسة السيد/ ناصر أحمد العبيدان، مدير إدارة السياسات الائتمانية والدين العام، والسيد/ أحمد محمد عبد اللطيف السادة، وكيل الوزارة المساعد لشؤون التغير المناخي، ممثلاً عن وزارة البيئة والتغير المناخي نائباً للرئيس، وعضوية كل من:\n1- السيد/ محمد صفوان الزيدان ممثلاً عن وزارة المالية - عضواً\n2- السيدة / مي أحمد البوعينين ممثلاً عن وزارة المواصلات - عضواً\n3- السيد/ جارالله محمد المري ممثلاً عن هيئة الاشغال العامة - عضواً\n4- السيد / عبد الناصر علي جابر السليطي ممثلاً عن المؤسسة العامة القطرية للكهرباء والماء. - عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

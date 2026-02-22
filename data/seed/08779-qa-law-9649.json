@@ -4,8 +4,27 @@
   "title": "قرار وزير الصحة العامة رقم (6) لسنة 2024 بتعديل الجدولين رقمي (1) ، (3) الملحقين بالقانون رقم (9) لسنة 1987 في شأن مكافحة المخدرات والمؤثرات العقلية الخطرة وتنظيم استعمالها والإتجار فيها",
   "short_name": "قرار وزير الصحة العامة رقم (6) لسنة 2024 بتعديل الجدولين رقمي (1) ، (3) الملحقين بالقانون رقم (9) لسنة 1987 في شأن مك...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9649&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9649&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بالنص الوارد بنهاية البند (1) من الجدول رقم (3) الملحق بالقانون رقم (9) لسنة 1987 المشار إليه، النص التالي:\n\" المستحضر الصيدلاني الذي يحتوي على أية مادة مخدرة من المواد المبينة أعلاه عدا أقراصها وحقنها التي تحتوي على أية مادة فعالة أخرى عندما تكون هذه المادة المخدرة في هذا المستحضر مركبة مع مادة أو أكثر من مادة غير مخدرة لا يزيد على (100) ملجرام من المادة المخدرة في الوحدة الدوائية الواحدة ونسبة تركيز لا تزيد عن (2.5%) في المستحضر غير المتجزئ.\n(The pharmaceutical products which contains any narcotic substances from the above list except its tablets and injections from with non-active ingredients when compounded with one or more other non-narcotic substances and containing not more than 100 milligrams of the drug per dosage unit and with concentration of not more than 2.5% in undivided preparations).\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُضاف إلى قائمة المواد المدرجة في البند رقم (أ - المواد المخدرة في الجدول رقم (1) الملحق بالقانون رقم (9) لسنة 1987 المشار إليه ، بند برقم (8) نصه التالي :\n\" 8 - مستحضرات القُنيبات المخلقة كيميائياً بجميع أسمائها وأشكالها وتركيباتها الصناعية.\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

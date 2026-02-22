@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (368) لسنة 2017 بشأن تحول شركة الديار القطرية للاستثمار العقاري من شركة مساهمة قطرية الى شركة مساهمة خاصة قطرية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (368) لسنة 2017 بشأن تحول شركة الديار القطرية للاستثمار العقاري من شركة مساهمة قطرية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7435&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7435&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحول شركة الديار القطرية للاستثمار العقاري من شركة مساهمة قطرية إلى شركة مساهمة خاصة قطرية برأس مال مصرح به (29,600,000,000) تسعة وعشرون مليار وستمائة مليون ريال قطري، وفقاً لأحكام المادة ( 207 ) من قانون الشركات التجارية رقم (11) لسنة 2015."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس و النظام الأساسي المرفق نصهما بهذا القرار، وتلتزم الشركة بأحكام قانون الشركات التجارية المشار إليه ما لم يرد نص خاص في عقد التأسيس و النظام الأساسي ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على تحول الشركة نشوء شخص معنوي جديد، وتظل الشركة محتفظة بحقوقها والتزاماتها السابقة على التحول، ويعمل بهذا القرار من تاريخ صدوره، ويتم شهره وفقاً لأحكام قانون الشركات التجارية رقم (11) لسنة 2015."
+    }
+  ],
   "definitions": []
 }

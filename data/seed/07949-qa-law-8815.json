@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (2) لسنة 2022 بإعادة تشكيل مجلس أمناء جامعة قطر",
   "short_name": "قرار أميري رقم (2) لسنة 2022 بإعادة تشكيل مجلس أمناء جامعة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8815&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8815&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس أمناء جامعة قطر، برئاسة سموّ الشيخ عبـدالله بن حمد آل ثاني، وسعادة الشيخ الـدكتور/ عبدالله بن علي بن سعود آل ثاني، نائباً للرئيس، وعضوية كل من:\n1 - سعادة السيّد/ علي بن أحمد الكواري.\n2 - سعادة الدكتورة/ حنان بنت محمد الكواري.\n3 - سعادة الشيخ/ محمد بن حمد بن قاسم آل ثـاني.\n4 - سعادة السيّدة/ بثينة بنت علي الجبر النعيمي.\n5 - سعادة السيّد/ محمد بن علي المناعي.\n6 - سعادة الدكتور/ صالح بن محمد النابت.\n7 - سعادة السيّد/ عبدالعزيز بن ناصر آل خليفة.\n8 - سعادة الدكتورة/ حصة بنت سلطان الجابر.\n9 - الشيخ/ عبـدالله بن أحمد بن عبـدالله آل ثـاني.\n10 - السيّد/ ناصر خليل الجيدة.\nولرئيس المجلس إضافة عدد من ذوي الكفاءة والخبرة والمكانة العلمية إلى عضوية المجلس، من داخل الدولة أو خارجها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يَخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

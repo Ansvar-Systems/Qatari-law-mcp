@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (92) لسنة 2003 بتعديل بعض أحكام قرار وزير الاقتصاد والتجارة رقم (2) لسنة 1988 بشأن تعيين الحد الأقصى لأسعار بيع لحوم الضأن الاسترالي من انتاج المقصب الآلي وتنظيم تداولها",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (92) لسنة 2003 بتعديل بعض أحكام قرار وزير الاقتصاد والتجارة رقم (2) لسنة 1988 بشأن تع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2249&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2249&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (1) من قرار وزير الاقتصاد والتجارة رقم (2) لسنة 1988 المشار إليه، النص التالي:\nيكون الحد الأقصى لأسعار بيع لحوم الضأن الاسترالي من انتاج المقصب الآلي وفقا لما يلي:-\nالصنف\nمواصفات الجودة والتغليف\nالوحدة\nسعر بيع لتاجر التجزئة بالريال القطري\nسعر بيع المستهلك بالريال القطري\nذبيحة\nكاملة\nواحدة\n13 لكل كيلو جرام\n13,50 لكل كيلو جرام\nلحم\nمقطع بالعظام\nكيلو جرام\n13 لكل كيلو جرام\n13,50 لكل كيلو جرام"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

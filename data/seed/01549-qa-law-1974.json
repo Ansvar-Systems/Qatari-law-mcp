@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (29) لسنة 2003 بتخويل بعض موظفي الوزارة صفة مأموري الضبط القضائي",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (29) لسنة 2003 بتخويل بعض موظفي الوزارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1974&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1974&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي إدارة الشؤون التجارية بوزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي، في إثبات الجرائم التي تقع بالمخالفة لأحكام قانون تنظيم استثمار رأس المال الأجنبي في النشاط الاقتصادي و قانون الشركات التجارية المشار إليهما، والقرارات الصادرة تنفيذاً لهما."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون للموظفين المذكورين في المادة السابقة الاختصاصات والصلاحيات المنصوص عليها في المادة ( 17 ) من قانون تنظيم استثمار رأس المال الأجنبي في النشاط الاقتصادي، والمادتين ( 315 )، ( 316 ) من قانون الشركات التجارية، المشار إليهما."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

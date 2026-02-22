@@ -4,8 +4,21 @@
   "title": "قــرار أميــري رقـم (46) لسنـة 2025 بتـعــيــين ســفــيـــر فــــوق الــعـــادة مــفـــوض لــدى بـرونـاي دار الـسـلام",
   "short_name": "قــرار أميــري رقـم (46) لسنـة 2025 بتـعــيــين ســفــيـــر فــــوق الــعـــادة مــفـــوض لــدى بـرونـاي دار الـسـلام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10194&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10194&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعــين الـسـيـد/ عـبـدالله حـمـد عـلـي الأدهـم المـري ، ســفـيــراً فـــــوق الـعـــادة مـفــوضـــاً مــن لــدنـــا لـــدى بـرونـاي دار الـسـلام ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عـلى جــمـيــع الجـهــات المخـتـصــة ، كـل فيــمـا يخــصـه ، تنــفـيــذ هــذا الـقـــرار . ويُعـمـل بــه مـن تـاريــخ صــدوره . ويُنــشـــر في الجــريــدة الـرسـمـيـــة ."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (8) لسنة 2017 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 2002 بإنشاء لجنة تسيير مشروع إنشاء مطار حمد الدولي",
   "short_name": "قرار أميري رقم (8) لسنة 2017 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 2002 بإنشاء لجنة تسيير مشروع إنشاء مطار حم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7171&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7171&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحل عبارة \"توسعة مطار حمد الدولي\" محل عبارة \"إنشاء مطار حمد الدولي\" أينما وردت في عنوان ومواد القرار الأميري رقم (14) لسنة 2002 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة ( 2 /فقرة أولى) من القرار الأميري رقم (14) لسنة 2002 المشار إليه، النص التالي:\nمادة (2/فقرة أولى) :\n\"تُشكل لجنة تسيير مشروع توسعة مطار حمد الدولي برئاسة رئيس الهيئة العامة للطيران المدني، والرئيس التنفيذي لشركة الخطوط الجوية القطرية نائباً للرئيس، وعضوية ممثل عن كل من:\n1- وزارة الداخلية.\n2- وزارة المالية.\n3- وزارة المواصلات والاتصالات.\n4- جهاز أمن الدولة.\n5- الهيئة العامة للطيران المدني.\n6- مطار حمد الدولي.\n7- شركة سكك الحديد القطرية (الريل).\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

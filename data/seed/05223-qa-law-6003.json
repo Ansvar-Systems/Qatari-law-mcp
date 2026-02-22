@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (2) لسنة 2005 بمنح مكافأة لرئيس وأعضاء لجنة التراخيص الطبية البيطرية",
   "short_name": "قرار مجلس الوزراء رقم (2) لسنة 2005 بمنح مكافأة لرئيس وأعضاء لجنة التراخيص الطبية البيطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6003&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6003&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمنح كل من رئيس وأعضاء لجنة التراخيص الطبية البيطرية، مكافأة شهرية مقدارها (2000) ألفا ريال، وتسري في شأن تلك المكافأة أحكام قرار مجلس الوزراء، رقم (9) لسنة 1993 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من 5/1/2005، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

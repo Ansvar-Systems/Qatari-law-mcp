@@ -4,8 +4,21 @@
   "title": "قرار رقم (12) لسنة 2015م بتخويل بعض موظفي وزارة الاوقاف والشؤون الاسلامية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (12) لسنة 2015م بتخويل بعض موظفي وزارة الاوقاف والشؤون الاسلامية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6501&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6501&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الاوقاف والشؤون الاسلامية التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (12) لسنة 2011 م، بشأن إنشاء وتنظيم المراكز الدينية وهم:\nم\nالاسم\nالمسمى الوظيفي\n5\nعلي ثابت ناجي علي اليافعي\nمشرف فني صيانة انشاءات رابع\n6\nعيسى ناصر عيسى طوار الكواري\nباحث شؤون ادارية ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

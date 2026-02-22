@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (49) لسنة 2000 بتعيين سفير فوق العادة مفوض لدى الجمهورية الإيطالية",
   "short_name": "قرار أميري رقم (49) لسنة 2000 بتعيين سفير فوق العادة مفوض لدى الجمهورية الإيطالية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5510&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5510&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد/ علي فهد الشهواني الهاجري، سفيراً فوق العادة مفوضاً من لدنا لدى الجمهورية الإيطالية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

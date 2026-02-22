@@ -4,8 +4,21 @@
   "title": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (1) لسنة 2009 بإصدار نظام حوكمة الشركات المدرجة في الأسواق التي تخضع لرقابة الهيئة",
   "short_name": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (1) لسنة 2009 بإصدار نظام حوكمة الشركات المدرجة في الأسواق التي تخضع لرق...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3652&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3652&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعمل بأحكام نظام حوكمة الشركات المدرجة في الأسواق التي تخضع لرقابة هيئة قطر للأسواق المالية المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

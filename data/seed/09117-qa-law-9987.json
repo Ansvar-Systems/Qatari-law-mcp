@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (14) لسنة 2025 بشأن إضافة أعمال ذات منفعة عامة إلى الأعمال المنصوص عليها في القانون رقم (8) لسنة 2022 بشأن نزع ملكية العقارات والاستيلاء عليها مؤقتاً للمنفعة العامة",
   "short_name": "قرار مجلس الوزراء رقم (14) لسنة 2025 بشأن إضافة أعمال ذات منفعة عامة إلى الأعمال المنصوص عليها في القانون رقم (8) لسن...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9987&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9987&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف &laquo;مشاريع تقسيم الأراضي السكنية للمواطنين&raquo; إلى أعمال المنفعة العامة، المنصوص عليها في المادة (3) من القانون رقم (8) لسنة 2022 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

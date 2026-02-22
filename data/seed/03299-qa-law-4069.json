@@ -4,8 +4,21 @@
   "title": "قانون رقم (20) لسنة 2008 بإعفاء حصة المستثمرين غير القطريين في أرباح بعض الشركات المساهمة القطرية من ضريبة الدخل",
   "short_name": "قانون رقم (20) لسنة 2008 بإعفاء حصة المستثمرين غير القطريين في أرباح بعض الشركات المساهمة القطرية من ضريبة الدخل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4069&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4069&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعفى من ضريبة الدخل حصة المستثمرين غير القطريين في أرباح الشركات المساهمة القطرية المطروحة أسهمها للتداول في سوق قطر للأوراق المالية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات الخاصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من 3/4/2005. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

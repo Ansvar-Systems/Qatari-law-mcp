@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (21) لسنة 2016 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الأوقاف والشؤون الإسلامية وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (21) لسنة 2016 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الأوقاف والشؤون الإسلامي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7010&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7010&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل باختصاص مركز الشيخ عبد الله بن زيد آل محمود الثقافي الإسلامي، المنصوص عليه في المادة ( 7/بند6 ) من القرار الأميري رقم (23) لسنة 2014 المشار إليه، الاختصاص التالي:\nمادة (7/بند 6) :\n\"تأليف وترجمة الكتيبات والمواد الدعوية إلى اللغات الأخرى، بالتنسيق مع الوحدات الإدارية المعنية.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل باختصاص إدارة الدعوة والإرشاد الديني، المنصوص عليه في المادة ( 12/ بند3 ) من القرار الأميري رقم (23) لسنة 2014 المشار إليه، الاختصاص التالي:\nمادة (12/ بند 3) :\n\"الرقابة على المواقع الإسلامية الإلكترونية في الدولة\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُحذف من اختصاصات إدارة الدعوة والإرشاد الديني، الاختصاص المنصوص عليه في المادة ( 12/ بند2 ) من القرار الأميري رقم (23) لسنة 2014 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

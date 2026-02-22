@@ -4,8 +4,27 @@
   "title": "قانون رقم (17) لسنة 1971 بالموافقة على بعض أحكام اتفاقيتي فيينا للعلاقات الدبلوماسية والعلاقات القنصلية",
   "short_name": "قانون رقم (17) لسنة 1971 بالموافقة على بعض أحكام اتفاقيتي فيينا للعلاقات الدبلوماسية والعلاقات القنصلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2521&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1971.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2521&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على الأحكام الواردة في المواد 1، 22، 23، 24، 27، 28، 29، 30، 31، 32، 33، 34، 35، 36، 37، 38، 39، 40 من اتفاقية فيينا للعلاقات الدبلوماسية.\nويكون لهذه الأحكام في قطر قوة القانون."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ووفق على الأحكام الواردة في المواد 1، 5، 15، 17 والمادة 31 (فقرة 1، 2، 4) 32، 33، 35، 39، 41، 43، 44، 45، 48، 49، 50، 51، 52، 53، 45، 55، 57، 58،. (باستثناء أحكام المواد المشار إليها في المادة 58 التي لم ترد في هذه المادة )، 60، 61، 62، 66، 67، 70، 71 من اتفاقية فيينا للعلاقات القنصلية. ويكون لهذه الأحكام في قطر قوة القانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهـات المختصة، كل فيما يخصه، تنفيذ هذا القانون، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

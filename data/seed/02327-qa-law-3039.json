@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (37) لسنة 2011 بالترخيص بإقراض المؤسسة الخيرية الدولية المعنية بحقوق ذوي الإعاقة بسويسرا (تحت التأسيس)",
   "short_name": "مرسوم رقم (37) لسنة 2011 بالترخيص بإقراض المؤسسة الخيرية الدولية المعنية بحقوق ذوي الإعاقة بسويسرا (تحت التأسيس)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3039&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3039&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص لوزارة الاقتصاد والمالية، بصفتها ممثلة لحكومة دولة قطر، باقراض المؤسسة الخيرية الدولية المعنية بحقوق ذوي الإعاقة بسويسرا (تحت التأسيس)، مبلغاً وقدره (7,500,000) سبعة ملايين وخمسمائة ألف دولار أمريكي، وذلك وفقاً للشروط والأحكام المنصوص عليها في اتفاقية القرض التي تبرمها الوزارة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتولى وزير الاقتصاد والمالية، أو من يفوضه، توقيع اتفاقية القرض المشار إليها في المادة السابقة، واتخاذ الإجراءات اللازمة لتنفيذها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,39 @@
   "title": "مرسوم رقم (63) لسنة 2025 بشأن تعديل التعرفة الجمركية المتكاملة",
   "short_name": "مرسوم رقم (63) لسنة 2025 بشأن تعديل التعرفة الجمركية المتكاملة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10064&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10064&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعدل بالتعرفة الجمركية المتكاملة المرفقة بالمرسوم رقم (98) لسنة 2024 المشار إليه، رموز النظام المنسق والأصناف وفئات الرسم الواردة بالجدول رقم (1) المرفق بهذا المرسوم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُضاف إلى التعرفة الجمركية المتكاملة المرفقة بالمرسوم رقم (98) لسنة 2024 المشار إليه ، رموز النظام المنسق الواردة بالجدول رقم (2) المرفق بهذا المرسوم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُحذف من التعرفة الجمركية المتكاملة المرفقة بالمرسوم رقم (98) لسنة 2024 المشار إليه، رموز النظام المنسق الواردة بالجدول رقم (3) المرفق بهذا المرسوم."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تُطبق التعديلات المنصوص عليها في هذا المرسوم اعتباراً من 01/06/2025."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

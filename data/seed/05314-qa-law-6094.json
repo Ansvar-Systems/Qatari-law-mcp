@@ -4,8 +4,27 @@
   "title": "قرار وزير البيئة رقم (4) لسنة 2008 بتسمية أعضاء لجنة معاينة الصقور",
   "short_name": "قرار وزير البيئة رقم (4) لسنة 2008 بتسمية أعضاء لجنة معاينة الصقور",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6094&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6094&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة معاينة الصقور برئاسة مدير إدارة حماية الحياة الفطرية، وعضوية السادة التالية أسماؤهم:-\n1- السيد/ سيف سعيد النعيمي.\n2- السيد/ عبدالله حمد المحشادي.\n3- السيد/ منصور محمد النعيمي.\n4- السيد/ محمد ناصر غانم العلي..\n5- السيد/ سعيد حمد المحشادي.\n6- السيد/ فهد محمد المنصوري.\n7- السيد/ علي خاتم المحشادي.\nويتولى السيد/ فواز عبدالله السويدي أمانة سر اللجنة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية اللجنة خلال الفترة من: 1/9/2008م إلى 15/4/2009م."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار.\nويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

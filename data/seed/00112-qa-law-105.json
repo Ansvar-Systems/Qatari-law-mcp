@@ -4,8 +4,21 @@
   "title": "قانون رقم (16) لسنة 1995 بتعديل بعض أحكام القانون رقم (3) لسنة 1975 بشأن المحال التجارية والصناعية والعامة المماثلة",
   "short_name": "قانون رقم (16) لسنة 1995 بتعديل بعض أحكام القانون رقم (3) لسنة 1975 بشأن المحال التجارية والصناعية والعامة المماثلة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=105&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=105&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (18) من القانون رقم (3) لسنة 1975 المشار إليه النص التالي:\n«مع عدم الإخلال بأي جزاءات أخرى ينص عليها هذا القانون، يصدر بإلغاء الترخيص، أو بإغلاق المحل إدارياً، أو بإزالته، قرار مسبب من رئيس المجلس البلدي المركزي. ويجوز أن يتضمن هذا القرار وقف إدارة المحل كلياً أو جزئياً، وبصفة دائمة أو مؤقتة.\nويكون هذا القرار واجب النفاذ بالطريق الإداري.\nوفي جميع الأحوال، يجب -قبل صدور قرار بإلغاء الترخيص أو الغلق أو الإزالة- إنذار صاحب الشأن بإزالة المخالفة وآثارها، خلال خمسة عشر يوماً من تاريخ التنبيه عليه كتابة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

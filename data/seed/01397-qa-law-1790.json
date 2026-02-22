@@ -4,8 +4,33 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (11) لسنة 1992 بتعديل بعض أحكام القرار الوزاري رقم (9) لسنة 1983 بتعيين الحد الأقصى لأسعار بيع الطحين المدعوم وتنظيم تداوله",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (11) لسنة 1992 بتعديل بعض أحكام القرار الوزاري رقم (9) لسنة 1983 بتعيين الحد الأقصى ل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1790&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1992.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1790&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون الحد الأقصى لسعر بيع الطحين المدعوم (استخراج 77%) ستة وثلاثين ريالاً للكيس زنة (50) خمسين كيلوجراماً صافياً."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يقتصر استعمال الطحين المدعوم المنتج من شركة مطاحن الدقيق القطرية (استخراج 77%) على صناعة الخبز العربي والبلدي.\nويحظر على أصحاب المخابز والأفران والمحلات والمسئولين عن إدارتها استخدام هذا الطحين في إنتاج أنواع الخبز الأخرى، خلاف الخبز العربي والبلدي، أو في صناعة الحلوى أو غيرها من المنتجات التي يدخل الطحين في صناعتها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يحظر على أصحاب المخابز المنتجة للخبز العربي والبلدي والمسئولين عن إدارتهـا بيع الطحين المدعوم المنتج من شركة مطاحن الدقيق القطرية (استخراج 77%) أو عرضه للبيع، أو التصرف فيه بأي وجه يخرج عن حدود الغرض المخصص له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد ستين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

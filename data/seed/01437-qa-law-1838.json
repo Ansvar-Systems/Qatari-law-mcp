@@ -4,8 +4,27 @@
   "title": "قرار وزير المالية والاقتصاد والتجارة رقم (13) لسنة 2000 بشأن إعفاء الحوافز ورسم أتعاب الإدارة لشركة إنتركونتيننتال العالمية من ضريبة الدخل",
   "short_name": "قرار وزير المالية والاقتصاد والتجارة رقم (13) لسنة 2000 بشأن إعفاء الحوافز ورسم أتعاب الإدارة لشركة إنتركونتيننتال ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1838&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1838&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعفى الحوافز وأتعاب إدارة شركة انتركونتيننتال العالمية المتحصلة من شركة الخليج للفنادق (ذ.م.م)، عن إدارتها لفندق إنتركونتيننتال &shy; الدوحة، من ضريبة الدخل المقررة بالمرسوم بقانون رقم (11) لسنة 1993 المشار إليه، وذلك لمدة خمس سنوات إعتباراً من تاريخ مباشرة هذا الفندق لأعماله."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يسري الإعفاء الضريبي المنصوص عليه في المادة السابقة شريطة قيام أصحاب مشروع فندق إنتركونتيننتال &shy; الدوحة بتعيين عاملين قطريين به، وذلك وفقاً للتعليمات التي تصدر من الجهات المختصة في هذا الشأن."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من تاريخ مباشرة الفندق أعماله. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

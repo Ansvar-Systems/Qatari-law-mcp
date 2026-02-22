@@ -4,8 +4,21 @@
   "title": "قرار رقم (145) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (145) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9506&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9506&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (10) لسنة 1987 المشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nمشعل جمال علي محمد البوعينين\nكاتب متابعة رابع\n2\nعبدالله محمد طالب تويم المري\nمفتش رخص بناء أول\n3\nحمد سعيد حمد العذبة المري\nمنسق متابعة أول\n4\nحمد ناصر حمد البريد المري\nمنسق متابعة ثاني\n5\nتركي ناصر محمد المظفري الهاجري\nمنسق متابعة ثاني\n6\nعيد يوسف عيد ربيعة الزراع\nمنسق متابعة ثاني\n7\nدخيل محمد سعيد علي أبوصلعه\nمنسق متابعة ثالث\n8\nسعد ماجد سعد الزامل الكواري\nكاتب متابعة ثالث\n9\nحمود عبدالله راشد حمود آل شافي\nكاتب متابعة رابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُلّ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

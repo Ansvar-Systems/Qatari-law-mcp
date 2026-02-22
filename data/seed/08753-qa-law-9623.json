@@ -4,8 +4,21 @@
   "title": "قرار رقم ( 54 ) لسنة 2024 بإلغاء تخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم ( 54 ) لسنة 2024 بإلغاء تخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9623&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9623&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة للسادة التالية اسماؤهم، والسابق منحها لهم بموجب قرارات النائب العام المشار إليها اعلاه، وهم:-\nم\nالإسم\nالبطاقة الشخصية\n1\nد. سارة سعيد السنوي\n28636800139\n2\nد. امبير حسن\n27758602426\n3\nد. دانيال حسين\n29258601263\n4\nنوف حسن احمد علي المطوع\n29663402551"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

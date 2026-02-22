@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (131) لسنة 1973 بالموافقة على انضمام دولة قطر إلى الاتفاقية الخاصة بالمسئولية الدولية عن الأضرار التي تحدثها الأجسام الفضائية",
   "short_name": "مرسوم رقم (131) لسنة 1973 بالموافقة على انضمام دولة قطر إلى الاتفاقية الخاصة بالمسئولية الدولية عن الأضرار التي تحدثه...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2951&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1973.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2951&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى الاتفاقية الخاصة بالمسئولية الدولية عن الأضرار التي تحدثها الأجسام الفضائية، التي عرضت للتوقيع في كل من : لندن وموسكو وواشنطن، اعتباراً من اليوم التاسع عشر من شهر مارس عام 1972، وأصبحت نافذة المفعول في اليوم الأول من سبتمبر عام 1972،"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (22) لسنة 2007 بتسمية رئيس وأعضاء لجنة المناقصات التابعة للجنة تسيير مشروع ميناء الدوحة الجديد",
   "short_name": "قرار رئيس مجلس الوزراء رقم (22) لسنة 2007 بتسمية رئيس وأعضاء لجنة المناقصات التابعة للجنة تسيير مشروع ميناء الدوحة ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6046&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6046&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة المناقصات التابعة للجنة تسيير مشروع ميناء الدوحة الجديد من كل من:\n1- السيد/ محمد عبد الكريم المير\nممثلاً للجنة تسيير مشروع ميناء الدوحة الجديد\nرئيساً\n2- السيد/ عبد الله ناصر تركي السبيعي\nممثلاً للهيئة العامة للطيران المدني\nعضواً\n3- السيد/ صالح ناصر اليزيدي\nممثلاً للهيئة العامة للجمارك والموانئ\nعضواً\n4- ممثل عن الشركة الاستشارية المشرفة على المشروع\nعضواً\n5- مدير مشروع ميناء الدوحة الجديد\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

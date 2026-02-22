@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (16) لسنة 2010 بتعديل بعض أحكام القرار رقم (35) لسنة 2007 بإنشاء لجنة الإيجارات المركزية",
   "short_name": "قرار مجلس الوزراء رقم (16) لسنة 2010 بتعديل بعض أحكام القرار رقم (35) لسنة 2007 بإنشاء لجنة الإيجارات المركزية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3180&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3180&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارتا «وزارة الاقتصاد والمالية» و«وزير الاقتصاد والمالية» بعبارتي «وزارة المالية» و«وزير المالية» على التوالي، أينما وردتا في قرار مجلس الوزراء رقم (35) لسنة 2007 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة ( 1 / فقرة أولى) من قرار مجلس الوزراء رقم (35) لسنة 2007 المشار إليه، النص التالي:\nمادة (1/فقرة أولى) :\n«تُنشأ بوزارة الاقتصاد والمالية لجنة دائمة تسمى \"لجنة الإيجارات المركزية\" تشكل برئاسة ممثل عن وزارة الاقتصاد والمالية، وعضوية عدد من الأعضاء لا يزيد على سبعة، يمثلون الجهات التالية:\n- وزارة الاقتصاد والمالية.\n- وزارة العدل (إدارة التسجيل العقاري).\n- وزارة الشؤون الاجتماعية (إدارة الإسكان).\n- وزارة البلدية والتخطيط العمراني.\n- الأمانة العامة لمجلس الوزراء.»"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قانون رقم (10) لسنة 1997 بتعديل بعض أحكام المرسوم بقانون رقم (5) لسنة 1965 بشأن البطاقات الشخصية",
   "short_name": "قانون رقم (10) لسنة 1997 بتعديل بعض أحكام المرسوم بقانون رقم (5) لسنة 1965 بشأن البطاقات الشخصية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=14&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=14&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستبدل بعبارة «مدة صلاحية بطاقة القطري خمس سنوات غير قابلة للتجديد» الواردة بالفقرة الأولى من المادة (5) من المرسوم بقانون رقم (5) لسنة 1965 المشار إليه، العبارة التالية:\n«مدة صلاحية بطاقة القطري عشر سنوات غير قابلة للتجديد»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

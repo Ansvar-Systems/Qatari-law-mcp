@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (23) لسنة 2006 بتعديل تشكيل لجنة قبول المهندسين ومكاتب الاستشارات الهندسية",
   "short_name": "قرار مجلس الوزراء رقم (23) لسنة 2006 بتعديل تشكيل لجنة قبول المهندسين ومكاتب الاستشارات الهندسية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3233&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3233&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل المهندس/مهدي راشد الدوسري، محل المهندس/عبدالله على الكواري، في عضوية لجنة قبول المهندسين ومكاتب الاستشارات الهندسية ممثلاً لهيئة الأشغال العامة، كما يحل المهندس/حمد علي المناعي، محل المهندس/علي محمد الدربستي، في عضوية اللجنة، ممثلاً للمجلس الأعلى للاتصالات وتكنولوجيا المعلومات، وتكون مدة عضوية كل منهما باللجنة مكملة لمدة عضوية سلفه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

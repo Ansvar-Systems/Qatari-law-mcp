@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (20) لسنة 2003 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1998 بشأن اللجنة الدائمة للتراخيص بوزارة الصحة العامة وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (20) لسنة 2003 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1998 بشأن اللجنة الدائمة للتراخي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1520&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1520&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 10 ) من قرار مجلس الوزراء رقم (9) لسنة 1998 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article (10)",
+      "content": "« يتقاضي رئيس اللجنة ونائبه وكل عضو من أعضائها ومقررها مكافأة قدرها (500) خمسمائة ريال عن كل اجتماع يحضره من اجتماعات اللجنة، وبحد أقصى (2000) ألفي ريال شهرياً»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

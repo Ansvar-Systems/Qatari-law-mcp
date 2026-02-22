@@ -4,8 +4,21 @@
   "title": "قرار رقم (43) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (43) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9246&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9246&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون موظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون المشار إليه رقم (18) لسنة 2017 م، بشأن النظافة العامة والقرارات المنفذة له، وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nنايف عبدالرحمن موسى المهيري\nكاتب خدمة عملاء رابع\n2\nمشهور حمد صالح المري\nكاتب خدمة عملاء رابع\n3\nتركي محمد حامد الرمالي الشمري\nكاتب خدمة عملاء رابع\n4\nسعيد فرهود سالم فرهود الهاجري\nكاتب خدمة عملاء رابع\n5\nعبدالعزيز علي حجي الحجي\nكاتب خدمة عملاء رابع\n6\nعلي موسي علي الرمالي الشمري\nباحث دراسات قانونية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

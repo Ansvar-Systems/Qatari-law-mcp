@@ -4,8 +4,21 @@
   "title": "قرار رقم (102) لسنة 2006 بشأن تخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (102) لسنة 2006 بشأن تخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3483&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3483&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الشؤون البلدية والزراعة مفتشي النظافة العامة، التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام قانون النظافة العامة ، المشار اليه والقرارات المنفذة له وهم:\nم\nالاسم\n1-\nالسيد/ جمل عويلي العتيبي\n2-\nالسيد/ سالم حمد خميس حمد آل دحبج\n3-\nالسيد/ منصور محمد مسفر الشهواني\n4-\nالسيد/ فهد علي عبد الرحمن السليطي\n5-\nالسيد/ صالح محمد صالح الكواري\n6-\nالسيد/ ناصر مبارك محمد العثمان\n7-\nالسيد/ ناصر خليفة مطر الرمالي الشمري\n8-\nالسيد/ جاسم حمد سعيد شحيمان الهاجري\n9-\nالسيد/ سعود عبد العزيز السليطين"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصه، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

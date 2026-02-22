@@ -4,8 +4,21 @@
   "title": "قرار لجنة تعيين الحد الأقصى للأسعار ونسب الأرباح رقم (6) لسنة 2018 بتعيين الحد الأقصى لسعر ربطة البرسيم (الجت)",
   "short_name": "قرار لجنة تعيين الحد الأقصى للأسعار ونسب الأرباح رقم (6) لسنة 2018 بتعيين الحد الأقصى لسعر ربطة البرسيم (الجت)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7772&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7772&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون الحد الأقصى لسعر ربطة البرسيم (الجت) زنة (1) كيلو جرام خمسة ريالات اعتباراً من تاريخ توقيع هذا القرار وحتى الخامس عشر من مارس عام 2019.\nعلى أن يتم تطبيق القرار بشكل سنوي فيما بعد ذلك، بحيث يكون الحد الأقصى لسعر بيع ربطة البرسيم (الجت) زنة (1) كيلو جرام خمسة ريالات اعتباراً من الأول من سبتمبر وحتى الخامس عشر من مارس من كل عام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قانون رقم (6) لسنة 2001 بإعفاء شركة الكهرباء والماء القطرية من الرسوم الجمركية والضرائب والرسوم الأخرى",
   "short_name": "قانون رقم (6) لسنة 2001 بإعفاء شركة الكهرباء والماء القطرية من الرسوم الجمركية والضرائب والرسوم الأخرى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=383&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=383&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعفى من الرسوم الجمركية وغيرها من الضرائب والرسوم الأخرى المنصوص عليها في قانون الجمارك المشار إليه، الأجهزة والمعدات وقطع الغيار والمواد الكيميائية اللازمة لتشغيل وصيانة محطة رأس أبو فنطاس (ب)، التي تستوردها شركة الكهرباء والماء القطرية بإسمها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

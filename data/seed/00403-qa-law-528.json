@@ -4,8 +4,33 @@
   "title": "مرسوم بقانون رقم (21) لسنة 1973 بمنح علاوة جندية لأفراد قوات الجيش والشرطة وخفر السواحل",
   "short_name": "مرسوم بقانون رقم (21) لسنة 1973 بمنح علاوة جندية لأفراد قوات الجيش والشرطة وخفر السواحل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=528&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1973.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=528&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينقل أفراد خفر السواحل المعينين برواتب مقطوعة إلى جدول درجات ورواتب أفراد قوات الجيش والشرطة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "(كما تعدلت بموجب القانون رقم 17 لسنة 1974 الجريدة الرسمية 7 لسنة 1974):\n(أ) يمنح أفراد قوات الجيش والشرطة وخفر السواحل علاوة جندية قدرها ماية وخمسون ريالاً شهرياً.\n(ب) لا تمنح هـذه العلاوة في حالة صرف العلاوة الاجتماعية أو المحلية أو بدل السكن."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تواجه المصروفات اللازمة لتنفيذ هذا القانون من الاحتياطي العام للدولة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به اعتباراً من أول رجب سنة 1393هـ. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

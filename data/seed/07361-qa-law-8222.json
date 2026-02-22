@@ -4,8 +4,27 @@
   "title": "قرار وزير التجارة والصناعة رقم (96) لسنة 2019 باعتماد لائحة النظام الداخلي واللائحة المالية لغرفة تجارة وصناعة قطر",
   "short_name": "قرار وزير التجارة والصناعة رقم (96) لسنة 2019 باعتماد لائحة النظام الداخلي واللائحة المالية لغرفة تجارة وصناعة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8222&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8222&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد لوائح غرفة تجارة وصناعة قطر ، المرفقة بهذا القرار، وذلك على النّحو التالي:\nأولاً: لائحة النظام الداخلي لغرفة تجارة وصناعة قطر ، والمرفق بها:\n1- لائحة آلية إجراء انتخاب مجلس إدارة غرفة تجارة وصناعة قطر .\n2- لائحة شؤون موظفي غرفة تجارة وصناعة قطر .\nثانياً: اللائحة المالية لغرفة تجارة وصناعة قطر ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار وزير الاقتصاد والتجارة رقم (83) لسنة 2018 المشار إليه، كما يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

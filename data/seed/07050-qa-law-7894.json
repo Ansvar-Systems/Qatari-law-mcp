@@ -4,8 +4,21 @@
   "title": "قرار رقم (3) لسنة 2019 بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (3) لسنة 2019 بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7894&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7894&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التجارة والصناعة التالية أسماؤهما صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (9) لسنة 2002 المشار إليه والقرارات المُنفذة له وهما:\nم\nالاسم\nالمسمى الوظيفي\n1\nصالح ناجي شيخ اليهري اليافعي.\nمفتش أسواق ثالث.\n2\nناصر حمد سالم على المري.\nمفتش أسواق ثالث."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخُصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

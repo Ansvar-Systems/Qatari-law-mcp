@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (33) لسنة 2008 بقبول استقالة بعض القضاة",
   "short_name": "مرسوم رقم (33) لسنة 2008 بقبول استقالة بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5785&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5785&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تقبل استقالة السادة القضاة التالية أسماؤهم من وظائفهم اعتبارا من 30/6/2008:\n1- السيد/ عمر الفاروق إسماعيل حفيظ\nالقاضي بمحكمة الاستئناف.\n2- السيد/ هاني مصطفى كمال عزيز\nالرئيس بالمحكمة الابتدائية.\n3- السيد/ بدري عبد الفتاح بدري محمد\nالرئيس بالمحكمة الابتدائية.\n4- السيد/ أحمد أبو المكارم محمد\nالقاضي بالمحكمة الابتدائية.\n5- السيد/ وائل سعد محمد رفاعي\nالقاضي بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

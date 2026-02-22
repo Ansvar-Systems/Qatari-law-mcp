@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (4) لسنة 2003 بتشكيل مجلس إدارة مؤسسة حمد الطبية",
   "short_name": "قرار أميري رقم (4) لسنة 2003 بتشكيل مجلس إدارة مؤسسة حمد الطبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=761&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=761&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة مؤسسة حمد الطبية على النحو التالي:\n1- الدكتور/حجر أحمد حجر\nرئيساً\n2- المدير الإداري لمؤسسة حمد الطبية\nنائباً للرئيس\n3- المدير الطبي لمؤسسة حمد الطبية\nعضواً\n4- الدكتور/محمد علي الحرمي\nعضواً\n5- الدكتور/خليفة أحمد الجابر\nعضواً\n6- الدكتور/محمد غانم العلي\nعضواً\n7- السيد/خلف أحمد المناعي\nعضواً\n8- السيد/حسين يوسف الملا\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى القرار الأميري رقم (4) لسنة 2001 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

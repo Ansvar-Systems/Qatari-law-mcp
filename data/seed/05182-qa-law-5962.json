@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (7) لسنة 2009 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (7) لسنة 2009 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5962&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5962&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين في وظيفة رئيس نيابة كل من السادة الآتية أسماؤهم:\n1- حمد أحمد محمد شريان الكعبي.\n2- سعد حنيف سعد مطرف الدوسري.\n3- سعد سعيد حسن آل مسعود القحطاني.\n4- خالد محمد خليفة محمد المنصوري.\n5- عبدالله إبراهيم راشد المالكي.\n6- عادل حسن أحمد العبيدلي.\n7- مريم عبدالله مسعود فرج الجابر.\n8- خالد شفيع سعيد شفيع المري.\n9- علي خليل إبراهيم أحمد محمود.\n10- عبدالله علي أحمد العلي المعاضيد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين في وظيفة وكيل نيابة أول كل من السادة الآتية أسماؤهم:\n1- خالد عبدالله أحمد محمد آل إبراهيم.\n2- ناصر علي محمد علي العمادي.\n3- غانم سيف أحمد السليطي.\n4- محمد جابر مهنا مبارك النعيمي.\n5- سعود عبدالله مذكر آل شافي الهاجري.\n6- حسن علي حسن العلي.\n7- طلال محمد حمد محمد المناعي.\n8- منصور عبدالله خلف منصور الكعبي.\n9- يوسف حمد سعد النصف."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

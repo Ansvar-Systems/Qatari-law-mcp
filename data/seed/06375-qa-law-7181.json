@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (54) لسنة 2016 بالموافقة على القواعد المنظمة لشعار مجلس التعاون لدول الخليج العربية",
   "short_name": "مرسوم رقم (54) لسنة 2016 بالموافقة على القواعد المنظمة لشعار مجلس التعاون لدول الخليج العربية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7181&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7181&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على القواعد المنظمة لشعار مجلس التعاون لدول الخليج العربية التي اعتمدها المجلس الأعلى لمجلس التعاون لدول الخليج العربية في دورته الثالثة والثلاثين المنعقدة بمملكة البحرين يومي (24، 25) ديسمبر 2012، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة ( 68 ) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

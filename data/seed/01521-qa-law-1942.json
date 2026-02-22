@@ -4,8 +4,39 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (21) لسنة 1979 في شأن معايرة ودمغ أجهزة وآلات وأدوات الوزن والقياس والكيل وحدود التفاوتات المسموح بها",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (21) لسنة 1979 في شأن معايرة ودمغ أجهزة وآلات وأدوات الوزن والقياس والكيل وحدود التفا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1942&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1979.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1942&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "على قسم المقاييس والمكاييل والموازين معايرة ما يقدم إليه من أجهزة وآلات وأدوات الوزن والقياس والكيل، ودمغ الصحيح منها في الحدود المقررة بالجداول المرفقة ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يجوز أن تتم المعايرة والدمغ بمحل الطالب إذا رغب في ذلك، وكانت الأجهزة ثابتة يتعذر نقلها بشرط أن يتحمل نفقات الانتقال والمعاينة. وعلى الطالب أن ينقل سنج وأدوات المعايرة من مقر القسم إلى موقع المعايرة وإعادتها إلى القسم فور انتهاء عملية المعايرة والدمغ.\nيستحق رسم واحد للمعاينة إذا كانت الأجهزة أو الآلات وأدوات الوزن، والقياس والكيل المطلوب معاينتها في مكان واحد داخل سور واحد وكانت المعاينة لا تستغرق إلا يوماً واحداً. ويتعدد الرسم بتعدد الأمكنة التي تتم فيها المعاينة أو بتعدد الأيام التي تستغرق هذه المعاينة، ويؤشر على كل طلب معاينة بما يتم معاينته في كل يوم من أيام المعاينة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يحدد رسم المعاينة بمبلغ عشرة ريالات."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يلغى القرار رقم (2) لسنة 1973 والقرار رقم (7) لسنة 1974 المشار إليهما."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يعمل بهذا القرار من تاريخ نشره بالجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

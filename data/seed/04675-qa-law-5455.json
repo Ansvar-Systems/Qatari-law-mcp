@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (3) لسنة 2002 بتعيين رئيس لجهاز المخابرات العامة بالوكالة",
   "short_name": "قرار أميري رقم (3) لسنة 2002 بتعيين رئيس لجهاز المخابرات العامة بالوكالة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5455&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5455&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُلغى القرار الأميري رقم (5) لسنة 1996 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتولى العميد/ ناصر غانم العلي أعمال رئيس جهاز المخابرات العامة بالوكالة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (2) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (6) لسنة 1987 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
   "short_name": "قرار مجلس الوزراء رقم (2) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (6) لسنة 1987 بشأن المواصفات الواجب توافره...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3272&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3272&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعدل المواصفة القياسية القطرية رقم (60/1987) «اشتراطات السلامة والصحة الصناعية - المواد الخطرة - الغازات - الجزء السادس - الغازات البترولية المسالة» وذلك بإضافة ما يأتي بعد البند 3/1/4/2 بعد الملاحظة رقم (1) ورقم (2):\n3- يمكن التجاوز عن ترك مسافة ثلاثة أمتار للأوعية (الخزانات) ذات السعة حتى (2000) ألفي لتر بالشروط التالية:\nأ- ألا تقل المسافة الأفقية بين الوعاء (الخزان) مقاس من صمام الأمان ومجموعة التعبئة وبين أي فتحة أو مصدر للشرر على مستوى أو أقل من مستوى الوعاء في أي مبنى مجاور عن ثلاثة أمتار.\nب- ألا يزيد عدد الأوعية المجاورة للمبنى عن وعاء واحد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد ستة أشهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قانون رقم (10) لسنة 2017 بتعديل بعض أحكام المرسوم بقانون رقم (17) لسنة 2010 بتنظيم اللجنة الوطنية لحقوق الإنسان",
   "short_name": "قانون رقم (10) لسنة 2017 بتعديل بعض أحكام المرسوم بقانون رقم (17) لسنة 2010 بتنظيم اللجنة الوطنية لحقوق الإنسان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7308&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7308&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارة \"وزارة التنمية الإدارية والعمل والشؤون الاجتماعية\" بعبارة \"وزارة العمل والشؤون الاجتماعية\" الواردة في المادة (5/فقرة أولى) من المرسوم بقانون رقم (17) لسنة 2010 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة (11/فقرة ثانية) من المرسوم بقانون رقم (17) لسنة 2010 المشار إليه، النص التالي:\nمادة (11/فقرة ثانية) :\n\"وترفع اللجنة إلى مجلس الوزراء تقريراً في نهاية كل سنة ميلادية، وكلما طلب منها أو رأت موجباً لذلك، بنتائج أعمالها وأنشطتها مشفوعاً باقتراحاتها.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

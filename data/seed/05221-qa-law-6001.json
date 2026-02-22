@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (29) لسنة 2004 بتعيين أعضاء لجنة أمناء جائزتي الدولة التقديرية والتشجيعية",
   "short_name": "قرار مجلس الوزراء رقم (29) لسنة 2004 بتعيين أعضاء لجنة أمناء جائزتي الدولة التقديرية والتشجيعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6001&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6001&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين رئيس ونائب رئيس وأعضاء \" لجنة أمناء جائزتي الدولة التقديرية والتشجيعية على النحو التالي:\n1- الشيخ سعود بن محمد بن علي آل ثاني\nرئيساً\n2- الأستاذ الدكتور/ محمد عبد الرحيم كافود\nنائباً للرئيس\n3- الدكتورة / نورة تركي السبيعي\nعضواً\n4- الدكتورة / عائشة يوسف المناعي\nعضواً\n5- الأستاذ الدكتور/ ابراهيم صالح النعيمي\nعضواً\n6- الدكتور / حسن علي حسين النعمة\nعضواً\n7- الدكتورة / فاطمة محمد السويدي\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

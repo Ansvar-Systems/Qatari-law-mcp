@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (66) لسنة 2020 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (66) لسنة 2020 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8415&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8415&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "عين كل من السيد/ أحمد مطر ضابت محمد الدوسري ، والسيد/ يوسف جمعة عبدالله السليطي ، في وظيفة وكيل نيابة أول ، وحدد أقدمية كل منهما فيها اعتبارا من 03/01/2020"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين كل من التالية أسماؤهم في وظيفة وكيل نيابة مساعد ، وحدد أقدمية كل منهم فيها اعتبارا من التاريخ المبين قرين إسمه :\n1- السيدة/ نور هاشم کامل هاشم مرتض&#1740; 03/03/2016\n2- السيد حسن عبدالرحمن حسن محمد النعيمي 09/09/2018\n3- السيدة مريم علي سالم علي العبيدلي 11/08/2019"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

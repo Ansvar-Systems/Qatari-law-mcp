@@ -58,6 +58,18 @@ function collectErrorMessages(error: unknown): string {
   return parts.join(' | ');
 }
 
+/**
+ * Detect Al Meezan anti-bot interstitial pages (obfuscated JS challenge).
+ * These responses are not law content and must be retried.
+ */
+export function isAntiBotChallengeHtml(html: string): boolean {
+  if (!html) return false;
+
+  return /cookiesession\d+/i.test(html)
+    && /eval\(function\(p,a,c,k,e,d\)/i.test(html)
+    && /LawViewWord\.aspx/i.test(html);
+}
+
 function isTlsVerificationError(error: unknown): boolean {
   const message = collectErrorMessages(error);
   return /UNABLE_TO_VERIFY_LEAF_SIGNATURE|unable to verify the first certificate|SSL certificate/i.test(message);
@@ -66,7 +78,7 @@ function isTlsVerificationError(error: unknown): boolean {
 function fetchViaCurl(url: string, binary: boolean): Buffer {
   const output = execFileSync(
     'curl',
-    ['-k', '-fsSL', '--connect-timeout', '5', '--max-time', '10', '-A', USER_AGENT, url],
+    ['-k', '-fsSL', '--connect-timeout', '4', '--max-time', '8', '-A', USER_AGENT, url],
     { encoding: binary ? undefined : 'utf8', maxBuffer: 64 * 1024 * 1024 },
   );
 
@@ -102,7 +114,7 @@ async function fetchViaCurlWithRetry(url: string, binary: boolean, maxRetries = 
   throw new Error(`curl fallback failed for ${url}`);
 }
 
-async function fetchWithRetry(url: string, accept: string, maxRetries = 3): Promise<Response> {
+async function fetchWithRetry(url: string, accept: string, maxRetries = 0): Promise<Response> {
   await enforceRateLimit();
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
@@ -114,6 +126,7 @@ async function fetchWithRetry(url: string, accept: string, maxRetries = 3): Prom
           'Accept': accept,
         },
         redirect: 'follow',
+        signal: AbortSignal.timeout(8000),
       });
 
       if ((response.status === 429 || response.status >= 500) && attempt < maxRetries) {
@@ -145,16 +158,52 @@ async function fetchWithRetry(url: string, accept: string, maxRetries = 3): Prom
 }
 
 export async function fetchTextFromUrl(url: string): Promise<string> {
-  try {
-    const response = await fetchWithRetry(url, 'text/html, text/plain, */*');
-    return response.text();
-  } catch (error) {
-    if (!isTlsVerificationError(error)) {
-      throw error;
+  const accept = 'text/html, text/plain, */*';
+
+  // LawViewWord performs better and more consistently via curl in this environment.
+  if (/LawViewWord\.aspx/i.test(url)) {
+    const curlBody = (await fetchViaCurlWithRetry(url, false)).toString('utf8');
+    if (!isAntiBotChallengeHtml(curlBody)) {
+      return curlBody;
     }
 
-    return (await fetchViaCurlWithRetry(url, false)).toString('utf8');
+    const response = await fetchWithRetry(url, accept);
+    const fetchBody = await response.text();
+    if (!isAntiBotChallengeHtml(fetchBody)) {
+      return fetchBody;
+    }
+
+    throw new Error(`Received anti-bot challenge via both curl and fetch for ${url}`);
   }
+
+  let bodyFromFetch: string | null = null;
+  let fetchError: unknown = null;
+
+  try {
+    const response = await fetchWithRetry(url, accept);
+    bodyFromFetch = await response.text();
+  } catch (error) {
+    fetchError = error;
+    if (!isTlsVerificationError(error)) {
+      // Non-TLS failures still get a curl recovery attempt below.
+      bodyFromFetch = null;
+    }
+  }
+
+  if (bodyFromFetch && !isAntiBotChallengeHtml(bodyFromFetch)) {
+    return bodyFromFetch;
+  }
+
+  // Curl fallback handles TLS issues and anti-bot challenge pages observed from fetch().
+  const curlBody = (await fetchViaCurlWithRetry(url, false)).toString('utf8');
+  if (isAntiBotChallengeHtml(curlBody)) {
+    if (fetchError) {
+      throw new Error(`Received anti-bot challenge via both fetch and curl for ${url}: ${collectErrorMessages(fetchError)}`);
+    }
+    throw new Error(`Received anti-bot challenge via both fetch and curl for ${url}`);
+  }
+
+  return curlBody;
 }
 
 export async function fetchBinaryFromUrl(url: string): Promise<Buffer> {

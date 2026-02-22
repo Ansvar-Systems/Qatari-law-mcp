@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (6) لسنة 2024 بتعديل التعرفة الجمركية الموحدة",
   "short_name": "مرسوم رقم (6) لسنة 2024 بتعديل التعرفة الجمركية الموحدة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9470&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9470&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل وصف البنود ورموز النظام المنسق المبينة بالجدول رقم (1) المرفق بهذا المرسوم ، بوصف البنود ورموز النظام المنسق المقابل لها ، بحسب الأحوال ، فـــي جـــدول الـتـعـرفـــــة الجمركية الموحدة لدول مجلس التعاون لدول الخليج العربية ، المرفق بالمرسوم رقم (43) لسنة 2022 المشار إليه.\nكما يُستبدل برمز النظام المنسق (81092000) في جدول التعرفة الجمركية الموحدة لدول مجلس التعاون لدول الخليـج العربية، رمز النظام المنسق التالي:\nرمز النظام المنسق\nالصنف\n81029900\n--غيرها"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تضاف رموز النظام المنسق المبينة بالجدول رقم (2) المرفق بهذا المرسوم ، إلى جدول التعرفة الجمركية الموحدة لدول مجلس التعاون لدول الخليج العربية ، المرفق بالمرسوم رقم (43) لسنة 2022 المشار إليه"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تحذف رموز النظام المنسق المبينة أرقامها بالجدول رقم (3) المرفق بهذا المرسوم ، من جدول التعرفة الجمركية الموحدة لدول مجلس التعاون لدول الخليج العربية ، المرفق بالمرسوم رقم (43) لسنة 2022 المشار إليه"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويعـمــل بــه مـن 2023/01/01 . وينشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

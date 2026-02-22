@@ -4,8 +4,33 @@
   "title": "قرار أمير دولة قطر رقم (4) لسنة 1982 بزيادة منحة التأثيث المقررة للمنتفعين بنظام المساكن الشعبية",
   "short_name": "قرار أمير دولة قطر رقم (4) لسنة 1982 بزيادة منحة التأثيث المقررة للمنتفعين بنظام المساكن الشعبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5514&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1982.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5514&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ترفع منحة التأثيث المقررة للمنتفعين بنظام المساكن الشعبية لمحدودي الدخل الذين لم يسبق صرف هذه المنحة لهم، إلى عشرين ألف ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يستحق المنتفعون بنظام المساكن الشعبية للمواطنين العجزة، الذين يحصلون على تلك المساكن بعد العمل بهذ القرار، منحة تأثيث قدرها عشرة ألاف ريال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا تصرف المنح المنصوص عليها في المادتين السابقتين إلا مرة واحدة طوال الانتفاع بالمسكن الشعبي."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

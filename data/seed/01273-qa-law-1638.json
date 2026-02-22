@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (42) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 1990 بشأن تشكيل لجنة مركزية للتظلمات المتعلقة بنزع ملكية العقارات للمنفعة العامة",
   "short_name": "قرار مجلس الوزراء رقم (42) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 1990 بشأن تشكيل لجنة مركزية للتظ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1638&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1638&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 11 ) من قرار مجلس الوزراء رقم (2) لسنة 1990 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article (11)",
+      "content": "«يتقاضى كل من رئيس وأعضاء اللجنة مكافأة شهرية مقدارها (4000) أربعة آلاف ريال، وإذا تخلف أي منهم عن حضور أحد الاجتماعات خصم منه مبلغ (600) ستمائة ريال عن كل اجتماع يتخلف عنه.\nويتقاضى أمين سر اللجنة مكافأة شهرية مقدارها (2000) ألفا ريال، وإذا تخلف عن حضور أحد الاجتماعات خصم منه مبلغ (500) خمسمائة ريال عن كل اجتماع يتخلف عنه»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

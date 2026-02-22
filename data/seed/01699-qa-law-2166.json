@@ -4,8 +4,21 @@
   "title": "قرار وزير الداخلية رقم (6) لسنة 2005 بتعديل بعض أحكام قرار وزير الداخلية رقم (15) لسنة 1994 بشأن البدلات والعلاوات الإضافية والفنية التي تمنح لأعضاء قوة الشرطة",
   "short_name": "قرار وزير الداخلية رقم (6) لسنة 2005 بتعديل بعض أحكام قرار وزير الداخلية رقم (15) لسنة 1994 بشأن البدلات والعلاوات ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2166&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2166&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى المستحقين لعلاوة الخطر، المنصوص عليها في البند (4) من المجموعة الثانية (علاوات الوظيفة - ضباط) من لائحة البدلات والعلاوات الإضافية والفنية للضباط والرتب الأخرى، المرفقة بقرار وزير الداخلية رقم (15) لسنة 1994 المشار إليه، العاملون بإدارة الدفاع المدني."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

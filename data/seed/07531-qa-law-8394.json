@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (60) لسنة 2020 بفض دور الانعقاد العادي الثامن والأربعين لمجلس الشورى",
   "short_name": "مرسوم رقم (60) لسنة 2020 بفض دور الانعقاد العادي الثامن والأربعين لمجلس الشورى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8394&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8394&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُفض دور الانعقاد العادي الثامن والأربعين لمجلس الشورى اعتباراً من يوم الثلاثاء السادس عشر من ذي القعدة عام 1441ه، الموافق للسابع من يوليو عام 2020."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كلّ فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

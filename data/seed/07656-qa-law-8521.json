@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (14) لسنة 2020 بإعادة تشكيل مجلس أمناء كلية المجتمع في قطر",
   "short_name": "قرار رئيس مجلس الوزراء رقم (14) لسنة 2020 بإعادة تشكيل مجلس أمناء كلية المجتمع في قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8521&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8521&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس أمناء كلية المجتمع في قطر ، على النحو التالي :\n1- سعادة الدكتورة/ حصة بنت سلطان الجابر رئ&#1740;سًا\n2- الدكتور/ إبراهيم محمد عبدالله الكعبي نائبًا للرئيس\n3- الدكتور/ راشد سلطان الكواري عضوًا\n4- السيد / سعود عبدالعزيز التميمي عضوًا\n5- الدكتور/ عبدالله ابراهيم العمادي عضوًا\n6- الدكتور/ ناصر محمد معرفية عضوًا\n7- الدكتور/ خالد عبدالله العلي عضوًا"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار , ويُعمل به من تاريخ صدوره ، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

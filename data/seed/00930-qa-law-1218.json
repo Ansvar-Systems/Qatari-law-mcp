@@ -4,8 +4,45 @@
   "title": "مرسوم رقم (60) لسنة 2001 بالتصديق على الاتفاقية الشاملة لإنشاء فرع لكلية شمال الاطلنطي في قطر",
   "short_name": "مرسوم رقم (60) لسنة 2001 بالتصديق على الاتفاقية الشاملة لإنشاء فرع لكلية شمال الاطلنطي في قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1218&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1218&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على الاتفاقية الشاملة المبرمة بين دولة قطر وكلية شمال الاطلنطي، بتاريخ 30/9/2001 «الاتفاقية»، لإنشاء فرع للكلية في قطر يسمى «كلية شمال الاطلنطي في قطر» «الكلية»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص الكلية بتقديم البرامج التكنولوجية في مجالات التعليم والتدريب والبحث والتطوير بما يلبي احتياجات الجهات والمؤسسات الحكومية وقطاعات الصناعة والأعمال، وبما يحقق أهداف التنمية البشرية والاجتماعية والاقتصادية في الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "توفر دولة قطر الموارد المالية اللازمة لميزانيات التأسيس والمنشآت والإدارة والتشغيل وفقاً للأحكام والإجراءات التي تضمنتها الاتفاقية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يتبع في إنشاء الكلية ونظمها الأكاديمية والإدارية والمالية وكافة الأمور الأخرى المتعلقة بها الأحكام المنصوص عليها في الاتفاقية والوثائق الملحقة بها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تعفى كلية شمال الاطلنطي وموظفوها من جميع الضرائب المستحقة على المبالغ المدفوعة لهم وفقاً لأحكام هذه الاتفاقية."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية رقم (7) لسنة 1974 باستثناء شركة قطر للحديد والصلب المحدودة من التقيد بنموذجي عقد التأسيس والنظام الأساسي للشركات المساهمة",
   "short_name": "قرار وزير المالية رقم (7) لسنة 1974 باستثناء شركة قطر للحديد والصلب المحدودة من التقيد بنموذجي عقد التأسيس والنظام ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2196&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2196&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستثنى شركة قطر للحديد والصلب المحدودة من التقيد بنموذجي عقد التأسيس والنظام الأساسي للشركات المساهمة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به اعتباراً من تاريخ 28/9/1394 هـ الموافق 14/10/1974 م، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

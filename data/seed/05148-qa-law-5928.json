@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (63) لسنة 2010 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (63) لسنة 2010 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5928&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5928&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة التالية أسماؤهم في الوظيفة المبينة قرين اسم كل منهم، وتحدد أقدميتهم وفقاً للترتيب الوارد في هذا المرسوم:\n1- محمد عبدالله جاسم المهندي\nنائب رئيس بمحكمة الاستئناف\n2- عبدالعزيز أحمد خليفة السليطي\nنائب رئيس بمحكمة الاستئناف\n3- حسن محمد سعد المهندي\nقاض بمحكمة الاستئناف\n4- محمد عمران علي الكواري\nقاض بمحكمة الاستئناف\n5- عبدالله علي محمد العمادي\nقاض بمحكمة الاستئناف\n6- صالح جاسم عبدالرحمن المهندي\nقاض بمحكمة الاستئناف\n7- محسن محمود مصطفى قضائي\nقاض بمحكمة الاستئناف\n8- ناصر محمد شبيب الدوسري\nقاض بمحكمة الاستئناف\n9- عبدالله محمود سالم آل عمر\nقاض بمحكمة الاستئناف"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من 01/10/2010. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

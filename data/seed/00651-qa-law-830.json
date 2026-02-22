@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (9) لسنة 1999 بتشكيل مجلس إدارة المؤسسة العامة القطرية للقناة الفضائية",
   "short_name": "قرار أميري رقم (9) لسنة 1999 بتشكيل مجلس إدارة المؤسسة العامة القطرية للقناة الفضائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=830&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=830&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة المؤسسة العامة القطرية للقناة الفضائية على النحو التالي:\n1- الشيخ/ حمد بن ثامر آل ثاني\nرئيساً\n2- السيد/ محمود عبد العزيز السهلاوي\nنائباً للرئيس\n3- السيد/ خلف أحمد المناعي\nعضواً\n4- السيد/ حسين عبد الله جعفر\nعضواً\n5- السيد/ محمد جاسم العلي\nعضواً\n6- السيد/ قاسم عبد الله العمادي\nعضواً\n7- الدكتور/ عيسى حسن التميمي\nعضواً\nويتولى المذكورون عملهم في المجلس بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة المجلس ثلاث سنوات ميلادية، تبدأ من 22/4/1999."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

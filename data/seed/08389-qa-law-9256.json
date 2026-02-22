@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم ( 8) لسنة 2023 بمنح بدل تخصص للأطباء البيطريين القطريين العاملين بوزارة البلدية",
   "short_name": "قرار مجلس الوزراء رقم ( 8) لسنة 2023 بمنح بدل تخصص للأطباء البيطريين القطريين العاملين بوزارة البلدية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9256&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9256&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُمنح الأطباء البيطريون القطريون العاملون بوزارة البلدية، بـدلاً شهرياً بمسمى \"بدل تخصص\" مقداره (4،000) أربعة آلاف ريال قطري شهرياً، بالإضافة إلى بـدل طبيعة العمل المقرر لهم بقرار مجلس الوزراء في اجتماعه العادي رقم (12) لعام 2010 المشار إليه، وبذات الضوابط الواردة به"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

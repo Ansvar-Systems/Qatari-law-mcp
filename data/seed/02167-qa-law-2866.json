@@ -4,8 +4,21 @@
   "title": "قرار حاكم قطر رقم (4) لسنة 1965 باعتماد نص الاتفاق التكميلي المبرم مع شركة نفط قطر المحدودة، بشأن تسوية المسائل موضوع قراري منظمة البلاد المصدرة للبترول رقم 4/ 33، 4/ 34",
   "short_name": "قرار حاكم قطر رقم (4) لسنة 1965 باعتماد نص الاتفاق التكميلي المبرم مع شركة نفط قطر المحدودة، بشأن تسوية المسائل موضوع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2866&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1965.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2866&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد نص الاتفاق التكميلي المبرم بيننا وبين شركة نفط قطر المحدودة بتاريخ 31/12/1964 بشأن تسوية المسائل موضوع قراري منظمة البلاد المصدرة للبترول رقم 4/33، 4/34."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا القرار اعتبارا من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

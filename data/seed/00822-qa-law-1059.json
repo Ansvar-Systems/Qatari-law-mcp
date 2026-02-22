@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (33) لسنة 1991 بالتصديق على اتفاق تشكيل لجنة مشتركة بين دولة قطر والجمهورية الجزائرية الديمقراطية الشعبية",
   "short_name": "مرسوم رقم (33) لسنة 1991 بالتصديق على اتفاق تشكيل لجنة مشتركة بين دولة قطر والجمهورية الجزائرية الديمقراطية الشعبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1059&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1059&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاق لجنة مشتركة بين دولة قطر والجمهورية الجزائرية الديمقراطية الشعبية الموقع في مدينة الجزائر بتاريخ 6/1/1990، المرفق نصه بهذا المرسوم، ويكون له قوة القانون وفقاً للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

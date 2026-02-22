@@ -4,8 +4,21 @@
   "title": "قرار رقم (118) لسنة 2010 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (118) لسنة 2010 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3503&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3503&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (10) لسنة 1987 المُشار إليه، والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nعلي جبر علي الحي النعيمي\nمشرف مراقبين نظافة وصحة بيئية\n2\nمحمد حمد عبدالهادي الهدوان\nمراقب أملاك الدولة أول\n3\nعبدالهادي حمد عبدالهادي الهدوان\nمشرف مراقبين أراضي أول\n4\nجاسم فرج صالح القحطاني\nمراقب أراضي أول\n5\nمنصور راشد عبدالله المنصوري\nمراقب أملاك دولة\n6\nبندر بخيت عتيق المري\nمراقب أراضي مساعد\n7\nحمد جابر جار الله ذروة البريد\nكاتب دوام"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُلٍ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

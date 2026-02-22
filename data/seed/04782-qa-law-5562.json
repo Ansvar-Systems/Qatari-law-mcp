@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (61) لسنة 2003 بتعيين أعضاء المجلس الأعلى للبيئة والمحميات الطبيعية",
   "short_name": "قرار أميري رقم (61) لسنة 2003 بتعيين أعضاء المجلس الأعلى للبيئة والمحميات الطبيعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5562&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5562&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين عضواً بالمجلس الأعلى للبيئة والمحميات الطبيعية كل من:\n1- الشيخ/ فهد بن عبد الله بن عبد العزيز آل ثاني\n2- السيد/ سعد جاسم الخليفي\n3- السيد/ عبد الوهاب أبو بكر المصلح.\n4- السيد/ مبارك عبد الله الخليفي.\n5- السيد/ لحدان عيسى المهندي.\n6- السيد/ محمد جاسم المسلماني.\n7- السيد/ سبعان مسمار مبارك الجاسم.\n8- السيد/ أحمد محمد حمد الهتمي.\n9- السيد/ أمين عام المجلس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد، لمدة أو لمدد أخرى مماثلة، ويتولى أعضاء المجلس عملهم فيه بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

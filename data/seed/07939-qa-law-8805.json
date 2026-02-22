@@ -4,8 +4,33 @@
   "title": "قرار وزير التجارة والصناعة رقم (41) لسنة 2021 بتحوّل شركة قطر للكيماويات \"كيو كيم\" المحدودة من شركة مساهمة قطرية إلى شركة مساهمة خاصة قطرية",
   "short_name": "قرار وزير التجارة والصناعة رقم (41) لسنة 2021 بتحوّل شركة قطر للكيماويات \"كيو كيم\" المحدودة من شركة مساهمة قطرية إلى...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8805&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8805&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحول شركة قطر للكيماويات \"كيو كيم\" المحدوده من شركة مساهمة قطرية إلى شركة مساهمة خاصة قطرية برأس مال مُصرح به مقداره (900,000,000) تسعمائة مليون دولار أمريكي، وفقاً لأحكام المادة (207) من قانون الشركات التجارية المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس والنظام الأساسي المُشار إليهما، وتلتزم الشركة بأحكام قانون الشركات التجارية المشار إليه، فيما لم يرد بشأنه نص خاص في عقد التأسيس والنظام الأساسي."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على تحوّل الشركه نشوء شخص معنوي جديد، وتظل الشركة محتفظة بحقوقها والتزامانها السابقة على التحوّل."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كُل فيما يَخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره. ويتم شهره وفقاً لأحكام قانون الشركات التجارية المشار إليه."
+    }
+  ],
   "definitions": []
 }

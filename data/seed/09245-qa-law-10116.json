@@ -4,8 +4,33 @@
   "title": "قرار رئيس هيئة تنظيم الاتصالات رقم (5) لسنة 2025 بإصدار أحكام معايير البنية التحتية للاتصالات",
   "short_name": "قرار رئيس هيئة تنظيم الاتصالات رقم (5) لسنة 2025 بإصدار أحكام معايير البنية التحتية للاتصالات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10116&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10116&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تدخل أحكام معايير البنية التحتية للاتصالات المرفقة بهذا القرار حيز النفاذ بتاريخ إصدار هذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُلغي أحكام معايير البنية التحتية للاتصالات الصادرة بموجب هذا القرار الأداة التنظيمية السابقة المدرجة ادناه:\nقرار رئيس هيئة تنظيم الاتصالات رقم (31) لسنة 2022 بإصدار أحكام معايير توصيل التركيبات الداخلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون هناك مهلة انتقالية ثلاث أشهر من تاريخ إصدار هذه اللائحة التنظيمية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كلٌ فيما يخصه، تنفيذ هذا القرار من تاريخ صدوره. وينُشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

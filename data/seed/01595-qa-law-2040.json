@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (35) لسنة 2002 باعتبار مشروع تطوير جزء من منطقة الأسواق من أعمال المنفعة العامة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (35) لسنة 2002 باعتبار مشروع تطوير جزء من منطقة الأسواق من أعمال المنفعة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2040&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2040&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعتبر من أعمال المنفعة العامة مشروع تطوير جزء من منطقة الأسواق، الموضح موقعه وتفاصيله بالمذكرة و الرسم التخطيطي المرفقين بهذا القرار.\nوتتخذ الإجراءات اللازمة لاستصدار مرسوم نزع الملكية طبقاً لأحكام القانون رقم (13) لسنة 1988 ، المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تحدد المنطقة التي تشمل العقارات موضوع هذا القرار على النحو التالي:\nشرقاً: شارع الطيب.\nغرباً: شارع حمد الكبير.\nجنوباً: شارع علي بن عبد الله.\nشمالاً: شارع الأحمد."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

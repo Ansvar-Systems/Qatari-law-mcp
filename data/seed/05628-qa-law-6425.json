@@ -4,8 +4,27 @@
   "title": "قرار وزير العمل والشؤون الاجتماعية رقم (19) لسنة 2014 بإنشاء قسم حماية الأجور بإدارة تفتيش العمل",
   "short_name": "قرار وزير العمل والشؤون الاجتماعية رقم (19) لسنة 2014 بإنشاء قسم حماية الأجور بإدارة تفتيش العمل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6425&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6425&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينشأ بإدارة تفتيش العمل بوزارة العمل والشؤون الاجتماعية قسم يسمى \"قسم حماية الأجور\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يختص قسم حماية الأجور بما يلي:\n1- الاشراف على تطبيق برنامج حماية الأجور على العاملين الخاضعين لقانون العمل المشار إليه.\n2- متابعة مدى التزام أصحاب العمل بصرف أجور العمال الخاضعين لقانون العمل بانتظام وفي المواعيد المحددة.\n3- اقتراح البرامج والأدوات والخطط اللازمة لتطبيق برنامج حماية الأجور، ومتابعة تنفيذها.\n4- استيفاء البيانات اللازمة لتوضيح موقف أصحاب العمل من سداد أجور العمال لديهم، لأي فترة يراها.\n5- إعداد التقارير بشأن أصحاب العمل المخالفين لنظام حماية الأجور، واقتراح التوصيات اللازمة بشأنها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

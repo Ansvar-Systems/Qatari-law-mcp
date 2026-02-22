@@ -4,8 +4,33 @@
   "title": "قرار رئيس هيئة تنظيم الاتصالات رقم (39) لسنة 2024 بإصدار اللائحة التنظيمية لحماية مستهلك خدمات الاتصالات",
   "short_name": "قرار رئيس هيئة تنظيم الاتصالات رقم (39) لسنة 2024 بإصدار اللائحة التنظيمية لحماية مستهلك خدمات الاتصالات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9795&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9795&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تدخل اللائحة التنظيمية لحماية مستهلك خدمات الاتصالات المرفقة بهذا القرار حيز التنفيذ بتاريخ إصدار هذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تلغي اللائحة التنظيمية لحماية مستهلك خدمات الاتصالات جميع الأدوات التنظيمية السابقة المدرجة أدناه:\nقواعد الإعلان والتسويق والعلامات التجارية الخاصة بهيئة تنظيم الاتصالات الصادرة بتاريخ 25 سبتمبر 2014 (\"هيئة تنظيم الاتصالات\").\nقرار رئيس هيئة تنظيم الاتصالات رقم 11 لسنة 2016 بإصدار اللائحة التنظيمية للرسائل غير المرغوب فيها.\nقرار رئيس هيئة تنظيم الاتصالات رقم 12 لسنة 2016 بإصدار اللائحة التنظيمية للخدمات ذات القيمة المضافة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون هناك مهلة انتقالية لتسعة أشهر من تاريخ إصدار هذه اللائحة التنظيمية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

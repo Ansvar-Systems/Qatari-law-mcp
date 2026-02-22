@@ -4,8 +4,21 @@
   "title": "قرار وزير الداخلية رقم (8) لسنة 2010 بتحديد منافذ الدخول للدولة والخروج منها",
   "short_name": "قرار وزير الداخلية رقم (8) لسنة 2010 بتحديد منافذ الدخول للدولة والخروج منها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3918&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3918&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد منافذ الدخول للدولة والخروج منها على النحو التالي:\nأولاً: المنافذ البحرية:\n1ـ ميناء الدوحة.\n2ـ ميناء مسيعيد.\n3ـ ميناء لفان.\n4ـ مرفأ الرويس البحري.\n5ـ مرفأ الدوحة.\n6ـ مرفأ اللؤلؤة.\nثانياً: المنافذ البرية:\n1ـ منفذ أبو سمرة.\n2ـ منفذ سودانثيل.\nثالثاً: المنافذ الجوية:\n1- مطار حمد الدولي.\n2- مطار الدوحة الدولي.\n3- مطار الخور.\n4- مطار العديد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

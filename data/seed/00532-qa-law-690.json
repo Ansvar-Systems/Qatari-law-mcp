@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (21) لسنة 1996 بإلغاء القرارين الأميريين رقمي (26)، (27) لسنة 1995",
   "short_name": "قرار أميري رقم (21) لسنة 1996 بإلغاء القرارين الأميريين رقمي (26)، (27) لسنة 1995",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=690&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=690&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يلغى القرار الأميري رقم (26) لسنة 1995 بمنح الشيخ عبد الرحمن بن جاسم العبد الرحمن آل ثاني لقب سفير فوق العادة مفوض، كما يلغى القرار الأميري رقم (27) لسنة 1995 بتعيينه سفيراً فوق العادة مفوضاً لدى المملكة الأردنية الهاشمية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بأثر رجعي اعتباراً من 1/10/1995. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

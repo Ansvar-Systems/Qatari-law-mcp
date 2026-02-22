@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (41) لسنة 2025 بالتصديق على الاتفاق التكميلي لاتفاقية بين حكومة دولة قطر وبرنامج الأمم المتحدة الإنمائي حول إنشاء مكتب لبرنامج الأمم المتحدة الإنمائي في الدوحة - قطر",
   "short_name": "مرسوم رقم (41) لسنة 2025 بالتصديق على الاتفاق التكميلي لاتفاقية بين حكومة دولة قطر وبرنامج الأمم المتحدة الإنمائي حول...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10031&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10031&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُـودق عـلـى الاتـفـاق التـكـمـيـلـي لاتـفـاقـيـة بـين حـكـومـة دولـة قـطـر وبـرنـامـج الأمـم المـتـحـدة الإنمـائـي حـول إنـشـاء مـكـتـب لـبـرنـامـج الأمـم المـتـحـدة الإنمـائـي في الدوحـة &ndash; قــطــر ، المـوقـع بمـديـنـة الـدوحـة بـتـاريـخ 12/12/2024 ، المـرفـق نـصـه بـهـذا المـرسـوم ، وتـكـون لـه قـوة الـقـانـون ، وفـقـاً لـلـمـادة (68) مـن الـدسـتـور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عـلـى جـمـيـع الجـهـات المـخـتـصـة ، كـل فـيـمـا يـخـصـه ، تـنـفـيـذ هـذا المـرســوم . ويُـعـمـل بـه مـن تـاريـخ صــدوره . ويُـنـشــر فـي الجـريــدة الـرسـمـيـة ."
+    }
+  ],
   "definitions": []
 }

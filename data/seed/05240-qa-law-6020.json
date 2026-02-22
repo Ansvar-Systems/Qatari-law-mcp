@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (11) لسنة 2011 بتعيين مساعدي نيابة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (11) لسنة 2011 بتعيين مساعدي نيابة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6020&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6020&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين في وظيفة مساعد نيابة كلٍ من:\n1- السيد/ سعد عبدالله خميس المريخي.\n2- السيد/ محمد طالب سالم عفيفة.\n3- السيد/ سعود عجب سالم الحقباني الدوسري.\n4- السيد/ خليفة حامد علي مايقه الحبابي.\n5- السيد/ أحمد سعود ناصر كليفيخ العتيبي.\n6- السيد/ عبداللطيف أحمد عبداللطيف المهندي.\n7- السيد/ ناصر علي ناصر الجفالي النعيمي.\n8- السيد/ فهد حمد محمد آل فهيد الهاجري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

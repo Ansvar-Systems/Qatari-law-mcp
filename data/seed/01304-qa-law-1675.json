@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (5) لسنة 1998 بإعتماد بعض المواصفات القياسية الخليجية التجريبية",
   "short_name": "قرار مجلس الوزراء رقم (5) لسنة 1998 بإعتماد بعض المواصفات القياسية الخليجية التجريبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1675&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1675&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعتمد المواصفات القياسية الخليجية التجريبية الخمس، أرقام (661)، (662)، (663)، (664)، (665)، المرفق ملخصاتها بهذا القرار، كمواصفات قياسية قطرية تجريبية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

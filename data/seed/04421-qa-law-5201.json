@@ -4,8 +4,27 @@
   "title": "أمر أميري رقم (3) لسنة 1999 بتعيين وزير للدولة",
   "short_name": "أمر أميري رقم (3) لسنة 1999 بتعيين وزير للدولة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5201&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5201&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين السيد/ عبد الله بن خليفة العطية، وزيراً للدولة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل أمر أميري يخالف أحكام هـذا الأمر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يعمل بهذا الأمر الأميري من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

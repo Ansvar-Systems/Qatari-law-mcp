@@ -4,8 +4,45 @@
   "title": "قانون رقم (17) لسنة 2002 بشأن حماية المجتمع",
   "short_name": "قانون رقم (17) لسنة 2002 بشأن حماية المجتمع",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=116&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=116&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "استثناءً من أحكام قانون الإجراءات الجنائية و القانون رقم (5) لسنة 2003 ، المشار إليهما، يجوز لوزير الداخلية، في الجرائم المتعلقة بأمن الدولة أو الواقعة على العرض أو المخلة بالحياء أو الآداب العامة، أن يقرر التحفظ على المتهم، إذا ثبت أن هناك مبررات قوية تقتضي ذلك، بناءً على تقرير بالواقعة يرفعه مدير عام الأمن العام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة التحفظ أسبوعين قابلة للتمديد لمدة أو لمدد أخرى مماثلة وبحد أقصى ستة أشهر، ويجوز مدها لمدة لا تجاوز ستة أشهر أخرى بموافقة رئيس مجلس الوزراء.\nوتضاعف مدة التحفظ المشار إليها إذا كانت الجريمة تتعلق بأمن الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يجوز للمتحفظ عليه ولذويه التظلم من قرار وضعه تحت التحفظ أو تمديده، بطلب مكتوب يقدم إلى رئيس مجلس الوزراء."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يعامل المتحفظ عليه، طوال مدة التحفظ، معاملة المحبوس احتياطياً، وإذا قدم المتحفظ عليه إلى المحاكمة وقضي بمعاقبته بعقوبة مقيدة للحرية، تستنزل مدة التحفظ من مدة العقوبة المقضي بها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يجوز لوزير الداخلية في الحالات المنصوص عليها في المادة الأولى من هذا القانون، أن يقرر إغلاق المكان الذي وقعت فيه الجريمة وكان مرتبطاً بها.\nويجوز لذوي الشأن التظلم من قرار الغلق إلى رئيس مجلس الوزراء."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

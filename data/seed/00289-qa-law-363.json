@@ -4,8 +4,21 @@
   "title": "قانون رقم (6) لسنة 2002 بمد مدة إعفاء شركة اتصالات قطر (كيوتل) من دفع رسم الامتياز الممنوح لها",
   "short_name": "قانون رقم (6) لسنة 2002 بمد مدة إعفاء شركة اتصالات قطر (كيوتل) من دفع رسم الامتياز الممنوح لها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=363&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=363&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمد مدة إعفاء شركة اتصالات قطر (كيوتل) من دفع رسم الامتياز المنصوص عليه في المادة (4) من القانون رقم (21) لسنة 1998 المشار إليه، وذلك لمدة ثلاث سنوات أخرى تبدأ من اليوم التالي لانتهاء مدة الإعفاء الأصلية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينُشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

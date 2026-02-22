@@ -4,8 +4,21 @@
   "title": "قرار رقم (134) لسنة 2019م بتعديل قراري النائب العام رقمي (71) لسنة 2011 و(16) لسنة 2012",
   "short_name": "قرار رقم (134) لسنة 2019م بتعديل قراري النائب العام رقمي (71) لسنة 2011 و(16) لسنة 2012",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8099&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8099&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعدل قرار النائب العام رقم (71) لسنة 2011 م، و قرار النائب العام رقم (16) لسنة 2012 م المُشار إليهما بتصحيح اسم الموظفة / ريم عادل محمد أحمد أبو موزه ليكون لطيفة عادل محمد أحمد أبو موزه أينما ورد بالقرارين المذكورين."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

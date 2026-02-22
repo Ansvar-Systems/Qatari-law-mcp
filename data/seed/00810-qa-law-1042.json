@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (31) لسنة 1968 بالمصادقة على قرارات المؤتمر الثامن للاتحاد البريدي العربي",
   "short_name": "مرسوم رقم (31) لسنة 1968 بالمصادقة على قرارات المؤتمر الثامن للاتحاد البريدي العربي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1042&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1968.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1042&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على قرارات المؤتمر الثامن للاتحاد البريدي العربي المنعقد ببيروت في المدة من 5-20 ديسمبر سند 1966م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينشر هذا المرسوم في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

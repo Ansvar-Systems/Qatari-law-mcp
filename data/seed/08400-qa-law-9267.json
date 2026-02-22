@@ -4,8 +4,21 @@
   "title": "قرار وزير الثقافة رقم (15) لسنة 2023م بتعديل بعض أحكام القرار رقم (334) لسنة 2022 بشأن تنظيم دار الكتب القطرية",
   "short_name": "قرار وزير الثقافة رقم (15) لسنة 2023م بتعديل بعض أحكام القرار رقم (334) لسنة 2022 بشأن تنظيم دار الكتب القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9267&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9267&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة (7) من قرار وزير الثقافة رقم (334) لسنة 2022، بتنظيم دار الكتب القطرية النص الآتي:\n(يُعيّن رئيس مجلس الأمناء مدير عام للدار لمدة ثلاث سنوات قابلة للتجديد، ويحدِّد مخصصاته المالية، ويشترط في المرشح أن يتمتع بمكانة مرموقة وثقافة واسعة، وأن يكون من ذوي الكفاءة الإدارية والخبرة الفنية)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار، ويلغى كل حكم يخالف أحكامه، ويُعمل به من تاريخ نشره في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

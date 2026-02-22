@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (72) لسنة 2010 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (72) لسنة 2010 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5944&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5944&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين في وظيفة وكيل نيابة أول كل من السادة:\n1. صالح علي محمد الكبيسي.\n2. مبارك شبيب الرمزاني النعيمي.\n3. صالح علي صالح الفضالة.\n4. سعود فالح سعود العبد الرحمن آل ثاني.\n5. خليفة سليمان فرج علي العبد الله.\n6. محمد راشد محمد راشد البنعلي.\n7. حمد ناصر راشد المسند المهندي.\n8. حسن عبد الله الضابت الدوسري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

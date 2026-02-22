@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (49) لسنة 2025 بالتصديق على اتفاقية المساهمة الأساسية في الموارد العادية لمكتب تنسيق الشؤون الإنسانية للأعوام 2025-2026 بين صندوق قطر للتنمية في دولة قطر والأمم المتحدة من خلال مكتبها لتنسيق الشؤون الإنسانية",
   "short_name": "مرسوم رقم (49) لسنة 2025 بالتصديق على اتفاقية المساهمة الأساسية في الموارد العادية لمكتب تنسيق الشؤون الإنسانية للأعو...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10061&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10061&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية المساهمة الأساسية في الموارد العادية لمكتب تنسيق الشؤون الإنسانية للأعوام 2025-2026 بين صندوق قطر للتنمية في دولة قطر والأمم المتحدة من خلال مكتبها لتنسيق الشؤون الإنسانية ، الموقعة بمدينة نيويورك بتاريخ 05/02/2025 ، المرفق نصها بهذا المرسوم ، وتكون لها قوة القانون ، وفقاً للمادة (68) من الدستور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قانون رقم (7) لسنة 2006 بتعديل بعض أحكام المرسوم بقانون رقم (5) لسنة 1984 بتنظيم الأندية",
   "short_name": "قانون رقم (7) لسنة 2006 بتعديل بعض أحكام المرسوم بقانون رقم (5) لسنة 1984 بتنظيم الأندية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4093&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4093&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى المادة (49) من المرسوم بقانون رقم (5) لسنة 1984 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

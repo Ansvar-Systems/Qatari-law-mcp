@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (36) لسنة 2021 بفرض رسوم جمركية نهائية لمكافحة الإغراق على بعض منتجات الورق والورق المُقوى",
   "short_name": "مرسوم رقم (36) لسنة 2021 بفرض رسوم جمركية نهائية لمكافحة الإغراق على بعض منتجات الورق والورق المُقوى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8688&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8688&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُفرض رسوم جمركية نهائية لمكافحة الإغراق على الواردات من منتجات الورق والورق المقوى (فلوتينج أو تستلاينر) غير المطلي بشكل لفائف أو صفائح (ورق كرتون)، ذات منشأ مملكة إسبـانيا والجمهورية البولندية، وذلك على النحو المبين بالجدول المرفق بهذا المرسوم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُفرض الرسوم الجمركية النهائية المنصوص عليها في المادة السابقة اعتباراَ من تاريخ العمل بهذا المرسوم وحتى تاريخ 30/04/2024."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُستثنى من فرض الرسوم الجمركية النهائية لمكافحة الإغراق ما يلي:\n1. ورق الفلوتينج المُصنع من ألياف مُعاد تصنيعها والذي يزن المتر المربع منه أقل من 105 جرام من البند (48051910).\n2. ورق التستلاينر المُصنع من ألياف مُعاد تصنيعها والذي يزن المتر المربع منه أقل من 105 جرام من البند (48052400)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

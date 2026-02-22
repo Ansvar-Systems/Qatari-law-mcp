@@ -4,8 +4,21 @@
   "title": "قرار رقم (117) لسنة 2015 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (117) لسنة 2015 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6741&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6741&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الاقتصاد والتجارة التالية أسمائهما صفة مأموري الضبط القضائي في ضبط واثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المُشار إليها والقرارات المنفذة لها وهما.\nم\nالإسم\nالرقم الشخصي\n1\nبدر محمد معجب بتال الدوسري\n29163404688\n2\nعبدالله محمد عبدالله اليوسف السليطي\n29163403927"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

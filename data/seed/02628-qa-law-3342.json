@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (3) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (4) لسنة 1989 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
   "short_name": "قرار مجلس الوزراء رقم (3) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (4) لسنة 1989 بشأن المواصفات الواجب توافره...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3342&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3342&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستبدل بالمواصفة القياسية م ق خ (100/1988) «التبغ ومنتجاته- أجواء التكييف والإختبار» والمعتمدة بقرار مجلس الوزراء رقم (4) لسنة 1989 المشار إليه، ا لمواصفة القياسية القطرية التجريبية م. ق. ق (رقم 100) «التبغ ومنتجاته- أجواء التكييف والإختبار» والمرفق ملخصها بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

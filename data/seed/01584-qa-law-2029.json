@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (32) لسنة 2003 بتأسيس الشركة الإسلامية للأوراق المالية (شركة مساهمة قطرية خاصة)",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (32) لسنة 2003 بتأسيس الشركة الإسلامية للأوراق المالية (شركة مساهمة قطرية خاصة)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2029&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2029&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص لكل من:\n1-\nبنك قطر الدولي الإسلامي\nقطرية\n2-\nالشركة الإسلامية القطرية للتأمين\nقطرية\n3-\nشركة المستشفى الأهلي التخصصي\nقطرية\n4-\nالشيخ/محمد بن حمد آل ثاني\nقطري\n5-\nالشيخ/ثاني بن عبد الله آل ثاني\nقطري\n6-\nالشيخ/علي بن عبد الله آل ثاني\nقطري\n7-\nالشيخ/خالد بن ثاني بن عبد الله آل ثاني\nقطري\n8-\nالدكتور/حسين علي العبد الله\nقطري\n9-\nالسيد/عبد الله ناصر المسند\nقطري\n10-\nيوسف أحمد النعمة\nقطري\n11-\nالسيد/عبد الباسط الشيبي\nقطري\n12-\nالسيد/جمال عبد الله الجمال\nقطري\nفي أن يؤسسوا فيما بينهم شركة مساهمة خاصة قطرية تسمى «الشركة الإسلامية للأوراق المالية» برأس مال مدفوع قدره (3000,000) ثلاثة ملايين ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي ، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

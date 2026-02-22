@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (12) لسنة 2002 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1996 بشأن تنظيم لجنة المطالبات والتعويضات بوزارة المالية والاقتصاد والتجارة",
   "short_name": "قرار مجلس الوزراء رقم (12) لسنة 2002 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1996 بشأن تنظيم لجنة المطالبات و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4273&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4273&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "«تنشأ بوزارة المالية لجنة دائمة تسمى «لجنة المطالبات والتعويضات».\nوتشكل على النحو التالي:\nوكيل الوزارة المساعد بوزارة المالية\nرئيساً\nممثلين عن وزارة المالية يكون أحدهما\nنائباً للرئيس\nممثل عن وزارة العدل\nعضواً\nممثل عن ديوان المحاسبة\nعضواً\nوترشح كل جهة من يمثلها في اللجنة، ويصدر بتسمية أعضاء اللجنة قرار من وزير المالية. كما يعين مقرراً للجنة ويحدد مكافأته»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يستبدل بنص المادة ( 1 ) من قرار مجلس الوزراء رقم (9) لسنة 1996 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

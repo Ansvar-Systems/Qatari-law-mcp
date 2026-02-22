@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (7) لسنة 1994 بتعديل بعض أحكام المرسوم رقم (22) لسنة 1991 بزيادة نسبة الرسوم الجمركية على التبغ ومشتقاته",
   "short_name": "مرسوم رقم (7) لسنة 1994 بتعديل بعض أحكام المرسوم رقم (22) لسنة 1991 بزيادة نسبة الرسوم الجمركية على التبغ ومشتقاته",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1295&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1295&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (1) من المرسوم رقم (22) لسنة 1991 المشار إليه، النص التالي:\n«تزاد نسبة الرسوم الجمركية على ما يستورد من التبغ ومشتقاته من سجائر وسيجار وغير ذلك، سواء كانت هذه السلعة مصنعة أو من المواد الخام إلى 50%.\nويكون الحد الأدنى للرسوم الواجبة التحصيل كما هو مبين بالجدول المرافق »."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا المرسوم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

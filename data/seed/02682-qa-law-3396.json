@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة 2006 بتشكيل مجلس إدارة هيئة قطر للأسواق المالية",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة 2006 بتشكيل مجلس إدارة هيئة قطر للأسواق المالية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3396&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3396&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين رئيس ونائب رئيس وأعضاء مجلس إدارة هيئة قطر للأسواق المالية، على النحو التالي:\n1- سعادة السيد/ يوسف حسين كمال، وزير المالية القائم بأعمال وزير الاقتصاد والتجارة\nرئيساً\n2- الشيخ / فهد بن فيصل بن ثاني آل ثاني\nنائباً للرئيس\n3- الدكتورة / حصة سلطان الجابر\nعضواً\n4- السيد/ محمد حسن السعدي\nعضواً\n5- السيد / أحمد حسين الحايكي\nعضواً\n6- السيد / عبدالله بن ناصر المسند\nعضواً\n7- السيد/ طارق أحمد المالكي\nعضواً\nويتولى أمانة سر المجلس أمين يختاره المجلس، ويحدد اختصاصاته ومكافأته المالية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يمنح رئيس ونائب رئيس وأعضاء مجلس إدارة هيئة قطر للأسواق المالية مكافأة سنوية، على النحو التالي:\n1- (100,000) مائة ألف ريال للرئيس.\n2- (80,000) ثمانين ألف ريال لنائب الرئيس وكل عضو من الأعضاء."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

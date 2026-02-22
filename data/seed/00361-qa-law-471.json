@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (13) لسنة 1999 بتعديل بعض أحكام المرسوم بقانون رقم (7) لسنة 1980 في شأن تنظيم المدارس الخاصة",
   "short_name": "مرسوم بقانون رقم (13) لسنة 1999 بتعديل بعض أحكام المرسوم بقانون رقم (7) لسنة 1980 في شأن تنظيم المدارس الخاصة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=471&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=471&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف مادة جديدة برقم (32) مكرر للمرسوم بقانون رقم (7) لسنة 1980 المشار إليه، يكون نصها كالآتي:&shy;\n«يجوز للوزير، بعد موافقة رئيس مجلس الوزراء، تعديل القواعد المتعلقة بنظام وشروط القبول في المدارس الخاصة المنصوص عليها في المادتين ( 4 )، ( 13 ) من هذا القانون»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

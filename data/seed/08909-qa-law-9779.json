@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (94) لسنة 2024 بالـتـصــديــق على اتفاقية المساهمة الأساسية لـدعـم الميزانيـة الأساسية للمفوضية السامية للأمم المتحدة لحقوق الإنسان لعام 2024 بين صندوق قطر للتنمية في دولة قطر ومفوضية الأمم المتحدة السامية لحقوق الإنسان 2024",
   "short_name": "مرسوم رقم (94) لسنة 2024 بالـتـصــديــق على اتفاقية المساهمة الأساسية لـدعـم الميزانيـة الأساسية للمفوضية السامية للأ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9779&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9779&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية المساهمة الأساسية لدعم الميزانيـة الأسـاسيـة للمـفـوضـيـة السامية للأمم المتحدة لحقوق الإنسان لعام 2024 بين صندوق قطر للتنمية في دولة قطر ومفوضية الأمم المتحدة السامية لحقوق الإنسان 2024 ، الموقعة بمـديـنـتـي الدوحة وجنيف بتاريخ 2024/05/28 ، المرفق نصها بهذا المرسوم ، وتكون لها قوة القانون ، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه ، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره. ويُنشر في الجـريـدة الـرسـمـيـة."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير الثقافة والرياضة رقم (152) لسنة 2021م بإصدار نظام تكريم الأندية الرياضية القطرية التي تُحقق إنجازات رياضية",
   "short_name": "قرار وزير الثقافة والرياضة رقم (152) لسنة 2021م بإصدار نظام تكريم الأندية الرياضية القطرية التي تُحقق إنجازات رياضية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8659&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8659&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعمل بنظام تكريم الأندية الرياضة القطرية التي تُحقق إنجازات رياضية، المرفق بهذا القرار ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصّة، كلّ فيما يخُصّه، تنفيذ هذا القرار، ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

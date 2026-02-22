@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (16) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (32) لسنة 2009 بالهيكل التنظيمي لوزارة الطاقة والصناعة",
   "short_name": "قرار أميري رقم (16) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (32) لسنة 2009 بالهيكل التنظيمي لوزارة الطاقة والصناعة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4504&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4504&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"يتكون الهيكل التنظيمي لوزارة الطاقة والصناعة من الوحدات الإدارية المبينة بالخريطة التنظيمية المرفقة بهذا القرار وهي:\nأولاً: الوحدات الإدارية التابعة للوزير:\n1- مكتب الوزير.\n2- وحدة العلاقات العامة والاتصال.\n3- وحدة التدقيق الداخلي.\n4- وحدة الشؤون القانونية.\nثانياً: الوحدات الإدارية التابعة لوكيل الوزارة:\n1- مكتب وكيل الوزارة.\n2- إدارة شؤون الطاقة.\n3- إدارة التنمية الصناعية.\n4- إدارة المناطق الصناعية.\n5- إدارة الخدمات المشتركة."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "\"يصدر بتحديد اختصاصات كل من مكتب الوزير ومكتب وكيل الوزارة قرار من الوزير\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

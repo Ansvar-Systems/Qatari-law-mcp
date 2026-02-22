@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (27) لسنة 2025 بتسمية رئيس وأعضاء اللجنة الوطنية للمؤهلات والاعتماد الأكاديمي",
   "short_name": "قرار رئيس مجلس الوزراء رقم (27) لسنة 2025 بتسمية رئيس وأعضاء اللجنة الوطنية للمؤهلات والاعتماد الأكاديمي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10170&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10170&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل اللجنة الوطنية للمؤهلات والاعتماد الأكاديمي برئاسة الأستاذ الدكتور/ مازن عمر حسنه ، وعضوية كل من :\n1- الأستاذ الدكتور/ سيف سعيد السويدي .\n2- الأستاذة الدكتورة/ هالة سلطان سيف العيسى .\n3- الشيخة الدكتورة/ أسماء بنت علي بن جاسم آل ثاني.\n4- الأستاذ الدكتور/ حسن عبدالرحيم السيد.\n5- الشيخة الدكتورة/ حصة بنت حمد آل ثاني.\n6- الدكتور/ راشد سلطان الكواري .\n7- الأستاذ الدكتور/ إياد مسعد .\n8- الدكتور/ جبر حمود جبر النعيمي.\n9- الدكتور/ عبداللطيف محمد الخال.\n10- الدكتور/ عادل الشريف ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

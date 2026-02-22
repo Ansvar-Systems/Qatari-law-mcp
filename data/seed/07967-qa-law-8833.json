@@ -4,8 +4,21 @@
   "title": "قرار رقم (123) لسنة 2021م بتخويل بعض موظفي وزارة البيئة والتغير المناخي صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (123) لسنة 2021م بتخويل بعض موظفي وزارة البيئة والتغير المناخي صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8833&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8833&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البيئة والتغير المناخي التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات\nالجرائم التي تقع بالمخالفة لأحكام القوانين المُشار إليها أعلاه، والقرارات المُنفذة لها وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nعبدالله خليفة عبدالله القريصي\nمراقب محميات طبيعية رابع\n2\nجمعة محمد سالم المهيزع\nمشرف مراقبة بيئة برية ثاني\n3\nجمال إبراهيم محمد الجديع\nمراقب بيئة برية ثالث\n4\nجاسم علي سعد الكعبي\nمنسق متابعة ثالث\n5\nسلطان مهنا الدوسري\nمراقب محميات طبيعية ثالث\n6\nجاسم محمد حمد الكواري\nمُدخل بيانات ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

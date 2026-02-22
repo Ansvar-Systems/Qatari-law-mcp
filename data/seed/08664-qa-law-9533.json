@@ -4,8 +4,21 @@
   "title": "قرار رقم ( 25 ) لسنة 2024 بتخويل أحد موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم ( 25 ) لسنة 2024 بتخويل أحد موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9533&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9533&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظف وزارة البلدية المدعو / حمد على احمد سلمان الكعبي (مدير إدارة الشؤون العامة - بلدية الدوحة) ، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي ترتكب بالمخالفة الأحكام القوانين المشار إليها أعلاه، والقرارات المنفذة لها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

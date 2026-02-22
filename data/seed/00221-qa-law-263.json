@@ -4,8 +4,21 @@
   "title": "قانون رقم (31) لسنة 1995 بتعديل بعض أحكام القانون رقم (4) لسنة 1983 بشأن استغلال وحماية الثروات المائية الحية في قطر",
   "short_name": "قانون رقم (31) لسنة 1995 بتعديل بعض أحكام القانون رقم (4) لسنة 1983 بشأن استغلال وحماية الثروات المائية الحية في قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=263&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=263&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف للمادة ( 18 ) من القانون رقم (4) لسنة 1983 المشار إليه، البنود التالية:\nو- حفر أو تجريف أي مواد ترابية أو نباتات، من مياه المصايد أو الشاطئ المجاور، بكميات أو بطريقة تضر بالثروة المائية الحية.\nز- القيام بأعمال الردم العشوائي على السواحل؛ بقصد زيادة رقعة الأرض، أو إقامة إنشاءات ردمية غير مرخصة، أو إنشاء الفُرَض.\nح- أيّة أعمال من شأنها الإضرار، أو تهديد الثروة المائية الحية، أو البيئة الطبيعية لها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

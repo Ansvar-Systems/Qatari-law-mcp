@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (6) لسنة 2006 بتشكيل لجنة المناقصات المركزية",
   "short_name": "قرار أميري رقم (6) لسنة 2006 بتشكيل لجنة المناقصات المركزية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2895&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2895&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين أعضاء لجنة المناقصات المركزية على النحو التالي:\n1- السيد/غانم علي الكبيسي\nرئيساً\n2- السيد/محمد حصين النعيمي\nنائباً للرئيس\n3- السيد إسحاق أحمد هاشم، ممثلاً لوزارة العدل\nعضواً\n4- السيد/محمد ناصر الفهيد\nعضواً\n5- السيد/هلال جهام الكواري\nعضواً\n6- السيد/سعد أحمد المسند\nعضواً\n7- السيد/علي لحدان الفيحاني، ممثلاً لوزارة المالية\nعضواً\n8- السيد/يوسف أحمد الكواري\nعضواً\n9- السيد/ماجد علي خميس الكواري\nعضواً\nوتكون مدة عضوية اللجنة ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة. ويتفرغ رئيس اللجنة لأعمالها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتقاضى رئيس ونائب رئيس وأعضاء لجنة المناقصات المركزية، مكافأة مقدراها (4000) أربعة آلاف ريال شهرياً."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى القرار الأميري رقم (18) لسنة 2005 المشار إليه، كما يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

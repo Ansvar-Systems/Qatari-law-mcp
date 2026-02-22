@@ -4,8 +4,21 @@
   "title": "قانون رقم (23) لسنة 2008 بشأن السماح لمواطني دول مجلس التعاون لدول الخليج العربية بممارسة أنشطة اقتصادية جديدة في دولة قطر",
   "short_name": "قانون رقم (23) لسنة 2008 بشأن السماح لمواطني دول مجلس التعاون لدول الخليج العربية بممارسة أنشطة اقتصادية جديدة في دول...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2562&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2562&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يسمح لمواطني دول مجلس التعاون لدول الخليج العربية الطبيعيين والمعنويين، بدءاً من 4 نوفمبر 2006، بممارسة الأنشطة الاقتصادية التالية:\n- خدمات التأمين.\n- خدمات النقل بأنواعه.\nكما يسمح لهم من تاريخ العمل بهذا القانون، بممارسة الأنشطة الاقتصادية التالية:\n- مكاتب التوظيف الأهلية.\n- تأجير السيارات.\n- الأنشطة الثقافية، عدا المطابع ودور النشر وإنشاء الصحف والمجلات.\nوذلك وفقاً للضوابط المنصوص عليها في القانون رقم (6) لسنة 1988 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

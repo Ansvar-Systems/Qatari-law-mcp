@@ -4,8 +4,27 @@
   "title": "قانون رقم (7) لسنة 2016 بتعديل بعض أحكام قانون الخدمة العسكرية الصادر بالمرسوم بقانون رقم (31) لسنة 2006",
   "short_name": "قانون رقم (7) لسنة 2016 بتعديل بعض أحكام قانون الخدمة العسكرية الصادر بالمرسوم بقانون رقم (31) لسنة 2006",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7021&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7021&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 69 ) من قانون الخدمة العسكرية المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Article (69)",
+      "content": "\"يجوز منح العسكري إجازة خاصة في الحالات الآتية:\n1- الزواج.\n2- الدراسة على النفقة الخاصة.\n3- مرافقة مريض تقرر علاجه في الخارج.\n4- وفاة أحد الأقارب.\n5- العدة الشرعية.\n6- الوضع.\n7- الأمومة.\n8- الميدان.\n9- مرافقة الزوج أو محرم موفد للخارج من قبل الدولة في مهمة رسمية أو دورة تدريبية أو بعثة دراسية.\n10- إجازة بدون راتب، ولا تعتبر خدمة فعلية.\nوتحدد بقرار من السلطة المختصة شروط وضوابط ومدد منح هذه الإجازات.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

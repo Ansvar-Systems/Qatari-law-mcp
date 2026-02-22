@@ -4,8 +4,27 @@
   "title": "قرار وزير الأوقاف والشؤون الإسلامية رقم (40) لسنة 1997 بالموافقة على عقد تأسيس الجمعية القطرية لمكافحة السرطان ونظامها الأساسي",
   "short_name": "قرار وزير الأوقاف والشؤون الإسلامية رقم (40) لسنة 1997 بالموافقة على عقد تأسيس الجمعية القطرية لمكافحة السرطان ونظامه...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2077&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2077&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على عقد التأسيس و النظام الأساسي للجمعية القطرية لمكافحة السرطان المرافقين لهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تسجيل الجمعية وتشهر طبقاً لأحكام المادة ( 9 ) من القانون رقم (2) لسنة 1974 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

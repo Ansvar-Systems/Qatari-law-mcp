@@ -4,8 +4,27 @@
   "title": "قانون رقم (12) لسنة 2013 بتعديل بعض أحكام القانون رقم (7) لسنة 2007 بشأن الفصل في المنازعات الإدارية",
   "short_name": "قانون رقم (12) لسنة 2013 بتعديل بعض أحكام القانون رقم (7) لسنة 2007 بشأن الفصل في المنازعات الإدارية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5111&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5111&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص البند (3) من المادة ( 3 ) من القانون رقم (7) لسنة 2007 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "بند 3) :\n\"الطلبات التي يقدمها الأشخاص الطبيعيون والمعنويون بإلغاء القرارات الإدارية النهائية، عدا الأوامر والقرارات والمراسيم الأميرية، والقرارات الصادرة بموجب القانون رقم (17) لسنة 2002 بشأن حماية المجتمع، والقرارات الصادرة بموجب القوانين المتعلقة بالجمعيات والمؤسسات الخاصة، والمراكز الدينية، والمطبوعات والنشر وتراخيص إصدار الصحف والمجلات، وتراخيص الأسلحة والذخائر والمتفجرات، ودخول وإقامة الأجانب وإبعادهم، ونزع الملكية للمنفعة العامة، والقرارات المتعلقة بتحديد العنوان الدائم للناخب، والقرارات المتعلقة بالألقاب والانتساب للقبائل والعائلات.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

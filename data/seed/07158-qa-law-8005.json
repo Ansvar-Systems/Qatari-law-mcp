@@ -4,8 +4,21 @@
   "title": "قرار رقم (83) لسنة 2019م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (83) لسنة 2019م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8005&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8005&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التجارة والصناعة التالية أسماؤهما صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المُشار إليها والقرارات المُنفذة لها وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nفواز بخيت مرزوق العبدالله.\nباحث شؤون إدارية ثان.\n2\nنورة بيات محمد العسيري.\nباحث شؤون إدارية ثان."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

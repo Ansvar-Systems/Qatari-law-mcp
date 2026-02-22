@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (89) لسنة 2020 بالموافقة على انضمام دولة قطر إلى اتفاقية إنشاء المنظمة العربية لتكنولوجيات الاتصال والمعلومات",
   "short_name": "مرسوم رقم (89) لسنة 2020 بالموافقة على انضمام دولة قطر إلى اتفاقية إنشاء المنظمة العربية لتكنولوجيات الاتصال والمعلومات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8504&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8504&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى اتفاقية إنشاء المنظمة العربية لتكنولوجيات الاتصال والمعلومات الموقعة بمدينة القاهرة بتاريخ 06/09/2018، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون وفقا للمادة 68 من الدستور"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

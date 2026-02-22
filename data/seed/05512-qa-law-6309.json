@@ -4,8 +4,21 @@
   "title": "قرار رقم (110) لسنة 2014 بتخويل بعض موظفي وزارة العمل صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (110) لسنة 2014 بتخويل بعض موظفي وزارة العمل صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6309&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6309&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العمل التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (14) لسنة 2004 م، المُشار إليه والقرارات المُنفذه له وهم:\nم\nالإسم\n1\nسعود محمد سعدون العذبة\n2\nمحمد عبد الرحمن محمد لبده\n3\nأحمد محمد سعيد السليطي\n4\nمحمد علي محمد مال الله المال\n5\nخميس مبارك السبيعي\n6\nروضه حمد عيسى المناعي\n7\nرفيعة مبارك العلي\n8\nعايشه علي النعيمي\n9\nصالح راشد ربيعه الكواري\n10\nطلال خالد سويد الهاجري\n11\nعبد الرحمن حمد النهاب\n12\nصالح حمد العطان\n13\nمحمد عبد الرحمن\n14\nراشد غانم الكبيسي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

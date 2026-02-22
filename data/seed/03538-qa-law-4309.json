@@ -4,8 +4,21 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (122) لسنة 1997 بتسجيل أرض حكومية واقعة بمنطقة أبو هامور باسم دولة قطر",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (122) لسنة 1997 بتسجيل أرض حكومية واقعة بمنطقة أبو هامور باسم دولة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4309&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4309&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تسجل الأرض الحكومية الواقعة بمنطقة أبو هامور بإسم (دولة قطر) طبقاً للإحداثيات التالية:\nNOTHING\nEASTING\nPOINT\n386860\n225450\n1\n386930\n225525\n2\n397255\n226000\n3\n386380\n226150\n4\n397075\n226750\n5\n386925\n226875\n6\n386740\n226640\n7\n386700\n226540\n8\n386325\n226520\n9\n386300\n226200\n10\n386165\n226210\n11\n386120\n225800\n12\n386450\n225675\n13"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

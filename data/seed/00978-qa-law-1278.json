@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (73) لسنة 1974 بتأسيس شركة مساهمة قطرية باسم البنك التجاري القطري",
   "short_name": "مرسوم رقم (73) لسنة 1974 بتأسيس شركة مساهمة قطرية باسم البنك التجاري القطري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1278&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1278&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص ل:\n1- علي بن جبر آل ثاني\n2- أحمد بن خليفة آل احمد آل ثاني\n3- ناصر بن فالح آل ثاني\n4- خليفة بن عبد الله العطية\n5- جاسم بن محمد الجيده\n6- حسين إبراهيم الفردان\n7- عبد الغني عبد الغني\n8- جاسم بن محمد المسلم\n9- عمر بن حمد المانع\n10- سالمين بن خالد السويدي\nفي أن يؤسسوا في قطر شركة مساهمة قطرية تسمى \"البنك التجاري القطري\" برأس مال قدره (10.000.000 ريال) عشرة ملايين ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفقة صورة من كل منهما بهذا المرسوم، وعليهم الالتزام كذلك بأحكام القانون رقم (3) لسنة 1961 بتنظيم شركات المساهمة وتعديلاته، وبأحكام القانون رقم (7) لسنة 1973 بإنشاء مؤسسة النقد القطري والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على وزير المالية والبترول تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

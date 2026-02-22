@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (41) لسنة 2016 بدعوة مجلس الشورى لعقد دور الانعقاد العادي الخامس والأربعين",
   "short_name": "مرسوم رقم (41) لسنة 2016 بدعوة مجلس الشورى لعقد دور الانعقاد العادي الخامس والأربعين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7111&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7111&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُدعى مجلس الشورى لعقد دور الانعقاد العادي الخامس والأربعين يوم الثلاثاء الأول من صفر عام 1438 هـ، الموافق للأول من نوفمبر عام 2016م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

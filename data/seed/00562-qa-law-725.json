@@ -4,8 +4,27 @@
   "title": "قرار اللجنة العليا للتنسيق والمتابعة رقم (2) لسنة 2004 بإعادة تشكيل اللجنة التنفيذية",
   "short_name": "قرار اللجنة العليا للتنسيق والمتابعة رقم (2) لسنة 2004 بإعادة تشكيل اللجنة التنفيذية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=725&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=725&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل اللجنة التنفيذية للجنة العليا للتنسيق والمتابعة، على النحو التالي:\n1- النائب الأول لرئيس مجلس الوزراء ووزير الخارجية\nرئيسا\n2- وزير المالية\nنائبا للرئيس\n3- وزير الدولة لشئون مجلس الوزراء، عضو مجلس الوزراء\nعضوا\n4- وزير الشئون البلدية والزراعة\nعضوا\n5- رئيس الهيئة العامة للتخطيط والتطوير العمراني\nعضوا\n6- أمين عام المجلس الأعلى للبيئة والمحميات الطبيعية\nعضوا\n7- مدير عام هيئة الأشغال العامة\nعضوا"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

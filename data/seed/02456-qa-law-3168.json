@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (14) لسنة 2008 بتحديد المبلغ النقدي لشراء الأرض اللازمة لبناء المسكن",
   "short_name": "قرار مجلس الوزراء رقم (14) لسنة 2008 بتحديد المبلغ النقدي لشراء الأرض اللازمة لبناء المسكن",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3168&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3168&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحدد المبلغ النقدي المقرر للمنتفع بنظام الإسكان لشراء الأرض اللازمة لبناء المسكن، وفقاً لحكم المادة (2) من القانون رقم (2) لسنة 2007 المشار إليه، بمبلغ مقداره (800,000) ثمانمائة ألف ريال، للأرض التي لا تقل مساحتها عن (625) ستمائة وخمسة وعشرين متراً مربعاً، داخل مدينة الدوحة، و(1000) ألف متر مربع، خارج مدينة الدوحة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "إذا قدم المنتفع أرضاً تقل مساحتها عن المساحة المحددة في المادة السابقة، يحدد المبلغ على النحو التالي:\n(1) داخل مدينة الدوحة:\nمساحة الأرض × (1280) ريال.\n(2) خارج مدينة الدوحة:\nمساحة الأرض × (800) ريال.\nوفي جميع الأحوال، يجب ألا تقل المساحة التي يقدمها المنتفع عن المساحة المعتمدة لدى الهيئة العامة للتخطيط والتطوير العمراني، لبناء مسكن عليها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

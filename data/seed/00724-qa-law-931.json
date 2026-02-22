@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (17) لسنة 1996 بتقرير حرم لمالكي العقارات على شاطئ البحر",
   "short_name": "مرسوم رقم (17) لسنة 1996 بتقرير حرم لمالكي العقارات على شاطئ البحر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=931&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=931&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون للشخص الطبيعي أو المعنوي - المالك لعقار يقع على شاطئ البحر، وتلتصق حدوده معه - حرم يمتد إلى مسافة تسعين متراً داخل مياه البحر، وبعرض مساو لعرض العقار.\nوإذا وجد مرسى خاص، أو ما في حكمه، يكون تابعاً للعقار، تضاف عشرة أمتار إلى المسافة المنصوص عليها في الفقرة السابقة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "إذا كانت المياه الفاصلة بين عقارين متجاورين أو متقابلين أقل من ضعف المسافة المنصوص عليها في المادة السابقة، قسمت هذه المسافة بالتساوي بينهما."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتمتع الحرم المقرر للعقار على شاطئ البحر، وداخل مياهه، بالحماية القانونية؛ التي تقررها القوانين للأملاك الخاصة، في الحدود التي تتفق مع طبيعته، وتكون له حرمتها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

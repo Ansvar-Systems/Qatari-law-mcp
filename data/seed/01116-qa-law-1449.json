@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (16) لسنة 1998 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه السادس لسنة 1998 بالموافقة على تأسيس شركة تسمى «شركة هليكوبتر الخليج» (شركة مساهمة قطرية)",
   "short_name": "قرار مجلس الوزراء رقم (16) لسنة 1998 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1449&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1449&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "اعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه السادس لسنة 1998 المنعقد بتاريخ 2/6/1998 بالموافقة على تأسيس شركة مساهمة قطرية تُسمى «شركة هليكوبتر الخليج» (شركة مساهمة قطرية) برأسمال مدفوع قدره (66.000.000) ستة وستون مليون ريال، موزعاً على أسهم إسمية عددها (6.600.000) ستة ملايين وستمائة ألف سهم، قيمة كل سهم منها (10) عشرة ريالات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

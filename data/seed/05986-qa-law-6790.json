@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (38) لسنة 2015 بدعوة المجلس البلدي المركزي للانعقاد",
   "short_name": "مرسوم رقم (38) لسنة 2015 بدعوة المجلس البلدي المركزي للانعقاد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6790&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6790&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُدعى المجلس البلدي المركزي للانعقاد يوم الأحد الثامن عشر من رمضان عام 1436 هـ، الموافق للخامس من يوليو عام 2015 م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

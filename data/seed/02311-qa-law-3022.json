@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (32) لسنة 1987 بالموافقة على انضمام دولة قطر إلى معاهدة وارسو لسنة 1929 المتعلقة بتوحيد بعض قواعد النقل الجوي الدولي المعدلة ببروتوكول لاهاي لسنة 1955، والانضمام إلى بروتوكولي مونتريال رقمي 2، 4 لسنة 1975 المكملين لها",
   "short_name": "مرسوم رقم (32) لسنة 1987 بالموافقة على انضمام دولة قطر إلى معاهدة وارسو لسنة 1929 المتعلقة بتوحيد بعض قواعد النقل الج...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3022&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1987.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3022&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى معاهدة وارسو لسنة 1929 المتعلقة بتوحيد بعض قواعد النقل الجوي الدولي المعدلة ببروتوكول لاهاي لسنة 1955 والانضمام إلى بروتوكولي مونتريال رقمي 2، 4 لسنة 1975 المكملين لها مع إثبات أن انضمام دولة قطر إلى هذه المعاهدة يقترن بالتحفظ المرفق نصه بهـذا المرسوم، ويكون للمعاهدة مع مراعاة التحفظ المشار إليه قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على الجميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

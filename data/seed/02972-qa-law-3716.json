@@ -4,8 +4,39 @@
   "title": "قرار المجلس الأعلى للبيئة والمحميات الطبيعية رقم (2) لسنة 2008 بشروط وضوابط الصيد في محمية المنطقة الشمالية الغربية لدولة قطر",
   "short_name": "قرار المجلس الأعلى للبيئة والمحميات الطبيعية رقم (2) لسنة 2008 بشروط وضوابط الصيد في محمية المنطقة الشمالية الغربية ل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3716&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3716&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يسمح بالصيد في محمية المنطقة الشمالية الغربية لدولة قطر، وفقاً للشروط والضوابط التالية:\n1- يكون صيد طائر الحباري بالصقور فقط.\n2- يسمح بصيد طيور اللفو بسلاح الصيد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يمنع صيد الطيور والحيوانات التالية:\n(الأصرد - القوبعة - الورقة «أم سالم» - سويدة باط - الحمّرة - الأرانب - الغزلان)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يمنع الصيد بكافة أنواعه في المنطقة الرئيسية للمحمية، المبينة حدودها وإحداثياتها بالخريطة المرفقة ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُلغى القرار رقم (10) لسنة 2005 المشار إليه."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

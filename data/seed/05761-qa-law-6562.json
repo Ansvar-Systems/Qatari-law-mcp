@@ -4,8 +4,57 @@
   "title": "وثيقة تأسيس مؤسسة وعي للدراسات والأبحاث مؤسسة خاصة ذات نفع عام",
   "short_name": "وثيقة تأسيس مؤسسة وعي للدراسات والأبحاث مؤسسة خاصة ذات نفع عام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6562&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6562&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون اسم المؤسسة هو \"مؤسسة وعي للدراسات والأبحاث\"، (مؤسسة خاصة ذات نفع عام)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مقر المؤسسة: منطقة الوكرة (90) - عقار رقم 207337 - دولة قطر، ويجوز للمؤسسة فتح مراكز أو فروع أو مكاتب داخل دولة قطر وخارجها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تهدف المؤسسة إلى:\n1. القيام بدور الوساطة المعرفية بين المجتمع وقضاياه من خلال تقديم الدراسات والأبحاث فيما يتعلق بالقضايا العامة.\n2. العمل على خلق تنمية معرفية لدى المجتمع من خلال تقديم الدورات والورش المتخصصة.\n3. تفعيل الإهتمام بالبحث العلمي والدراسات الميدانية في المجال الثقافي والفكري ومجال التنمية المجتمعية.\n4. تعزيز الهوية العربية وتأصيل قيم ومعالم حضارتنا وثقافتنا الإسلامية.\n5. المشاركة في إعداد الكوادر الوطنية المؤهله في ميدان العلوم الثقافية والاجتماعية والفكرية.\n6. المساهمة في بناء منظومة فكرية معرفية من قيمنا الحضارية الإنسانية لمواكبة التغيرات الثقافية في المجتمع."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "خُصص للمؤسسة مبلغاً مقداره مئتا ألف ريال قطري، لدى بنك قطر الوطني لنفقات تشغيل المؤسسة."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تتمتع المؤسسة بالاستقلالية التامة في ممارسة أنشطتها."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "تسجل وتشهر المؤسسة طبقاً لأحكام القانون رقم (21) لسنة 2006 المشار إليه."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "تم تحرير هذه الوثيقة من نسختين متطابقتين تودع واحدة منها لدى الجهة المختصة بتوثيق المحررات، وتحتفظ المؤسسة بالنسخة الأخرى في مقره."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "المؤسس\nم\nالإسم\nالجنسية\nمحل الإقامة\nالرقم الشخصي\nالتوقيع\n1.\nنايف نهار هيشان الشمري\nقطري\nقطر\n28563402390"
+    }
+  ],
   "definitions": []
 }

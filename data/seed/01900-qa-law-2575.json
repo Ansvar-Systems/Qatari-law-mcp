@@ -4,8 +4,27 @@
   "title": "قانون رقم (28) لسنة 2006 بتعديل بعض أحكام قانون العقوبات الصادر بالقانون رقم (11) لسنة 2004",
   "short_name": "قانون رقم (28) لسنة 2006 بتعديل بعض أحكام قانون العقوبات الصادر بالقانون رقم (11) لسنة 2004",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2575&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2575&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 278 ) من قانون العقوبات المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art278",
+      "section": "278",
+      "title": "Article (278)",
+      "content": "«يعاقب بالحبس مدة لا تجاوز سنة، كل من يتسول في الطرقات، أو الأماكن العامة، أو يقود حدثاً للتسول، أو يشجعه على ذلك.\nويجوز بدلاً من الحكم بالعقوبة المتقدمة، الحكم بإيداع المتسول إحدى المؤسسات الإصلاحية التي تخصص لذلك.\nوفي جميع الأحوال، يحكم فضلاً عن العقوبة المقررة، بمصادرة الأموال المضبوطة المتحصلة من الجريمة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

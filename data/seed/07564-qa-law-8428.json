@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (19) لسنة 2020 بتعديل بعض أحكام القانون رقم (21) لسنة 2015 بتنظيم دخول وخروج الوافدين وإقامتهم",
   "short_name": "مرسوم بقانون رقم (19) لسنة 2020 بتعديل بعض أحكام القانون رقم (21) لسنة 2015 بتنظيم دخول وخروج الوافدين وإقامتهم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8428&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8428&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنصي المادتين ( 21 )، ( 23 ) من القانون رقم (21) لسنة 2015 المشار إليه، النصان التاليان:\n&zwnj;مادة&zwnj; &zwnj;(&zwnj;21&zwnj;):&zwnj;\n&zwnj;\"للوافد&zwnj; &zwnj;للعمل&zwnj; &zwnj;أن&zwnj; &zwnj;ينتقل&zwnj; &zwnj;للعمل&zwnj; &zwnj;لدى&zwnj; &zwnj;صاحب&zwnj; &zwnj;عمل&zwnj; &zwnj;آخر،&zwnj; &zwnj;وفقاً&zwnj; &zwnj;للقواعد&zwnj; &zwnj;والإجراءات&zwnj; &zwnj;التي&zwnj; &zwnj;حددها&zwnj; &zwnj;وزارة&zwnj; &zwnj;التنمية&zwnj; &zwnj;الإدارية&zwnj; &zwnj;والعمل&zwnj; &zwnj;والشؤون&zwnj; &zwnj;الاجتماعية&zwnj;.\".&zwnj; &zwnj;\nمادة&zwnj; &zwnj;(&zwnj;23&zwnj;)&zwnj;:\n&zwnj;\"يُحظّر&zwnj; &zwnj;على&zwnj; &zwnj;أي&zwnj; &zwnj;شخص&zwnj; &zwnj;طبيعي&zwnj; &zwnj;أو&zwnj; &zwnj;معنوي&zwnj; &zwnj;استخدام&zwnj; &zwnj;وافدين&zwnj; &zwnj;دون&zwnj; &zwnj;إبرام&zwnj; &zwnj;عقد&zwnj; &zwnj;عمل&zwnj;،&zwnj; &zwnj;أو&zwnj; &zwnj;استخدام&zwnj; &zwnj;الوافدين&zwnj; &zwnj;الذين&zwnj; &zwnj;يستقدمهم&zwnj; &zwnj;للعمل&zwnj; &zwnj;لديه&zwnj; &zwnj;للعمل&zwnj; &zwnj;لدى&zwnj; &zwnj;جهات&zwnj; &zwnj;أخرى&zwnj;.&zwnj; &zwnj;\nواستثناءً&zwnj; &zwnj;من&zwnj; &zwnj;ذلك&zwnj;،&zwnj; &zwnj;يجوز&zwnj; &zwnj;لوزارة&zwnj; &zwnj;التنمية&zwnj; &zwnj;الإدارية&zwnj; &zwnj;والعمل&zwnj; &zwnj;والشؤون&zwnj; &zwnj;الاجتماعية&zwnj; &zwnj;أن&zwnj; &zwnj;تأذن&zwnj; &zwnj;للمستقدم&zwnj; &zwnj;بإعارة&zwnj; &zwnj;عمالة&zwnj; &zwnj;الوافدين&zwnj; &zwnj;إلى&zwnj; &zwnj;صاحب&zwnj; &zwnj;عمل&zwnj; &zwnj;آخر&zwnj; &zwnj;للعمل&zwnj; &zwnj;لديه&zwnj; &zwnj;مدة&zwnj; &zwnj;لا&zwnj; &zwnj;تجاوز&zwnj; &zwnj;ستة&zwnj; &zwnj;أشهر&zwnj; &zwnj;قابلة&zwnj; &zwnj;للتجديد&zwnj; &zwnj;لمدة&zwnj; &zwnj;أخرى&zwnj; &zwnj;مماثلة.&zwnj;\n&zwnj;كما&zwnj; &zwnj;يجوز&zwnj; &zwnj;لها&zwnj; &zwnj;أن&zwnj; &zwnj;تأذن&zwnj; &zwnj;للوافد&zwnj; &zwnj;بالعمل&zwnj; &zwnj;بعض&zwnj; &zwnj;الوقت&zwnj; &zwnj;لدى&zwnj; &zwnj;جهة&zwnj; &zwnj;عمل&zwnj; &zwnj;أخرى&zwnj; &zwnj;بالإضافة&zwnj; &zwnj;إلى&zwnj; &zwnj;عمله&zwnj; &zwnj;الأصلي&zwnj;.&zwnj; &zwnj;وفي&zwnj; &zwnj;جميع&zwnj; &zwnj;الأحوال&zwnj;،&zwnj; &zwnj;يجب&zwnj; &zwnj;الحصول&zwnj; &zwnj;على&zwnj; &zwnj;موافقة&zwnj; &zwnj;المستقدم&zwnj; &zwnj;والوافد&zwnj; &zwnj;للعمل&zwnj;.\".&zwnj;"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "&zwnj;تُلغى&zwnj; &zwnj;المادة&zwnj; &zwnj;(&zwnj; 22&zwnj; )&zwnj; &zwnj;من&zwnj; &zwnj; القانون&zwnj; &zwnj;رقم&zwnj; &zwnj;(&zwnj;21&zwnj;)&zwnj; &zwnj;لسنة&zwnj; &zwnj;2015&zwnj; &zwnj;المشار&zwnj; &zwnj;إليه&zwnj;."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القانون. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

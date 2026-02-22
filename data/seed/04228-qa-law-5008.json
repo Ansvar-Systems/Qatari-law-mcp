@@ -4,8 +4,45 @@
   "title": "قرار أميري رقم (122) لسنة 2013 بالموافقة على إنشاء مؤسسة (بي إن beIN) (مؤسسة خاصة ذات نفع عام)",
   "short_name": "قرار أميري رقم (122) لسنة 2013 بالموافقة على إنشاء مؤسسة (بي إن beIN) (مؤسسة خاصة ذات نفع عام)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5008&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5008&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على إنشاء مؤسسة خاصة ذات نفع عام، تسمى \"بي إن beIN\"، يكون لها شخصية معنوية وذمة مالية مستقلة، وتخضع للقواعد والأحكام الواردة بوثيقة تأسيسها و نظامها الأساسي ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون المقر الرئيسي للمؤسسة في مدينة الدوحة، ويجوز لها أن تنشئ مراكز وفروع ومكاتب داخل قطر وخارجها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تهدف المؤسسة، من خلال القيام بجميع الأعمال المتعلقة بالأنشطة الرياضية والإعلام الرياضي، إلى دعم وتعزيز الوعي بأهمية الرياضة والأنشطة الرياضية في حياة الأفراد والشعوب، وتحقيق الرسالة البناءة للإعلام الرياضي بكفاءة ومهنية عالية، على النحو المبين بوثيقة تأسيسها و نظامها الأساسي ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يجب أن يشتمل النظام الأساسي للمؤسسة على جميع البيانات الخاصة بها، وبوجه خاص أسلوب وكيفية إدارتها، وتحديد من يمثلها أمام القضاء وفى علاقتها بالغير، ومواردها المالية، والجهة التي تؤول إليها أموالها عند انقضائها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يتم حل المؤسسة بقرار من المؤسس، على أن يتضمن قرار الحل، كيفية التصرف فى أموالها وموجوداتها."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

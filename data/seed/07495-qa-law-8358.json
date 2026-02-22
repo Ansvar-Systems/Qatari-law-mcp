@@ -4,8 +4,45 @@
   "title": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (02) لسنة 2020 بتعديل بعض أحكام قواعد إدراج وحدات الصناديق الصادرة بالقرار رقم (1) لسنة2019",
   "short_name": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (02) لسنة 2020 بتعديل بعض أحكام قواعد إدراج وحدات الصناديق الصادرة بالقر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8358&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8358&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستبدل بنصوص المواد: ( 13 بند 1)، و( 14 الفقرة الأخيرة)، و( 19 البند 9)، و( 21 )، من قواعد طرح إدراج وحدات الصناديق المشار إليها؛ النصوص التالية:"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article (13)",
+      "content": "البند 1) :\n1- صافي قيمة أصول الصندوق، وبالنسبة للصناديق العقارية يجب أن يكون تقييم الأصول صادرا عن مقيم مستقل، ويلتزم في ذلك بالتالي:"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article (14)",
+      "content": "الفقرة الأخيرة) :\nوفي جميع الأحوال، وباستثناء مزود السيولة، لا يجوز للقائمين على الصندوق والمتعاقدين معه بيع وحداتهم المسجلة بسجل المستثمرين قبل تاريخ بدء التداول خلال سنتين من ذلك التاريخ."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article (19)",
+      "content": "البند 9) :\n9- يشترط في أصول الصندوق العقاري:\n1- أن ترتب دخلا منتظما.\n2- في حالة شراء أرض فضاء لغرض التطوير، يجب ألا تتجاوز قيمتها نسبة (20%) من صافي أصول الصندوق."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article (21)",
+      "content": "يجب على الصندوق الالتزام بعدم الاقتراض أو الدخول في عمليات يترتب عليها التزامات مالية على الصندوق، ويستثنى من ذلك الاقتراض مؤقتا لغايات تأمين السيولة بحيث ألا تزيد نسبة القرض على (50%) من صافي أصول الصندوق."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

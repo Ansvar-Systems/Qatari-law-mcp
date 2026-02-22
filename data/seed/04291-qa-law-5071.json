@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (32) لسنة 2013 بتسمية رئيس وأعضاء لجنة التظلمات بهيئة قطر للأسواق المالية",
   "short_name": "قرار مجلس الوزراء رقم (32) لسنة 2013 بتسمية رئيس وأعضاء لجنة التظلمات بهيئة قطر للأسواق المالية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5071&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5071&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "( عدلت بموجب قرار مجلس الوزراء 7/2022 ) ( عدلت بموجب قرار مجلس الوزراء 22/2019 ) ( عدلت بموجب قرار مجلس الوزراء 8/2016 )\nيتولى السيّد/ خالد سعد عبدالرحمن الحمر، الرئيس بمحكمة الاستئناف، رئاسة لجنة التظلمات بهيئة قطر للأسواق المالية، بدلاً من السيّد/ عبدالعزيز أحصد خليفة السليطي، ويحل السيّد/ فواز بخيت مبارك الجتال نائب رئيس بمحكمة الاستئناف، والدكتور/ منصور ناصر القحطاني، قاضي بمحكمة الاستئناف، محل السيّد/ ناصر عيسى الخليفي، والسيّد/ عيسى أحمد علي النصر، على التوالي، في عضوية اللجنة، وتكون مدة عضويتهم مكملة لمدة عضوية أسلافهم"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار رئيس المجلس الأعلى للبيئة والمحميات الطبيعية رقم (8) لسنة 2007 بتحديد موسم صيد الطيور والحيوانات البرية لعام 2007/2008",
   "short_name": "قرار رئيس المجلس الأعلى للبيئة والمحميات الطبيعية رقم (8) لسنة 2007 بتحديد موسم صيد الطيور والحيوانات البرية لعام 200...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3917&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3917&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يبدأ موسم صيد الطيور المهاجرة (اللفو) من 1/9/2007، وينتهي في 1/5/2008، ويكون صيد الطائر الحباري بواسطة الصقور فقط."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يبدأ موسم صيد الأرنب البري من 15/11/2007، وينتهي في 1/1/2008 ويكون صيده بواسطة الصقور والكلاب فقط، ويحظر صيد غيره من الحيوانات البرية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "1- يحظر صيد الطيور المستوطنة التالية طوال العام:\n(الأصرد- القوبعة- الورقة «أم سالم»- سويد باط- الحمرة- الأدرج).\n2- يحظر صيد الغزلان طوال العام."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

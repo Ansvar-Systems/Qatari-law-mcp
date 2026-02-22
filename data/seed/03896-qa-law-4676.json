@@ -4,8 +4,27 @@
   "title": "قرار وزير البيئة رقم (45) لسنة 2013 بإصدار قواعد إدارة النفايات المُشعة الطبيعية الناتجة عن صناعة النفط والغاز في الدولة",
   "short_name": "قرار وزير البيئة رقم (45) لسنة 2013 بإصدار قواعد إدارة النفايات المُشعة الطبيعية الناتجة عن صناعة النفط والغاز في الدولة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4676&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4676&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعمل بقواعد إدارة النفايات المُشعة الطبيعية الناتجة عن صناعة النفط والغاز في الدولة، المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المنشآت القائمة والأفراد وغيرهم من العاملين في مجال النفايات المُشعة الطبيعية الناتجة عن صناعة النفط والغاز والأنشطة المشار إليها في المادة ( 3 ) من القواعد المرفقة وقت صدور هذه القواعد توفيق أوضاعهم خلال مدة ستة أشهر من تاريخ العمل بأحكام هذه القواعد، على أن يقوموا بتقديم تقرير كل شهرين يوضح المصادر التي تمت مطابقتها حتى يتم الانتهاء من مطابقة جميع المصادر في المُهلة المحددة، ويجوز مد هذه المُهلة لمدة ثلاثة أشهر بقرار يصدر من الوزير في حالات الضرورة القصوى."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

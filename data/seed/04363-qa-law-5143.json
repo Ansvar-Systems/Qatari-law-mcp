@@ -4,8 +4,21 @@
   "title": "قرار رقم (152) لسنة 2013 بشأن تخويل بعض موظفي وزارة الشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (152) لسنة 2013 بشأن تخويل بعض موظفي وزارة الشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5143&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5143&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الشؤون الاجتماعية التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لإحكام القانون المُشار إليه، والقرارات المنفذة له وهم:\nالاسم\nالمسمى الوظيفي\n1\nهدى ناصر الكواري\nأخصائي قانوني\n2\nصالحة حسن المنصوري\nباحث قانوني ثالث\n3\nمشاعل بندر العتيبي\nباحث شؤون إدارية أول\n4\nمها فؤاد محمود دلول\nباحث شؤون مالية ثالث\n5\nسعيد جار الله الغفران\nمراقب جمعيات ومؤسسات ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

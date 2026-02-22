@@ -4,8 +4,27 @@
   "title": "قانون رقم (1) لسنة 2025 بتعديل بعض أحكام القانون رقم (16) لسنة 2018 بشأن تنظيم تملك غير القطريين للعقارات والانتفاع بها",
   "short_name": "قانون رقم (1) لسنة 2025 بتعديل بعض أحكام القانون رقم (16) لسنة 2018 بشأن تنظيم تملك غير القطريين للعقارات والانتفاع بها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9856&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9856&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "&laquo;في تطبيق أحكام هذا القانون ، تكون للكلمات التالية ، المعاني الموضحة قـريـن كـل منها، ما لم يقتض السياق معنى آخر :\nالوزير: وزير البلدية .\nالهيئة: الهيئة العامة لتنظيم القطاع العقاري .\nاللجنة: لجنة تنظيم تملك غير القطريين للعقارات والانتفاع بـهـا ، المـنـصــوص عليها في المادة (3) مـن هـذا الـقـانـون .\nالـعـقـارات : الأراضي الفضاء ، والمباني والمنشآت والوحدات السـكـنـيـة ، والوحدات المفرزة في المجمعات السكنية ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة (1) من القانون رقم (16) لسنة 2018 المشار إليه، النص التالي :"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جـمـيـع الـجـهـات المختصة،كل فيما يخصه، تنفيذ هذا الـقـانـون. ويُـعـمـل بـه من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

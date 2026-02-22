@@ -4,8 +4,21 @@
   "title": "قرار رقم (154) لسنة 2009 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (154) لسنة 2009 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3588&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3588&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (8) لسنة 1974 م بشأن النظافة العامة والقرارات المُنفذه له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nمحمد فرج متعب الكبيسي.\nمساعد مدير مشروع النظافة العامة\n2\nجابر خلف علي جسيمان.\nمشرف مراقبين نظافة وصحة بيئية\n3\nعلي مبارك سالم المري.\nمشرف كتبة شؤون إدارية\n4\nصالح سالم خويتم الراشدي.\nمراقب نظافة وصحة بيئية\n5\nحمد عيسى سيف الفضالة.\nرئيس قسم النظافة وصحة البيئة\n6\nعيسى مبارك سلطان المنصوري.\nمراقب نظافة وصحة بيئية أول\n7\nمبارك سالم مبارك المري.\nباحث شؤون أفراد أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

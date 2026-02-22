@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية والاقتصاد والتجارة رقم (45) لسنة 1998 بتعديل بعض أحكام قرار وزير المالية والبترول بالإنابة رقم (3) لسنة 1991 بتحديد المكاتب والنقاط الجمركية والحرم الجمركي في كل منها",
   "short_name": "قرار وزير المالية والاقتصاد والتجارة رقم (45) لسنة 1998 بتعديل بعض أحكام قرار وزير المالية والبترول بالإنابة رقم (3)...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2085&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2085&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف للمادة (1) من قرار وزير المالية والبترول بالإنابة رقم (3) لسنة 1991 المشار إليه، بند جديد برقم (11)، يكون نصه كالتالي:\n(11) جمرك منطقة رأس لفان الصناعية:\nحدد الحرم الجمركي بالمنطقة المسورة المحيطة بمكاتب الجمارك، والتي تمتد من منطقة المصانع مروراً بالموانئ التجارية ومراسي السفن وميناء تحميل الغاز، والغاز المسال ومشتقاته."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد ستين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

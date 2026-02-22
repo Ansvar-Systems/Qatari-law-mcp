@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (37) لسنة 2023 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (37) لسنة 2023 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9288&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9288&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن كل من الآتية أسماؤهم في وظيفة قاض محكمة الاستئناف.\n1 - السيّد/ محمد حسن جاسم الهيل\n2 - الدكتور/ حمد صالح طالـب النابت.\n3 - السيّد/ عبدالعزيز هلال يتيم العنزي.\nوتُحدد أقدمية كُل منهم فيها اعتباراً من 08/05/2023."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعيّن في وظيفة قاضٍ بالمحكمة الابتدائية كُل من:\n1 - السيّد/ حمد يوسف حامد آل حامد المرواني.\n2- السيّد/ سعد عبدالله حسن الحسن المهندي.\nوتُحدد أقدمية كل منهما فيها اعتباراً من 17/09/2022."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم.\nويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

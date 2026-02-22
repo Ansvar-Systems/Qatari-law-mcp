@@ -4,8 +4,21 @@
   "title": "قرار رقم (187) لسنة 2022 م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (187) لسنة 2022 م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9081&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9081&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التجارة والصناعة التالية أسماؤهما صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانونين رقمي (12) لسنة 1972 و(8) لسنة 2008 المشار إليهما أعلاه، والقرارات المنفذة لهما، وهما:\nم\nالإسم\nالمسمى الوظيفي\n1\nحسن عيسى سعد الحسن المهندي\nمساعد مدير إدارة التراخيص النوعية ومراقبة الاسواق\n2\nعبدالله محمد حسن خميس المريخي\nرئيس قسم تقييم ومتابعة الأسعار بإدارة التراخيص النوعية ومراقبة الأسواق"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

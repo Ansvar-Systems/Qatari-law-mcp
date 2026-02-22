@@ -4,8 +4,21 @@
   "title": "قرار رقم (75) لسنة 2012 بتخويل بعض موظفي وزارة الأعمال والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (75) لسنة 2012 بتخويل بعض موظفي وزارة الأعمال والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4906&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4906&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الأعمال والتجارة التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (3) لسنة 1975 ، والمشار إليه والقرارات المنفذة له وهم:_\nم\nالاسم\nالمسمى الوظيفي\n1\nعبدالعزيز عبدالرزاق العمادي\nمشرف كتبه دوام\n2\nعلى محمد على سالم المحمودي\nمفتش رخص تجارية أول\n3\nإبراهيم عبدالرزاق كربون\nمشرف مفتش رخص تجارية أول\n4\nفالح سفر حويدر الهاجري\nكاتب دوام"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تَنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

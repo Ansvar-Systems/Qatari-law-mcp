@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (4) لسنة 1999 بتعيين وكيل وزارة بالديوان الأميري",
   "short_name": "مرسوم رقم (4) لسنة 1999 بتعيين وكيل وزارة بالديوان الأميري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5884&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5884&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعين السيدة/ سميرة عبد الرحمن محمد الموسى بالديوان الأميري، بدرجة وكيل وزارة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

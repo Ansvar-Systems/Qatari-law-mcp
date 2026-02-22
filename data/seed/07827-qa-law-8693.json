@@ -4,8 +4,21 @@
   "title": "قرار رقم (66) لسنة 2021 بتخويل أحد موظفي وزارة البلدية والبيئة صفة مأمورى الضبط القضائي",
   "short_name": "قرار رقم (66) لسنة 2021 بتخويل أحد موظفي وزارة البلدية والبيئة صفة مأمورى الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8693&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8693&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظف وزارة البلدية والبيئة/ حمد عتيق حمد المري - كاتب شؤون إدارية رابع، صفة مأموري الضبط القضائي وذلك لضبط وإثبات الجرائم التي تقع بالمخالفة لإحكام القانون رقم (1) لسنة 2012م المشار إليه، والقرارات المنفذة له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من ناريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

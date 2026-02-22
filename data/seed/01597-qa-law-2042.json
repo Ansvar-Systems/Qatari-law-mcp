@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية والاقتصاد والتجارة رقم (36) لسنة 2001 بتعديل بعض أحكام القرار الوزاري رقم (8) لسنة 1983 بتعيين الحد الأقصى لأسعار بعض المنتجات البترولية والغاز",
   "short_name": "قرار وزير المالية والاقتصاد والتجارة رقم (36) لسنة 2001 بتعديل بعض أحكام القرار الوزاري رقم (8) لسنة 1983 بتعيين الحد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2042&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2042&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص الفقرة (أ) من المادة ( 1 ) من القرار الوزاري رقم (8) لسنة 1983 المشار إليه، النص التالي:\nالفقرة (أ) مادة (1) :\nأ- الوقود:\nمسلسل\nالنوع\nالوحدة\nسعر البيع بالريال للمستهلك\n1\n2\n3\n4\nبنزين سوبر 97 (أوكتين)\nبنزين ممتاز 90 (أوكتين)\nديزل\nكيروسين (كاز)\nلتر\nلتر\nلتر\nلتر\n0,70\n0,65\n0,60\n0,40"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتبارا من 24/9/1998. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قانون رقم (9) لسنة 2004 بتعديل بعض أحكام القانون رقم (11) لسنة 1997 بإنشاء الهيئة العامة القطرية للإذاعة والتلفزيون",
   "short_name": "قانون رقم (9) لسنة 2004 بتعديل بعض أحكام القانون رقم (11) لسنة 1997 بإنشاء الهيئة العامة القطرية للإذاعة والتلفزيون",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=451&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=451&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 6 ) من القانون رقم (11) لسنة 1997 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "«يتولى إدارة الهيئة مجلس إدارة يشكل من رئيس، ونائب للرئيس، وعدد من الأعضاء لا يقل عن ثلاثة ولا يزيد على تسعة، يصدر بتعيينهم وتحديد مكافآتهم قرار من الأمير. ويحل نائب الرئيس محل الرئيس عند غيابه أو خلو منصبه.\nوتكون مدة المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

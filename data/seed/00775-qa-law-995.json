@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (23) لسنة 1999 بالموافقة على انضمام دولة قطر الى اتفاقية فيينا لسنة 1985 بشأن حماية طبقة الأوزون وبروتوكول مونتريال التنفيذي لسنة 1987 الخاص بالمواد المستنفدة للأوزون وتعديلاته لعامي 1990، 1992",
   "short_name": "مرسوم رقم (23) لسنة 1999 بالموافقة على انضمام دولة قطر الى اتفاقية فيينا لسنة 1985 بشأن حماية طبقة الأوزون وبروتوكول...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=995&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=995&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على إنضمام دولة قطر إلى اتفاقية فيينا لسنة 1985 الموقعة في فيينا بتاريخ 22/3/1985 بشأن حماية طبقة الأوزون، وبروتوكول مونتريال التنفيذي لسنة 1987 الموقع في مونتريال بتاريخ 16/9/1987، وتعديلاته لعامي 1990، 1992 المرفق نصهما بهذا المرسوم، ويكون لهما قوة القانون وفقاً للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

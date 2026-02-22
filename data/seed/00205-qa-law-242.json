@@ -4,8 +4,45 @@
   "title": "قانون رقم (2) لسنة 2001 بتعديل بعض أحكام القانون رقم (14) لسنة 1999 بشأن الأسلحة والذخائر والمتفجرات",
   "short_name": "قانون رقم (2) لسنة 2001 بتعديل بعض أحكام القانون رقم (14) لسنة 1999 بشأن الأسلحة والذخائر والمتفجرات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=242&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=242&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمدد المهلة المنصوص عليها في المادة ( 58 ) من القانون رقم (14) لسنة 1999 المشار إليه إلى 28/5/2001."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة ( 62 ) من القانون رقم (14) لسنة 1999 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Article (62)",
+      "content": "«يُصدر الوزير اللوائح والقرارات اللازمة لتنفيذ أحكام هذا القانون بما في ذلك تحديد رسوم التراخيص، وإلى أن تصدر يستمر العمل بالقرارات الوزارية والنظم السارية فيما لا يتعارض مع أحكامه»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُستبدل بالجدول رقم (2) المرافق للقانون رقم (14) لسنة 1999 المشار إليه، الجدول المرافق لهذا القانون."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تلغى الفقرة الثانية من المادة ( 5 ) من القانون رقم (14) لسنة 1999 المشار إليه."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

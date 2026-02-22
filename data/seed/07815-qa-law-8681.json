@@ -4,8 +4,21 @@
   "title": "قرار وزير العدل رقم (22) لسنة 2021 بإعادة تسمية رئيس وأعضاء لجنة شؤون الخبراء",
   "short_name": "قرار وزير العدل رقم (22) لسنة 2021 بإعادة تسمية رئيس وأعضاء لجنة شؤون الخبراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8681&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8681&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُسمى رئيس وأعضاء لجنة شؤون الخبراء المنصوص عليها في المادة (3) من الـقانون رقم (16) لسنة 2017 المشار إليه، على النحو التالي:\n1 - السيّد/ علي محمد اليافعي ممثلا عن وزارة العدل رئيساً\n2 - القاضي/ ناصر محمد الدوسري ممثلاً عن المجلس الأعلى للقضاء عضواً\n3 - الدكتور/ سعد حنيف الدوسري ممثلاً عن النيابة العامة عضواً\n4 - الدكتور/ ناصر عبد الله النعيمي ممثلاً عن وزارة العدل عضواً\n5 - الدكتورة/ مريم عبدالله الأصمخ ممثلاً عن وزارة العدل عضواً\n6 - السيد/ محمد راشد الكبيسي خبير عضواً\n7 - السيد/ جابر علي العذبة خبير عضواً\nوتختار اللجنه نائباً للرئيس من بين أعضائها في أول اجتماع لها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصّة، كلّ فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

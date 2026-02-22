@@ -4,8 +4,27 @@
   "title": "قرار وزير الأعمال والتجارة رقم (161) لسنة 2009 بتأسيس شركة مساهمة قطرية باسم/ بورصة قطر",
   "short_name": "قرار وزير الأعمال والتجارة رقم (161) لسنة 2009 بتأسيس شركة مساهمة قطرية باسم/ بورصة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4491&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4491&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص لشركة قطر القابضة في أن تؤسس (شركة مساهمة قطرية) تسمى شركة بورصة قطر برأس مال قدره (1,000,000,000) مليار دولار أمريكي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس و النظام الأساسي المرفق نصها بهذا القرار، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها فيما لم يرد بشأنه نص في عقد التأسيس و النظام الأساسي ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

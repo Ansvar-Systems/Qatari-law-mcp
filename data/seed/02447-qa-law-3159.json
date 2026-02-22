@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (13) لسنة 2006 بمد المهلة المحددة لتعديل أوضاع الهيئات والمؤسسات العامة",
   "short_name": "قرار مجلس الوزراء رقم (13) لسنة 2006 بمد المهلة المحددة لتعديل أوضاع الهيئات والمؤسسات العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3159&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3159&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمد المهلة المحددة لتعديل أوضاع الهيئات والمؤسسات العامة المنصوص عليها في المادة (2) من القانون رقم (26) لسنة 2004 المشار إليه، لمدة سنة من 29/9/2005."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

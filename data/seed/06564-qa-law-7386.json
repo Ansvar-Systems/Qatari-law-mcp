@@ -4,8 +4,21 @@
   "title": "قرار رقم (87) لسنة 2017 بتعديل القرار رقم 63 لسنة 2017 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (87) لسنة 2017 بتعديل القرار رقم 63 لسنة 2017 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7386&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7386&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تصحح الاسماء الواردة بقرار النائب العام رقم 63 لسنة 2017 المشار اليه وبمنح صفة الضبطية القضائية للموظفين التالية اسماؤهم:\n1- كريم احمد عبدالحق شحاته، مراقب طرق ثالث.\n2- احمد عيد عبدالحليم، فني تشغيل ثالث."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

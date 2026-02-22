@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (72) لسنة 2018 بإعادة تشكيل مجلس إدارة جهاز قطر للاستثمار",
   "short_name": "قرار أميري رقم (72) لسنة 2018 بإعادة تشكيل مجلس إدارة جهاز قطر للاستثمار",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7825&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7825&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس إدارة جهاز قطر للاستثمار على النحو التالي:\n1. سعادة الشيخ/ محمد بن عبدالرحمن آل ثاني\nرئيساً.\n2. سعادة الشيخ/ محمد بن حمد بن خليفة آل ثاني\nنائباً للرئيس.\n3. سعادة السيد/ علي شريف العمادي\nعضواً.\n4. سعادة السيد/ علي بن أحمد الكواري\nعضواً.\n5. سعادة السيد/ سعد بن شريدة الكعبي\nعضواً.\n6. سعادة الشيخ/ عبدلله بن سعود آل ثاني\nعضواً.\n7. سعادة الدكتور/ حسين بن علي العبدالله\nعضواً.\n8. سعادة السيد/ ناصر بن غانم الخليفي\nعضواً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حكم يُخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

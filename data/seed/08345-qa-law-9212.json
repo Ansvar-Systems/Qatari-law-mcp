@@ -4,8 +4,21 @@
   "title": "قرار وزير التربية والتعليم والتعليم العالي رقم (9) لسنة 2023 بتعديل بعض أحكام قرار وزير التعليم والتعليم العالي رقم (13) لسنة 2021 بتشكيل لجنة موظفي المدارس وتحديد اختصاصاتها ونظام عملها ومكافآت أعضائها",
   "short_name": "قرار وزير التربية والتعليم والتعليم العالي رقم (9) لسنة 2023 بتعديل بعض أحكام قرار وزير التعليم والتعليم العالي رقم (...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9212&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9212&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"تُشكل لجنة موظفي المدارس بالوزارة، برئاسة وكيل وزارة التربية والتعليم والتعليم العالي، ومدير إدارة الشؤون القانونية نائباً للرئيس، وعضوية كل من:\n1 - مدير إدارة التوجيه التربوي.\n2 - مدير إدارة الموارد البشرية.\n3 - استشاري بمكتب الوزير.\n4 - استشاري بإدارة شؤون المدارس.\n5 - ممثل عن إدارة الشؤون القانونية لا تقل درجته عن الدرجة \"الثانية\".\nويتولى أمانة سر اللجنة موظف أو أكثر من موظفي الوزارة، يختارهم رئيس اللجنة\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

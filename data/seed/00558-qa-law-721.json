@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (2) لسنة 2005 بتشكيل مجلس إدارة قناة الجزيرة الفضائية",
   "short_name": "قرار أميري رقم (2) لسنة 2005 بتشكيل مجلس إدارة قناة الجزيرة الفضائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=721&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=721&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة قناة الجزيرة الفضائية، على النحو التالي:\n1- الشيخ/حمد بن ثامر آل ثاني\nرئيساً\n2- السيد/خلف أحمد المناعي\nنائباً للرئيس\n3- السيد/عبد الله مبارك الخليفي\nعضواً\n4- الدكتور/حسن محمد الأنصاري\nعضواً\n5- الدكتور/إبراهيم محمد عرفات\nعضواً\n6- الدكتورة/جيهان عبد الله المير\nعضواً\n7- السيد/قاسم محمد جعفر\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة المجلس سنة ميلادية واحدة، ويتولى الأعضاء عملهم فيه بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يرفع المجلس قبل نهاية مدته تقريراً إلى مجلس الوزراء، متضمناً توصياته حول أفضل السبل لتحويل القناة إلى شركة مساهمة خاصة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

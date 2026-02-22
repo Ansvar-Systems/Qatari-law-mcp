@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (6) لسنة 1993 بتعديل بعض أحكام اللائحة التنفيذية لقانون الوظائف العامة المدنية",
   "short_name": "قرار مجلس الوزراء رقم (6) لسنة 1993 بتعديل بعض أحكام اللائحة التنفيذية لقانون الوظائف العامة المدنية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1690&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1993.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1690&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص البند (16) من المادة (52) من اللائحة التنفيذية لقانون الوظائف العامة المدنية النص التالي:\n«(16) 20% من الراتب الأساسي وبحد أقصى 1500 ريال في الشهر لموظفي ديوان المحاسبة. وتكون هذه النسبة 40% من الراتب الأساسي بدون حد أقصى للقطريين شاغلي الوظائف المحاسبية الذين يزاولون المحاسبة بالديوان، دون غيرهم»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

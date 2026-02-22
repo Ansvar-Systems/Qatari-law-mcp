@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (64) لسنة 2013 بانتهاء الولاية القضائية لقاض بالمحكمة الابتدائية",
   "short_name": "مرسوم رقم (64) لسنة 2013 بانتهاء الولاية القضائية لقاض بالمحكمة الابتدائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5128&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5128&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنتهي الولاية القضائية للسيد/ محمد أحمد عبد الحي تقي الدين، القاضي بالمحكمة الابتدائية، اعتباراً من 31/10/2013."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

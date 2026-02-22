@@ -4,8 +4,33 @@
   "title": "مرسوم بقانون رقم (19) لسنة 2001 بإلغاء وزارة المواصلات والنقل وتوزيع اختصاصاتها",
   "short_name": "مرسوم بقانون رقم (19) لسنة 2001 بإلغاء وزارة المواصلات والنقل وتوزيع اختصاصاتها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=514&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=514&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى وزارة المواصلات والنقل، وتوزع اختصاصاتها على كل من الهيئة العامة للطيران المدني، والهيئة العامة للجمارك والموانئ، والمؤسسة العامة للبريد، وذلك على النحو الوارد في القوانين المنشئة لهذه الجهات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتولى وزارة شؤون الخدمة المدنية والإسكان تسوية أوضاع موظفي وزارة المواصلات والنقل الذين لا يتم نقلهم إلى أي من الجهات المشار إليها في المادة السابقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى القانون رقم (15) لسنة 1991 المشار إليه، كما يُلغى كل حُكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به اعتباراً من تاريخ 25/10/2001. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

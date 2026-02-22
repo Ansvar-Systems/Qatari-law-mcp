@@ -4,8 +4,21 @@
   "title": "قرار رقم (50) لسنة 2020م بتخويل بعض موظفي وزارة المواصلات والاتصالات صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (50) لسنة 2020م بتخويل بعض موظفي وزارة المواصلات والاتصالات صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8324&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8324&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة المواصلات والاتصالات التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المشار إليها وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nشايع ناصر شايع ناصر الدوسري\nمعاين نقل بري ثاني\n2\nممدوح حسين وقاف\nخبير شؤون نقل بري\n3\nمحمد عبدالله محمد عبدالله الدوسري\nمراقب نقل بري رابع\n4\nسالم عويضة محمد الكدادي الهاجري\nمراقب نقل بري خامس\n5\nفهد صالح راشد فهيد رشدان\nمراقب نقل بري رابع\n6\nعيسى غدير سالم الخريصي الشمري\nمراقب نقل بري خامس\n7\nمحمد عبدالرحمن عبدالله الدرويش\nمعاين نقل بري ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

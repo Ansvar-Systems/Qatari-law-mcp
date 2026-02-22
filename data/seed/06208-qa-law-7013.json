@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (24) لسنة 2016 باستثناء بعض السلع من تطبيق أحكام القانون رقم (8) لسنة 2002 بشأن تنظيم أعمال الوكلاء التجاريين",
   "short_name": "قرار مجلس الوزراء رقم (24) لسنة 2016 باستثناء بعض السلع من تطبيق أحكام القانون رقم (8) لسنة 2002 بشأن تنظيم أعمال الو...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7013&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7013&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستثنى من تطبيق أحكام القانون رقم (8) لسنة 2002 المشار إليه، السلع المبينة بالجدول المرفق بهذا القرار.\nوتتولى الإدارة المختصة بوزارة الاقتصاد والتجارة اتخاذ إجراءات حذف هذه السلع من سجل الوكلاء التجاريين، وإخطار الوكلاء التجاريين بتعديل بيانات قيد وكالاتهم بالنسبة لهذه السلع بما يفيد هذا الحذف."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تقوم الإدارة المختصة بوزارة الاقتصاد والتجارة بالإعلان عن السلع التي تم حذفها من سجل الوكلاء التجاريين، بالوسائل التي تكفل العلم بذلك."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

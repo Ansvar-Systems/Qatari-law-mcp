@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (7) لسنة 1964 بتأسيس شركة مساهمة قطرية باسم بنك قطر الوطني",
   "short_name": "مرسوم رقم (7) لسنة 1964 بتأسيس شركة مساهمة قطرية باسم بنك قطر الوطني",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3124&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1964.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3124&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لحكومة قطر ممثلة في وزير المالية، ولشركة أحمد محمد السويدي وأولاده ممثلة في السيد/ أحمد محمد السويدي، ولشركة عبد الله عبد الغني وإخوانه ممثلة في السيد/ عبد الله عبد الغني، ولشركة قاسم وعبد الله درويش فخرو ممثلة في السيد/ يوسف درويش، ولشركة المناعي التجارية ممثلة في السيد/ أحمد المناعي، ولشركة الجيداه للسيارات ممثلة في السيد محمد إبراهيم الجيداه، وللسادة/ مرزوق الشملان وأولاده ممثلون في السيد/ مرزوق الشملان، وللسادة سليمان حيدر لاري وأولاده ممثلون في السيد / حيدر لاري، في أن يؤسسوا في قطر شركة مساهمة قطرية تسمى (بنك قطر الوطني)، برأس مال قدره (14.000.000 روبية) أربعة عشر مليون روبية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرافقة صورة من كل منهما بهذا المرسوم، وعليهم الالتزام كذلك بأحكام القانون رقم (3) لسنة 1961م، بتنظيم شركات المساهمة، والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على وزير المالية تنفيذ هذا المرسوم وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

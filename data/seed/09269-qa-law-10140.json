@@ -4,8 +4,21 @@
   "title": "قرار وزير التجارة والصناعة رقم (82) لسنة 2025 بتعديل بعض أحكام القرار رقم (60) لسنة 2024 بتحديد رسوم الخدمات التي تؤديها وزارة التجارة والصناعة",
   "short_name": "قرار وزير التجارة والصناعة رقم (82) لسنة 2025 بتعديل بعض أحكام القرار رقم (60) لسنة 2024 بتحديد رسوم الخدمات التي تؤد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10140&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10140&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مُكررًا) :\nتُعفى من رسوم الخدمات المنصوص عليها في البندين (1) ، (2) من الجدول الحادي عشر \"رسوم التراخيص النوعية\"، المُرفق بهذا القرار، الفئات التالية من المواطنين:\n1) الأشخاص ذوو الإعاقة.\n2) المُنتفعون بأحكام القانون رقم (38) لسنة 1995 بشأن الضمان الاجتماعي.\n3) كبار القدر، ويُقصد بهم كل من بلغ سن الستين من العُمر.\n4) المُتقاعدون."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُلٍ فيما يخصه، تنفيذ هذا القرار. ويُعمل به من من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

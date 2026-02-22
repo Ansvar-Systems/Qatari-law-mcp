@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (24) لسنة 2017 بتشكيل مجلس إدارة هيئة المناطق الحرة",
   "short_name": "قرار أميري رقم (24) لسنة 2017 بتشكيل مجلس إدارة هيئة المناطق الحرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7441&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7441&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة هيئة المناطق الحرة برئاسة سعادة السيد/ أحمد بن محمد السيد، والسيد/ محمد علي المناعي، نائباً للرئيس، وعضوية كل من:\n1. سعادة الشيخ/ حمد بن فيصل آل ثاني.\n2. العميد/ عبدالله سالم العلي.\n3. السيد/ محمد حسن السعدي.\n4. السيد/ عبدالعزيز جاسم المفتاح.\n5. السيد/ تميم حمد الكواري.\n6. السيد/ يوسف محمد الجيدة.\n7. السيد/ ناصر خليل الجيدة.\n8. اثنين من ذوي الخبرة يختارهما رئيس مجلس الوزراء."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

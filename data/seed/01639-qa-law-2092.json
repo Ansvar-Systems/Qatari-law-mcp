@@ -4,8 +4,21 @@
   "title": "قرار رقم (48) لسنة 2004بتخويل مفتشين من إدارة الثروة السمكية بوزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (48) لسنة 2004بتخويل مفتشين من إدارة الثروة السمكية بوزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2092&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2092&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لمفتشي إدارة الثروة السمكية بوزارة الشؤون البلدية والزراعة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (4) لسنة 1983 ، المشار إليه والقرارات المنفذة له، وهم:-\n1. حسين محمد سالم الحلبدي.\n2. حسن عبد الله الكواري.\n3. علي سعيد جاسم الكواري.\n4. عيسى محمد علي المحمودي.\n5. عبد الله سيف النصر.\n6. إبراهيم خميس الهتمي.\n7. صالح محمد عمر الكبيسي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

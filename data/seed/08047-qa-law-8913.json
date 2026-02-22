@@ -4,8 +4,27 @@
   "title": "قرار وزير العدل رقم (59) لسنة 2022 بالإذن بتقديم الخبرة موضوع فحص آثار التزييف والتزوير",
   "short_name": "قرار وزير العدل رقم (59) لسنة 2022 بالإذن بتقديم الخبرة موضوع فحص آثار التزييف والتزوير",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8913&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8913&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُؤذن بتقديم الخبرة في موضوع فحص آثار التزييف والتزوير لكل من:\nم\nالاسم\nالرقم الوظيفي\n1\nعميد/ إبراهيم عبد الله إبراهيم البنعلي\n1284\n2\nرائد/ صالح أحمد محمد السعدي\n2303\n3\nنقيب/ فاطمه جاسم يوسف ال سرور\n2628\n4\nنقيب/ راشد علي صالح جرحب المري\n3288\n5\nبرعي عبدالرحمن محمد طاهر\n10477\n6\nوعد راشد شاهين العتيق الدوسري\n10319\n7\nعائشه أحمد محمد الباكر\n11448"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يؤدي من صدر له الإذن اليمين المنصوص عليها في المادة (12) من القانون رقم (16) لسنة 2017 بتنظيم أعمال الخبرة، أمام الوزير أو من يُفوضه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

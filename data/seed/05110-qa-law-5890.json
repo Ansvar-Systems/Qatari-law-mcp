@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (50) لسنة 2009 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (50) لسنة 2009 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5890&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5890&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة الآتية أسماؤهم في الوظيفة المبينة قرين اسم كل منهم:\n1.\nالدكتور/ ثقيل ساير زيد الشمري\nنائباً لرئيس محكمة التمييز\n2.\nالسيد/ مبارك سليم مبارك الغريري\nنائباً لرئيس محكمة التمييز\n3.\nالسيد/ عبد الله أحمد علي السعدي\nنائباً لرئيس محكمة التمييز\n4.\nالسيد/ خالد عبد الله علي السويدي\nنائباً لرئيس محكمة التمييز\n5.\nالسيد/ منصور ناصر محمد القحطاني\nرئيساً بالمحكمة الابتدائية\n6.\nالسيد/ نايف محمد راشد الكعبي\nرئيساً بالمحكمة الابتدائية\n7.\nالسيد/ سعيد أحمد محمد الكعبي\nرئيساً بالمحكمة الابتدائية\n8.\nالسيد/ ناصر فخري حسن الفخري\nرئيساً بالمحكمة الابتدائية\n9.\nالسيد/ عارف محمد عبد الله العيسى\nرئيساً بالمحكمة الابتدائية\n10.\nالسيد/ فهد مبارك رمضان عبد الله\nرئيساً بالمحكمة الابتدائية\n11.\nالسيد/ محمد غانم محمد بوصابر الكبيسي\nقاضياً بالمحكمة الابتدائية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

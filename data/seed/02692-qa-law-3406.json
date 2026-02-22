@@ -4,8 +4,57 @@
   "title": "قرار مجلس الوزراء رقم (5) لسنة 1980 بإنشاء معهد للموسيقى",
   "short_name": "قرار مجلس الوزراء رقم (5) لسنة 1980 بإنشاء معهد للموسيقى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3406&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1980.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3406&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينشأ معهد للموسيقى، يتبع وزارة الإعلام، وتكون له ميزانية مستقلة تلحق بميزانية هذه الوزارة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون مقر المعهـد في مدينة الدوحة، ويجوز بقرار من وزير الإعلام إنشاء فروع له خارجها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تشرف وزارتا التربية والتعليم، والإعلام، على وضع المناهج والكتب الدراسية للمعهد وخطة الدراسة فيه، بما يكفل مساواة خريجيه بالحاصلين على شهادة الثانوية العامة.\nوتسري على المعهد لوائح الامتحانات المطبقة في وزارة التربية والتعليم، فيما لم يرد بشأنه نص في اللائحة الداخلية للمعهد.\nوتعتمد وزارة التربية والتعليم الشهادات التي يمنحها المعهد لطلابه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تسري على المعهد كافة القوانين والأنظمة المطبقة على المؤسسات التعليمية التابعة لوزارة التربية والتعليم."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يقبل بالمعهد البنون الحاصلون على الشهادة الإعدادية، وتكون مدة الدراسة فيه ثلاث سنوات دراسية كاملة، يمنح الطالب المتخرج بعدها الشهادة الثانوية الموسيقية."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "تبدأ الدراسة في المعهد اعتبارا من العام الدراسي 1980/1981م."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "تصدر اللائحة الداخلية للمعهد بقرار من وزير الإعلام."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (88) لسنة 1996 بالتصريح لبعض الشركات باكتساب ملكية أموال ثابتة في دولة قطر",
   "short_name": "مرسوم رقم (88) لسنة 1996 بالتصريح لبعض الشركات باكتساب ملكية أموال ثابتة في دولة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1323&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1323&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يصرح لشركة رأس لفان القابضة المحدودة المؤسسة بجزر كيمان الإنجليزية، بتملك الأموال الثابتة في دولة قطر، في الحدود اللازمة لترتيبات ضمان تمويل مشروع شركة رأس لفان للغاز الطبيعي المسال المحدودة، وطبقاً للشروط الواردة في الاتفاقيات المتعلقة بتلك الترتيبات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يصرح لشركتي قطر غاز للمصانع والمنشآت القابضة المحدودة، وقطر غاز لتنمية الحقل والإنتاج القابضة المحدودة، المؤسستين في جزر كيمان الإنجليزية، بتملك الأموال الثابتة في دولة قطر، وفي الحدود اللازمة لترتيبات ضمان تمويل مشروعي شركة قطر للغاز المسال المحدودة للمصانع والمنشآت ولتنمية الحقل والإنتاج، وطبقاً للشروط الواردة في الاتفاقيات المتعلقة بتلك الترتيبات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

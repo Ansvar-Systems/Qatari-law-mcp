@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (23) لسنة 2025 بالتصديق على مذكرة تفاهم للتعاون في مجال منع ومكافحة الفساد بين هيئة الرقابة الإدارية والشفافيةفي دولة قطر وهيئة النزاهة ومكافحة الفساد في المملكة الأردنيـة الـهـاشـمـيـة",
   "short_name": "مرسوم رقم (23) لسنة 2025 بالتصديق على مذكرة تفاهم للتعاون في مجال منع ومكافحة الفساد بين هيئة الرقابة الإدارية والشفا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9977&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9977&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على مذكرة تفاهم للتعاون في مجال منع ومكافحة الفساد بين هيئة الرقابة الإدارية والشفافية في دولة قطر وهيئة النزاهة ومكافحة الفساد في المملكة الأردنية الهاشمية، الموقعة بمدينة الدوحة بتاريخ 2024/11/26، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعـمـل بـه مـن تار&#1740;خ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

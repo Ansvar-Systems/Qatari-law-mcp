@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (16) لسنة 1995 بشأن تحديد الرسوم المستحقة عن الرخص اللازمة لحفر آبار المياه الجوفية",
   "short_name": "قرار مجلس الوزراء رقم (16) لسنة 1995 بشأن تحديد الرسوم المستحقة عن الرخص اللازمة لحفر آبار المياه الجوفية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4277&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4277&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستحق على التراخيص التالي، الرسوم المحددة قرين كل منها:\nالتراخيص\nقيمة الرسوم بالريال القطري\nأولاً: بالنسبة لمنح رخصة مزاولة الحفر\n: 10000 (عشرة آلاف).\nثانياً: بالنسبة لمنح رخص حفر بئر المياه الجوفية وتجديدها:\n(أ) منح الرخصة\n: 500 (خمسمائة).\n(ب) تجديد الرخصة\n:250 (مائتان وخمسون).\nثالثاً: بالنسبة لمنح وتجديد رخصة القيام بأي تغيير في بئر المياه الجوفية، أو تعميقها أو تنظيفها أو صيانتها، أو التعديل في أي جهاز مرتبط بها؛ بغرض الزيادة في كميات المياه المسموح بسحبها من الطبقة المنتجة:\n(أ) منح الرخصة عن البئر الواحدة\n: 300 (ثلاثمائة).\n(ب) تجديد الرخصة عن البئر الواحدة\n: 150 (مائة وخمسون)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

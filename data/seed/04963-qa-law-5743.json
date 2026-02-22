@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (24) لسنة 1996 بقبول طلب إعفاء قاضيين من قضاة المحاكم العدلية من منصبيهما",
   "short_name": "مرسوم رقم (24) لسنة 1996 بقبول طلب إعفاء قاضيين من قضاة المحاكم العدلية من منصبيهما",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5743&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5743&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يقبل طلب السيدين/ طه أحمد عبد الجواد الشريف، وحسين محمد حسن عقر القاضيين بالمحكمة المدنية الكبرى إعفائهما من منصبيهما."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهـات المختصة، كل فيما يخصه، تنفيذ هـذا المرسوم. ويعمل به اعتباراً من 10/7/1996. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

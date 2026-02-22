@@ -4,8 +4,27 @@
   "title": "وثيقة تنازل عن مركز قطر للتراث والهوية \"مؤسسة خاصة ذات نفع عام\"",
   "short_name": "وثيقة تنازل عن مركز قطر للتراث والهوية \"مؤسسة خاصة ذات نفع عام\"",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4550&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4550&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "التنازل عن كافة حقوقنا الأدبية والمادية في مركز قطر للتراث والهوية لصالح المؤسسة العامة للحي الثقافي (كتارا)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تؤول الى المؤسسة العامة للحي الثقافي، من تاريخ العمل بوثيقة التنازل هذه جميع الحقوق والإلتزامات والإعتمادات المالية المخصصة لمركز قطر للتراث والهوية كما تؤول إليها جميع الممتلكات والأجهزة والمعدات وغيرها التي كانت عائدة للمركز في هذا التاريخ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تسجل هذه الوثيقة لدى الجهة المختصة بالتوثيق، ويعمل بها من تاريخ صدورها، وتنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

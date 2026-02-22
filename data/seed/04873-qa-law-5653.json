@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (9) لسنة 2006 بتعيين نائب رئيس وأعضاء المجلس الأعلى للتعليم",
   "short_name": "قرار أميري رقم (9) لسنة 2006 بتعيين نائب رئيس وأعضاء المجلس الأعلى للتعليم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5653&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5653&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعين صاحبة السمو الشيخة موزة بنت ناصر المسند، نائباً لرئيس المجلس الأعلى للتعليم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين عضواً بالمجلس الأعلى للتعليم كل من:\n1- سعادة السيدة/ شيخة أحمد المحمود.\n2- سعادة الدكتورة/ شيخة عبدالله المسند.\n3- سعادة الشيخ/ فيصل بن فهد آل ثاني.\n4- سعادة الشيخة/ عائشة بنت فالح آل ثاني.\n5- الدكتور/ محمد صالح السادة.\n6- الدكتور/ سيغبريت فرانك.\n7- الدكتور/ بول غرينفليد.\n8- الدكتور/ دوجلاس بالمر.\n9- الدكتور/ سوما بوجوده."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تكون مدة العضوية بالمجلس ثلاث سنوات، قابلة للتجديد لمدة أو لمدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

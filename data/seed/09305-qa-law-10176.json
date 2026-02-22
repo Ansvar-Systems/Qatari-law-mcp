@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (98) لسنة 2025 بدعوة مجلس الشورى لدور الانعقاد العادي الأول من الفصل التشريعي الثاني",
   "short_name": "مرسوم رقم (98) لسنة 2025 بدعوة مجلس الشورى لدور الانعقاد العادي الأول من الفصل التشريعي الثاني",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10176&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10176&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُدعى مجلس الشورى لدور الانعقاد العادي الأول من الفصل التشريعي الثاني ، الموافق لدور الانعقاد السنوي الرابع والخمسين ، وذلك في يوم الثلاثاء التاسع والعشرين من شهر ربيع الآخر عام 1447 هجرية ، الموافق للحادي والعشرين من شهر أكتوبر عام 2025 ميلادية ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

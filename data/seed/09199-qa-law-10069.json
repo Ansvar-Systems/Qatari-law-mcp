@@ -4,8 +4,21 @@
   "title": "قرار النائب العام رقم (81) لسنة 2025 بتخويل أحد موظفي وزارة التنمية الإجتماعية والأسرة صفة مأمور ضبط قضائي",
   "short_name": "قرار النائب العام رقم (81) لسنة 2025 بتخويل أحد موظفي وزارة التنمية الإجتماعية والأسرة صفة مأمور ضبط قضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10069&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10069&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظف وزارة التنمية الإجتماعية والأسرة السيد/ سالم ظافر علي النملان الحبابي (خبير مالي) صفة مأمور ضبط قضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام المرسوم بقانون رقم (21) لسنة 2020 المشار إليه أعلاه، والقرارات المنفذة له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

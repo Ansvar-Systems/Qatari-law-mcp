@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (322) لسنة 2015 بمد مهلة توفيق الأوضاع وفقاً لأحكام القانون رقم (20) لسنة 2014 بتعديل بعض أحكام القانون رقم (25) لسنة 2005 بشأن السجل التجاري",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (322) لسنة 2015 بمد مهلة توفيق الأوضاع وفقاً لأحكام القانون رقم (20) لسنة 2014 بتعديل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7036&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7036&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمد مهلة توفيق أوضاع الشركات المُقيدة بالسجل التجاري وفقاً لأحكام القانون رقم (20) لسنة 2014 المشار إليه، لمدة ستة أشهر اعتباراً من تاريخ 08/07/2015."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من تاريخ 08/07/2015. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

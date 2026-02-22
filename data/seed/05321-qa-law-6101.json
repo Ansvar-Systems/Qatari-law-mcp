@@ -4,8 +4,21 @@
   "title": "قرار وزير العمل رقم (9) لسنة 2011 بإعادة تشكيل أعضاء اللجنة الدائمة للاستقدام",
   "short_name": "قرار وزير العمل رقم (9) لسنة 2011 بإعادة تشكيل أعضاء اللجنة الدائمة للاستقدام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6101&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6101&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل اللجنة الدائمة للاستقدام على النحو التالي:\n1- السيد/ إبراهيم عبدالله الدهيمي رئيساً\n2- السيد/ ناصر جبر العطية نائباً للرئيس\n3- السيد/ عبدالرحمن عيد المهندي عضواً\n4- السيد/ ناصر محمد السيد عضواً\n5- الشيخ/ عبدالعزيز بن ثاني آل ثاني عضواً\n6- السيد/ غانم عبدالله الخيارين عضواً\n7- الشيخ حمد بن غانم آل ثاني عضواً\n8- السيد/ راشد حمد العذبة عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ 21/7/2011، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

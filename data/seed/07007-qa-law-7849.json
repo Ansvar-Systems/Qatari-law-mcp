@@ -4,8 +4,27 @@
   "title": "قرار وزير الثقافة والرياضة رقم (200) لسنة 2018 بحل مركز مواتر",
   "short_name": "قرار وزير الثقافة والرياضة رقم (200) لسنة 2018 بحل مركز مواتر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7849&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7849&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحل مركز مواتر السابق تأسيسه بقرار وزير الشباب والرياضة رقم (45) لسنة 2014 المشار إليه.\nوتؤول إلى وزارة الثقافة والرياضة جميع الأموال الثابتة والمنقولة المملوكة للمركز، وجميع الحقوق والالتزامات المقررة له أو عليه، في حدود ما آل إليه من أموال وحقوق."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتولى إدارة الشؤون الشبابية بوزارة الثقافة والرياضة مباشرة إجراءات حل المركز المشار إليه، والإشراف على تنفيذ الأحكام الواردة بالمادة السابقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويلغي كل حكم يخالف أحكامه، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

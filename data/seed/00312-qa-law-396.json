@@ -4,8 +4,21 @@
   "title": "قانون رقم (7) لسنة 1994 بتعديل بعض أحكام قانون الوظائف العامة المدنية الصادر بالمرسوم بقانون رقم (9) لسنة 1967",
   "short_name": "قانون رقم (7) لسنة 1994 بتعديل بعض أحكام قانون الوظائف العامة المدنية الصادر بالمرسوم بقانون رقم (9) لسنة 1967",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=396&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=396&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (52) من قانون الوظائف العامة المدنية المشار إليه النص الآتي:\n«يمنح الموظف، لمرة واحدة طوال مدة خدمته، إجازة خاصة براتب كامل لأداء فريضة الحج، من تاريخ مغادرة قطر إلى تاريخ العودة إليها بعد أداء الفريضة، وبحد أقصى عشرين يوماً. ولا تحسب هذه المدة من إجازاته الأخرى»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

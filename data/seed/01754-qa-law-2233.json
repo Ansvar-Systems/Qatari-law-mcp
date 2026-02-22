@@ -4,8 +4,21 @@
   "title": "قرار وزاري رقم (8) لسنة 1989 بشأن مواصفات أكياس جمع القمامة المنزلية",
   "short_name": "قرار وزاري رقم (8) لسنة 1989 بشأن مواصفات أكياس جمع القمامة المنزلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2233&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1989.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2233&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجب أن تتوافر في أكياس البلاستيك التي تستعمل في جمع وحفظ القمامة والمخلفات الخاصة بالمنازل المواصفات التالية:\n1 - السعة: 32 بوصة × 25 بوصة × 20 بوصة.\n2 - 50 ميكرون إذا كانت المادة البلاستيكية المستخدمة منخفضة الكثافة.\n30 ميكرون إذا كانت المادة البلاستيكية المستخدمة عالية الكثافة.\n3 - المادة الخام: البوليثلين.\n4 - اللون: أسود.\n5 - العلامات المميزة: عبارات بخط واضح تدل على طبيعة الاستعمال واسم المصنع المنتج وتحذير بإبعاد الأكياس عن متناول الأطفال.\nويجب أن يزود كل كيس برباط محكم لإغلاقه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد شهرين من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

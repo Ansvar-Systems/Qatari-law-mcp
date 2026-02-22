@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل رقم (2) لسنة 1979 دولة قطر شهادة تسجيل ‏(جمعية المنتزه التعاونية الاستهلاكية)",
   "short_name": "شهادة تسجيل رقم (2) لسنة 1979 دولة قطر شهادة تسجيل ‏(جمعية المنتزه التعاونية الاستهلاكية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3720&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1979.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3720&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل رقم (2) لسنة 1979\nدولة قطر\nشهادة تسجيل ‏(جمعية المنتزه التعاونية الاستهلاكية)\nشهادة تسجيل رقم (2) لسنة 1979\nدولة قطر\nشهادة تسجيل ‏(جمعية المنتزه التعاونية الاستهلاكية) 2 / 1979\nأشهد أن جمعية المنتزه التعاونية الاستهلاكية - محدودة المسئولية قد سجلت تحت رقم 2 ‏بموجب قانون الجمعيات التعاونية رقم (12) لسنة 1973م في اليوم الأول من رمضان لسنة 1399هـ الموافق الخامس والعشرون من تموز لسنة 1979م."
+    }
+  ],
   "definitions": []
 }

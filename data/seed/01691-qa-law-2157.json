@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (61) لسنة 1999 باعتبار مشروع توسعة شارع بمنطقة المطار القديم (طريق مسيعيد) من أعمال المنفعة العامة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (61) لسنة 1999 باعتبار مشروع توسعة شارع بمنطقة المطار القديم (طريق مسيعيد) من أ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2157&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2157&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر من أعمال المنفعة العامة، مشروع توسعة شارع بمنطقة المطار القديم (طريق مسيعيد) والموضح تفاصيله بالمذكرة و الرسم التخطيطي المرفقين بهذا القرار وحدوده معينة هندسياً طبقاً لما ورد بالمادة (2) منه،\nوتتخذ الإجراءات اللازمة لاستصدار مرسوم نزع الملكية طبقاً لأحكام القانون رقم (13) لسنة 1988 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسياً حدود العقار المقرر نزع جزء من ملكيته بما تضمنه مخطط المسح الهندسي الرسمي رقم (ب د/2429/97) والموثق عقارياً برقم (16859)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

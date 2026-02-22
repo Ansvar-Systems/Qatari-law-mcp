@@ -4,8 +4,21 @@
   "title": "قرار رقم (93) لسنة 2021م بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (93) لسنة 2021م بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8757&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8757&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (17) لسنة 1990م والمُعدل بالقانون رقم (9) لسنة 2020م، المشار إليه والقرارات المُنفذة له وهم:-\nم\nالإسم\nالمسمى الوظيفي\n1\nعبدالعزيز سمير عبد الهادي\nمفتش صحي رابع\n2\nسعيدة علي المسعود\nمفتش صحي رابع\n3\nحمد علي الحسنا\nفني تفتيش صحي رابع\n4\nمحمد سعيد سبت\nمفتش صحي رابع\n5\nخليفة يوسف الرميحي\nمفتش صحي أول\n6\nمحمد بخيت التويجري\nمفتش فني صحي رابع\n7\nعبد الهادي بخيت المري\nمفتش فني صحي رابع\n8\nمأمون نادر ربيع\nأخصائي أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يَخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

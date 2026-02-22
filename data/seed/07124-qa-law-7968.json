@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (16) لسنة 2019 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (16) لسنة 2019 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7968&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7968&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السيد/ عبدالعزيز علي عبدالله العبدالله، والسيد/ راشد ناصر سلطان البدر، في وظيفة نائب رئيس بمحكمة التمييز، وتحدد أقدميتهما فيها اعتباراً من 13/1/2019."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من الآتية أسماؤهم في وظيفة رئيس بالمحكمة الابتدائية، وتحدد أقدميتهم فيها اعتباراً من 20/1/2019:\n1- السيد/ مبارك سعد محمد حباب الهاجري.\n2- السيد/ موسى إبراهيم موسى صالح الهتمي.\n3- السيد/ إبراهيم محمد إبراهيم الحسن المهندي."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

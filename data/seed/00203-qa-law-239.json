@@ -4,8 +4,27 @@
   "title": "قانون رقم (2) لسنة 2005 بتعديل بعض أحكام القانون رقم (13) لسنة 2000 بتنظيم استثمار رأس المال الأجنبي في النشاط الاقتصادي",
   "short_name": "قانون رقم (2) لسنة 2005 بتعديل بعض أحكام القانون رقم (13) لسنة 2000 بتنظيم استثمار رأس المال الأجنبي في النشاط الاقتصادي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=239&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=239&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستبدل عبارات (غير القطري) و(غير القطريين) و(غير القطرية) بكلمات (الأجنبي) و(الأجانب) و(الأجنبية)\nأينما وردت في عنوان ومواد القانون رقم (13) لسنة 2000 المشار إليه.\nكما تستبدل عبارتا (وزارة الاقتصاد والتجارة) و(وزير الاقتصاد والتجارة) بعبارتي (وزارة المالية والاقتصاد والتجارة) و(وزير المالية والاقتصاد والتجارة) أينما وردتا في مواد القانون رقم (13) لسنة 2000 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يضاف بند جديد برقم (4) للمادة (2) من القانون رقم (13) لسنة 2000 المشار إليه نصه الآتي:\n«4- يجوز للمستثمرين غير القطريين تملك نسبة لا تزيد على 25 % من أسهم شركات المساهمة القطرية المطروحة للتداول في سوق الدوحة للأوراق المالية»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من 3/4/2005 وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,45 @@
   "title": "قرار رقم (1) لسنة 2018 بتحويل معهد النور للمكفوفين إلى مؤسسة خاصة ذات نفع عام",
   "short_name": "قرار رقم (1) لسنة 2018 بتحويل معهد النور للمكفوفين إلى مؤسسة خاصة ذات نفع عام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7790&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7790&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحول معهد النور للمكفوفين إلى مؤسسة خاصة ذات نفع عام، تُنشأ بوثيقة تأسيس و نظام أساسي ، وفقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه، وتٌسمى \"مركز النور للمكفوفين\"، ويعمل تحت مظلة المؤسسة القطرية للعمل الاجتماعي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تؤول إلى \"مركز النور للمكفوفين\"، المنشأ وفقاً لأحكام المادة السابقة، جميع الأموال الثابتة والمنقولة المملوكة لمعهد النور للمكفوفين وجميع الحقوق والالتزامات المقررة له أو عليه، وذلك فور إتمام إجراءات إنشائه كمؤسسة خاصة ذات نفع عام."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يستمر الموظفون بمعهد النور للمكفوفين في العمل بمركز النور للمكفوفين، بذات أوضاعهم الوظيفية ودرجاتهم المالية وأجورهم الشهرية وجميع المزايا المقررة لهم، إلى أن يتم شهر وثيقة تأسيس المركز ونظامه الأساسي وإعتماد لوائحه الداخلية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يستمر العمل باللوائح والقرارات والنظم والقواعد المعمول بها حالياً في معهد النور للمكفوفين، إلى أن تصدر المؤسسة القطرية للعمل الاجتماعي اللوائح والقرارات والنظم المتعلقة بالمركز."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

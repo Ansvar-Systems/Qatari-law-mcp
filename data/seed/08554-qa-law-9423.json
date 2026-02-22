@@ -4,8 +4,33 @@
   "title": "قانون رقم (16) لسنة 2023 بتعديل بعض أحكام القانون رقم (9) لسنة 1987 في شأن مكافحة المخدرات والمؤثرات العقلية الخطرة وتنظيم استعمالها والاتجار فيها",
   "short_name": "قانون رقم (16) لسنة 2023 بتعديل بعض أحكام القانون رقم (9) لسنة 1987 في شأن مكافحة المخدرات والمؤثرات العقلية الخطرة و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9423&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9423&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارتا \"وزارة البلدية\"، و\"وزير البلدية\" بعبارتي \"وزارة البلدية والبيئة\"، و\"وزير البلدية والبيئة\"، على التوالي، أينما وردتا بالمادتين (53)، (56) من القانون رقم (9) لسنة 1987 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة (18) من القانون رقم (9) لسنة 1987 المشار إليه، النـص التالي:"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article (18)",
+      "content": "\"يصدر وزير الصحة العامة قراراً بالبيانات والشروط الواجب توافرها في تحرير الوصفات الطبية التي توصف بمقتضاها مواد مخدرة أو مؤثرات عقلية خطرة للصرف من الصيدليات.\nوتُصرف الوصفات من دفاتر ورقية مختومة بخاتم وزارة الصحة العامة، أو إلكترونياً بعد موافقة وزارة الصحة العامة.\nوللوزير تحديد المقادير التي لا يصح تجاوز صرفها لكل مريض.\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُلّ فيما يخُصّه، تنفيذ هذا القانون ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

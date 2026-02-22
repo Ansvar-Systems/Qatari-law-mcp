@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (12) لسنة 2009 بتعديل بعض أحكام القانون رقم (1) لسنة 1996 بإنشاء شبكة الجزيرة الفضائية",
   "short_name": "مرسوم بقانون رقم (12) لسنة 2009 بتعديل بعض أحكام القانون رقم (1) لسنة 1996 بإنشاء شبكة الجزيرة الفضائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2665&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2665&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 3 ) من القانون رقم (1) لسنة 1996 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "«يتولى إدارة المؤسسة مجلس إدارة يُشكل من رئيس ونائب رئيس وعدد من الأعضاء، يصدر بتعيينهم وتحديد مدة عضويتهم ومكافآتهم، قرار من مجلس الوزراء»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

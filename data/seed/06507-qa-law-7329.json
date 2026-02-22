@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (47) لسنة 2017 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (47) لسنة 2017 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7329&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7329&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين الدكتور/ حمد وديع محمود الطويل، في وظيفة قاضٍ بمحكمة الاستئناف، وتحدد أقدميته فيها اعتباراً من 18/11/2015."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من السادة القضاة الآتية أسماؤهم في وظيفة رئيس بالمحكمة الابتدائية، وتحدد أقدميتهم فيها اعتباراً من 08/05/2017:\n1- السيد/ محمد حسن جاسم عبدالرحمن الهيل.\n2- السيد/ حمد صالح طالب عقيل النابت.\n3- السيد/ عبدالعزيز هلال يتيم السبيعي العنزي."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

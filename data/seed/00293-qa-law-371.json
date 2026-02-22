@@ -4,8 +4,27 @@
   "title": "قانون رقم (6) لسنة 1994 بالموافقة على منح قرض لشركة مطاحن الدقيق القطرية",
   "short_name": "قانون رقم (6) لسنة 1994 بالموافقة على منح قرض لشركة مطاحن الدقيق القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=371&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=371&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "توافق حكومة دولة قطر على منح شركة مطاحن الدقيق القطرية قرضاً بمبلغ أربعين مليون ريال، وذلك وفقاً للشروط والأحكام المنصوص عليها في عقد ذلك القرض وفي قرار مجلس الوزراء الصادر في اجتماعه العادي (21) لعام 1991 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يخول وزير المالية والاقتصاد والتجارة في التوقيع على عقد القرض وفي اتخاذ الإجراءات اللازمة لتنفيذه، وله تفويض وكيل الوزارة في كل أو بعض ذلك."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

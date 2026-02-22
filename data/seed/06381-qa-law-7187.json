@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (1) لسنة 2017 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطريين في بعض الشركات",
   "short_name": "قرار مجلس الوزراء رقم (1) لسنة 2017 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7187&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7187&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تسري أحكام القانون رقم (24) لسنة 2002 المشار إليه، على العاملين القطريين في الشركات التالية:\n1- شركة جي بي أي كيو اس تي بي - ذ.م.م.\n2- شركة سمينس - ذ.م.م.\n3- شركة فينيو برو مانجمت - ذ.م.م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

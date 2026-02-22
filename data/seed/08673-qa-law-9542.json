@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (16) لسنة 2024 بالتصديق على اتفاق بين دولة قطر والأمم المتحدة بشأن إنشاء وتمويل مركز الأمم المتحدة الإقليمي لمكافحة الجريمة السيبرانية",
   "short_name": "مرسوم رقم (16) لسنة 2024 بالتصديق على اتفاق بين دولة قطر والأمم المتحدة بشأن إنشاء وتمويل مركز الأمم المتحدة الإقليمي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9542&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9542&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاق بين دولة قطر والأمم المتحدة ومثّلها مكتب الأمم المتحدة المعني بالمخدرات والجريمة، بشأن اتفاق إضافـي للاتفاق بـين حكومة دولة قطر ومكتب الأمم المتحدة المعني بالمخدرات والجريمة (UNODC) بشأن إنشاء وتمويل مركز الأمم المتحدة الإقليمي لمكافحة الجريمة السيبرانية في الدوحة، الموقع بمدينة فيينا بتاريخ 09/06/2023، المُرفق نصه بهذا المرسوم، وتكون له قوة القانون، وفقاً للمادة (68) من الدستور"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

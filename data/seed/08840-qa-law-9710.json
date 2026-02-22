@@ -4,8 +4,21 @@
   "title": "قرار وزير العدل رقم (95) لسنة 2024 بإعادة تسمية رئيس وأعضاء لجنة شؤون الخبراء",
   "short_name": "قرار وزير العدل رقم (95) لسنة 2024 بإعادة تسمية رئيس وأعضاء لجنة شؤون الخبراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9710&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9710&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُسمى رئيس وأعضاء لجنة شؤون الخبراء المنصوص عليها في المادة (3) من القانون رقم (16) لسنة 2017 المشار إليه، على النحو التالي:\n1 - السيد/علي محمد اليافعي ممثلًا عن وزارة العدل رئيساً\n2 - الدكتور/ منصور ناصر القحطاني ممثلًا عن المجلس الأعلى للقضاء عضواً\n3 - السيد/ صالح علي الكبيسي ممثلًا عن النيابة العامة عضواً\n4 - السيد/ عبد الله محمد أبو شهاب ممثلًا عن وزارة العدل عضواً\n5 - السيد/ خميس محمد الكعبي ممثلًا عن وزارة العدل عضواً\n6 - الدكتور/ هاشم عبد الرحيم السيد خبير عضواً\n7 - السيد/ محمد مسفر الهاجري خبير عضواً\nوتختار اللجنة نائباً للرئيس من بين أعضائها في أول اجتماع لها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (11) لسنة 2021 بتعيين مساعدي قضاة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (11) لسنة 2021 بتعيين مساعدي قضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8840&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8840&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين مساعد قاضٍ، كلٌّ من:\n1 - السيّدة/ عائشة مبارك سعيد آل إبراهيم المهندي.\n2 - السيّد / محمد عبدالله محمد العمادي.\n3 - السيّد/ سعود سالم متعب الصعاق.\n4 - السيّد/ منصور محمد درمان المفقاعي.\n5 - السيّد/ محمد جاسم محمد المناعي.\n6 - السيّدة/ لولوة مسعود العامري.\n7 - السيّد/ مطر سلطان مطر ضابت الدوسري.\n8 - السيّد/ حزام هادي القحطاني.\n9 - السيّدة/ نوارة عبدالناصر أحمد النصر.\n10 - السيّد/ عبدالرحمن محمد عبدالله زيد آل محمود."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات الـمختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر فى الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

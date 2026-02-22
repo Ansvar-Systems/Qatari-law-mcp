@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (4) لسنة 2021 بالتصديق على مذكرة تفاهم بين وزارة التعليم والتعليم العالي في دولة قطر ووزارة التعليم العالي في سلطنة عُمان للتعاون في مجال العلوم والتعليم العالي",
   "short_name": "مرسوم رقم (4) لسنة 2021 بالتصديق على مذكرة تفاهم بين وزارة التعليم والتعليم العالي في دولة قطر ووزارة التعليم العالي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8547&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8547&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على مذكرة تفاهم بين وزارة التعليم والتعليم العالي في دولة قطر ووزارة التعليم العالي في سلطنة عُمان للتعاون في مجال العلوم والتعليم العالي، الموقعة بمدينة الدوحة بتاريخ 7/6/2018، المرفق نصها بهذا المرسوم ، وتكون لها قوة القانون ، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا المرسوم ويُعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

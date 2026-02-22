@@ -4,8 +4,27 @@
   "title": "قانون رقم (25) لسنة 2009 بتعديل بعض أحكام القانون رقم (25) لسنة 2001 بشأن التعليم الإلزامي",
   "short_name": "قانون رقم (25) لسنة 2009 بتعديل بعض أحكام القانون رقم (25) لسنة 2001 بشأن التعليم الإلزامي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2567&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2567&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل كلمة «المجلس» بكلمة «الوزارة»، كما تُستبدل عبارات «المجلس الأعلى للتعليم» و«وزير التعليم والتعليم العالي» و«المجلس الأعلى للصحة» بعبارات «وزارة التربية والتعليم» و«وزير التربية والتعليم» و«وزارة الصحة العامة» على التوالي، أينما وردت في القانون رقم (25) لسنة 2001 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة ( 11/ فقرة أولى ) من القانون رقم (25) لسنة 2001 المشار إليه، النص التالي:\nمادة (11/ فقرة أولى) :\n«يُعاقب المسؤول عن الطفل، الذي يمتنع عن إلحاق الطفل دون عذر مقبول بمرحلة التعليم الإلزامي، بغرامة لا تقل عن خمسة آلاف ريال ولا تزيد على عشرة آلاف ريال.»"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

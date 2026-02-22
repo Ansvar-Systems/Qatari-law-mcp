@@ -4,8 +4,27 @@
   "title": "قرار رقم (91) لسنة 2021 بشأن ادراج أشخاص وكيانات إرهابية على قائمة العقوبات بناء على طلب اللجنة الوطنية لمكافحة الارهاب",
   "short_name": "قرار رقم (91) لسنة 2021 بشأن ادراج أشخاص وكيانات إرهابية على قائمة العقوبات بناء على طلب اللجنة الوطنية لمكافحة الارهاب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8793&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8793&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُدرج على قائمة العقوبات الأشخاص والكيانات التالية أسمائهم:\nأولاً: الأشخاص الطبيعيين:\nم\nالإسم\nالجنسية\n1\nعلي رضا حسن البناي\nقطري\n2\nعلي رضاء باشي محمد رضا قصابي\nقطري\n3\nعبد المؤيد رضا حسن البناي\nقطري\n4\nسليمان عبد الخالق رضا حسن البناي\nقطري\n5\nعبد الرحمن عبدالرحيم عبدالنبي شمس\nبحريني\n6\nيحيى محمد ياسيين العبد المحسن\nسعودي\n7\nمجدي فايز حسن محمود الأستاذ\nفلسطيني\nثانياً: الكيانات\nم\nالإسم\nالجنسية\n1\nشركة أملاك الدار\nقطري"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على اللجنة الوطنية لمكافحة الإرهاب تنفيذ هذا القرار ويُعمل به من تاريخ صدوره."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يَخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره ويُنشر بالطرق المُتبعة"
+    }
+  ],
   "definitions": []
 }

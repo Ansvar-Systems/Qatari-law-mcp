@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (8) لسنة 2019 بتعديل أحكام القرار الأميري رقم (7) لسنة 2017 بالهيكل التنظيمي لديوان المحاسبة",
   "short_name": "قرار أميري رقم (8) لسنة 2019 بتعديل أحكام القرار الأميري رقم (7) لسنة 2017 بالهيكل التنظيمي لديوان المحاسبة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7921&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7921&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُنقل اختصاص إدارة التدقيق الداخلي المنصوص عليه في البند (7) من المادة (5) إلى اختصاصات إدارة المخاطر والجودة المنصوص عليها في المادة (3) من القرار الأميري رقم (7) لسنة 2017 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قانون رقم (2) لسنة 1995 بتعديل بعض أحكام المرسوم بقانون رقم (16) لسنة 1990 بشأن تعويض ضباط وأفراد القوات المسلحة والشرطة عن إصاباتهم",
   "short_name": "قانون رقم (2) لسنة 1995 بتعديل بعض أحكام المرسوم بقانون رقم (16) لسنة 1990 بشأن تعويض ضباط وأفراد القوات المسلحة والش...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=256&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=256&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (8) من المرسوم بقانون رقم (16) لسنة 1990 المشار إليه النص التالي:"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "«يسقط الحق في المطالبة بالتعويض بمضي سنة واحدة من تاريخ الوقائع التالية:\nأ- الوفاة.\nب- الإصابة، أو ظهـور أعراض المرض، دون الإبلاغ عنها رسمياً وقت وقوعها أو العلم بها أثناء الخدمة.\nج- صدور حكم نهائي باعتبار المفقود متوفياً.\nد- إخطار المصاب باعتماد الوزير تقرير اللجنة الطبية المتضمن تقدير نسبة العجز أو اعتبار المرض مهنياً.\nهـ- انتهاء الخدمة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

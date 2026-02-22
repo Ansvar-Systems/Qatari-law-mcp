@@ -4,8 +4,33 @@
   "title": "مركز الخليج للدراسات - قرار الجمعية العمومية غير العادية بتحويل الجمعية إلى مؤسسة خاصة ذات نفع عام",
   "short_name": "مركز الخليج للدراسات - قرار الجمعية العمومية غير العادية بتحويل الجمعية إلى مؤسسة خاصة ذات نفع عام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4375&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4375&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحويل جمعية مركز الخليج للدراسات الخاضعة لأحكام القانون رقم (12) لسنة 2004 بشأن الجمعيات والمؤسسات الخاصة وتعديلاته، إلى مؤسسة خاصة ذات نفع عام، تخضع لأحكام المرسوم بقانون رقم (21) لسنة 2006 بشأن المؤسسات الخاصة ذات النفع العام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تبقى البيانات المتعلقة بالجمعية، وتحديداً اسمها ومقرها والأموال المخصصة لتحقيق أهدافها وكيفية إدارتها وأسماء المؤسسين وجنسياتهم ومحال إقامتهم، الواردة بعقد تأسيسها دون تعديل."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعمل بالنظام الأساسي لمركز الخليج للدراسات المرفق بهذا القرار، ويُسجل لدى إدارة التوثيق بوزارة العدل، وتتولى نشره في الجريدة الرسمية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار ويُعمل به اعتباراً من صدوره."
+    }
+  ],
   "definitions": []
 }

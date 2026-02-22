@@ -4,8 +4,33 @@
   "title": "قرار وزير التجارة والصناعة رقم (105) لسنة 2025 بتحول شركة برميير فاينانشيل فنتشرز من شركة مُساهمة عامة قطرية إلى شركة مُساهمة خاصة قطرية",
   "short_name": "قرار وزير التجارة والصناعة رقم (105) لسنة 2025 بتحول شركة برميير فاينانشيل فنتشرز من شركة مُساهمة عامة قطرية إلى شركة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10214&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10214&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحول شركة برميير فاينانشيل فنتشرز ، من شركة مُساهمة عامة قطرية إلى شركة مُساهمة خاصة قطرية ، برأس مال قدرة مائة ريال قطري ، وفقاً لأحكام نص المادة ( 207 ) من قانون الشركات التجارية المُشار إليه ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على مؤسس الشركة الإلتزام بأحكام عقد التأسيس و النظام الأساسي المُشار إليهما والمُرفق نصهما بهذا القرار .\nكما تلتزم الشركة بأحكام قانون الشركات التجارية المُشار إليه ، والتشريعات الأخرى المعمول بها في الدولة ذات الصلة ، وذلك فيما لم يرد بشأنه نص خاصٍ في عقد التأسيس والنظام الأساس للشركة ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على تحول الشركة نشوء شخص معنوي جديد ، وتظل الشركة مُحتفظة بحقوقها ومُحملة بإلتزاماتها السابقة على التحول ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المُختصة ، كلٍ فيما يخصه تنفيذ هذا القرار . ويُعمل به إعتباراً من تاريخ صدوره ، ويتم شهره وفقاً لأحكام قانون الشركات التجارية المُشار إليه ، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

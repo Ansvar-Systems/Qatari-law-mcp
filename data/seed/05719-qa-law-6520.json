@@ -4,8 +4,21 @@
   "title": "قرار رقم (15) لسنة 2015 بتخويل بعض موظفي وزارة العمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (15) لسنة 2015 بتخويل بعض موظفي وزارة العمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6520&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6520&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العمل والشؤون الاجتماعية التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لإحكام القانون رقم (12) المشار إليه أعلاه والقرارات المنفذة له، وهم:\nم\nالاسم\nالرقم الشخصي\n1.\nياسر أحمد محمد المرزوقي.\n28063400772\n2.\nعبدالعزيز محمد عيسى التميمي.\n28563402898\n3.\nهزاع عبدالواحد علي العثمان.\n29563400802\n4.\nحمد علي حمد البريد.\n29363400475\n5.\nبدر صالح صالم العيساني اليافعي.\n28763401187\n6.\nمحمد عبدالله محمد العمادي.\n27163400541\n7.\nمسعد أحمد سالم الحجاجي.\n25263400218"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

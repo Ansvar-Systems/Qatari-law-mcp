@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (51) لسنة 2003 بتأسيس شركة سيارات الأجرة (شركة مساهمة قطرية)",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (51) لسنة 2003 بتأسيس شركة سيارات الأجرة (شركة مساهمة قطرية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2125&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2125&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تؤسس شركة مساهمة تحت مسمى «شركة سيارات الأجرة» (شركة مساهمة قطرية) برأس مال مصدر بمبلغ مائة مليون ريال، اكتتبت حكومة دولة قطر في رأس مال الشركة بالكامل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسس الالتزام بأحكام وثيقة تأسيس الشركة و نظامها الأساسي وكذلك الالتزام بأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

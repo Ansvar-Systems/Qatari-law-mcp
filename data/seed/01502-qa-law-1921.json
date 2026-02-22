@@ -4,8 +4,21 @@
   "title": "قرار وزير الداخلية رقم (1) لسنة 1998 بإعفاء شركة الخطوط الجوية القطرية من الرسوم المستحقة على تأشيرات الدخول وتراخيص الإقامة لرجال الأعمال والموظفين الذين تستقدمهم على كفالتها",
   "short_name": "قرار وزير الداخلية رقم (1) لسنة 1998 بإعفاء شركة الخطوط الجوية القطرية من الرسوم المستحقة على تأشيرات الدخول وتراخيص...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1921&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1921&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعفى شركة الخطوط الجوية القطرية من رسوم تأشيرات رجال الأعمال القادمين إليها لأعمال تتعلق بأغراض الشركة، ورسوم رخص الإقامة وتجديدها لموظفيها الذين تستقدمهم على كفالتها والمنصوص عليها بالقرار رقم (9) لسنة 1963 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدروه. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

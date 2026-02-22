@@ -4,8 +4,27 @@
   "title": "قرار وزير المواصلات رقم ( 15 ) لسنة 2024 بتعديل بعض أحكام القرار رقم (23) لسنة 2016 بشأن ضوابط البيع بالمزاد العلني للبضائع التي لم يتم سحبها من الميناء أو تصديرها",
   "short_name": "قرار وزير المواصلات رقم ( 15 ) لسنة 2024 بتعديل بعض أحكام القرار رقم (23) لسنة 2016 بشأن ضوابط البيع بالمزاد العلني ل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9622&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9622&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بتعريف الوزير المنصوص عليه في المادة (1) من قرار وزير المواصلات والاتصالات رقم (23) لسنة 2016 المشار إليه، التعريف التالي:\nالوزير: وزير المواصلات\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة (3) فقرة (أولى من قرار وزير المواصلات والاتصالات رقم (23) لسنة 2016 المشار إليه، النص التالي:\nمادة (3/ فقرة أولى):\n\"تنشأ لجنة تسمى \"لجنة البيع بالمزاد العلني\"، تشكل من ممثلين اثنين عن الشركة، يكون\nأحدهما رئيساً والآخر نائباً للرئيس، وعضوية كل من:\n1 - ممثل عن وزارة المواصلات\n2 - ممثل عن الهيئة العامة للجمارك.\n3 - ممثل عن شركة كيوتير منلز.\n4 - ممثل عن غرفة تجارة وصناعة قطر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

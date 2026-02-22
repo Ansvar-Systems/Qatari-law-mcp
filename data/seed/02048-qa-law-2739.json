@@ -4,8 +4,27 @@
   "title": "قرار نائب الحاكم رقم (13) لسنة 1966 بتنفيذ بعض أحكام المرسوم بقانون رقم (10) لسنة 1966 بشأن تثبيت الأسعار",
   "short_name": "قرار نائب الحاكم رقم (13) لسنة 1966 بتنفيذ بعض أحكام المرسوم بقانون رقم (10) لسنة 1966 بشأن تثبيت الأسعار",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2739&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1966.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2739&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "أ- تشكل لجنة مراقبة تثبيت الأسعار المنصوص عليها في المادة (2) من المرسوم بقانون رقم (10) لسنة 1966 على الوجه الآتي:\n1. السيد / محمد جيده.\n2. السيد / حيدر سليمان لاري.\n3. السيد / راشد محمد العسيري.\nب- يقوم بسكرتارية اللجنة سكرتير الغرفة التجارية بالإضافة إلى عمله.\nج- تنعقد اللجنة في مقر الغرفة التجارية كلما دعت الحاجة لذلك. وتصدر توصياتها بأغلبية الآراء.\nد- يجوز للجنة الاستعانة بمن تراه من أهل الخبرة من الموظفين أو غيرهم في المسائل التي تعرض عليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ترفع اللجنة توصياتها مصحوبة بالمستندات المؤيدة إلى مدير عام الحكومة ومستشارها القانوني لفحصها وإبداء الرأي فيها، وعرضها على نائب الحاكم للنظر في الموافقة عليها وإصدار قرار بشأنها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

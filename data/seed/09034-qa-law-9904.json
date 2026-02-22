@@ -4,8 +4,27 @@
   "title": "قرار رئيس هيئة تنظيم الاتصالات رقم (12) لسنة 2025 بإصدار الترخيص للشركة القطرية للخدمات البريدية ش.م.ع.ق لتقديم الخدمات البريدية",
   "short_name": "قرار رئيس هيئة تنظيم الاتصالات رقم (12) لسنة 2025 بإصدار الترخيص للشركة القطرية للخدمات البريدية ش.م.ع.ق لتقديم الخدم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9904&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9904&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إصدار الترخيص لتقديم الخدمات البريدية (&laquo;الترخيص&raquo;) للشركة القطرية للخدمات البريدية ش.م.ع. ق، كمشغل بريدي عام عملاً بالقانون رقم 15 لسنة 2023 وفقاً للشروط والأحكام الواردة في هذا الترخيص بالرقم المرجعي 2015/01/22/CRARAC والمرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يمنح الترخيص لمدة عشر سنوات اعتباراً من تاريخ السريان، مع مراعاة التجديد أو الإنهاء وفقاً لأحكام قانون البريد واللوائح التنظيمية الصادرة في شأنه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تار&#1740;خ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

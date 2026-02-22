@@ -4,8 +4,27 @@
   "title": "قانون رقم (1) لسنة 2002 بتعديل بعض أحكام القانون رقم (3) لسنة 1975 بشأن المحال التجارية والصناعية والعامة المماثلة",
   "short_name": "قانون رقم (1) لسنة 2002 بتعديل بعض أحكام القانون رقم (3) لسنة 1975 بشأن المحال التجارية والصناعية والعامة المماثلة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=152&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=152&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف للقانون رقم (3) لسنة 1975 المشار إليه مادة برقم (11 مكرراً)، يكون نصها كالتالي:"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article (11)",
+      "content": "مكرراً):\n«على المحال، التي يصدر بتحديدها قرارا من وزير الشؤون البلدية والزراعة، بناء على اقتراح المجلس البلدي المركزي، غلق أبوابها والتوقف عن القيام بأي أعمال أثناء صلاة الجمعة، وذلك لمدة ساعة ونصف اعتباراً من الآذان الأول للصلاة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينُشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

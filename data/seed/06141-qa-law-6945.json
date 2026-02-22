@@ -4,8 +4,33 @@
   "title": "قرار وزير المواصلات والاتصالات رقم (8) لسنة 2016 بإعادة تشكيل مجلس إدارة شركة معلوماتية",
   "short_name": "قرار وزير المواصلات والاتصالات رقم (8) لسنة 2016 بإعادة تشكيل مجلس إدارة شركة معلوماتية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6945&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6945&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس ادارة شركة معلوماتية برئاسة وعضوية كل من:\n- سعادة الدكتورة/ حصة سلطان الجابر\nرئيساً\n- السيد/ ارحمه ناصر الكعبي\nنائباً للرئيس\n- السيد/ خالد ارحمه الكواري\nعضوا\n- السيد/ يوسف عبد الرحمن النعمة\nعضوا\n- الدكتور/ فالح محمد حسين\nعضوا\n- السيد/ عادل مصطفوي\nعضوا"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو لمدد اخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى أي قرار يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

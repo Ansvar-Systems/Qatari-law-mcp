@@ -4,8 +4,21 @@
   "title": "قرار رقم (71) لسنة 2020 م بتخويل أحد موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (71) لسنة 2020 م بتخويل أحد موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8444&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8444&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لمرظفة وزارة التنمية الإدارية والعمل والشؤون الاجتماعية / مها عبد الله عمر العمودي اليافعي - مراقب تفتيش حضانات ثاني، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لإحكام القانون رقم (1) لسنة 2014م بتنظيم دور الحضانة، والقرارات المنفذة له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصّه ، تنفيذ هذا القرار، ويُعمل بو من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

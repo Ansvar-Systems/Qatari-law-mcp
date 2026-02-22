@@ -4,8 +4,39 @@
   "title": "قرار مجلس الوزراء رقم (40) لسنة 2008 بحدود وإجراءات سداد قيمة قرض الإسكان",
   "short_name": "قرار مجلس الوزراء رقم (40) لسنة 2008 بحدود وإجراءات سداد قيمة قرض الإسكان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3353&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3353&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يسدد قرض الإسكان الممنوح للمنتفع، طبقاً لأحكام القانون رقم (2) لسنة 2007 المشار إليه، وعقد القرض المبرم بين المنتفع والبنك، خلال مدة خمس وثلاثون سنة، بموجب أقساط شهرية، تتناسب مع هذه المدة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يبدأ تحصيل الأقساط بعد مرور سنتين من تاريخ إبرام عقد القرض أو إتمام البناء أيهما أقرب."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يحصل البنك مصاريف إدارية مقدراها (1%) سنوياً، يتحمل المنتفع بالقرض نصفها، وتتحمل الدولة النصف الآخر، وتتناقص هذه النسبة وفقاً لما يسدد من قيمة القرض."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يلغى القرار رقم (2) لسنة 2008 المشار إليه."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من 1/4/2007، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قانون رقم (10) لسنة 2006 بتعديل بعض أحكام القانونين رقمي (15) لسنة 2004 بإنشاء الهيئة العامة للتخطيط والتطوير العمراني و(23) لسنة 2005 بتنظيم وزارة الشؤون البلدية والزراعة وتعيين اختصاصاتها",
   "short_name": "قانون رقم (10) لسنة 2006 بتعديل بعض أحكام القانونين رقمي (15) لسنة 2004 بإنشاء الهيئة العامة للتخطيط والتطوير العمران...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2470&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2470&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص البند رقم (8) من المادة (3) من القانون رقم (15) لسنة 2004 المشار إليه، النص التالي:\n«8- تحديد ونزع ملكية العقارات، أو الاستيلاء عليها مؤقتاً، للمنفعة العامة، وفقاً للمخططات العمرانية، وذلك بالتنسيق مع الجهات المختصة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى البند رقم (5) من المادة (2) ، والبند رقم (2) من أولاً من المادة (9) ، والمادة (11) من القانون رقم (23) لسنة 2005 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حُكم يُخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (172) لسنة 2022 بتخويل أحد موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (172) لسنة 2022 بتخويل أحد موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9068&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9068&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظف قطر للسياحة السيد/ عمار عوض هاشم السعدي. منسق منتجات سياحية ثاني، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانونين رقمي (20) لسنة 2018 و (21) لسنة 2018 المشار إليهما أعلاه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

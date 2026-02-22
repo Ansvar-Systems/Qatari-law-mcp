@@ -4,8 +4,33 @@
   "title": "قانون رقم (19) لسنة 2019 بتعديل بعض أحكام القانون رقم (4) لسنة 2008 بشأن إيجار العقارات",
   "short_name": "قانون رقم (19) لسنة 2019 بتعديل بعض أحكام القانون رقم (4) لسنة 2008 بشأن إيجار العقارات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8079&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8079&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 26 مكرراً ) من القانون رقم (4) لسنة 2008 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article (26)",
+      "content": "مكرراً) :\n\"مع عدم الإخلال بأية عقوبة أشد ينص عليها قانون آخر، يعاقب بالغرامة التي لا تزيد على (10,000) عشرة آلاف ريال، كل من خالف حكم المادة ( 3 /فقرة ثانية) من هذا القانون.\nويجوز للوزير أو من يفوضه، الصلح في الجريمة المنصوص عليها في هذا القانون، قبل تحريك الدعوى الجنائية، أو أثناء نظرها وقبل الفصل فيها بحكم نهائي، وذلك مقابل سداد نصف الحد الأقصى للغرامة المقررة، بالإضافة إلى سداد رسم التسجيل المقرر.\nويترتب على الصلح عدم جواز تحريك الدعوى الجنائية أو انقضاؤها، بحسب الأحوال.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُضاف إلى القانون رقم (4) لسنة 2008 المشار إليه، مادة برقم (26 مكرراً/1)، نصها التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

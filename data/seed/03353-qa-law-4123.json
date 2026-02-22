@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (20) لسنة 2003 بتشكيل مجلس التخطيط",
   "short_name": "قرار أميري رقم (20) لسنة 2003 بتشكيل مجلس التخطيط",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4123&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4123&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس التخطيط من وزير الطاقة والصناعة رئيساً، ووزير المالية نائباً للرئيس، وعضوية كل من:\n1- رئيس الديوان الأميري.\n2- وزير الشئون البلدية والزراعة.\n3- وزير التربية والتعليم.\n4- محافظ مصرف قطر المركزي.\n5- وكيل وزارة شئون الخدمة المدنية والإسكان.\n6- المستشار الاقتصادي بالديوان الأميري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى القرار الأميري رقم (3) لسنة 2001 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

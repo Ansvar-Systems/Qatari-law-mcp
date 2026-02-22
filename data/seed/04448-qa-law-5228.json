@@ -4,8 +4,21 @@
   "title": "أمر أميري رقم (6) لسنة 2001 بتكليف وزير الدولة للشئون الداخلية بالتوقيع على بعض القرارات الوزارية",
   "short_name": "أمر أميري رقم (6) لسنة 2001 بتكليف وزير الدولة للشئون الداخلية بالتوقيع على بعض القرارات الوزارية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5228&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5228&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعهد إلى وزير الدولة للشئون الداخلية بتوقيع القرارات الوزارية المتعلقة بشؤون وزارة الداخلية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا الأمر. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

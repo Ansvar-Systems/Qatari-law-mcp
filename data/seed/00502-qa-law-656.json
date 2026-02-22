@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (17) لسنة 2002 بتعديل بعض أحكام القرار الأميري رقم (38) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للجمارك والموانئ",
   "short_name": "قرار أميري رقم (17) لسنة 2002 بتعديل بعض أحكام القرار الأميري رقم (38) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للجم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=656&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=656&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "«يشكل مجلس إدارة الهيئة العامة للجمارك والموانئ على النحو التالي:\n1- الشيخ/ عبد الله بن جاسم آل ثاني\nرئيسا\n2- السيد/ مسند عبد الله المسند\nنائبا للرئيس\n3- ممثل عن وزارة الداخلية\nعضواً\n4- ممثل عن وزارة الطاقة والصناعة\nعضواً\n5- ممثل عن وزارة المالية\nعضواً\n6- ممثل عن وزارة الاقتصاد والتجارة\nعضواً\n7- ممثل عن غرفة تجارة وصناعة قطر\nعضواً\nوتفوض الجهات المشار إليها في تسمية ممثليها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

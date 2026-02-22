@@ -4,8 +4,21 @@
   "title": "قرار رقم (37) لسنة 2019 بتخويل بعض موظفي هيئة تنظيم الأعمال الخيرية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (37) لسنة 2019 بتخويل بعض موظفي هيئة تنظيم الأعمال الخيرية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7946&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7946&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي هيئة تنظيم الأعمال الخيرية التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (15) لسنة 2014 م المشار إليه وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nعيد عبدالله المهندي\nمراقب\n2\nاسماعيل عبدالرحيم طحان\nمراقب\n3\nشيخة أحمد الحميدي\nباحث قانوني\n4\nعائشة إسماعيل الاسماعيل\nباحث قانوني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

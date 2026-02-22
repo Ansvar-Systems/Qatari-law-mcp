@@ -4,8 +4,21 @@
   "title": "قرار رقم (21) لسنة 2009 بشأن تخويل موظف بوزارة الاقتصاد والمالية صفة مأمورى الضبط القضائي",
   "short_name": "قرار رقم (21) لسنة 2009 بشأن تخويل موظف بوزارة الاقتصاد والمالية صفة مأمورى الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4324&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4324&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون للسيد/عبد الرحمن سعيد محمد الكواري- الموظف بوزارة الاقتصاد والمالية صفة مأموري الضبط القضائي في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (20) لسنة 2002 المشار إليه والقرارات المنفذة له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

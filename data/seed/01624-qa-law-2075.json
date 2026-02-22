@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية رقم (3) لسنة 1969 بالترخيص لشركة بورجاس كوربوريشن المحدودة، وبنك هامبروز المحدود، وشركة نورسك هايدرو في الاكتتاب في رأس مال شركة قطر للأسمدة (شركة مساهمة قطرية تحت التأسيس)",
   "short_name": "قرار وزير المالية رقم (3) لسنة 1969 بالترخيص لشركة بورجاس كوربوريشن المحدودة، وبنك هامبروز المحدود، وشركة نورسك هايدر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2075&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1969.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2075&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص للشركات المذكورة أدناه في الاكتتاب في رأس مال شركة قطر للأسمدة شركة مساهمة قطرية (تحت التأسيس) على أن لا تزيد نسبة اكتتابهم في رأس مال الشركة عن النسبة المحددة في القانون.\n1- شركة بورجاس كوربوريشن المحدودة.\n2- بنك هامبروز المحدود.\n3- شركة نورسك هايدرو."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا القرار من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

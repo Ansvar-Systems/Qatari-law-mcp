@@ -4,8 +4,21 @@
   "title": "قرار رقم (155) لسنة 2009 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (155) لسنة 2009 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3592&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3592&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني المبينة أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (3) لسنة 1975م المُشار إليه، والقرارات المُنفذه له، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nعلي سالم عبد الهادي المري.\nكاتب شؤون إدارية\n2\nالسماني محمد نور أحمد.\nمفتش أسواق\n3\nنظيم محمد ملص.\nمفتش أسواق\n4\nعلي ناصر غانم الهاجري.\nباحث شؤون مالية أول\n5\nمحمد مبارك علي النصر.\nمشرف كتبة نقليات\n6\nعلي أحمد جمعه المناعي.\nمشرف مراقبين أغذية أول\n7\nراشد فيصل راشد الهاجري.\nمراقب رخص تجارية\n8\nسفر راشد حمود شافي الشافي.\nمراقب أسواق\n9\nعبد العزيز حسن محمد النعيمي.\nمراقب أسواق\n10\nراشد عبد الله راشد ذياب النعيمي.\nمراقب أسواق"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

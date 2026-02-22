@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (49) لسنة 2006 بتشكيل مجلس إدارة الهيئة القطرية للأوقاف",
   "short_name": "قرار أميري رقم (49) لسنة 2006 بتشكيل مجلس إدارة الهيئة القطرية للأوقاف",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2861&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2861&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة الهيئة القطرية للأوقاف، على النحو التالي:\n1- سعادة وزير الأوقاف والشؤون الإسلامية\nرئيساً\n2- السيد/حسن محمد الكبيسي\nنائباً للرئيس\n3- السيد/ناصر محمد الفهيد الهاجري\nعضواً\n4- الشيخ/فيصل بن جاسم بن محمد آل ثاني\nعضواً\n5- السيد/سعد أحمد المسند\nعضواً\n6- الدكتور/حسن لحدان المهندي\nعضواً\n7- الشيخ/سعود بن ناصر بن جاسم آل ثاني\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,45 @@
   "title": "قرار رئيس اللجنة الأولمبية القطرية رقم (476) لسنة 2021 بشأن تشكيل الاتحاد القطري للرياض الجامعية",
   "short_name": "قرار رئيس اللجنة الأولمبية القطرية رقم (476) لسنة 2021 بشأن تشكيل الاتحاد القطري للرياض الجامعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8911&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8911&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس الإدارة الأول للاتحاد القطري للرياضة الجامعية، برئاسة وعضوية كلاً من:\nم\nالاسم\nالصفة\n1\nسعادة الدكتور/ إبراهيم بن صالح النعيمي\nرئيساً\n2\nالسيّدة/ أسماء محمد سعد النعيمي - ممثلاً عن جامعة قطر\nعضواً\n3\nالسيّدة/ الجازي طالب الحنزاب - ممثلاً عن مؤسسة قطر\nعضواً\n4\nالشيخ/ خليفه بن خالد آل ثاني - ممثلاً عن اللجنة الأولمبية القطرية\nعضواً\n5\nالنقيب/ حسن مفتاح مبارك الكواري ممثلاً عن كلية أحمد بن محمد العسكرية.\nعضواً\n6\nالرائد/ راشد علي راشد التميمي - ممثلاً عن كلية الشرطة\nعضواً\n7\nالسيّد/ حمد فالح الهاجري - ممثلاً عن كلية المجتمع في قطر\nعضواً\n8\nالدكتورة/ الجازي حمد فطيس - ممثلاً عن كلية شمال الأطلنطي\nعضواً\n9\nالسيّد/ راشد سعيد عضيبه &ndash; ممثلاً عن اللجنة الأولمبية القطرية\nأميناً للسر"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يقوم مجلس الإدارة المُشكل بإعداد النظام الأساسي للاتحاد واعتماده."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يقوم مجلس الإدارة المُشكل بموافاة اللجنة الأولمبية القطرية بالنظام الأساسي بعد اعتماده وذلك لاستكمال إجراءات إشهار الاتحاد"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تكون مدة مجلس الإدارة المشكل لمدة أربع سنوات اعتباراً من تاريخ صدور هذا القرار"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يُلغى كل حكم مُخالف لأحكام هذا القرار"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يخُصّه تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

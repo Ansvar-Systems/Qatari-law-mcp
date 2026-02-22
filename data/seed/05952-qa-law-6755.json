@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (42) لسنة 2015 بدعوة مجلس الشورى لعقد دور الانعقاد العادي الرابع والأربعين",
   "short_name": "مرسوم رقم (42) لسنة 2015 بدعوة مجلس الشورى لعقد دور الانعقاد العادي الرابع والأربعين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6755&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6755&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُدعى مجلس الشورى لعقد دور الانعقاد العادي الرابع والأربعين يوم الثلاثاء الحادي والعشرين من محرم عام 1437هـ، الموافق للثالث من نوفمبر عام 2015م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

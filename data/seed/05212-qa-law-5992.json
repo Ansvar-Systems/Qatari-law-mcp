@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (15) لسنة 2007 بتعيين أعضاء لجنة جائزة قطر للجودة",
   "short_name": "قرار مجلس الوزراء رقم (15) لسنة 2007 بتعيين أعضاء لجنة جائزة قطر للجودة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5992&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5992&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل لجنة جائزة قطر للجودة، على النحو التالي:\n1- سعادة وزير الاقتصاد والتجارة\nرئيساً\n2- السيد/ عبدالله خالد القحطاني\nنائباً للرئيس\n3- السيد/ سيف سعيد النعيمي\nعضواً\n4- السيد/ خالد غانم العلي\nعضواً\n5- الدكتور/ محمد سيف الكواري\nعضواً\n6- الدكتور/ خليفة ناصر آل خليفة\nعضواً\n7- السيد/ عبدالرزاق محمد الصديقي\nعضواً\nويتولى أمانة سر اللجنة موظف أو أكثر من موظفي وزارة الاقتصاد والتجارة، يصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من الوزير."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة اللجنة ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

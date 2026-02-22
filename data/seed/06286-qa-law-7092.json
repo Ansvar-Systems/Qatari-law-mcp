@@ -4,8 +4,21 @@
   "title": "قرار رقم (136) لسنة 2016م بتخويل بعض موظفي وزارة الاوقاف والشؤون الاسلامية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (136) لسنة 2016م بتخويل بعض موظفي وزارة الاوقاف والشؤون الاسلامية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7092&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7092&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الاوقاف والشؤون الاسلامية التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (3) لسنة 2015 م، بتنظيم مزاولة خدمات الحج والعمرة وهم:\nم\nالاسم\nالرقم الشخصي\n1\nعلي سلطان المسيفري\n27163400799\n2\nابراهيم محمد النعمه\n26763400527\n3\nحسن محمد العبيدلي\n27363400645\n4\nمحمد عبدالله الحاي\n27763402017\n5\nشاهين خليفة الكواري\n26563400308\n6\nمحمد حسن الكعبي\n28963400358\n7\nحمد أحمد المهندي\n27363401148\n8\nفهد محمود شمس\n29163400371"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

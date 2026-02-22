@@ -4,8 +4,15 @@
   "title": "استدراك",
   "short_name": "استدراك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6463&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6463&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُشكل اللجنة من ثلاثة ممثلين عن هيئة تنظيم الاتصالات، يكون أحدهم رئيساً للجنة، وممثل عن وزارة البلدية والتخطيط العمراني نائباً للرئيس، وعضوية ممثل عن كل من الجهات التالية:\n1- وزارة الدفاع.\n2- وزارة الداخلية.\n3- هيئة الأشغال العامة.\n4- شركة أوريدو - Ooredoo.\n5- شركة فودافون فطر.\n6- الشركة القطرية لشبكة الحزمة العريضة."
+    }
+  ],
   "definitions": []
 }

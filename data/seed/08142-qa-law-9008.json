@@ -4,8 +4,39 @@
   "title": "قرار وزير البيئة والتغير المناخي رقم (15) لسنة 2022 بشأن تنظيم موسم صيد بعض الطيور والحيوانات البرية",
   "short_name": "قرار وزير البيئة والتغير المناخي رقم (15) لسنة 2022 بشأن تنظيم موسم صيد بعض الطيور والحيوانات البرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9008&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9008&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون موسم صيد الطيور المهاجرة (اللفو) في الفترة التالية من 1/9/2022 حتى 15/2/2023 دون غيرها من العام، على أن يكون صيد طائر الحبارى بواسطة الصقور فقط، ويحظر استخدام أو تبادل أدوات ووسائل الصيد غير التقليدية وبالأخص جهاز جذب الطيور (الصوايات)"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون موسم صيد الأرانب في الفترة من 15/12/2022 حتى 15/1/2023 دون غيرها من العام، على أن يكون صيدها بواسطة الصقور وكلاب الصيد فقط"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُحظر صيد وبيع أي من الطيور أو الحيوانات الفطرية البرية الأخرى طوال العام والمدرجة في قائمة أنواع الحيوانات الممنوع والمحظور صيدها والمرفقة بهذا القرار"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُحظر الصيد بكافة أنواعه في المحميات الطبيعية والجزر، وداخل حدود المدن والقرى والحدائق العامة، وداخل الممتلكات الخاصة والمزارع إلا بموافقة أصحابها وذوي الحقوق عليها"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كلاً فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ 1/9/2022، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

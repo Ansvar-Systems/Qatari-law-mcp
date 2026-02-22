@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (39) لسنة 2009 بتحديد قيمة التعاقد بطريق الممارسة أو الاتفاق المباشر",
   "short_name": "قرار مجلس الوزراء رقم (39) لسنة 2009 بتحديد قيمة التعاقد بطريق الممارسة أو الاتفاق المباشر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3334&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3334&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد قيمة شراء الأصناف أو مقاولات الأعمال أو أداء الخدمات التي يجوز للجهات الحكومية المعنية التعاقد عليها بطريق الممارسة أو الاتفاق المباشر بمبلغ لا يجاوز (200,000) مائتي ألف ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

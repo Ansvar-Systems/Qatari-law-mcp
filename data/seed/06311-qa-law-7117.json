@@ -4,8 +4,33 @@
   "title": "قرار اللجنة التنفيذية لمؤسسة دوري نجوم قطر رقم (1) لسنة 2016م",
   "short_name": "قرار اللجنة التنفيذية لمؤسسة دوري نجوم قطر رقم (1) لسنة 2016م",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7117&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7117&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "الموافقة على إقتراح تعديل المادة رقم ( 8 ) من النظام الأساسي للمؤسسة والخاصة بتشكيل اللجنة التنفيذية، بزيادة عدد أعضاء اللجنة التنفيذية بإضافة عضو ممثلاً عن إدارة الرابطة القطرية للاعبين."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يخاطب الإتحاد القطري لكرة القدم بمضمون هذا القرار للإعتماد وفقاً للمادة 7 من النظام الأساسي لمؤسسة دوري نجوم قطر"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يخضع هذا القرار في تفسيره لمواد النظام الأساسي لمؤسسة دوري نجوم قطر والصادر بتاريخ 16/9/2008م وتعديلاته."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُكلف الرئيس التنفيذي للمؤسسة بإتخاذ ما يلزم من إجراءات نحو تسجيل وإشهار التعديل بعد إعتماد الإتحاد القطري لكرة القدم للتعديل."
+    }
+  ],
   "definitions": []
 }

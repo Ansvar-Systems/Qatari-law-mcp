@@ -4,8 +4,39 @@
   "title": "قانون رقم (16) لسنة 1980 بشأن النقل البحري الساحلي",
   "short_name": "قانون رقم (16) لسنة 1980 بشأن النقل البحري الساحلي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=114&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1980.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=114&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "في تطبيق هذا القانون يقصد بعبارة \"النقل البحري الساحلي\" النقل البحري أو القطر بين ميناءين أو أكثر من موانئ دولة قطر كما يقصد بها تشغيل الوحدات البحرية داخل المواني."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يقصر النقل البحري الساحلي على السفن المسجلة في دولة قطر والمتمتعة بالجنسية القطرية، ويجوز لإدارة الموانئ بموافقة وزير المواصلات والنقل التصريح بالنقل للسفن الأجنبية. على أنه لا يجوز بحال من الأحوال لأية منشأة بحرية أن تعمل داخل موانئ الدولة إلا إذا كانت مملوكة كلها لمن يتمتع بجنسية دولة قطر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يجوز للسفن الأجنبية أن تبحر بين موانئ الدولة لأخذ ركاب أو بضائع منقولة إلى موانئ أجنبية أو لإنزال ركاب أو بضائع واردة من موانئ أجنبية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "كل مخالفة لأحكام هذا القانون يعاقب مرتكبها بغرامة تعادل ضعف أجر النقل الذي تم الاتفاق عليه مع خضوعه لتقدير إدارة الموانئ وتقوم الإدارة المذكورة بتقدير هذه الغرامة وتحصيلها ولا يصرح للسفينة بالسفر إلا بعد أدائها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

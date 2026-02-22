@@ -4,8 +4,21 @@
   "title": "قرار النائب العام رقم (171) لسنة 2025 بإلغاء تخويل بعض موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "short_name": "قرار النائب العام رقم (171) لسنة 2025 بإلغاء تخويل بعض موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10239&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10239&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة للسادة التالية أسماؤهم، والسابق منحها لهـم بموجب القرارات المشار إليها أعلاه، وهم :\nم\nالاسـم\nالرقم الشخصي\n1\nحسين عبد الحميد إبراهيم عبدالوهاب الحداد\n28963403023\n2\nعيسى ناصر عيسى ماجد البدر\n28263403170\n3\nحصة غازي مبروك سعد اسماعيل\n27863401708"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

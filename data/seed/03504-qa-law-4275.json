@@ -4,8 +4,51 @@
   "title": "قرار مجلس الوزراء رقم (13) لسنة 1995 بإنشاء اللجنة الدائمة لفحص طلبات اكتساب الجنسية القطرية",
   "short_name": "قرار مجلس الوزراء رقم (13) لسنة 1995 بإنشاء اللجنة الدائمة لفحص طلبات اكتساب الجنسية القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4275&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4275&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ لجنة بوزارة الداخلية تسمى \"اللجنة الدائمة لفحص طلبات اكتساب الجنسية القطرية\" وتلحق بمكتب وزير الداخلية، وتشكل على النحو التالي:\n1- المقدم/حمد سعيد الهولي النعيمي\n2- السيد/مسند سعد المسند\n3- السيد/فهد عبد الله غراب\n4- السيد/غانم سيف الخيارين\n5- السيد/شاهين محمد العسيري\n6- السيد/عيسى ربيعة الكواري\n7- السيد/حمد علي مايقة الأحبابي\n8- السيد/سعد ناصر الدوسري\n9- النقيب/حمد أحمد حسن المهندي\nرئيساً\nعضواً\nعضواً\nعضواً\nعضواً\nعضواً\nعضواً\nعضواً\nعضواً مقرراً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص اللجنة بالنظر في الطلبات المقدمة من ذوي الشأن لاكتساب الجنسية القطرية، والتحقق من انطباق الشروط الواردة بقانون الجنسية القطرية عليهم، ورفع توصياتها بشأن هذه الطلبات إلى وزير الداخلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تكون مدة العضوية ثلاث سنوات من تاريخ العمل بهذا القرار، ويجوز تجديد العضوية لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تعقد اللجنة اجتماعاتها في أوقات العمل الرسمية."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "فيما عدا رئيس ومقرر اللجنة، تصرف لكل عضو مكافأة قدرها (2000) ألفاً ريال شهرياً."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدورة . وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

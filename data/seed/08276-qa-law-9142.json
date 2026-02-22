@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (15) لسنة 2023 بتعديل بعض أحكام القرار الأميري رقم (39) لسنة 2020 بإعادة تشكيل مجلس أمناء مختبر مكافحة المنشطات",
   "short_name": "قرار أميري رقم (15) لسنة 2023 بتعديل بعض أحكام القرار الأميري رقم (39) لسنة 2020 بإعادة تشكيل مجلس أمناء مختبر مكافحة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9142&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9142&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل كل من السادة التالية أسماؤهم محل العضو المذكور قرين اسمه، في عضوية مجلس أمناء مختبر مكافحة المنشطات:\n1 - الدكتور/ ديفيد لوماس الدكتور/ ماكوتو يرويكـي.\n2 - الدكتور/ أمـين بنيامين الدكتور/ جوردي سيغورا.\n3 - الدكتور/ محمد براك سالم الهيفي الدكتور/ سلطان بن يعرب البوسعيدي.\n4 &ndash; السيّد/ إبراهيم عبدالله الدهيمي السيّد/ إبراهيم هاشم السادة.\nوتكون مدة عضوية كل منهم مكملة لمدة عضوية سلفه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كلُ فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

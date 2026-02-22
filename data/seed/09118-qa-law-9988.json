@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (15) لسنة 2025 بتعديل بعض أحكام القرار رقم (29) لسنة 2020 بتشكيل اللجنة الوطنية لمكافحة الإرهاب وتحديد نظام عملها ومكافآت أعضائها",
   "short_name": "قرار مجلس الوزراء رقم (15) لسنة 2025 بتعديل بعض أحكام القرار رقم (29) لسنة 2020 بتشكيل اللجنة الوطنية لمكافحة الإرهاب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9988&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9988&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "&laquo;تُشكل اللجنة الوطنية لمكافحة الإرهاب المنصوص عليها في قانون مكافحة الإرهاب المشار إليه، من ممثلين اثنين عن وزارة الداخلية يكون أحدهما رئيساً للجنة، وعضوية ممثل عن كل من:\n1- وزارة الخارجية.\n2 - النيابة العامة.\n3- مصرف قطر المركزي.\n4- جهاز أمن الدولة.\n5- قوة الأمن الداخلي (لخويا).\nوتختار كل جهة من يمثلها في عضوية اللجنة، ويصدر بتسمية رئيس ونائب رئيس وأعضاء اللجنة قرار من وزير الداخلية.\nويتولى أمانة سر اللجنة موظف أو أكثر من موظفي وزارة الداخلية، ويصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من وزير الداخلية.&raquo;"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

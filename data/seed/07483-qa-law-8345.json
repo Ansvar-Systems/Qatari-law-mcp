@@ -4,8 +4,21 @@
   "title": "قرار رقم (54) لسنة 2020م بإلغاء تخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (54) لسنة 2020م بإلغاء تخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8345&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8345&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلغى صفة مأموري الضبط القضائي التالية أسمائهم، والسابق منحها لهم بموجب قرار النائب العام رقم (121) لسنة 2010 م و القرار رقم (54) لسنة 2015 م المشار إليه وهم:-\n1\nد. نجاح محمد صالح\n2\nد. حمد محمد الجابر\n3\nد. أمل عبدالله الشايجي\n4\nد. منال برهان زيدان\n5\nد. إبراهيم أحمد محمد شريف الجناحي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

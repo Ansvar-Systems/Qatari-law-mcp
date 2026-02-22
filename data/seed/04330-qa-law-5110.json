@@ -4,8 +4,27 @@
   "title": "قانون رقم (11) لسنة 2013 بتعديل بعض أحكام القانون رقم (14) لسنة 1999 بشأن الأسلحة والذخائر والمتفجرات",
   "short_name": "قانون رقم (11) لسنة 2013 بتعديل بعض أحكام القانون رقم (14) لسنة 1999 بشأن الأسلحة والذخائر والمتفجرات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5110&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5110&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف مادة برقم (3 مكرراً 2) إلى القانون رقم (14) لسنة 1999 المشار إليه، يكون نصها التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "مكرراً 2):\n\"استثناءً من أحكام المواد ( 2 )، ( 3 )، ( 4 ) من هذا القانون، يجوز للوزير السماح لأفراد الأمن على السفن، بحيازة وإحراز الأسلحة النارية وذخائرها المبينة في القسم الأول وفي البندين رقمي (1)، (2) من القسم الثاني من الجدول رقم (2) المرفق بهذا القانون، ويصدر بضوابط حمل واستعمال هذه الأسلحة وحفظها والتفتيش عليها قرار من الوزير، ويكون ربان السفينة هو المسؤول عن حفظ الأسلحة النارية وذخائرها داخل السفينة.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (36) لسنة 2011 بالموافقة على الانضمام إلى معاهدة التعاون بشأن البراءات (PCT)",
   "short_name": "مرسوم رقم (36) لسنة 2011 بالموافقة على الانضمام إلى معاهدة التعاون بشأن البراءات (PCT)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4500&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4500&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى معاهدة التعاون بشأن البراءات (PCT)، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة ( 68 ) من الدستور، مع إبداء التحفظ التالي:\n\"أن دولة قطر لا تعتبر نفسها ملزمة بأحكام المادة (59) من هذه المعاهدة، والمتعلقة بتسوية المنازعات\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

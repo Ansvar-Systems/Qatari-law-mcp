@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (58) لسنة 1999 بشأن تجديد تعيين محافظ ونائب محافظ مصرف قطر المركزي",
   "short_name": "مرسوم رقم (58) لسنة 1999 بشأن تجديد تعيين محافظ ونائب محافظ مصرف قطر المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5916&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5916&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُجدد تعيين كل من:\n1- &shy;السيد/ عبد الله خالد العطية\nمحافظ مصرف قطر المركزي\n2- الشيخ عبد اللٌه بن سعود بن عبد العزيز آل ثاني\nنائب محافظ مصرف قطر المركزي\nوذلك لمدة خمس سنوات تبدأ من 13/1/2000."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

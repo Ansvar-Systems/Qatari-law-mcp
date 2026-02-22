@@ -4,8 +4,39 @@
   "title": "مرسوم رقم (39) لسنة 2006 بالتصديق على اتفاقية إنشاء كلية علوم التمريض",
   "short_name": "مرسوم رقم (39) لسنة 2006 بالتصديق على اتفاقية إنشاء كلية علوم التمريض",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3047&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3047&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على الاتفاقية الموقعة بتاريخ 11/6/2006 بين دولة قطر وجامعة كالجاري في ألبرتا - كندا، لإنشاء كلية لعلوم التمريض في قطر."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص الكلية بتقديم برامج التعليم والتدريب والبحث والتطوير في مجال التمريض ، بما يلبي احتياجات الجهات والمؤسسات العلاجية، وبما يحقق أهداف تنمية الخدمات الصحية في الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "توفر الدولة الموارد المالية اللازمة لميزانيات تأسيس الكلية وإقامة منشآتها وإدارتها وتشغيلها وفقأ للأحكام والإجراءات التي تضمنتها الاتفاقية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يتبع في إنشاء الكلية ونظمها الأكاديمية والإدارية والمالية وكافة الأمور الأخرى المتعلقة بها الأحكام المنصوص عليها في الاتفاقية والوثائق الملحقة بها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,51 @@
   "title": "وثيقة تأسيس المركز العربي لأبحاث السياسات- ترشيد (مؤسسة خاصة ذات نفع عام)",
   "short_name": "وثيقة تأسيس المركز العربي لأبحاث السياسات- ترشيد (مؤسسة خاصة ذات نفع عام)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4376&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4376&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون اسم المؤسسة هو \"المركز العربي لأبحاث السياسات- ترشيد\"، (مؤسسة خاصة ذات نفع عام)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "المقر الرئيسي للمركز ومحله القانوني مدينة الدوحة، ويجوز للمركز إنشاء فروع أو مكاتب في الداخل والخارج."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يهدف المركز إلى دعم وتعزيز ونشر البحوث والدراسات التي تعنى بمجالات العلاقات الخارجية لدول الشرق الأوسط والأمن القومي والقضايا البيئية والدراسات الإعلامية والاقتصاد السياسي والرأي العام والمتغيرات الاجتماعية، لدعم وترشيد الرأي العام وعملية صنع القرار في الوطن العربي ببحوث علمية تتمتع بالاستقلالية والمصداقية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "خُصص للمركز مبلغاً مقداره خمسة ملايين ريال قطري، لدى بنك قطر الوطني، لنفقات تشغيل المركز."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يتمتع المركز بالاستقلالية التامة في ممارسة أنشطته."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يسجل ويشهر المركز طبقاً لأحكام القانون رقم (21) لسنة 2006 المشار إليه."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "تم تحرير هذه الوثيقة من نسختين متطابقتين تودع واحدة منها لدى الجهة المختصة بتوثيق المحررات، ويحتفظ المركز بالنسخة الأخرى في مقره."
+    }
+  ],
   "definitions": []
 }

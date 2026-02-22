@@ -4,8 +4,27 @@
   "title": "قانون رقم (10) لسنة 2007 بتعديل بعض أحكام المرسوم بقانون رقم (10) لسنة 1974 بشأن إنشاء قطر للبترول",
   "short_name": "قانون رقم (10) لسنة 2007 بتعديل بعض أحكام المرسوم بقانون رقم (10) لسنة 1974 بشأن إنشاء قطر للبترول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2473&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2473&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى المرسوم بقانون رقم (10) لسنة 1974 المشار إليه، النصان التاليان:\nمادة (27/فقرة ثالثة) :\n«وتكون الأحكام المتعلقة بالضرائب والرسوم التي تتضمنها الاتفاقيات التي تبرمها قطر للبترول بشأن المشروعات المشتركة، واجبة التطبيق بعد الموافقة عليها من مجلس الوزراء».\nمادة (27/مكرراً):\n«يصدر بتحديد وتحصيل رسوم شحن المواد الهيدروكربونية، ومقابل الخدمات الأخرى التي تؤديها قطر للبترول بالموانئ والأرصفة التي تسند إليها إدارتها والإشراف عليها، قرار من مجلس الإدارة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

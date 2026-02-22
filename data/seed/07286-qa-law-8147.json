@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (33) لسنة 2019 بتعديل بعض أحكام القرار رقم (10) لسنة 2018 بتشكيل لجنة قبول المحامين",
   "short_name": "قرار مجلس الوزراء رقم (33) لسنة 2019 بتعديل بعض أحكام القرار رقم (10) لسنة 2018 بتشكيل لجنة قبول المحامين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8147&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8147&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيد/ عبدالله محمود سالم آل عمر، نائب الرئيس بمحكمة الاستئناف، والسيد/ عبدالله إبراهيم يوسف المهندي، القاضي بمحكمة الاستئناف، محل السيد/ إبراهيم صالح حسن النصف، رئيس محكمة الاستئناف، والسيد/ عبدالله راشد عبدالله المهندي، الرئيس بمحكمة الاستئناف، على التوالي، في عضوية لجنة قبول المحامين المشكلة بقرار مجلس الوزراء رقم (10) لسنة 2018 المشار إليه، وتكون مدة عضويتهما مكملة لمدة عضوية سلفيهما."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

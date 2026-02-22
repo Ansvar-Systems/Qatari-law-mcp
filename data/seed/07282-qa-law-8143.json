@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (41) لسنة 2019 بتعديل بعض أحكام القرار الأميري رقم (1) لسنة 2018 بإنشاء اللجنة التسييرية للاستدامة المالية للمؤسسة العامة القطرية للكهرباء والماء",
   "short_name": "قرار أميري رقم (41) لسنة 2019 بتعديل بعض أحكام القرار الأميري رقم (1) لسنة 2018 بإنشاء اللجنة التسييرية للاستدامة الم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8143&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8143&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"تُنشأ لجنة تُسمى \"اللجنة التسييرية للاستدامة المالية للمؤسسة العامة القطرية للكهرباء والماء\"، تتبع مجلس الوزراء، وتُشكل برئاسة رئيس مجلس الوزراء، ووزير الدولة لشؤون الطاقة، نائباً للرئيس، وعضوية كل من:\n1- وزير المالية.\n2- وزير التجارة والصناعة.\n3- محافظ مصرف قطر المركزي.\n4- رئيس جهاز التخطيط والإحصاء.\n5- رئيس المؤسسة العامة القطرية للكهرباء والماء.\n6- ممثل عن قطر للبترول.\nويتولى أمانة سر اللجنة موظف أو أكثر، من موظفي المؤسسة العامة القطرية للكهرباء والماء، يصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من رئيس اللجنة.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

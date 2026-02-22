@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (28) لسنة 2014 بمد خدمة قضاة بالمحاكم",
   "short_name": "مرسوم رقم (28) لسنة 2014 بمد خدمة قضاة بالمحاكم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6295&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6295&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمد خدمة السادة القضاة التالية أسماؤهم، الذين بلغوا سن التقاعد خلال العام القضائي 2013/2014، وذلك لمدة ثلاث سنوات:\n1- السيد/ عمار إبراهيم محمد فرج، القاضي بمحكمة التمييز.\n2- السيد/ أكرم يوسف إبراهيم، القاضي بمحكمة الاستئناف.\n3- السيد/ خليل إبراهيم عبد الحميد الملا حويش، القاضي بمحكمة الاستئناف."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من 1/7/2014. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

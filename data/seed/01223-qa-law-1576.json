@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (2) لسنة 1978 بشأن تقرير حافز مادي للقطريين من خريجي وخريجات معهد اللغات التابع لوزارة التربية والتعليم ورعاية الشباب",
   "short_name": "قرار مجلس الوزراء رقم (2) لسنة 1978 بشأن تقرير حافز مادي للقطريين من خريجي وخريجات معهد اللغات التابع لوزارة التربية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1576&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1978.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1576&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمنح القطريون من خريجي وخريجات معهد اللغات التابع لوزارة التربية والتعليم ورعاية الشباب العاملون في الوزارات والأجهزة الحكومية والشاغلون لإحدى حلقات ودرجات الكادر المالي العام، والكادرات الخاصة، وما يعادلها، حافزاً مادياً ثابتاً مقداره (200) ريال شهرياً، وذلك اعتباراً من تاريخ حصول كل منهم على دبلوم معهد اللغات. ولا يعتبر هذا الحافز جزءاً من المرتب الأساسي ولا يأخذ حكمه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يراعي عند إيفاد موظف إلى دورة تدريبية في دولة أجنبية، طبقاً لقانون البعثات الدراسية المشار إليه، أن يكون حاصلاً على دبلوم معهد اللغات أو أن تقرر الجهة التي يتبعها أنه قادر على متابعة الدراسة باللغة الأجنبية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون للحاصلين على دبلوم معهـد اللغات أولوية عند الترشيح لدورات تدريبية في الخارج."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

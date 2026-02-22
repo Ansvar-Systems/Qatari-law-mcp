@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (73) لسنة 2003 بتشكيل مجلس إدارة شركة قطر الوطنية للفنادق",
   "short_name": "قرار أميري رقم (73) لسنة 2003 بتشكيل مجلس إدارة شركة قطر الوطنية للفنادق",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=814&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=814&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة شركة قطر الوطنية للفنادق، على النحو التالي:\n1- الشيخ/نواف بن جاسم بن جبر آل ثاني\nرئيساً\n2- السيد/عبد العزيز أحمد المالكي\nنائباً للرئيس\n3- السيد/محمد عبد الكريم المير\nعضواً\n4- السيد/علي عبد الله علي العبد الله\nعضواً\n5- السيد/فريد فان آيك\nعضواً\n6- السيد/جون ريه\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

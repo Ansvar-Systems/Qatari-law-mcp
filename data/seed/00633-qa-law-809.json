@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (6) لسنة 1996 بإعادة تشكيل لجنة المناقصات المركزية",
   "short_name": "قرار أميري رقم (6) لسنة 1996 بإعادة تشكيل لجنة المناقصات المركزية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=809&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=809&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل لجنة المناقصات المركزية على النحو التالي:\nأولاً:\n1- السيد/خلف عيسى بوجمهور المهندي\nرئيساً.\n2- السيد/أحمد جاسم الفيحاني\nنائباً للرئيس.\nويتفرغ الرئيس ونائب الرئيس لهذا العمل.\n3- السيد/حسن عبد الله الغانم\nعضواً.\n4- الدكتور/ماجد عبد الله المالكي\nعضواً.\n5- الدكتور/يوسف أحمد النعمة\nممثلاً لوزارة العدل\nعضواً.\n6- الدكتور/عبد الرحمن البوعينين\nعضواً.\n7- السيد/ناصر حمد الكبيسي\nعضواً.\n8- السيد/خلف أحمد المناعي\nممثلاً لوزارة المالية والاقتصاد والتجارة\nعضواً.\nوذلك لمدة ثلاث سنوات قابلة للتجديد.\nثانياً: عضو ممثل للجهة الحكومية التي طرحت المناقصة لحسابها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من 2/7/1996. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (2) لسنة 2013 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها الهيئة العامة للتقاعد والتأمينات الاجتماعية وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (2) لسنة 2013 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها الهيئة العامة للتقاعد والتأمينا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4649&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4649&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف إلى الوحدات الإدارية التي تتبع رئيس الهيئة العامة للتقاعد والتأمينات الاجتماعية، وحدة تسمى \"وحدة تحليل المخاطر\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص وحدة تحليل المخاطر بما يلي:\n1- رصد وقياس المخاطر وفقاً للوائح الاستثمار المعتمدة.\n2- قياس عوائد الاستثمار والمخاطر المرتبطة بها.\n3- متابعة خطط العمل بشأن مشاريع الاستثمار واقتراح السبل الكفيله بمعالجة ما ينتج من مشكلات في التنفيذ.\n4- إعداد تقارير المخاطر الدورية والعاجلة وعرضها على الرئيس."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

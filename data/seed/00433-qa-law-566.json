@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (35) لسنة 2004 باستثناء مشروع توسعة مصنع الاثيلين بشركة قطر للبتروكيماويات (قابكو) من بعض أحكام المرسوم بقانون رقم (11) لسنة 1993 بشأن ضريبة الدخل",
   "short_name": "مرسوم بقانون رقم (35) لسنة 2004 باستثناء مشروع توسعة مصنع الاثيلين بشركة قطر للبتروكيماويات (قابكو) من بعض أحكام المر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=566&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=566&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستثنى مشروع توسعة مصنع الاثيلين بشركة قطر للبتروكيماويات (قابكو) من شرط وجوب تجاوز تكلفة توسعة المشروع (50%) من القيمة الرأسمالية الأصلية للمشروع، المنصوص عليه في البند (2) من المادة (23) من المرسوم بقانون رقم (11) لسنة 1993 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

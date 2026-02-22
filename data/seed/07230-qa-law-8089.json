@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (35) لسنة 2019 بمنح امتياز لشركة قطر للوقود (وقود) بالانتفاع بقطعة أرض لإقامة محطة بترول ومرافقها عليها",
   "short_name": "مرسوم رقم (35) لسنة 2019 بمنح امتياز لشركة قطر للوقود (وقود) بالانتفاع بقطعة أرض لإقامة محطة بترول ومرافقها عليها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8089&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8089&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمنح شركة قطر للوقود (وقود) امتياز بالانتفاع بقطعة الأرض الواقعة بمنطقة مطار حمد الدولي، الموضحة تفاصيلها وإحداثياتها بالرسم التخطيطي المرفق بهذا المرسوم، وذلك لإقامة محطة بترول ومرافقها عليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة امتياز شركة قطر للوقود (وقود) بالانتفاع بقطعة الأرض المشار إليها في المادة السابقة، (25) خمسة وعشرون سنة، قابلة للتجديد لمدة أو مدد أخرى مماثلة.\nويكون المقابل السنوي للانتفاع (40) أربعون ريالاً للمتر المربع."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تلتزم شركة قطر للوقود (وقود) بما يلي:\n1- استعمال واستغلال وإدارة الأرض المنتفع بها بموجب هذا المرسوم، وفقاً لأحكام القوانين واللوائح والنظم المعمول بها في الجهات ذات العلاقة.\n2- عدم استعمال الأرض المنتفع بها في غير الغرض المحدد بهذا المرسوم.\n3- عدم التنازل عن حق الانتفاع للغير، أو ترتيب أي حق عيني عليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

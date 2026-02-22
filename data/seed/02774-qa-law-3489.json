@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة (106) لسنة 2004 بتعديل مسمى شركة سيارات الأجرة",
   "short_name": "قرار وزير الاقتصاد والتجارة (106) لسنة 2004 بتعديل مسمى شركة سيارات الأجرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3489&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3489&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعدل مسمى شركة سيارة الأجرة (شركة مساهمة قطرية) إلى شركة المواصلات شركة مساهمة قطرية (مواصلات) ويأشر بذلك في سجلات الشركة والسجل التجاري لها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "علي جميع الجهات المختصة، كلُ فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

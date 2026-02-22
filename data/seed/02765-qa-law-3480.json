@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (101) لسنة 2004 بشأن بعض المواصفات القياسية الخليجية التجريبية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (101) لسنة 2004 بشأن بعض المواصفات القياسية الخليجية التجريبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3480&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3480&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد المواصفات القياسية الخليجية التجريبية المبين ملخصاتها في الجداول أرقام (1، 2، 3، 4، 5، 6، 7) المرفقة بهذا القرار وعددها (591)، كمواصفات قياسية قطرية تجريبية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به بعد ستة أشهر من تاريخ نشرة في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

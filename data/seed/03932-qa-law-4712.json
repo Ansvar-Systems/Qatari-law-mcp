@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (14) لسنة 2013 بتعديل بعض أحكام القرار رقم (18) لسنة 2002 بتنظيم لجنة التسجيل العقاري",
   "short_name": "قرار مجلس الوزراء رقم (14) لسنة 2013 بتعديل بعض أحكام القرار رقم (18) لسنة 2002 بتنظيم لجنة التسجيل العقاري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4712&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4712&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"تشكل لجنة التسجيل العقاري من مدير إدارة التسجيل العقاري بوزارة العدل رئيساً، ومساعد مدير إدارة التسجيل العقاري بوزارة العدل نائباً للرئيس، وعضوية ممثلين عن الجهات التالية:\n1- إدارة قضايا الدولة بوزارة العدل.\n2- مكتب الشمال للتسجيل العقاري بوزارة العدل.\n3- ثلاثة عن وزارة البلدية والتخطيط العمراني، يكون أحدهم عن التخطيط العمراني وآخر عن شؤون الأراضي.\n4- إدارة الإسكان بوزارة الشؤون الاجتماعية.\nوترشح كل جهة من يمثلها في عضوية اللجنة، ويصدر بتسمية أعضاء اللجنة قرار من وزير العدل.\nوتكون مدة العضوية ثلاث سنوات قابلة للتجديد لمدة أو لمدد أخرى مماثلة، بموافقة مجلس الوزراء.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من 4/1/2012. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

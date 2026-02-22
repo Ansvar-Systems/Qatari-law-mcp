@@ -4,8 +4,33 @@
   "title": "قانون رقم (3) لسنة 1979 بشأن ضمان مديونية شركة قطر للبتروكيماويات",
   "short_name": "قانون رقم (3) لسنة 1979 بشأن ضمان مديونية شركة قطر للبتروكيماويات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=297&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1979.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=297&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "توافق حكومة دولة قطر على ضمان شركة قطر للبتروكيماويات في عقدي القرضين الماليين المزمع إبرامهما مع مجموعة البنوك المشار إليها في المادة الثانية ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "حددت قيمة القرضين كما يأتي:\nأولا: قرض بمبلغ 175 مليون دولار أمريكي من مجموعة البنوك التالية:\nبنك قطر الوطني.\nتشيس مانهاتن بنك.\nاتحاد البنوك العربية الفرنسية.\nرجي بنك الألماني.\nلويدز بنك\nثانيا: قرض بمبلغ 25 مليون دولار أمريكي من بنك قطر الوطني.\nويتم العقدان وفقا للأحكام والشروط الواردة في عقدي القرضين الماليين المزمع إبرامهما."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يخوّل وزير المالية والبترول اتخاذ الإجراءات التنفيذية اللازمة في هذا الشأن."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (51) لسنة 2018 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (51) لسنة 2018 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7654&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7654&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم 8 لسنة 1990 بشأن تنظيم مراقبة الأغذية الآدمية وتعديلاته والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nمحمد بطي السحوتي\nمدير إدارة الرقابة البلدية\n2\nمحمد صالح العلي\nرئيس قسم الرقابة الصحية\n3\nمحمد راشد رجاء المري\nمراقب اغذية ثالث\n4\nنورة سعد القريني\nمشرف تفتيش صحة عامة أول\n5\nنورة فارس الكعبي\nمفتش صحة عامة أول\n6\nسالم محمد المري\nمراقب أغذية ثالث\n7\nعلي حسن العبدالله\nمراقب أغذية رابع\n8\nعلي سلمان الشيب\nمفتش صحة عامة ثاني\n9\nأمل عبدالله الجابر\nباحث تحاليل مختبرية أول\n10\nهيا ماجد الكواري\nمفتش صحة عامة ثالث\n11\nبينة شفيع سعيد المري\nخبير بيولوجي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

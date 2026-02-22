@@ -4,8 +4,27 @@
   "title": "قانون رقم (8) لسنة 2011 بتعديل بعض أحكام القانون رقم (13) لسنة 2008 بشأن مساهمة بعض الشركات المساهمة في دعم الأنشطة الاجتماعية والرياضية",
   "short_name": "قانون رقم (8) لسنة 2011 بتعديل بعض أحكام القانون رقم (13) لسنة 2008 بشأن مساهمة بعض الشركات المساهمة في دعم الأنشطة ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2650&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2650&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "«يحصل مبلغ يعادل (2,5%) من صافي الأرباح السنوية للشركات المساهمة المقيدة أسهمها ببورصة قطر.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مكرراً) :\n«مع عدم الإخلال بأحكام المادة السابقة، تسري أحكام القانون المنظم للضريبة على الدخل على إجراءات تحصيل المبلغ المنصوص عليه في المادة (1) من هذا القانون، وكذلك على إجراءات الاعتراض والتظلم المتعلقة بها، وتختص لجنة التظلم الضريبي بوزارة الاقتصاد والمالية بنظر التظلمات المقدمة بشأن تطبيق أحكام هذا القانون، من الشركات المساهمة الخاضعة له.»"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

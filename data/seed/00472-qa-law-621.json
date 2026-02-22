@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (10) لسنة 2004 بتشكيل مجلس إدارة هيئة الأشغال العامة",
   "short_name": "قرار أميري رقم (10) لسنة 2004 بتشكيل مجلس إدارة هيئة الأشغال العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=621&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=621&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة هيئة الأشغال العامة، على النحو التالي:\n1- سعادة السيد/سلطان بن حسن الضابت الدوسري\nرئيسا\n2- سعادة الدكتور/محمد بن صالح السادة\nنائبا للرئيس\n3- سعادة السيد/سعد بن محمد الرميحي ممثلا عن اللجنة العليا للتنسيق والمتابعة\nعضوا\n4- المهندس/عبد العزيز إبراهيم رضواني ممثلا عن وزارة الشؤون البلدية والزراعة\nعضوا\n5- المهندس/قاسم محمد علي الغانم ممثلا عن وزارة الشؤون البلدية والزراعة\nعضوا\n6- السيد/غانم عبد الله الخيارين ممثلا عن وزارة المالية\nعضوا\n7- الدكتور/صالح محمد النابت ممثلا عن مجلس التخطيط\nعضوا\n8- السيد/خالد عبد الله المنصوري ممثلا عن المؤسسة العامة القطرية للكهرباء والماء\nعضوا"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة المجلس ثلاث سنوات ميلادية تبدأ من تاريخ صدور هذا القرار، ويتولى أعضاء المجلس عملهم فيه بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

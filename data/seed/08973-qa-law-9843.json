@@ -4,8 +4,27 @@
   "title": "قرار وزير الثقافة رقم (44) لسنة 2023م بتأسيس «مجلة الدوحة» واعتماد نظامها الأساسي",
   "short_name": "قرار وزير الثقافة رقم (44) لسنة 2023م بتأسيس «مجلة الدوحة» واعتماد نظامها الأساسي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9843&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9843&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُؤسس هيئة ثقافية تسمى &laquo;مجلة الدوحة&raquo;، تتبع وزارة الثقافة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعتمد النظام الأساسي لمجلة الدوحة المرفق بهذا القرار ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة ، كلُّ فيما يخصه ، تنفيذ هذا القرار. ويعمـل بـه مـن تاريـخ صدوره وينشر في الجريدة الرسمية ، ويلغى كل حكم يخالف أحكامه ."
+    }
+  ],
   "definitions": []
 }

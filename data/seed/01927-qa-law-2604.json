@@ -4,8 +4,33 @@
   "title": "قانون رقم (41) لسنة 2002 بتعديل نسبة التعرفة الجمركية وإلغاء بعض الإعفاءات الجمركية",
   "short_name": "قانون رقم (41) لسنة 2002 بتعديل نسبة التعرفة الجمركية وإلغاء بعض الإعفاءات الجمركية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2604&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2604&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مع مراعاة البضائع المعفاة من الرسوم الجمركية وتلك التي تخضع لنسبة تعرفة جمركية خاصة، تكون نسبة التعرفة الجمركية للبضائع المستوردة إلى الدولة بواقع 5% من قيمة البضاعة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُلغى الإعفاءات الجمركية السابقة على تاريخ العمل بهذا القانون، والمقررة للوزارات والأجهزة الحكومية الأخرى والهيئات والمؤسسات العامة، والشركات، والجهات التي تمارس أنشطة اجتماعية أو ثقافية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تتولى وزارة المالية بالتنسيق مع الهيئة العامة للجمارك والموانئ تسوية الأوضاع المالية الناشئة عن إلغاء الإعفاءات الجمركية المشار إليها في المادة السابقة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من أول يناير 2003. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

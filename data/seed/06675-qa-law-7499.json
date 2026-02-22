@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (3) لسنة 2018 بتعيين مساعد لمدير مكتب الاتصال الحكومي للتخطيط",
   "short_name": "قرار رئيس مجلس الوزراء رقم (3) لسنة 2018 بتعيين مساعد لمدير مكتب الاتصال الحكومي للتخطيط",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7499&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7499&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعين السيدة/ ريم محمد حمد آل خليفة، مساعداً لمدير مكتب الاتصال الحكومي للتخطيط."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

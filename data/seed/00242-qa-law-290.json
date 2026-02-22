@@ -4,8 +4,27 @@
   "title": "قانون رقم (3) لسنة 1998 بتعديل بعض أحكام قانون المخابرات العامة رقم (15) لسنة 1990",
   "short_name": "قانون رقم (3) لسنة 1998 بتعديل بعض أحكام قانون المخابرات العامة رقم (15) لسنة 1990",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=290&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=290&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص البند الأول من المادة ( 9 ) من القانون رقم (15) لسنة 1990 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article (9)",
+      "content": "1- «استثناء من أحكام القانون رقم (5) لسنة 1989 المشار إليه، يتولى رئيس الجهاز إعداد موازنة الجهاز السنوية، وعرضها على الأمير أو من يفوضه لاعتمادها، وتدرج الاعتمادات المالية اللازمة لها في رقم واحد بصورة إجمالية، تلحق بموازنة الديوان الأميري وتكون منفصلة عنها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

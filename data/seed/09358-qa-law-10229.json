@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (28) لسنة 2025 بتعيين وكيلي وزارة مساعدين بوزارة الرياضة والشباب",
   "short_name": "قرار رئيس مجلس الوزراء رقم (28) لسنة 2025 بتعيين وكيلي وزارة مساعدين بوزارة الرياضة والشباب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10229&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10229&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين وكيل وزارة مساعد بوزارة الرياضة والشباب ، كل من :\n1- السيد/ عبدالرحمن عبدالله حسن المالكي ، وكيل وزارة مساعد لشؤون الرياضة .\n2- السيد/ أحمد محمد سلطان الحرمي ، وكيل وزارة مساعد لشؤون الشباب ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

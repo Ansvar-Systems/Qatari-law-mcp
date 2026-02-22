@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (33) لسنة 2008 بتأسيس بنك بروة «شركة مساهمة قطرية خاصة»",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (33) لسنة 2008 بتأسيس بنك بروة «شركة مساهمة قطرية خاصة»",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3730&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3730&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "وفقاً لأحكام المادة (1) من القانون رقم (1) لسنة 2008 المشار إليه، يرخص للسادة/ شركة بروة العقارية، في أن تؤسس شركة مساهمة قطرية خاصة تسمى \"بنك بروة\" برأس مال مقداره \"مليار ريال قطري\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسس الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفق نصهما بهذا القرار، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها فيما لم يرد بشأنه نص خاص في عقد التأسيس و النظام الأساسي المشار إليهما."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

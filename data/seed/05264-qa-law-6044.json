@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (21) لسنة 2007 بندب مدير لمكتب رئيس مجلس الوزراء",
   "short_name": "قرار رئيس مجلس الوزراء رقم (21) لسنة 2007 بندب مدير لمكتب رئيس مجلس الوزراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6044&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6044&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُندب السيد/ عبدالله عيد سلمان السليطي، مدير مكتب وزير الخارجية، للقيام بمهام مدير مكتب رئيس مجلس الوزراء بالإنابة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

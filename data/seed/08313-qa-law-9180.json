@@ -4,8 +4,27 @@
   "title": "أمر أميـري رقم (5) لسنة 2023 بتعيـين وزير للدولة بوزارة الخارجية",
   "short_name": "أمر أميـري رقم (5) لسنة 2023 بتعيـين وزير للدولة بوزارة الخارجية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9180&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9180&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين سعادة الدكتور/ محمد بن عبدالعزيز بن صالح الخليفي، وزيراً للدولة بوزارة الخارجية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يُخالف أحكام هذا الأمر الأميري."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعمل بهذا الأمر الأميري من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

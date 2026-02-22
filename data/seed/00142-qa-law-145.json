@@ -4,8 +4,27 @@
   "title": "قانون رقم (1) لسنة 1961 بإنشاء جريدة رسمية لحكومة قطر",
   "short_name": "قانون رقم (1) لسنة 1961 بإنشاء جريدة رسمية لحكومة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=145&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1961.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=145&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ جريدة رسمية للحكومة ينشر فيها كل تشريع يصدر بعد تاريخ العمل بهذا القانون وذلك لإحاطة جميع الناس علماً بصدور أية تشريعات جديدة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعتبر إصدار كل تشريع جديد معلوما في جميع أنحاء قطر بعد نشره بثلاثين يوما في الجريدة الرسمية، ويجوز تقصير هذه المدة أو مدها بنص صريح في التشريع الجديد، وذلك كله مع عدم الإخلال بالقواعد المعمول بها سابقا بالنسبة للتشريعات السابقة على صدور هذا القانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به اعتباراً من تاريخ نشره بالجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

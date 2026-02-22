@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة 1978 بتنظيم الاجازة الخاصة لضباط القوات المسلحة وأفرادها العسكريين لمرافقة أقربائهم المرضى الموفدين إلى الخارج للعلاج الطبي",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة 1978 بتنظيم الاجازة الخاصة لضباط القوات المسلحة وأفرادها العسكريين لمرافقة أقربائهم ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1649&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1978.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1649&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجوز، بموافقة القائد العام للقوات المسلحة، أو من يفوضه في ذلك، الترخيص لأحد الضباط أو الأفراد العسكريين، بإجازة خاصة بمرتب، لمرافقة مريض قريب له إلى الدرجة الرابعة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يشترط للترخيص بهذه الإجازة الخاصة ما يلي:\nأ- أن يصدر قرار من السلطة المختصة بإيفاد المريض إلى العلاج في الخارج.\nب- أن تستلزم حالة المريض استصحاب مرافق له.\nج- أن تكون الإجازة مرة واحد في السنة.\nد- ألا تجاوز الإجازة مدة العلاج في الخارج أو أربعين يوماً أيهما أقل."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من 23/4/1977. وينشر في الجريد الرسمية."
+    }
+  ],
   "definitions": []
 }

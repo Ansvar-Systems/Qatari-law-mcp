@@ -4,8 +4,21 @@
   "title": "مرسوم رقم ( 39 ) لسنة 2024 بالتصديق على اتفاقية للتعاون في المجال الثقافي بين حكومة دولة قطر وحكومة الجمهورية الإسلامية الموريتانية",
   "short_name": "مرسوم رقم ( 39 ) لسنة 2024 بالتصديق على اتفاقية للتعاون في المجال الثقافي بين حكومة دولة قطر وحكومة الجمهورية الإسلام...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9611&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9611&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية للتعاون في المجال الثقافي بين حكومة دولة قطر وحكومة الجمهورية الإسلامية الموريتانية ، الموقعة بمدينة نواكشوط بتاريخ 2012/01/05 ، المرفق نصها بهذا المرسوم ، وتكون لها قوة القانون ، وفقاً للمادة (68) من الدستور"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه، تنفيذ هــذا المـرســــــوم . ويُعمل به من تاريخ صدوره . ويُنشـــــر فـــي الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

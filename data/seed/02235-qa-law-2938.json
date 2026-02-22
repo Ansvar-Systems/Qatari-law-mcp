@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (116) لسنة 2004 بالتصديق على اتفاقية التطوير والشروط المالية لمشروع قطر غاز (2)",
   "short_name": "مرسوم رقم (116) لسنة 2004 بالتصديق على اتفاقية التطوير والشروط المالية لمشروع قطر غاز (2)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2938&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2938&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية التطوير والشروط المالية لمشروع قطر غاز (2)، المبرمة بتاريخ 31/8/2004 بين حكومة دولة قطر وقطر للبترول، وبين شركة قطر للغاز المسال المحدودة (2) وشركة اكسون موبيل قطر غاز (2) المحدودة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

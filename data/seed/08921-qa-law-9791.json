@@ -4,8 +4,21 @@
   "title": "قرار رقم (138) لسنة 2024 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (138) لسنة 2024 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9791&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9791&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون المشار إليه أعلاه، والقرارات المنفذة له وهم:\nالاسم\nالمسمى الوظيفي\nحمد زعل محمد الجفالي النعيمي\nمشرف تفتيش مصايد أول\nمحمد مسند علي المسند المهندي\nخبير تفتيش نظافة شواطئ وجزر أول\nحسن أحمد حسن الغريب المحمود\nرئيس قسم موانئ الصيد\nعبد الله حمد حسن حمد النعيمي\nباحث ثروة سمكية ثالث\nراشد شاهين راشد الحيي النعيمي\nكاتب رخص صيد ثالث\nجواهر صالح علي صالح الشرقي\nباحث دراسات قانونية ثالث\nحسن أحمد حسن الحيي النعيمي\nفني استزراع سمكي رابع\nإسماعيل محمود إسماعيل عبد الله الشيخ\nمساعد مدير إدارة الثروة السمكية\nمهنا غيث سعدون الجهام الكواري\nمفتش مصايد أول\nعلي راشد فهيد آل رشدان الفهيدي\nمفتش مصايد ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

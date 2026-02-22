@@ -4,8 +4,39 @@
   "title": "مرسوم رقم (3) لسنة 2020 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (3) لسنة 2020 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8262&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8262&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد/ سلطان مطر ضابت الدوسري، في وظيفة رئيس بمحكمة الاستئناف، وتحدد أقدميته فيها اعتباراً من 28/10/2019."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين الدكتور/ ثائر سعود علي العدوان، في وظيفة نائب رئيس بمحكمة الاستئناف."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعين في وظيفة قاض بمحكمة الاستئناف، كل من:\n1- السيد/ محمد خليفة دعلوج الكبيسي، وتحدد أقدميته فيها اعتباراً من 17/09/2019.\n2- السيد/ منصور مال الله مبارك سالم العدساني، وتحدد أقدميته فيها اعتباراً من 20/11/2019."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة قاض بالمحكمة الابتدائية، وتحدد أقدميتهم فيها اعتباراً من 31/07/2019:\n1- السيد/ عبدالرحمن أحمد محمد السيد أحمد المنصوري.\n2- السيد/ شاكر هاشم السيد عبدالله اليوسف.\n3- السيدة/ مريم عبدالله صالح سلطان الهديفي.\n4- السيد/ عبدالرحمن محمد أحمد شريف جناحي.\n5- السيدة/ إيمان سعود علي أحمد الشهراني.\n6- السيد/ حامد علي غريب مايقه الاحبابي.\n7- السيد/ عبدالله عبدالكريم سعد مبارك القحطاني.\n8- السيد/ جبر عيسى جبر الحمد المناعي."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

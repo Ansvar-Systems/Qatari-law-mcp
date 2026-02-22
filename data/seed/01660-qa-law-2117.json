@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (4) لسنة 1973 بتعيين الحد الأقصى لأسعار بعض السلع",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (4) لسنة 1973 بتعيين الحد الأقصى لأسعار بعض السلع",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2117&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1973.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2117&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "(كما تعدلت بموجب القرار رقم 7 لسنة 1973):\nيكون الحد الأقصى لأسعار بيع السلع الآتية وفقاً لما هو مبين أمام كل منها:\nاسم الصنف\nالوحدة\nالسعر بالريال\n1- طحين صنف رقم (1)\nالكيس زنة 50 كيلو جرام صافي\nالمن\nالربعة\n46 تسليم المصنع في أم سعيد\n25\n1,85\n2- طحين صنف رقم (2)\nالكيس زنة 50 كيلو جرام صافي\nالمن\nالربعة\n41 تسليم المصنع في أم سعيد\n22,50\n1,65\n3- الشوار\nالكيس زنة 35 كيلو جرام صافي\nالمن\nالربعة\n11,00 ريال تسليم المصنع في أمسيعيد\n10,25 ريال\n0,75 ريال"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا القرار من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

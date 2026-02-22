@@ -4,8 +4,21 @@
   "title": "قرار رقم ( 67 ) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم ( 67 ) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8694&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8694&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المشار اليها، والقرارات المُنفذة لها وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nحسن جبران عوض اليافعي\nمساعد مدير إدارة الثروة الحيوانية\n2\nعبدالله محمد زيد نديله المري\nرئيس قسم البحوث البيطرية\nبالتكليف\n3\nحمد علي راشد الأرضي المري\nطبيب بيطري أول\n4\nجمعة بوعشوان جمعة الحمد\nمشرف تفتيش بيئي أول\n5\nعبدالعزيز احمد عبدالله الكواري\nأخصائي قانوني\n6\nمحمد علي مصطفى\nطبيب بيطري ثالث\n7\nهاجر بنت المختار بن عرب\nطبيب بيطري ثالث\n8\nمحمود محمد محمد محمد\nطبيب بيطري ثاني\n9\nضافي ناصر علس محمد حيدان\nرئيس قسم المحاجر البيطرية\n10\nسعد سالم سعد البوعينين\nمفتش بيئي أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

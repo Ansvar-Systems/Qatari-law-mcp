@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (92) لسنة 2007 بإنشاء وسام التقدير",
   "short_name": "قرار أميري رقم (92) لسنة 2007 بإنشاء وسام التقدير",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2925&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2925&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينشأ وسام يسمى «وسام التقدير» يكون تالياً في الترتيب لوسام الاستحقاق المنصوص عليه في المادة (2) من القانون رقم (5) لسنة 1978 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يمنح «وسام التقدير» لكل من ساهم من القطريين وغير القطريين في تقديم أعمال متميزة لدولة قطر في أي من مجالات العلم أو العمل المختلفة، أو شارك بجهد بارز في الارتقاء بمستوى أي من الأنشطة الاقتصادية أو الاجتماعية أو الثقافية أو الفنية أو الرياضية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

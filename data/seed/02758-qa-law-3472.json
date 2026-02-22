@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (7) لسنة 2010 بتعديل بعض أحكام القرار رقم (14) لسنة 2009 بتشكيل لجنة تتولى إجراءات تأسيس الشركة القطرية لإدارة الموانئ",
   "short_name": "قرار رئيس مجلس الوزراء رقم (7) لسنة 2010 بتعديل بعض أحكام القرار رقم (14) لسنة 2009 بتشكيل لجنة تتولى إجراءات تأسيس ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3472&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3472&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "«تُشكل لجنة تتولى إجراءات تأسيس الشركة القطرية لإدارة الموانئ على النحو التالي:\n1- السيد/ أحمد يوسف الماس\nرئيس الشركة القطرية لإدارة الموانئ بالإنابة\nرئيساً\n2- الشيخ/ عبدالله بن عيد آل ثاني\nممثل عن الأمانة العامة لمجلس الوزراء\nعضواً\n3- النقيب/ فهد تركي ناصر الهاجري\nممثل عن وزارة الداخلية\nعضواً\n4- السيد/ محمد أحمد المهندي\nممثل عن وزارة الاقتصاد والمالية\nعضواً\n5- السيد/ محمد عبدالكريم المير\nممثل عن وزارة الاقتصاد والمالية\nعضواً\n6- السيد/ يوسف صديق البنعلي\nممثل عن ديوان المحاسبة\nعضواً\n7- السيد/ محمد حصين النعيمي\nممثل عن لجنة المناقصات المركزية\nعضواً»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (35) لسنة 2015 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها هيئة الأشغال العامة وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (35) لسنة 2015 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها هيئة الأشغال العامة وتعيين اخت...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6762&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6762&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل مسمى \"إدارة الشؤون المالية والإدارية\" بمسمى \"إدارة الشؤون المالية\" المنصوص عليه في القرار الأميري رقم (34) لسنة 2014 المشار إليه و الخريطة التنظيمية المرفقة به."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل باختصاص \"إدارة مشروعات المباني\"، المنصوص عليه في المادة ( 16 /بند4) من القرار الأميري رقم (34) لسنة 2014 المشار إليه، الاختصاص التالي:\nمادة (16/ بند 4) :\n\"4- اعتماد التصميمات المقدمة من المكاتب الاستشارية\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُستبدل باختصاص \"إدارة الشؤون المالية\" المنصوص عليه في المادة ( 32 /بند3) من القرار الأميري رقم (34) لسنة 2014 المشار إليه، الاختصاص التالي:\nمادة (32/ بند 3) :\n\"3- القيام بأعمال المشتريات والممارسات والمزايدات وفقاً للقواعد والأنظمة المعمول بها\"."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

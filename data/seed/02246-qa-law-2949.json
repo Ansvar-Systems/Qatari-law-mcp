@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (130) لسنة 1974 بتأسيس شركة قطر للحديد والصلب المحدودة (شركة مساهمة قطرية)",
   "short_name": "مرسوم رقم (130) لسنة 1974 بتأسيس شركة قطر للحديد والصلب المحدودة (شركة مساهمة قطرية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2949&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2949&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تؤسس شركة قطر للحديد والصلب المحدودة، شركة مساهمة قطرية برأس مال قدره (200) مليون (مائتا مليون ريال قطري)، بين الحكومة ويمثلها وزير المالية والبترول، وشركة كوبي ستيل المحدودة ويمثلها نائب رئيس الشركة، وشركة طوكيو بوكي المحدودة، ويمثلها رئيس الشركة. راجع المادة (1) من المرسوم رقم (11) لسنة 1997 والتي تنص: «تكون شركة قطر للحديد والصلب المحدودة (شركة مساهمة قطرية)، الصادر بتأسيسها المرسوم رقم (130) لسنة 1974 المشار إليه، مملوكة بالكامل للدولة»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلتزم المؤسسون بأحكام عقد تأسيس الشركة، ونظامها الأساسي المشار إليهما، وفقاً للقانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

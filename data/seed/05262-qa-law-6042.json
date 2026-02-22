@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (20) لسنة 2008 بتسمية أعضاء لجنة سوق قطر للأوراق المالية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (20) لسنة 2008 بتسمية أعضاء لجنة سوق قطر للأوراق المالية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6042&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6042&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل لجنة السوق على النحو التالي:\n1-\nسعادة السيد/ يوسف حسين كمال\nوزير الاقتصاد والمالية\nرئيساً\n2-\nالسيد/ أحمد علي بوكشيشة\nممثلاً عن وزارة الاقتصاد والمالية\nعضواً\n3-\nالسيد/ سيف خليفة المنصوري\nمدير السوق بالإنابة\nعضواً\n4-\nالسيد/ محمد جاسم الكواري\nممثلاً عن مصرف قطر المركزي\nعضواً\n5-\nالسيد/ محمد أحمد طوار الكواري\nممثلاً عن غرفة تجارة وصناعة قطر\nعضواً\n6-\nالسيد/ وليد جاسم المسلم\nممثلين عن الوسطاء\nعضوين\n7-\nالسيد/ فهد حسين الفردان\n8-\nالشيخ/ سعود بن عبدالله بن محمد آل ثاني\nممثلين عن الشركات التي يجري التعامل في أوراقها بالسوق\nعضوين\n9-\nالشيخ/ سعود بن ناصر بن فالح آل ثاني\n10-\nالشيخ/ خالد بن ثاني بن عبدالله آل ثاني\nمن ذوي الخبرة والكفاءة\nعضوين\n11-\nالسيد/ عبدالعزيز بن محمد العطية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ 7/10/2008. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

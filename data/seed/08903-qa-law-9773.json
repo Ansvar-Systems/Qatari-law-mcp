@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (70) لسنة 2024 بتشكيل مجلس إدارة اللجنة العليا للـمـشـاريـع والإرث",
   "short_name": "قرار أميري رقم (70) لسنة 2024 بتشكيل مجلس إدارة اللجنة العليا للـمـشـاريـع والإرث",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9773&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9773&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة اللجنة العليا للمشاريع والإرث برئاسة معالي رئيس مجلس الوزراء ، وسعادة رئيس اللجنة الأولمبية القطرية نائباً للرئيس، وعضوية كل من :\n1 - سعادة وزير الداخلية.\n2 - سعادة وزير المالية.\n3 - سعادة وزير الثقافة.\n4 - سعادة وزير الرياضة والشباب .\n5- سعادة رئيس قطر للسياحة.\n6 - سعادة السيد/ حسن بن عبدالله الذوادي .\n7 - الـمـهـنـدس/ يـاسـر عـبـد الله الـجـمـال .\n8 - المدير التنفيذي للجنة الدائمة لتنـظـيـم المـؤتـمـرات .\n9 - ثلاثة أعضاء من ذوي الخبرة في مجال اختصاصات اللجنة يختارهم رئيس المجلس.\nويجوز لرئيس مجلس الإدارة إضافة ممثلين عن الجهات المـعـنـيـة الأخـرى إلـى عضوية المجلس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

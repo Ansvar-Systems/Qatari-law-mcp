@@ -4,8 +4,39 @@
   "title": "قانون رقم (3) لسنة 1996 بشأن حظر التدخين في وزارة الصحة العامة والمؤسسات والأجهزة التابعة لها",
   "short_name": "قانون رقم (3) لسنة 1996 بشأن حظر التدخين في وزارة الصحة العامة والمؤسسات والأجهزة التابعة لها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=283&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=283&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحظر التدخين في وزارة الصحة العامة والمؤسسات والأجهزة التابعة لها.\nويجوز، استثناءً بقرار من وزير الصحة العامة، تخصيص أماكن للتدخين في هذه الجهات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعاقب بغرامة مقدارها مائتا ريال كل من يخالف أحكام هذا القانون أو القرارات المنفذة له. وتضاعف العقوبة في حالة العود."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون لموظفي وزارة الصحة العامة ومؤسسة حمد الطبية، الذين يندبهم وزير الصحة العامة - بقرار منه- صفة مأموري الضبط القضائي؛ في ضبط وإثبات ما يقع من مخالفات لأحكام هذا القانون والقرارات المنفذة له.\nويجوز لهؤلاء الموظفين إجراء الصلح مع المخالف؛ وذلك بأن يدفع نصف الغرامة المقررة في المادة السابقة، خلال ثلاثة أيام من تاريخ عرض الصلح عليه كتابة.\nوتنقضي الدعوى الجنائية بدفع هذا المبلغ. وفي حالة رفض المخالف الصلح أو امتناعه عن تنفيذه في الميعاد المحدد يقدم للمحاكمة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يصدر وزير الصحة العامة القرارات اللازمة لتنفيذ أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

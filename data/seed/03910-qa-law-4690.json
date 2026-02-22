@@ -4,8 +4,27 @@
   "title": "قانون رقم (5) لسنة 2013 بتعديل بعض أحكام القانون رقم (12) لسنة 1972 بشأن التسعير الجبري وتحديد الأرباح",
   "short_name": "قانون رقم (5) لسنة 2013 بتعديل بعض أحكام القانون رقم (12) لسنة 1972 بشأن التسعير الجبري وتحديد الأرباح",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4690&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4690&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارات \"وزارة الأعمال والتجارة\" و\"وزير الأعمال والتجارة\" و\"الإدارة المختصة بالوزارة\"، بعبارات \"وزارة المالية والاقتصاد والتجارة\" و\"وزير المالية والاقتصاد والتجارة\" و\"إدارة المواصفات والمقاييس وحماية المستهلك\"، على التوالي، أينما وردت في القانون رقم (12) لسنة 1972 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "بند 3) :\n\"3- تشكيل لجنة أو أكثر تتولى تعيين الحد الأقصى لأسعار بعض السلع والخدمات والأجور ونسب الربح المشار إليها في المادة السابقة، وذلك بقرار منها يُنشر في الجريدة الرسمية.\"\nمادة (10/ فقرة أولى) :\n\"يكون لموظفي الإدارة المختصة بوزارة الأعمال والتجارة، الذين يصدر بتخويلهم صفة مأموري الضبط القضائي، قرار من النائب العام بالاتفاق مع الوزير، ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام هذا القانون.\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

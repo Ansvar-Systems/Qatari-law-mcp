@@ -4,8 +4,33 @@
   "title": "قرار وزاري رقم 4 لسنة 1988 بشأن تطعيم وتحصين الأطفال ضد بعض الأمراض المعدية",
   "short_name": "قرار وزاري رقم 4 لسنة 1988 بشأن تطعيم وتحصين الأطفال ضد بعض الأمراض المعدية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3787&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1988.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3787&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجب تطعيم وتحصين الأطفال في دولة قطر بالطعم الواقي من الأمراض المعدية التالية:\n(الدرن - التهاب الكبد الفيروسي الوبائي (ب) - الدفتريا (الخناق) - التيتانوس (الكزاز) - السعال الديكي - شلل الأطفال - الحصبة - الحصبة الألمانية - والنكاف الوبائي - «هيموفلس أنفلونزا والجديري المائي»).\nويتم التطعيم أو التحصين من هذه الأمراض وفقاً للإجراءات وفى المواعيد المحددة بالجدول الملحق ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون لكل طفل بطاقة، وتعد وفقا للنموذج الذي تضعه الجهات الصحية المختصة، تدون فيها عمليات التطعيم أو التحصين ضد الأمراض المعدية المشار إليها في المادة السابقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يقع على عاتق والد الطفل، أو الشخص الذي يكون الطفل في حضانته، أو رعايته، واجب تقديمه إلى الجهات الصحية، المختصة لتطعيمه أو تحصينه من الأمراض المعدية المشار إليها في المادة الأولى من هذا القرار وفقاً لأحكامه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. والعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

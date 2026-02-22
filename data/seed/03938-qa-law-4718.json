@@ -4,8 +4,51 @@
   "title": "وثيقة تأسيس مركز الشراع القطري التقليدي (مؤسسة خاصة ذات نفع عام)",
   "short_name": "وثيقة تأسيس مركز الشراع القطري التقليدي (مؤسسة خاصة ذات نفع عام)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4718&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4718&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون اسم المؤسسة هو \"مركز الشراع القطري التقليدي\"، (مؤسسة خاصة ذات نفع عام)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون المقر الرئيسي للمركز ومحله القانوني مدينة الدوحة، ويجوز للمركز إنشاء فروع أو مكاتب في الداخل والخارج."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يهدف المركز إلى إحياء التراث القطري البحري، والطرق التقليدية التي مارسها البحارة القطريين من سردال، ونوخذة، ومقدمي، وباقي المسميات البحرية وما يصاحبها من أهازيج ومواويل للخطف والرسو والإبحار، وغيره من الممارسات اليومية على طول أيام الغوص الشاقة، وترجمتها إلى المجتمع الحاضر عن طريق الإعلام والاحتفالات، وذلك لتعريف الأجيال الحالية والقادمة بماضيهم بثقافتهم."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "خصص للمركز مبلغاً قدره (200.000) مائتان ألف ريال قطري، لدى بنك قطر الوطني، لنفقات تشغيل المركز."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يتمتع المركز باستقلالية تامة في ممارسة أنشطته."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يسجل ويشهر المركز طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "تم تحرير هذه الوثيقة من نسختين متطابقتين تودع واحدة منها لدى الجهات المتخصصة بتوثيق المحررات، ويحتفظ المركز بالنسخة الأخرى في مقره."
+    }
+  ],
   "definitions": []
 }

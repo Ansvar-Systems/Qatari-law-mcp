@@ -4,8 +4,21 @@
   "title": "قرار رقم (63) لسنة 2011 بتخويل بعض موظفي وزارة البيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (63) لسنة 2011 بتخويل بعض موظفي وزارة البيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3825&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3825&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المُشار إليها والقرارات المنفذة لها وهم:-\nالاسم\nالمسمى الوظيفي\n1\nمحمد ناصر ناصر محتال الكعبي\nرئيس تفتيش قياس ومعايرة\n2\nناصر يوسف محمد المظفر\nمشرف قياس ومعايرة أول\n3\nخليفة محمد غانم برغش النعيمي\nمشرف قياس ومعايرة أول\n4\nيوسف عبد الله محمد عبد الله العبيدلي\nفني مختبرات قياسية\n5\nعبد الله مجلي عتيق الرميحي\nمساعد رئيس قسم المقاييس والمكاييل\n6\nمحمد عبد العزيز محمد السويدي\nمشرف قياس ومعايرة\n7\nمحمد أحمد عبد الله العبيدلي\nرئيس وحدة فرن\n8\nصالح أحمد محمد المناعي\nرئيس تفتيش قياس ومعايرة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

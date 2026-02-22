@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (10) لسنة 2022 بتعيين مساعدي قضاة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (10) لسنة 2022 بتعيين مساعدي قضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8997&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8997&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين في وظيفة مساعد قاض، كلٌ من:\n1 - السيّدة/ منيرة عبدالله مفلح معيض القحطاني.\n2 - السيّد/ راشد عبدالله راشد الجفالي النعيمي.\n3 - السيّد/ عبدالرحمن خالد ثاني علي السويدي.\n4 - السيّد/ خميس جمعة خميس الغوانم المريخي.\n5 - السيّد/ على راشد عيد الخويطر العجمي.\n6 - السيّد/ نايف محمد أحمد حسن الإبراهيم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

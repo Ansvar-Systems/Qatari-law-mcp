@@ -4,8 +4,33 @@
   "title": "قرار وزير التجارة والصناعة رقم (94) لسنة 2022 بتحول شركة الضمان للتأمين الإسلامي من شركة مساهمة خاصة قطرية إلى شركة مساهمة عامة قطرية",
   "short_name": "قرار وزير التجارة والصناعة رقم (94) لسنة 2022 بتحول شركة الضمان للتأمين الإسلامي من شركة مساهمة خاصة قطرية إلى شركة م...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9107&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9107&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحول شركة الضمان للتأمين الإسلامي من شركة مساهمة خاصة قطرية إلى شركة مساهمة عامة قطرية برأس مال مُصدر قدره (200,000,000) مائتا مليون ريال، مقسم على عدد (200,000,000) مائتا مليون سهم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على الشركة الالتزام بأحكام عقد التأسيس والنظام الأساسي المُرفق نصهما بهذا القرار، وأحكام قانون الشركات التجارية المُشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على تحول الشركة نشوء شخص معنوي جديد، وتظل الشركة محتفظة بحقوقها والتزاماتها السابقة على التحوّل."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يخُصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر وفقاً لأحكام قانون الشركات التجارية المُشار إليه."
+    }
+  ],
   "definitions": []
 }

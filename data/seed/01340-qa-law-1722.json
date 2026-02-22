@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (8) لسنة 1998 بشأن المواصفات الواجب توافرها في بعض السلع والمواد",
   "short_name": "قرار مجلس الوزراء رقم (8) لسنة 1998 بشأن المواصفات الواجب توافرها في بعض السلع والمواد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1722&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1722&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعتمد المواصفات القياسية الخليجية أرقام (79)، (80)، (81)، (82)، (90)، (91)، (92)، (93)، (94)، (95)، (104)، (105)، (106)، (107)، (108)، (109)، (110)، (111)، (112)، (113)، المرفقة ملخصاتها بهذا القرار، كمواصفات قياسية قطرية ملزمة، وتضاف للمواصفات القياسية القطرية المعتمدة بموجب قرار مجلس الوزراء رقم (1) لسنة 1986 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تسري في شأن المواصفات المرفقة الأحكام الواردة بقرار مجلس الوزراء رقم (1) لسنة 1986 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد سنتين من تاريخ نشره في الجريدة الرسمية بالنسبة للمواصفات أرقام (79)، (80)، (81)، (82)، وبعد ستة أشهر من تاريخ نشره في الجريدة الرسمية لباقي المواصفات."
+    }
+  ],
   "definitions": []
 }

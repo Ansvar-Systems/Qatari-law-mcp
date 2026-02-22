@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (110) لسنة 2004 بشأن تعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (110) لسنة 2004 بشأن تعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5668&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5668&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين في وظيفة وكيل نيابة أول كل من السيدين:\n1- أحمد عبد الرحمن عزت عبد العزيز.\n2- أشرف محمد حسن هلال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين في وظيفة وكيل نيابة كل من السادة:\n1- ريان محمد سعد الفهيد.\n2- صالح علي محمد الكبيسي.\n3- مبارك شبيب الرمزاني النعيمي.\n4- صالح علي صالح الفضالة.\n5- سعود فالح سعود العبد الرحمن آل ثاني.\n6- خليفة سليمان فرج علي العبد الله.\n7- محمد راشد محمد راشد البنعلي.\n8- حمد ناصر راشد المسند المهندي.\n9- حسن عبد الله الضابت الدوسري."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

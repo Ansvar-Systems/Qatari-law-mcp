@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (23) لسنة 2003 بمنح مكافآت للعاملين بالمجمعات التربوية",
   "short_name": "قرار مجلس الوزراء رقم (23) لسنة 2003 بمنح مكافآت للعاملين بالمجمعات التربوية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5997&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5997&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "بمنح العاملون بالمجمعات التربوية مكافآت شهرية، على النحو التالي:\nالوظيفة\nالمكافأة\nمدير المجمع\n(5500) خمسة آلاف وخمسمائة ريال\nنائب مدير/ رئيس المركز\n(4500) أربعة آلاف وخمسمائة ريال\nمشرف/ رئيس قسم\n(4000) أربعة آلاف ريال\nمنسق\n(3500) ثلاثة آلاف وخمسمائة ريال\nمدرس\n(3000) ثلاثة آلاف ريال\nإداري\n(2000) ألفي ريال\nعامل\n(300) ثلاثمائة ريال"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 7/5/2003. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

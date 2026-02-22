@@ -4,8 +4,27 @@
   "title": "قرار وزير البلدية رقم (36) لسنة 2025 بحظر الصيد بشباك المنصب في المنطقة الغربية من رأس بروق إلى عشيرج",
   "short_name": "قرار وزير البلدية رقم (36) لسنة 2025 بحظر الصيد بشباك المنصب في المنطقة الغربية من رأس بروق إلى عشيرج",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9885&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9885&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحظر الصيد باستخدام شباك المنصب (الهيالي) في المنطقة الغربية من رأس بروق إلى عشيرج، وذلك وفقاً للإحداثيات الموضحة بالخريطة المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "لا تسري أحكام هذا القرار على الهيئات والأشخاص التي يُرخص لها بممارسة الصيد البحري بقصد القيام ببحوث أو دراسات علمية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

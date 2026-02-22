@@ -4,8 +4,33 @@
   "title": "قرار رقم (63) لسنة 2010 بتخويل بعض موظفي وزارة الأعمال والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (63) لسنة 2010 بتخويل بعض موظفي وزارة الأعمال والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3823&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3823&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الأعمال والتجارة التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (12) لسنة 1972 ، بشأن التسعير الجبري وتحديد الأرباح وتعديلاته وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nعادل عبد المجيد الرميحي\nمندوب علاقات عامة أول\n2\nفهد حسين العنزي\nمراقب أسواق\n3\nمحمد حمد المري\nمراقب أسواق"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون لموظفة وزارة الأعمال والتجارة مشاعل عبد الله محمد عبد الملك - مراجع حسابات - صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (5) لسنة 2002 ، بإصدار قانون الشركات التجارية وتعديلاته."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون لموظفي وزارة الأعمال والتجارة التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (8) لسنة 2008 ، بشأن حماية المستهلك وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nفهد حسين العنزي\nمراقب أسواق\n2\nمحمد حمد المري\nمراقب أسواق"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

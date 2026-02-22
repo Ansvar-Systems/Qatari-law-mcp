@@ -4,8 +4,27 @@
   "title": "قانون رقم (1) لسنة 2017 بتعديل بعض أحكام القانون رقم (21) لسنة 2015 بتنظيم دخول وخروج الوافدين وإقامتهم",
   "short_name": "قانون رقم (1) لسنة 2017 بتعديل بعض أحكام القانون رقم (21) لسنة 2015 بتنظيم دخول وخروج الوافدين وإقامتهم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7155&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7155&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 7 ) من القانون رقم (21) لسنة 2015 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "\"يكون للوافد للعمل الحق في الخروج من البلاد للقيام بالإجازة، أو في حالة حدوث ظرف طارئ، أو لأي غرض آخر، بعد إخطار المستقدم، بناءً على عقد العمل.\nويكون للوافد للعمل المغادرة النهائية قبل انتهاء مدة العقد، بعد إخطار المستقدم، بناءً على عقد العمل.\nوفي حالة اعتراض المستقدم أو الجهة المختصة على خروج أو مغادرة الوافد للعمل في الحالتين المنصوص عليهما في الفقرتين السابقتين، يكون للوافد للعمل اللجوء إلى لجنة تظلمات خروج الوافدين التي يصدر بتشكيلها وتحديد اختصاصاتها والإجراءات التي تتبع أمامها ونظام عملها قرار من الوزير.\nوعلى اللجنة أن تبت في التظلم خلال ثلاثة أيام عمل.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

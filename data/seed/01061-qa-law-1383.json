@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (11) لسنة 1990 بإنشاء قسم تسعير الأدوية والمستحضرات الصيدلية بوزارة الصحة العامة وتعيين اختصاصاته",
   "short_name": "قرار مجلس الوزراء رقم (11) لسنة 1990 بإنشاء قسم تسعير الأدوية والمستحضرات الصيدلية بوزارة الصحة العامة وتعيين اختصاصاته",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1383&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1990.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1383&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينشأ في وزارة الصحة العامة قسم يسمى (قسم تسعير الأدوية والمستحضرات الصيدلية) يتبع إدارة الصيدلة والرقابة الدوائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يختص قسم تسعير الأدوية والمستحضرات الصيدلية بالإشراف على تنفيذ إجراءات تحديد أسعار الأدوية والمستحضرات الصيدلية التي تباع للجمهور ومراقبتها، وفقاً لأحكام القانون رقم (7) لسنة 1990 م المشار إليه والقرارات المنفذة له."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

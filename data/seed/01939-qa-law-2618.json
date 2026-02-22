@@ -4,8 +4,45 @@
   "title": "قانون رقم (5) لسنة 2007 بتعديل بعض أحكام المرسوم بقانون رقم (14) لسنة 1993 بشأن جوازات السفر",
   "short_name": "قانون رقم (5) لسنة 2007 بتعديل بعض أحكام المرسوم بقانون رقم (14) لسنة 1993 بشأن جوازات السفر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2618&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2618&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنصي المادتين ( 15 )، ( 18 ) من المرسوم بقانون رقم (14) لسنة 1993 المشار إليه، النصان التاليان:"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article (15)",
+      "content": "«لا يجوز منح الأولاد القصر أو ناقصي الأهلية أو فاقديها، جوازات سفر مستقلة، إلا بموافقة أولياء أمورهم أو ممثليهم القانونيين»."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article (18)",
+      "content": "«مع عدم الإخلال بأي عقوبة أشد ينص عليها قانون آخر، يُعاقب بالحبس مدة لا تجاوز ثلاثة أشهر وبالغرامة التي لا تزيد على ثلاثة آلاف ريال، أو بإحدى هاتين العقوبتين، كل من خالف أحكام أي من المواد ( 1 )، ( 2 )، ( 16 )، (17 مكرراً) من هذا القانون»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُضاف مادة برقم (17 مكرراً) للمرسوم بقانون رقم (14) لسنة 1993 المشار إليه، نصها التالي:"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article (17)",
+      "content": "مكرراً):\n«يحظر استعمال أو قبول جواز السفر أو وثيقة السفر أو تذكرة المرور، كأداة ضمان، كما يحظر استعمال أو السماح للغير باستعمال أي من هذه الوثائق، في غير الأحوال المقررة قانوناً»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

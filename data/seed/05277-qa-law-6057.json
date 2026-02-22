@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (3) لسنة 2005 بتعيين عضوين بمجلس إدارة مركز قطر الدولي للمعارض",
   "short_name": "قرار رئيس مجلس الوزراء رقم (3) لسنة 2005 بتعيين عضوين بمجلس إدارة مركز قطر الدولي للمعارض",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6057&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6057&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين عضواً في مجلس مركز قطر الدولي للمعارض، كل من:\n1- السيد/ عبد الله علي الخويطر، ممثلاً لوزارة الاقتصاد والتجارة، بدلاً من السيد/ خليفة أحمد السويدي.\n2- السيد/ ناصر أحمد المالكي، ممثلاً للهيئة العامة للسياحة، بدلاً من السيد/ خالد إبراهيم المانع."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

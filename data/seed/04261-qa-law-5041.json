@@ -4,8 +4,27 @@
   "title": "قانون رقم (8) لسنة 2013 بتعديل بعض أحكام المرسوم بقانون رقم (21) لسنة 2006 بشأن المؤسسات الخاصة ذات النفع العام",
   "short_name": "قانون رقم (8) لسنة 2013 بتعديل بعض أحكام المرسوم بقانون رقم (21) لسنة 2006 بشأن المؤسسات الخاصة ذات النفع العام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5041&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5041&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 6 ) من المرسوم بقانون رقم (21) لسنة 2006 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "\"تسجل المؤسسة في سجل خاص ينشأ لهذا الغرض، بالجهة المختصة بتوثيق المحررات، وتتولى تلك الجهة شهر المؤسسة بنشر الوثيقة والنظام الأساسي في الجريدة الرسمية، وذلك بعد تقديم ذوي الشأن ما يفيد موافقة الجهة المختصة بنوع النشاط الذي تباشره المؤسسة، كلما كان النشاط خاضعاً لإشراف مثل هذه الجهة.\nويجب تسجيل وشهر أي تعديل في النظام الأساسي.\nولا يجوز للمؤسسة مباشرة أعمالها قبل إتمام إجراءات التسجيل والشهر."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

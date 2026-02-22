@@ -4,8 +4,21 @@
   "title": "قرار رقم (79) لسنة 2012 بتخويل بعض موظفي وزارة البيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (79) لسنة 2012 بتخويل بعض موظفي وزارة البيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4908&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4908&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (4) لسنة 1983 المُشار إليه والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nعبد الرحمن صديق محمد البوطامي البنعلي\nأخصائي بيولوجي\n2\nحسن عبد الله حسن الحسن المهندي\nمراقب بيئة بحرية رابع\n3\nخالد جاسم حسن أحمد الخلف\nخبير بيولوجي\n4\nعبد الله محمد سالم علي السويدان\nمراقب بيئة بحرية رابع\n5\nمحمد محمود أحمد محمد العبد الله\nأخصائي بيولوجي أول\n6\nمحمد مبارك عيسى محمد الكعبي\nمراقب بيئة بحرية رابع\n7\nراشد عبد الله سلطان الغانم\nأخصائي مصائد سمكية\n8\nعمر محمد عمر الدسم الكبيسي\nمراقب شواطئ وجزر رابع\n9\nأحمد جمعة سلطان رمضان التميمي\nباحث مصائد سمكية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

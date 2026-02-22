@@ -4,8 +4,21 @@
   "title": "قرار وزاري رقم (184) لسنة 2014 باستثناء بعض العقارات من قرار وزير البلدية والتخطيط العمراني رقم (100) لسنة 2012 باعتبار استملاك العقارات المتأثرة بمشروع المترو المرحلة الأولى- الجزء 3،1 (1،3 LOT) الكائنة بالمنطقة الممتدة من مطار الدوحة الدولي إلى الطريق الدائري الأول من أعمال المنفعة العامة",
   "short_name": "قرار وزاري رقم (184) لسنة 2014 باستثناء بعض العقارات من قرار وزير البلدية والتخطيط العمراني رقم (100) لسنة 2012 باعتب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6502&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6502&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستثنى من قرار وزير البلدية والتخطيط العمراني رقم (100) لسنة 2012 المشار إليه، العقارات المبينة الحدود والمعالم الموضحة بالرسم التخطيطي المرفق."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

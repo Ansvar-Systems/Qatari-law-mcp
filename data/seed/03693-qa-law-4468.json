@@ -4,8 +4,27 @@
   "title": "قرار وزير الأعمال والتجارة رقم (249) لسنة 2011 بتحول شركة/ مجموعة غانم بن سعد آل سعد وأولاده القابضة من شركة ذات مسؤولية محدودة إلى شركة مساهمة قطرية خاصة",
   "short_name": "قرار وزير الأعمال والتجارة رقم (249) لسنة 2011 بتحول شركة/ مجموعة غانم بن سعد آل سعد وأولاده القابضة من شركة ذات مسؤو...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4468&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4468&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحول شركة/ مجموعة غانم بن سعد آل سعد وأولاده (ذ.م.م) من شركة ذات مسؤولية محدودة إلى شركة مساهمة خاصة برأس مال (500000000 ر.ق.) (خمسمائة مليون ريال قطري.)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس و النظام الأساسي المرفق نصهما بهذا القرار، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها في الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، تنفيذ هذا القرار، كل فيما يخصه. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

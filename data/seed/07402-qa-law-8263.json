@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (4) لسنة 2020 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (4) لسنة 2020 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8263&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8263&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة وكيل نيابة أول، وتحدد أقدميتهم فيها اعتباراً من 24/11/2019:\n1- السيد/ علي حمد راشد جميدان الشهواني.\n2- السيد/ عبدالله الأسمر محمد الفريجي الرويلي.\n3- السيد/ عيد أحمد ثاني الكشاش المهندي.\n4- السيد/ حمد محمد زعل الجفالي النعيمي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين السيد/ فهد عبدالله أحمد يوسف الساعي، في وظيفة وكيل نيابة، وتحدد أقدميته فيها اعتباراً من 07/10/2017."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة وكيل نيابة مساعد، وتحدد أقدمية كل منهم فيها اعتباراً من التاريخ المبين قرين إسمه:\n1- السيد/ سلطان هلال يتيم السبيعي العنزي\n29/08/2017.\n2- السيد/ حمد علي حمد العذبة المري\n26/10/2019.\n3- السيد/ ناصر محمد أحمد العبيدلي\n26/10/2019.\n4- السيد/ سالم سلطان سالم المنصور النعيمي\n26/10/2019.\n5- السيد/ عبدالعزيز ناصر أمان ناصر الكواري\n26/10/2019.\n6- السيد/ محمد عبدالله مبارك القرشي\n26/10/2019.\n7- السيد/ صالح خميس راشد الشريم\n26/10/2019."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

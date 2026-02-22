@@ -4,8 +4,39 @@
   "title": "قرار أميري رقم (21) لسنة 2025 بإعادة تشكيل مجلس إدارة هيئة تنظيم الأعمال الخيرية",
   "short_name": "قرار أميري رقم (21) لسنة 2025 بإعادة تشكيل مجلس إدارة هيئة تنظيم الأعمال الخيرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10053&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10053&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس إدارة هيئة تنظيم الأعمال الخيرية ، برئاسة سعادة وزير التنمية الاجتماعية والأسرة ، وعضوية كل من :\n1- العميد / محمد إبراهيم عبدالله الجفيري\nممثلاً عن وزارة الداخلية .\n2- السيد / فيصل عبدالله حمد عبدالله الحنزاب\nممثلاً عن وزارة الخارجية .\n3- السيد / فهد محمد الخيارين\nممثلاً عن وزارة التنمية الاجتماعية والأسرة .\n4- السيد / مال الله عبدالرحمن الجابر\nممثلاً عن وزارة الأوقاف والشؤون الإسلامية .\n5- السيد / يوسف علي المهندي\nممثلاً عن جهاز أمن الدولة .\n6- السيد / هشام صالح المناعي\nممثلاً عن مصرف قطر المركزي ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتقاضى رئيس مجلس الإدارة مكافأة سنوية مقدارها (120,000) مائة وعشرون ألف ريال ، ويتقاضى كل عضو من أعضاء مجلس الإدارة مكافأة سنوية مقدارها (100,000) مائة ألف ريال ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُلغى القرار الأميري رقم (52) لسنة 2022 المشار إليه ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

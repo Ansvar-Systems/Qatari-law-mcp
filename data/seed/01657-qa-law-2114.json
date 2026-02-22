@@ -4,8 +4,27 @@
   "title": "قرار وزير العمل والشئون الاجتماعية والإسكان رقم (4) لسنة 1990 بالموافقة على النظام الأساسي للجنة الاقليمية لنظم الطاقة الكهربائية ذات الضغط العالي بدول مجلس التعاون لدول الخليج العربية",
   "short_name": "قرار وزير العمل والشئون الاجتماعية والإسكان رقم (4) لسنة 1990 بالموافقة على النظام الأساسي للجنة الاقليمية لنظم الطاق...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2114&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1990.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2114&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على النظام الأساسي للجنة الإقليمية لنظم الطاقة الكهربائية ذات الضغط العالي بدول مجلس التعاون لدول الخليج العربية، المرفق لهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتولى وزارة العمل والشئون الاجتماعية والإسكان، تسجيل هذه اللجنة وشهرها طبقاً لأحكام القانون رقم (2) لسنة 1974 م، المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

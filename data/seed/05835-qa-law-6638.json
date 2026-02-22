@@ -4,8 +4,21 @@
   "title": "قرار رقم (77) لسنة 2015م بتخويل بعض موظفي وزارة العمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (77) لسنة 2015م بتخويل بعض موظفي وزارة العمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6638&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6638&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العمل والشؤون الاجتماعية التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (14) لسنة 2004 م، المشار اليه والقرارات المنفذة له وهم:\nم\nالإسم\nالرقم الشخصي\n1\nسعيد جارالله الغفران\n28063401703\n2\nمحمد جاسم سيف\n28263403693\n3\nأحمد جابر الجربوعي\n28763401860\n4\nلولوة ثاني المعاضيد\n26863401613\n5\nدانة عبدالله رمل\n27763401422\n6\nمشاعل بندر العتيبي\n28063402057\n7\nعبدالعزيز التميمي\n28563402898\n8\nمحمد عبدالله العمادي\n27163400541\n9\nعبدالعزيز الدوسري\n29463402647\n10\nهزاع العثمان\n29563400802\n11\nمسعد الحجاجي\n25263400218"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "إعلان مصرف قطر المركزي رقم (2) لسنة 2000",
   "short_name": "إعلان مصرف قطر المركزي رقم (2) لسنة 2000",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2004&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2004&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (1) من إعلان مصرف قطر المركزي رقم (1) لسنة 1997 المشار إليه، النص التالي:\n«تطبق على المؤسسات المالية المنصوص عليها في المادة ( 1 ) من المرسوم بقانون رقم (15) لسنة 1993 المشار إليه، والتي تزاول الاستثمار والتمويل أحكام المواد ( 4 ) البند (4)، ( 36 )، ( 37 ) البند (3)، ( 40 ) البند (1) الفقرات (أ/ب/ج/د/و/ز/ط)، والبندين (2) و(3) من نفس المادة، والمواد ( 41 )، ( 43 ) البندين (1) و(3)، ( 44 )، ( 46 )، ( 47 )، ( 48 )، ( 49 )، ( 50 )، ( 51 )، ( 52 )، ( 53 )، ( 54 )، ( 55 )، ( 56 )، ( 57 )، ( 58 )، ( 61 ) من ذات القانون»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينشر هـذا الإعلان في الجريدة الرسمية. ويُعمل به بعد ثلاثين يوماً من تاريخ نشره."
+    }
+  ],
   "definitions": []
 }

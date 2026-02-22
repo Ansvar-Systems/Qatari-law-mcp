@@ -4,8 +4,21 @@
   "title": "مـرسـوم رقـم (90) لـسـنـة 2025 بـالـتـصـديـق عـلـى مـذكـرة تـفـاهـم بـشـأن الـتـعـاون فـي مـجـال أنـشـطـة الـتـقـيـيـس بـين حـكـومـة دولـة قـطـر وحـكـومـة دولـة الـكـويـت",
   "short_name": "مـرسـوم رقـم (90) لـسـنـة 2025 بـالـتـصـديـق عـلـى مـذكـرة تـفـاهـم بـشـأن الـتـعـاون فـي مـجـال أنـشـطـة الـتـقـيـيـ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10201&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10201&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُــودق عـلـى مـذكـرة تـفـاهـم بـشـأن الـتـعـاون فـي مـجـال أنـشـطـة الـتـقـييـس بـين حـكـومـة دولـة قـطـر وحـكـومـة دولـة الـكـويـت ، المـوقـعـة بمـديـنـة الـدوحـة بـتـاريـخ 2025/02/03 ، المـرفـق نـصـهـا بـهـذا المـرسـوم ، وتـكـون لـهـا قـوة الـقـانـون ، وفـقـاً لـلـمـادة ( 68 ) مـن الـدسـتـور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عـلـى جـمـيـع الـجـهـات المـخـتـصـة ، كـل فـيـمـا يـخـصـه ، تـنـفـيـذ هـذا المـرسـوم . ويُـعـمـل بـه مـن تـاريـخ صـدوره . ويُـنـشـر فـي الـجـريـدة الـرسـمـيـة ."
+    }
+  ],
   "definitions": []
 }

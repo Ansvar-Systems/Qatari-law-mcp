@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (3) لسنة 1996 بإعادة تشكيل مجلس إدارة شركة قطر الوطنية لصيد الأسماك",
   "short_name": "قرار أميري رقم (3) لسنة 1996 بإعادة تشكيل مجلس إدارة شركة قطر الوطنية لصيد الأسماك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=748&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=748&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل مجس إدارة شركة قطر الوطنية لصيد الأسماك على النحو التالي:\n1- السيد/نعيم عبد الله خليل الباكر\nمدير إدارة الثروة السمكية بوزارة الشئون البلدية والزراعة رئيساً وعضواً منتدباً\n2- السيد/خالد غانم العلي\nمدير إدارة البيئة بوزارة الشئون البلدية والزراعة عضواً\n3- السيد/فهد عبدالله السويلم\nمساعد مدير بلدية الدوحة للشئون الفنية بوزارة الشئون البلدية والزراعة عضواً\n4- السيد/مقبل علي خليفة الهتمي\nوكيل إدارة الجمارك بوزارة المالية والاقتصاد والتجارة عضواً\n5- السيد/علي محمد الشاعر\nمساعد مدير إدارة الموانئ للشئون البحرية والمرافئ بوزارة المواصلات والنقل عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهـات المختصة، كل فيما يخصه، تنفيذ هـذا القرار. ويعمل به اعتباراً من 20/1/1996. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

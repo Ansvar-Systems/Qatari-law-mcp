@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (41) لسنة 2001 بتعديل اختصاصات إدارة الشؤون التجارية بوزارة المالية والاقتصاد والتجارة",
   "short_name": "قرار مجلس الوزراء رقم (41) لسنة 2001 بتعديل اختصاصات إدارة الشؤون التجارية بوزارة المالية والاقتصاد والتجارة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1636&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1636&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف الى اختصاصات إدارة الشؤون التجارية بوزارة المالية والاقتصاد والتجارة المنصوص عليها في المادة (12) من المرسوم بقانون رقم (22) لسنة 1993 المشار إليه، الاختصاص التالي:\n«8- تلقي طلبات براءات الاختراع في دولة قطر وفحصها المبدئي وإستيفاء متطلباتها ومتابعة تسجيلها لدى مكتب براءات الاختراع لمجلس التعاون لدول الخليج»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (39) لسنة 2015 بتشكيل مجلس إدارة صندوق دعم الأنشطة الاجتماعية والرياضية (دعم)",
   "short_name": "قرار أميري رقم (39) لسنة 2015 بتشكيل مجلس إدارة صندوق دعم الأنشطة الاجتماعية والرياضية (دعم)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6718&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6718&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة صندوق دعم الأنشطة الاجتماعية والرياضية (دعم) على النحو التالي:\n1. سعادة الشيخ/ عبد الله بن سعود آل ثاني رئيساً.\n2. سعادة السيد/ صلاح بن غانم العلي نائباً للرئيس.\n3. سعادة الشيخ/ خالد بن خليفة آل ثاني عضواً.\n4. سعادة السيد/ سلطان بن راشد الخاطر عضواً.\n5. سعادة السيد/ عبدالله بن عيد السليطي عضواً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات، قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

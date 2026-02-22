@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية والاقتصاد والتجارة رقم (24) لسنة 2001 بشأن تحديد مدة حفظ البضائع في المخازن والساحات الجمركية",
   "short_name": "قرار وزير المالية والاقتصاد والتجارة رقم (24) لسنة 2001 بشأن تحديد مدة حفظ البضائع في المخازن والساحات الجمركية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1961&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1961&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد مدة حفظ البضائع المنصوص عليها في المادة (202) من قانون الجمارك المشار إليه بثلاثة أشهر ميلادية، تبدأ من تاريخ دخول تلك البضائع إلى الحرم الجمركي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

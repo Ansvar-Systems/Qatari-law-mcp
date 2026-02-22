@@ -4,8 +4,15 @@
   "title": "وثيقة تأسيس مؤسسة السدرة للطب والبحوث",
   "short_name": "وثيقة تأسيس مؤسسة السدرة للطب والبحوث",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3952&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3952&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "وثيقة تأسيس مؤسسة السدرة للطب والبحوث\nوثيقة تأسيس مؤسسة السدرة للطب والبحوث 0 / 2006\nرغبة منا في تعزيز الأهداف التي أنشئت من أجلها مؤسسة قطر للتربية والعلوم وتنمية المجتمع، والمساهمة في دعم النهضة الصحية في الدولة، وإتاحة سبل البحث العلمي في المجال الطبي، من خلال إدارة مركز طبي تعليمي متطور ومركز للأبحاث الطبية، يهتمان بالرعاية الصحية والتعليم الطبي. فقد رأينا تأسيس مؤسسة خاصة ذات نفع عام، وفقاً لما يلي:\n1- اسم المؤسسة: مؤسسة السدرة للطب والبحوث.\n2- رأسمال المؤسسة: (900.000000) ريال.\n3- مقر المؤسسة مدينة الدوحة، ويجوز لها إنشاء فروع في داخل الدولة أو خارجها."
+    }
+  ],
   "definitions": []
 }

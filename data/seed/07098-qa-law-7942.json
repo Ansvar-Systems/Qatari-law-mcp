@@ -4,8 +4,27 @@
   "title": "قرار وزير التجارة والصناعة رقم (28) لسنة 2019 بتحول شركة/ بنك بروة من شركة مساهمة قطرية الى شركة مساهمة خاصة قطرية",
   "short_name": "قرار وزير التجارة والصناعة رقم (28) لسنة 2019 بتحول شركة/ بنك بروة من شركة مساهمة قطرية الى شركة مساهمة خاصة قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7942&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7942&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحول شركة/ بنك بروة (ش.م.ق) من شركة مساهمة قطرية الى شركة مساهمة خاصة قطرية برأس مال مصرح به بمبلغ (4،000،000،000) أربعة مليارات ريال قطري، وفقاً لأحكام المادة ( 207 ) من قانون الشركات التجارية المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس و النظام الأساسي المرفق نصهما بهذا القرار، وتلتزم الشركة بأحكام قانون الشركات التجارية المشار إليه ما لم يرد نص خاص في عقد التأسيس و النظام الأساسي ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على تحول الشركة نشوء شخص معنوي جديد، وتظل الشركة محتفظة بحقوقها والتزاماتها السابقة على التحول، ويعمل بهذا القرار من تاريخ صدوره، ويتم شهره وفقاً لأحكام قانون الشركات التجارية المشار إليه."
+    }
+  ],
   "definitions": []
 }

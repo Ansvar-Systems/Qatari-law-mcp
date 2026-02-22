@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (6) لسنة 2004 بتشكيل مجلس إدارة الهيئة القطرية للأعمال الخيرية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (6) لسنة 2004 بتشكيل مجلس إدارة الهيئة القطرية للأعمال الخيرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1756&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1756&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة الهيئة القطرية للأعمال الخيرية، على النحو التالي:\n1- الشيخ/عبد العزيز بن عبد الرحمن آل ثاني\nرئيسا\n2- السيد/خليفة جاسم الكواري\nنائبا للرئيس\n3- الدكتور/محمد غانم العلي\nعضوا\n4- السيد/تركي محمد تركي السبيعي\nعضوا\n5- السيد/يوسف أحمد الكواري\nعضوا"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة عضوية المجلس أربع سنوات، تبدأ من تاريخ صدور هذا القرار، ويتولى أعضاء المجلس عملهم فيه بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

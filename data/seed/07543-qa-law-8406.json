@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (56) لسنة 2020 بالتصديق على الإتفاقية المتعددة الأطراف لتنفيذ التدابير المتعلقة بالإتفاقيات الضريبية لمنع تأكل القاعدة وتحويل الأرباح",
   "short_name": "مرسوم رقم (56) لسنة 2020 بالتصديق على الإتفاقية المتعددة الأطراف لتنفيذ التدابير المتعلقة بالإتفاقيات الضريبية لمنع ت...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8406&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8406&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على الاتفاقية المتعددة الأطراف لتنفيذ التدابير المتعلقة بالاتفاقيات الضريبية لمنع تآكل القاعدة وتحويل الأرباح ، المحررة بمدينة باريس بتاريخ 24/11/2019 ، والموقعة من قبل حكومة دولة قطر بتاريخ 4/12/2018 ، المرفق نصها بهذا المرسوم ، وتكون لها قوة القانون ، وفقا للمادة (18) من الدستور ، مع إثبات ومراعاة التحفظات والإخطارات المرفقة بهذا المرسوم"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

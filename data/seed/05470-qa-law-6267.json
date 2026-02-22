@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (22) لسنة 2014 بانتهاء الولاية القضائية لبعض القضاة",
   "short_name": "مرسوم رقم (22) لسنة 2014 بانتهاء الولاية القضائية لبعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6267&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6267&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنتهي الولاية القضائية للسادة التالية أسماؤهم اعتباراً من 30/9/2014:\n1- عبد المنعم أحمد محمد منصور، القاضي بمحكمة التمييز.\n2- سيد إبراهيم محمد البنا، القاضي بمحكمة الاستئناف.\n3- حسين محمد محمد عيسى الشافعي، القاضي بمحكمة الاستئناف.\n4- محمد نصر محمد فتحي نصر، الرئيس بالمحكمة الابتدائية.\n5- محمد مأمون سليمان محمد، الرئيس بالمحكمة الابتدائية.\n6- حازم حسن محمد مكاوي، القاضي بالمحكمة الابتدائية.\n7- هانئ حسن عبد الحميد حسن قنديل، القاضي بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

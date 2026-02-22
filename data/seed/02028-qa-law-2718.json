@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (7) لسنة 1968 بالموافقة على اتفاقية اتحاد الإمارات العربية الموقعة بدبي في الثامن والعشرين من شهر ذي القعدة سنة 1387هـ الموافق لليوم السابع والعشرين من شهر فبراير سنة 1968م",
   "short_name": "مرسوم بقانون رقم (7) لسنة 1968 بالموافقة على اتفاقية اتحاد الإمارات العربية الموقعة بدبي في الثامن والعشرين من شهر ذي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2718&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1968.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2718&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على اتفاقية اتحاد الإمارات العربية المرفق نصها بهذا القانون، والموقعة بدبي في اليوم الثامن والعشرين من شهر ذي القعدة سنة 1387هـ، الموافق لليوم السابع والعشرين من شهر فبراير سنة 1968م، ويكون لها في قطر حكم القانون."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينشر هذا القانون في الجريدة الرسمية. على جميع الجهات المختصة، كل فيما يخصه، تنفيذه. ويعمل به اعتباراً من أول محرم سنة 1388هـ الموافق 30 مارس سنة 1968م."
+    }
+  ],
   "definitions": []
 }

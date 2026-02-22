@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (9) لسنة 1990 بتعديل بعض أحكام القرار رقم (1) لسنة 1986م بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
   "short_name": "قرار مجلس الوزراء رقم (9) لسنة 1990 بتعديل بعض أحكام القرار رقم (1) لسنة 1986م بشأن المواصفات الواجب توافرها لبعض الس...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1742&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1990.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1742&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعدل البند (8/3) من المواصفة القياسية الخليجية رقم (18/1984م) الخاصة بالمشروبات الغازية غير الكحولية على النحو التالي:\n(تاريخ الإنتاج وتاريخ الصلاحية)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد ستة أشهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

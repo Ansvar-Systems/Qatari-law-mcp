@@ -4,8 +4,21 @@
   "title": "قانون رقم (8) لسنة 1989 بشأن معاملة مواطني دول مجلس التعاون لدول الخليج العربية في المراكز الصحية والمستوصفات والمستشفيات العامة معاملة المواطنين القطريين",
   "short_name": "قانون رقم (8) لسنة 1989 بشأن معاملة مواطني دول مجلس التعاون لدول الخليج العربية في المراكز الصحية والمستوصفات والمستش...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=411&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1989.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=411&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعامل مواطنو مجلس التعاون لدول الخليج العربية- المقيمون والزائرون- معاملة المواطنين القطريين في الاستفادة من المراكز الصحية والمستوصفات والمستشفيات العامة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من أول مارس 1989. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

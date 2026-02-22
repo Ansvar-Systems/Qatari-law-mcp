@@ -4,8 +4,21 @@
   "title": "قرار رقم (7) لسنة 2016 بتخويل بعض موظفي قطر للبترول صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (7) لسنة 2016 بتخويل بعض موظفي قطر للبترول صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6880&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6880&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي قطر للبترول التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المُشار إليها والقرارات المنفذة لها، وهم:\nالاسم\nالمسمى الوظيفي\nالشيخ/ غانم عويضه محمد ثاني آل ثاني\nمدير عمليات مدينة مسيعيد الصناعية\nنايف إبراهيم أحمد راشد النعيمي\nمفتش نظافة عامة\nعبدالله عبدالرحمن عبدالله فطيس\nمفتش نظافة عامة\nسمير بابو مانكاراثودي\nكبير مشرفي مراقبة الأغذية والنظافة\nفاهزير رحمن ماناثامبادام رازاق\nمفتش نظافة عامة\nأحمد عبدالرحمن ازينه\nمفتش نظافة عامة\nمحمد علي محمد يوسف المحمود\nمسؤول الوردية، نظافة عامة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار أمين عام اللجنة الأولمبية القطرية رقم (533) لسنة 2012م بشأن تعديل بعض أحكام نموذج النظام الأساسي الموحد للأندية الرياضية إدارة الشؤون الرياضية",
   "short_name": "قرار أمين عام اللجنة الأولمبية القطرية رقم (533) لسنة 2012م بشأن تعديل بعض أحكام نموذج النظام الأساسي الموحد للأندية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4586&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4586&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (46) من نموذج النظام الأساسي الموحد للأندية الرياضية المشار اليه النص التالي:\nمع عدم الإخلال بما جاء بهذا النظام من أحكام يتم انتخاب مجلس الإدارة عن طريق (القائمة) على أن تشمل القائمة المترشحة بالإضافة إلى الرئيس عدد (8) أعضاء لمجلس الإدارة كما يجوز أن تشمل القائمة عدد (3) أعضاء احتياط، وتصدر اللجنة التعليمات والإرشادات والإجراءات والضوابط الواجب إتباعها لتنظيم العملية الانتخابية\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، وينشر في الجريدة الرسمية، ويعمل به من تاريخ نشره."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (30) لسنة 2020 بإعادة تشكيل مجلس إدارة هيئة تنظيم الأعمال الخيرية",
   "short_name": "قرار أميري رقم (30) لسنة 2020 بإعادة تشكيل مجلس إدارة هيئة تنظيم الأعمال الخيرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8404&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8404&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس إدارة هيئة تنظيم الأعمال الخيرية، برئاسة سعادة وزير التنمية الإدارية والعمل والشؤون الاجتماعية، وعضوية كل من:\n1 - العقيد/ خالد علي الكعبي ممثلاً عن وزارة الداخلية.\n2 &ndash; السيّد/ مطلق ماجد القحطاني ممثلاً عن وزارة الخارجية\n3 - السيّد/ غانم مبارك الكواري ممثلاً عن وزارة التنمية الإدارية والعمل والشؤون الاجتماعية.\n4 - السيّد/ عيسى إبراهيم الكواري ممثلاً عن جهاز أمن الدولة\n5 - السيّد/ هشام صالح المناعي ممثلاً عن مصرف قطر المركزي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتقاضى رئيس مجلس الإدارة مكافأة سنوية مقدارها (120,000) مائة وعشرون ألف ريال، ويتقاضى كل من أعضاء مجلس الإدارة مكافأة سنوية مقدارها (100,000) مائة ألف ريال."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

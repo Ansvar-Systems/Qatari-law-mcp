@@ -4,8 +4,45 @@
   "title": "قرار لجنة شؤون الأندية الرياضية رقم (1) لسنة 2013م بشأن الترخيص بإنشاء نادي الجيش الرياضي",
   "short_name": "قرار لجنة شؤون الأندية الرياضية رقم (1) لسنة 2013م بشأن الترخيص بإنشاء نادي الجيش الرياضي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6110&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6110&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص بإنشاء نادٍ رياضي ذي رياضات متعددة يسمى (نادي الجيش الرياضي) يتبع للقوات المسلحة لمدة غير محدودة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تقوم الجهة التابع لها النادي بإنشاء النادي وفقا لإمكاناتها المادية وتزوده بالمباني والمنشآت والمرافق اللازمة لتنفيذ الأنشطة، كما توفر الدعم المالي اللازم لمواجهة كافة الأعباء والمصروفات الإدارية والأنشطة الرياضية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يعتمد تشكيل مجلس الإدارة للنادي على النحو الآتي:\nم\nالاسم\nالصفة\n1\nسعادة السيد/ حمد بن علي العطية\nرئيس مجلس الإدارة\n2\nالسيد/ ناصر محمد العلي\nنائبا لرئيس مجلس الإدارة\n3\nالدكتور/ ثاني عبد الرحمن الكواري\nأمين السر العام/ المدير التنفيذي\n4\nالسيد/ خميس مبارك الكواري\nأمين الصندوق\n5\nالسيد/ دحلان جمعان الحمد\nعضو مجلس الإدارة"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يتولى مجلس الإدارة كافة الاختصاصات المقررة لمجلس الإدارة والجمعية العمومية في القانون ولائحة النظام الأساسي."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تكون مدة مجلس الإدارة أربع سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

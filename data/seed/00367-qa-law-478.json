@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (14) لسنة 1968 بمنح امتياز صيد واستغلال أسماك الجمبري (الربيان لشركة قطر الوطنية لصيد الأسماك",
   "short_name": "مرسوم بقانون رقم (14) لسنة 1968 بمنح امتياز صيد واستغلال أسماك الجمبري (الربيان لشركة قطر الوطنية لصيد الأسماك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=478&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1968.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=478&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمنح شركة قطر الوطنية لصيد الأسماك (شركة مساهمة قطرية)، امتياز صيد واستغلال أسماك الجمبري (الربيان) في المناطق وبالشروط المبينة في عقد الامتياز المرافق لهذا القانون."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بأثر رجعي اعتباراً من تاريخ نفاذ عقد الامتياز المرفق في أول يناير 1967."
+    }
+  ],
   "definitions": []
 }

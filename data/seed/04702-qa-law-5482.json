@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (44) لسنة 2006 بزيادة رواتب الموظفين المدنيين",
   "short_name": "قرار أميري رقم (44) لسنة 2006 بزيادة رواتب الموظفين المدنيين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5482&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5482&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تزاد بنسبة (40%) الرواتب الأساسية للموظفين المدنيين العاملين بالدولة المنصوص عليها في جدول الرواتب المرفق ب قانون الخدمة المدنية ، ويعدل الجدول على هذا الأساس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تزاد بنسبة (20%) الرواتب المقطوعة والمؤقتة التي تصرف للموظفين والعمال من الفئات المتعاقدة، عن طريق وزارة شؤون الخدمة المدنية والإسكان، على ألا يكون أي من هؤلاء قد حصل خلال السنة السابقة على تاريخ العمل بهذا القرار على زيادة في راتبه تعادل الزيادة المقررة بموجب هذه المادة أو تزيد عليها، فإذا كانت تقل عنها يزاد الراتب بمقدار الفرق بينهما"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا تسري أحكام هذا القرار على الموظفين العاملين بالجهات التي اعتمدت لها جداول درجات ورواتب خاصة بها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من أول ديسمبر 2006. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

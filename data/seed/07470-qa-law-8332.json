@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (38) لسنة 2020 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (38) لسنة 2020 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8332&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8332&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد/ فهد سعدون محمد جابر آل عذبة، في وظيفة محام عام، وتُحدد أقدميته فيها اعتباراً من 28/08/2019."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة وكيل نيابة أول، وتُحدد أقدميتهم فيها اعتباراً من 12/12/2019:\n1- السيد/ فهد راشد حمد ربيعة الكعبي.\n2- السيد/ فهد حمد سالم بوشهاب آل سنيد.\n3- السيد/ علي سعيد علي الإبراهيم المهندي."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعين السيد/ ناصر علي عبدالله علي المسند، في وظيفة وكيل نيابة مساعد، وتُحدد أقدميته فيها اعتباراً من 08/04/2020."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

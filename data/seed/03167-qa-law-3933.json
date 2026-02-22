@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل رقم (9) لسنة 1984 دولة قطر شهادة تسجيل ‏(جمعية الهلال التعاونية الاستهلاكية)",
   "short_name": "شهادة تسجيل رقم (9) لسنة 1984 دولة قطر شهادة تسجيل ‏(جمعية الهلال التعاونية الاستهلاكية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3933&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1984.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3933&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل رقم (9) لسنة 1984\nدولة قطر\nشهادة تسجيل ‏(جمعية الهلال التعاونية الاستهلاكية)\nشهادة تسجيل رقم (9) لسنة 1984\nدولة قطر\nشهادة تسجيل ‏(جمعية الهلال التعاونية الاستهلاكية) 9 / 1984\n‏أشهد أن جمعية الهلال التعاونية الاستهلاكية - محدودة المسئولية قد سجلت تحت رقم (9) ‏بموجب قانون الجمعيات التعاونية رقم (12) لسنة 1973م في اليوم الخامس من شهر صفر لسنة 1405هـ الموافق أول نوفمبر لسنة 1984م."
+    }
+  ],
   "definitions": []
 }

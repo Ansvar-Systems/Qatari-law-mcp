@@ -4,8 +4,21 @@
   "title": "أمر أميري رقم (8) لسنة 2013 بتعيين سكرتير لسمو الأمير للشؤون السياسية",
   "short_name": "أمر أميري رقم (8) لسنة 2013 بتعيين سكرتير لسمو الأمير للشؤون السياسية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5115&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5115&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين سعادة السيد/ علي بن فهد الشهواني الهاجري، سكرتيراً لسمو الأمير للشؤون السياسية، بدرجة وزير."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعمل بهذا الأمر الأميري من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

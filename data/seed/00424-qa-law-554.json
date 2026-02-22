@@ -4,8 +4,33 @@
   "title": "مرسوم بقانون رقم (2) لسنة 1968 بإنشاء إدارة المخازن الحكومية",
   "short_name": "مرسوم بقانون رقم (2) لسنة 1968 بإنشاء إدارة المخازن الحكومية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=554&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1968.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=554&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ إدارة تسمى (إدارة المخازن الحكومية) ويصدر بتنظيمها وتحديد اختصاصاتها قرار من نائب الحاكم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تضم إلى إدارة المخازن الحكومية، مخازن الدوائر الآتية:\n1- مخازن دائرة الخدمات الهندسية.\n2- مخازن دائرة المياه.\n3- مخازن دائرة الكهرباء.\n4- مخازن دائرة الاعتدة الميكانيكية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "ينقل إلى إدارة المخازن الحكومية من الدوائر الأربع المشار إليها في المادة السابقة، الموظفون والعمال الذين يتولون حالياً في هذه الدوائر تنفيذ الأعمال المتعلقة بمخازنها وحسابات تلك المخازن."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

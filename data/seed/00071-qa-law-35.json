@@ -4,8 +4,27 @@
   "title": "قانون رقم (11) لسنة 1988 بشأن مساواة طلاب دول مجلس التعاون لدول الخليج العربية في مؤسسات التعليم العالي",
   "short_name": "قانون رقم (11) لسنة 1988 بشأن مساواة طلاب دول مجلس التعاون لدول الخليج العربية في مؤسسات التعليم العالي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=35&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1988.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=35&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مع عدم الإخلال بأي معاملة أفضل، تسعى مؤسسات التعليم العالي لمعاملة طلاب دول مجلس التعاون لدول الخليج العربية فيما يتعلق بقبولهم فيها معاملة طلاب دولة قطر، وذلك وفق الضوابط التالية:\n(أ) توافر شروط القبول والتسجيل المعتمدة من مؤسسات التعليم العالي والمطبقة على أبناء دولة قطر في المتقدمين من طلاب دول المجلس الأخرى، ووفق الإمكانات المتوافرة.\n(ب) تعطى الأفضلية في القبول لمواطني دول مجلس التعاون المقيمين في دولة قطر والحاصلين منها على شهادة الثانوية العامة أو ما يعادلها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مع عدم الإخلال بأي معاملة أفضل، يعامل أبناء دول مجلس التعاون، بعد قبولهم في مؤسسات التعليم العالي، معاملة أبناء دولة قطر فيما يتعلق بالدراسة ومتطلباتها من رسوم ومكافآت وسكن وعلاج."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من أول يونيو 1988م، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (21) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (21) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8601&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8601&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (32) لسنة 1995م المُشار إليه أعلاه، والقرارات المُنفذة له، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nعلي حمد علي القوز.\nمفتش نظافة وصحة بيئية ثالث\n2\nجمال علي علي العجمي.\nمفتش نظافة وصحة بيئية ثالث\n3\nحمد محمد عبدالله المري.\nمراقب نظافة وصحة بيئية أول\n4\nسعيد علي سعيد دهمة.\nمراقب نظافة وصحة بيئية أول\n5\nمحمد عبدالمحسن محمد الحسنا.\nمشرف مراقبين نظافة وصحة بيئية رابع\n6\nمبارك عبدالهادي حمد المري.\nمراقب نظافة وصحة بيئية رابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُلٍ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار وزير البلدية والبيئة رقم (167) لسنة 2016م باعتماد تصويبات فنية على مواصفات قياسية خليجية وتحديث لوائح فنية قطرية",
   "short_name": "قرار وزير البلدية والبيئة رقم (167) لسنة 2016م باعتماد تصويبات فنية على مواصفات قياسية خليجية وتحديث لوائح فنية قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7032&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7032&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد التصويبات الفنية على المواصفات القياسية الخليجية، المبين رقم وعنوان كل منها بالجدول رقم (1) المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعتمد تحديث اللوائح الفنية القطرية، المبين رقم وعنوان كل منها بالجدول رقم (2) المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

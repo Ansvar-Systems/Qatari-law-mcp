@@ -4,8 +4,33 @@
   "title": "قرار رئيس مجلس الوزراء رقم (45) لسنة 2023 بتشكيل المجلس الدائم للتأديب",
   "short_name": "قرار رئيس مجلس الوزراء رقم (45) لسنة 2023 بتشكيل المجلس الدائم للتأديب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9420&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9420&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل المجلس الدائم للتأديب برئاسة رئيس ديوان الخدمة المدنية والتطوير الحكومي، ومدير عام ديوان الخدمة المدنية والتطوير الحكومي نائبا للرئيس، وعضوية كل من:\n1 - السيّد/ محمد حسن الهيل قاض بمحكمة الاستئناف.\n2 - السيد/ أحمد محمد العبدالله ممثلاً عن ديوان المحاسبة.\n3 - السيّد/ خالد عبدائله الزراع ممثلاً عن وزارة العدل.\nويتولى أمانة سر المجلس موظف أو أكثر من موظفي ديوان الخدمة المدنية التطوير الحكومي، يصدر بندبهم قرار من الرئيس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتقاضى رئيس المجلس الدائم للتأديب مكافأة شهرية مقدارها (5000) خسة آلاف ريال، ويتقاضى كل عضو مكافأة شهرية مقدارها (4000) أربعة آلاف ريال.\nويتقاضى كل من يتولى أمانة سر المجلس مكافأة شهرية مقدارها (3000) ثلاثة آلاف ريال"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

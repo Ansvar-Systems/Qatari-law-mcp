@@ -4,8 +4,21 @@
   "title": "قرار وزير الثقافة والرياضة رقم (87) لسنة 2021 بتعديل بعض أحكام النظام الأساسي لمركز شباب الذخيرة",
   "short_name": "قرار وزير الثقافة والرياضة رقم (87) لسنة 2021 بتعديل بعض أحكام النظام الأساسي لمركز شباب الذخيرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8682&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8682&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص البند (2) من المادة (39) من النظام الأساسي لمركز شباب الذخيرة النص التالي:\nألا يقل عمره عند تقدم طلب الترشح عن (21) سنة ميلادية، وأن لا يزيد عن (39) سنة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كلّ فيما يخُصّه، تنفيذ هذا القرار ويُعمل بهِ من تاريخ صدوره، ويلغي كل حكم خالف أحكامه، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

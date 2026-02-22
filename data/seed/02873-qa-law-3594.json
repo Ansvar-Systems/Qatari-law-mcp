@@ -4,8 +4,21 @@
   "title": "قرار رقم (157) لسنة 2009 بشأن تخويل بعض موظفي وزارة العمل صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (157) لسنة 2009 بشأن تخويل بعض موظفي وزارة العمل صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3594&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3594&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العمل التالية أسماؤهم، صفة مأموري الضبط القضائي فيما يتعلق بتنفيذ أحكام القانون رقم (14) لسنة 2004 بإصدار قانون العمل والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nمحمد سعيد سيف النعيمي\nمدير إدارة تفتيش العمل\n2\nميساء سويد بين العجمي\nمفتش عمل\n3\nمزنة حمد محمد العذبة\nمفتش عمل\n4\nمنيرة علي المخضوبية\nمفتش عمل\n5\nسميرة خميس العبدالرحمن\nمفتش عمل\n6\nوفاء أحمد سرور مبارك\nمفتش عمل"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، بتنفيذ هذا القرار ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

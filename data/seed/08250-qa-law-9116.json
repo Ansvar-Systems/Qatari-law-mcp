@@ -4,8 +4,21 @@
   "title": "قرار وزير الداخلية رقم (35) لسنة 2022م بتعديل بعض أحكام قرار وزير الداخلية رقم (37) لسنة 2016 بتحديد المعدات والأجهزة والمواد الخاصة بالدفاع المدني",
   "short_name": "قرار وزير الداخلية رقم (35) لسنة 2022م بتعديل بعض أحكام قرار وزير الداخلية رقم (37) لسنة 2016 بتحديد المعدات والأجهزة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9116&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9116&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل القائمة المرفقة بهذا القرار بالقائمة المرفقة بالقرار رقم (37) لسنة 2016 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

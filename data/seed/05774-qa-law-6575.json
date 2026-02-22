@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (18) لسنة 2015 بالموافقة على الانضمام إلى اتفاقية اسطنبول للإدخال المؤقت وملحقيها (A)، (B.1)",
   "short_name": "مرسوم رقم (18) لسنة 2015 بالموافقة على الانضمام إلى اتفاقية اسطنبول للإدخال المؤقت وملحقيها (A)، (B.1)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6575&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6575&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووُفق على انضمام دولة قطر إلى اتفاقية اسطنبول للإدخال المؤقت وملحقيها (A) و(B.1)، المرفق نصوصها بهذا المرسوم، وتكون لهم قوة القانون، وفقاً للمادة ( 68 ) من الدستور، مع مراعاة التحفظ التالي:\n\"أن دولة قطر لا تعتبر نفسها ملزمة بأحكام المادة (5) من الملحق (B.1)\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

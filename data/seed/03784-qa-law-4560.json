@@ -4,8 +4,33 @@
   "title": "قرار وزير الأعمال والتجارة رقم (27) لسنة 2012 بتحويل شركة الصيرفة للأعمال المالية (ش.ش.و) إلى شركة/ ترافليكس قطر شركة مساهمة قطرية خاصة",
   "short_name": "قرار وزير الأعمال والتجارة رقم (27) لسنة 2012 بتحويل شركة الصيرفة للأعمال المالية (ش.ش.و) إلى شركة/ ترافليكس قطر شركة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4560&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4560&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحول شركة الصيرفة للأعمال المالية (ش.ش.و) إلى شركة/ ترافليكس قطر شركة مساهمة قطرية خاصة برأس مال وقدره (2,000,000) ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس و النظام الاساسي المرفق نصهما بهذا القرار، وبأحكام قانون الشركات التجارية وتعديلاته المشار إليه، والقوانين الأخرى المعمول بها في الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغي القرار الوزاري رقم (10) لسنة 2012 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كلٍ فيما يخصه، تنفيذ هذا القرار. ويُعمل به أعتباراً من 08/02/2012، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

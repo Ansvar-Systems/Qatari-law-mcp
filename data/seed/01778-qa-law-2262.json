@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (99) لسنة 2003بتأسيس الشركة القطرية لتبريد المناطق(شركة مساهمة قطرية)",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (99) لسنة 2003بتأسيس الشركة القطرية لتبريد المناطق(شركة مساهمة قطرية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2262&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2262&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لكل من:\n1-\nالشركة المتحدة للتنمية (ش.م.ق)\nقطرية\n2-\nالشركة الوطنية للتبريد المركزي (ش.م.ع)\nاماراتية\n3-\nخالد بن ناصر المسند\nقطري\n4-\nالشيخ/فيصل بن قاسم آل ثاني\nقطري\n5-\nعبد الرحمن بن حمد العطية\nقطري\nفي أن يؤسسوا فيما بينهم شركة مساهمة قطرية خاصة تسمى \"الشركة القطرية لتبريد المناطق\" برأس مال مدفوع قدره (10,000,000) عشرة ملايين ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي ، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية مرفقاً به عقد تأسيس الشركة و نظامها الأساسي ."
+    }
+  ],
   "definitions": []
 }

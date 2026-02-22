@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (92) لسنة 1997 باعتبار مشروع مواقف عامة للسيارات بمنطقة النجادة من أعمال المنفعة العامة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (92) لسنة 1997 باعتبار مشروع مواقف عامة للسيارات بمنطقة النجادة من أعمال المنفع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4353&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4353&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر من أعمال المنفعة العامة، مشروع إنشاء مواقف عامة للسيارات، سطحية وأخرى متعددة الطوابق، وذلك بمنطقة النجادة.\nوالمشروع موضح موقعه وتفاصيله، بالرسم التخطيطي المرفق بهذا القرار، ومعينة حدوده هندسياً طبقا لما ورد بالمادة ( 2 ) منه.\nوتتخذ الإجراءات اللازمة لإستصدار مرسوم نزع الملكية طبقاً لأحكام القانون رقم (13) لسنة 1988 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسياً، حدود الموقع المقرر لإنشاء المشروع، بالمضلع الهندسي، ذي النقاط الركنية الأربع، المبينة إحداثياتها بالجدول التالي:\nمسلسل\nشرقاً\nشمالاً\n1\n232077\n392033\n2\n232062\n392263\n3\n231980\n392263\n4\n321995\n392031"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (5) لسنة 1979 بإنشاء إدارة (القومسيون الطبي العام) في وزارة الصحة العامة، وتنظيم اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (5) لسنة 1979 بإنشاء إدارة (القومسيون الطبي العام) في وزارة الصحة العامة، وتنظيم اختصاصاتها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1667&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1979.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1667&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ في وزارة الصحة العامة، إدارة تسمى (إدارة القومسيون الطبي العام)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص إدارة القومسيون الطبي العام بما يأتي:\n1- فحص الموظفين لتقرير لياقتهم الصحية للتعيين في الخدمة أو الاستمرار فيها أو لإنهاء خدمتهم لعدم اللياقة الصحية، أو تقرير إجازاتهم المرضية.\n2- فحص المصابين لتقرير مدى العاهات ونسبة العجز، وذلك لتقدير التعويضات المستحقة لهم.\n3- فحص المتقدمين لطلب رخص قيادة السيارات وتقرير لياقتهم الصحية للحصول على هذه الرخص.\n4- أي اختصاص آخر تنص عليه القوانين واللوائح."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يصدر وزير الصحة العامة اللوائح والقرارات اللازمة لتنفيذ هذا القرار بما يطابق أحكامه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

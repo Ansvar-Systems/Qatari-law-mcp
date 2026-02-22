@@ -4,8 +4,21 @@
   "title": "قرار وزير الثقافة والرياضة رقم (203) لسنة 2020 م بتوفيق أوضاع فرقة قطر المسرحية",
   "short_name": "قرار وزير الثقافة والرياضة رقم (203) لسنة 2020 م بتوفيق أوضاع فرقة قطر المسرحية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8524&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8524&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعتمد النظام الأساسي لفرقة قطر المسرحية المرفق مع هذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كلٌّ فيما يخصه، تنفيذ هذا الفرار ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية، ويُلغى كل حکم خالف أحكامه."
+    }
+  ],
   "definitions": []
 }

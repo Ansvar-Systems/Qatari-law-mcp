@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (20) لسنة 1999 بتعديل تنظيم الوحدات الإدارية التي تتألف منها الهيئة العامة القطرية للإذاعة والتلفزيون",
   "short_name": "قرار مجلس الوزراء رقم (20) لسنة 1999 بتعديل تنظيم الوحدات الإدارية التي تتألف منها الهيئة العامة القطرية للإذاعة والت...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1524&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1524&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف إلى الوحدات الإدارية التي تتألف منها الهيئة العامة القطرية للإذاعة والتلفزيون إدارة تسمى (إدارة المطبوعات)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "فيما عدا الاختصاص بحماية حقوق المؤلفين والمبدعين في مجالات المطبوعات والإنتاج الفني، تتولى الإدارة المشار إليها ذات اختصاصات إدارة الرقابة المنصوص عليها في قرار مجلس الوزراء رقم (3) لسنة 1993 المشار إليه، وينقل إليها موظفو وعمال هذه الإدارة الأخيرة بذات درجاتهم وأوضاعهم المالية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

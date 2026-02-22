@@ -4,8 +4,39 @@
   "title": "مرسوم بقانون رقم (20) لسنة 1998 بشأن تحديد فئات وقواعد الرسوم والأجور التي تحصلها وزارة الداخلية والغرامات التي يجوز التصالح عليها في جرائم دخول وإقامة الأجانب في قطر",
   "short_name": "مرسوم بقانون رقم (20) لسنة 1998 بشأن تحديد فئات وقواعد الرسوم والأجور التي تحصلها وزارة الداخلية والغرامات التي يجوز...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=521&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=521&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد الرسوم والأجور التي تحصلها وزارة الداخلية وفقاً للفئات والقواعد المبينة بالجداول أرقام من (1) إلى (5) المرافقة لهذا القانون. ويجوز لوزير الداخلية بقرار منه تعديل هذه الرسوم أو الأجور أو الإعفاء منها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تحدد الغرامات التي يجوز التصالح عليها مقابل التنازل عن إقامة الدعوى الجنائية ضد المخالفين لأحكام القانون رقم (3) لسنة 1963 المشار إليه، واللوائح والقرارات المنفذة له، وفقاً للفئات والقواعد المبينة بالجدول رقم (6) المرافق لهذا القانون.\nوفي جميع الأحوال لا يجوز أن يتجاوز مبلغ الغرامة ثلاثة أرباع الحد الأقصى للغرامة الأصلية المقررة للجريمة محل الصلح وبحد أقصى (12000) اثني عشر ألف ريال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يصدر وزير الداخلية القرارات اللازمة لتنفيذ أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

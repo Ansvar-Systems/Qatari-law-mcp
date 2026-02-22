@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (46) لسنة 1981 بالتصديق على اتفاقية مزايا وحصانات منظمة الخليج للاستشارات الصناعية",
   "short_name": "مرسوم رقم (46) لسنة 1981 بالتصديق على اتفاقية مزايا وحصانات منظمة الخليج للاستشارات الصناعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3070&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1981.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3070&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية مزايا وحصانات منظمة الخليج للاستشارات الصناعية الموقعة في مدينة الدوحة بتاريخ 15 جمادى الثاني 1401هـ الموافق 19 ابريل 1981 م، المرفقة بهذا المرسوم، ويكون لها قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

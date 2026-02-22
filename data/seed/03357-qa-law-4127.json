@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (2) لسنة 1998 بتشكيل مجلس التخليط",
   "short_name": "قرار أميري رقم (2) لسنة 1998 بتشكيل مجلس التخليط",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4127&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4127&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "( عدلت بموجب قرار أميري 29/1999 ) ( عدلت بموجب قرار أميري 10/1998 )\nيشكل مجلس التخطيط من وزير الطاقة والصناعة رئيساً، ووزير المالية والاقتصاد والتجارة نائباً للرئيس، وعضوية كل من:\n1- وزير الشؤون البلدية والزراعة.\n2- محافظ مصرف قطر المركزي.\n3- وكيل وزارة التربية والتعليم والتعليم العالي.\n4- مساعد وكيل الوزارة للشؤون التنفيذية بوزارة شؤون الخدمة المدنية والإسكان.\n5- المستشار الاقتصادي بالديوان الأميري.\n6- مدير الإدارة الاقتصادية بالديوان الأميري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون تعيين الأعضاء لمدة ثلاث سنوات قابلة للتجديد."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

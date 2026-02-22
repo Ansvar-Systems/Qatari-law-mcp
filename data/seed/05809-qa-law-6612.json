@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (17) لسنة 2015 بتعديل بعض أحكام القرار رقم (41) لسنة 2013 بنزع ملكية بعض العقارات للمنفعة العامة",
   "short_name": "قرار مجلس الوزراء رقم (17) لسنة 2015 بتعديل بعض أحكام القرار رقم (41) لسنة 2013 بنزع ملكية بعض العقارات للمنفعة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6612&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6612&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستثنى من أحكام قرار مجلس الوزراء رقم (41) لسنة 2013 المشار إليه، العقارات المبينة في قرار وزير البلدية والتخطيط العمراني رقم (208) لسنة 2014 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

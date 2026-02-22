@@ -4,8 +4,27 @@
   "title": "قرار وزاري رقم (5) لسنة 2022 باستبدال عضو في لجنة فض المنازعات الإيجارية",
   "short_name": "قرار وزاري رقم (5) لسنة 2022 باستبدال عضو في لجنة فض المنازعات الإيجارية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8863&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8863&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيّد/ خليل إبراهيم هاشم، بدلاً من السيّد/ حمد بخيت المري، في عضوية لجنة فض المنازعات الايجارية الثانية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة، كُلاً فيما يخصّه، تنفيذ هذا القرار ويُعمل به من تاريخ صدوره ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

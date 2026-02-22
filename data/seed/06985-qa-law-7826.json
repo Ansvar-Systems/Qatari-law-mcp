@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (73) لسنة 2018 بإعادة تشكيل مجلس إدارة قطر للبترول",
   "short_name": "قرار أميري رقم (73) لسنة 2018 بإعادة تشكيل مجلس إدارة قطر للبترول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7826&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7826&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس إدارة قطر للبترول برئاسة سمو الشيخ/ عبدالله بن حمد آل ثاني، ووزير الدولة لشؤون الطاقة، نائباً للرئيس وعضواً منتدباً، وعضوية كل من:\n1. سعادة وزير المالية.\n2. سعادة وزير التجارة والصناعة.\n3. السيد/ ناصر خليل الجيدة.\n4. الشيخ/ خالد بن خليفة بن جاسم آل ثاني.\n5. السيد/ سعيد مبارك المهندي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

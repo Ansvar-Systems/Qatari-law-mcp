@@ -4,8 +4,27 @@
   "title": "قانون رقم (5) لسنة 2011 بتعديل بعض أحكام القانون رقم (1) لسنة 1986 بشأن تسجيل شركات الأدوية ومنتجاتها",
   "short_name": "قانون رقم (5) لسنة 2011 بتعديل بعض أحكام القانون رقم (1) لسنة 1986 بشأن تسجيل شركات الأدوية ومنتجاتها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2625&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2625&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارة \"المجلس الأعلى للصحة\" بعبارة \"وزارة الصحة العامة\"، أينما وردت في القانون رقم (1) لسنة 1986 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تٌلغى المادة ( 10 ) من القانون رقم (1) لسنة 1986 المشار إليه، كما يُلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

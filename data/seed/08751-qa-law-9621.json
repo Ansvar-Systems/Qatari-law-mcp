@@ -4,8 +4,21 @@
   "title": "قرار وزير التربية والتعليم والتعليم العالي رقم ( 15 ) لسنة 2024 بتحديد رسوم ترخيص إنشاء دور الحضانة وتجديده",
   "short_name": "قرار وزير التربية والتعليم والتعليم العالي رقم ( 15 ) لسنة 2024 بتحديد رسوم ترخيص إنشاء دور الحضانة وتجديده",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9621&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9621&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد رسوم إصدار الترخيص بإنشاء دور الحضانة وتجديده سنوياً، على النحو التالي:\n- (1,000) ألف ريال لإصدار الترخيص.\n- (1,000) ألف ريال لتجديد الترخيص."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

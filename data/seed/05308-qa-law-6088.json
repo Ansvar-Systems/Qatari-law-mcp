@@ -4,8 +4,27 @@
   "title": "قرار وزير العدل رقم (21) لسنة 2000 بضم أحد المحامين المقيدين بجدول المحامين المشتغلين إلى عضوية لجنة قبول المحامين وتعيين أمين سر للجنة",
   "short_name": "قرار وزير العدل رقم (21) لسنة 2000 بضم أحد المحامين المقيدين بجدول المحامين المشتغلين إلى عضوية لجنة قبول المحامين وت...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6088&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6088&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضم السيد/ راشد ناصر النعيمي، المقيد بجدول المحامين المشتغلين، عضواً بلجنة قبول المحامين المنصوص عليها في المادة ( 8 ) من القانون رقم (10) لسنة 1996 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين السيد/ محمد صالح حسن حامد، أميناً لسر اللجنة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

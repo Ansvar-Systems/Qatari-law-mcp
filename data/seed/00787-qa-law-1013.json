@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (27) لسنة 1970 بتأسيس شركة قطر الوطنية للسينما وتوزيع الأفلام",
   "short_name": "مرسوم رقم (27) لسنة 1970 بتأسيس شركة قطر الوطنية للسينما وتوزيع الأفلام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1013&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1970.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1013&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص ل:\n1- الشيخ جاسم بن خالد آل ثاني\n2- أحمد ناصر عبيدان\n3- عبد الله حسين نعمة\n4- يوسف قاسم درويش\n5- عبد الرحمن الخاطر\n6- عبد العزيز الباكر\n7- مرزوق الشملان\n8- أحمد محمد السويدي\n9- أحمد خليل الباكر\n10- راشد العسيري\n11- سلطان سيف العيسى\n12- عبد الله أحمد نعمة\n13- جاسم الجفيري\nالممثلين لمؤسسي شركة قطر الوطنية للسينما وتوزيع الأفلام، أن يؤسسوا في قطر شركة مساهمة قطرية تسمى \" شركة قطر الوطنية للسينما وتوزيع الأفلام\" برأسمال قدره (10.000.000) عشرة ملايين ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام المرسوم بقانون رقم (3) لسنة 1970 المشار إليه وعقد تأسيس الشركة ونظامها الأساسي المرفقة صورة من كل منهما بهذا المرسوم، وعليهم أيضاً الالتزام بأحكام القانون رقم (3) لسنة 1961 بتنظيم شركات المساهمة المعدل بالمرسوم بقانون رقم (12) لسنة 1966 والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على وزير المالية تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

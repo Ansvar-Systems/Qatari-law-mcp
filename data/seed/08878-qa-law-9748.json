@@ -4,8 +4,21 @@
   "title": "قرار رقم (113) لسنة 2024 بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (113) لسنة 2024 بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9748&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9748&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التجارة والصناعة التالية أسماؤهما صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القوانين والمرسوم بقانون المشار إليهم أعلاه، والقرارات المنفذة لهم، وهم :\nم\nالإسم\nالمسمى الوظيفي\n1\nغانم عبداّللهّ يوسف العمري\nأخصائي شؤون إدارية ثاني\n2\nقطبي بشير الهدى أحمد\nأخصائي مخزون إستراتيجي أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

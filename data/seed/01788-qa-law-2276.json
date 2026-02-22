@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية لسنة 1961 ببيان البنوك المرخص لها بتلقي الاكتتابات في أسهم شركات المساهمة وبأن تودع لديها الأسهم المخصصة لضمان إدارة أعضاء مجلس الادارة في شركات المساهمة",
   "short_name": "قرار وزير المالية لسنة 1961 ببيان البنوك المرخص لها بتلقي الاكتتابات في أسهم شركات المساهمة وبأن تودع لديها الأسهم ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2276&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1961.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2276&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص للبنوك المنصوص عليها في الجدول الملحق بهذا القرار بتلقي الاكتتابات في أسهم شركات المساهمة كما يرخص لها بأن تودع لديها الأسهم المخصصة لضمان إدارة مجلس الإدارة في الشركات المذكورة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا القرار من تاريخ نشره بالجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

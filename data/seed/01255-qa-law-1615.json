@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (3) لسنة 1989 في شأن تحديد الرسوم على بعض التراخيص التي تصدرها وزارة الاقتصاد والتجارة",
   "short_name": "قرار مجلس الوزراء رقم (3) لسنة 1989 في شأن تحديد الرسوم على بعض التراخيص التي تصدرها وزارة الاقتصاد والتجارة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1615&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1989.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1615&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستحق على التراخيص الآتي بيانها الرسوم المحددة قرين كل منها:\nالترخيص\nقيمة الرسوم بالريال\n1- ترخيص بتشغيل أو إدارة مخبز\n500\n2- تجديد الترخيص بتشغيل أو إدارة مخبز\n200\n3- ترخيص بالبيع عن طريق التنزيلات الموسمية\n100\n4- ترخيص بالبيع عن طريق التصفية النهائية\n500"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

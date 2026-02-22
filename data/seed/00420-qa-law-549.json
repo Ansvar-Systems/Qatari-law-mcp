@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (27) لسنة 1995 بتعديل بعض أحكام المرسوم بقانون رقم (20) لسنة 1993 بتنظيم وزارة الشئون البلدية والزراعة وتعيين اختصاصاتها",
   "short_name": "مرسوم بقانون رقم (27) لسنة 1995 بتعديل بعض أحكام المرسوم بقانون رقم (20) لسنة 1993 بتنظيم وزارة الشئون البلدية والزرا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=549&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=549&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف للمادة (2) من المرسوم بقانون رقم (20) لسنة 1993 المشار إليه بند جديد برقم (14)، كما يضاف للمادة (16) من نفس المرسوم بقانون بند جديد برقم (6)، يكون نصهما كالآتي:\nمادة (2/بند 14):\n«14- الترخيص بحفر آبار المياه الجوفية وتنظيم استعمالها».\nمادة (16/بند 6):\n«6- الترخيص بحفر آبار المياه الجوفية، وإدارة شئونها، والإشراف على تنظيفها وتطهيرها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

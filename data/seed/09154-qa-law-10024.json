@@ -4,8 +4,39 @@
   "title": "قانون رقم (8) لسنة 2025 بشأن دعم الابتكار والبحث العلمي",
   "short_name": "قانون رقم (8) لسنة 2025 بشأن دعم الابتكار والبحث العلمي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10024&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10024&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُخـصـص نـسـبـة مـن الإيـرادات المـدرجـة فـي المـوازنـة الـعـامـة للـدولـة، يـتـم تـحـديـدهـا بـشـكـل سـنـوي، لـدعـم الابـتـكـار والـبـحـث الـعـلمـي، وتُعـد حـصـيـلـة الـنـسـبـة المـشـار إلـيـهـا المـورد الـسـنـوي الـرئـيـسـي للمـؤسـسـة الـقـطـريـة لـدعـم الابـتـكـار والـبـحـث الـعـلمـي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتـولـى المـؤسـسـة الـقـطـريـة لـدعـم الابـتـكـار والـبـحـث الـعـلمـي، إدارة وتـنـمـيـة واسـتـثـمـار حـصـيـلـة الـنـسـبـة المـشـار إلـيـهـا فـي المـادة الـسـابـقـة، عـلـى أسـس وبمـعـاييـر اقـتـصـاديـة، وتُحـدد أوجـه إنـفـاقـهـا فـي دعـم أنـشـطـة الابـتـكـار والـبـحـث الـعـلمـي والـنـهـوض بمـسـتـواهـمـا، وفـقـاً لأحـكـام هـذا الـقـانـون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُصـدر وزيـر المـالـيـة الـقـرارات الـلازمـة لـتـنـفـيـذ أحـكـام هـذا الـقـانـون."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُـلـغـى المـرسـوم بـقـانـون رقـم (24) لـسـنـة 2008 المـشـار إلـيـه، كـمـا يُـلـغـى كـل حـكـم يـخـالـف أحـكـام هـذا الـقـانـون."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "عـلـى جـمـيـع الـجـهـات المـخـتـصـة، كـل فـيـمـا يـخـصـه، تـنـفـيـذ هـذا الـقـانـون. ويُـنـشـر فـي الـجـريـدة الـرسـمـيـة."
+    }
+  ],
   "definitions": []
 }

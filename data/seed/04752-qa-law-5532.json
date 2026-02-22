@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (54) لسنة 2003 بتعيين نائبين لمدير جامعة قطر",
   "short_name": "قرار أميري رقم (54) لسنة 2003 بتعيين نائبين لمدير جامعة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5532&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5532&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين كل من:\n1- الدكتورة/ نورة خليفة تركي السبيعي\nنائباً لمدير الجامعة للشئون الأكاديمية.\n2- الدكتور/ حميد عبد الله المدفع\nنائباً لمدير الجامعة لشئون الإدارة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

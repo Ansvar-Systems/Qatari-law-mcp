@@ -4,8 +4,21 @@
   "title": "قرار رقم (20) لسنة 2015 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (20) لسنة 2015 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6532&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6532&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الاقتصاد والتجارة التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط وأثبات الجرائم التي تقع بالمخالفة لإحكام القوانين المشار إليها أعلاه، والقرارات المنفذة لها، وهم:\nم\nالاسم\nالمسمى الوظيفي\nالرقم الشخصي\n1.\nعائشة محمد العبيدلي.\nخبير مواصفات قياسية\n27463402273\n2.\nخلود عمر مسعود السويدي.\nسكرتير رابع\n28863401923"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (38) لسنة 2024 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (38) لسنة 2024 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9561&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9561&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (8) لسنة 1990 المُشار إليه أعلاه، والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nمجدي صالح\nطبيب بيطري\n2\nزعل حمد زعل الجفالي النعيمي\nفني تفتيش صحي رابع\n3\nزايد محسن مبارك محسن خوار\nفني تفتيش صحي رابع\n4\nابراهيم حسين عشوى غدير الشمري\nفني تفتيش صحي رابع\n5\nأحمد بشير أحمد صنع الله\nطبيب بيطري\n6\nصادق حكيمي\nطبيب بيطري"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,45 @@
   "title": "قرار وزير الداخلية رقم (2) لسنة 1986 بتنظيم بعض الأحكام الخاصة بسيارات الأجرة والتزامات سائقيها",
   "short_name": "قرار وزير الداخلية رقم (2) لسنة 1986 بتنظيم بعض الأحكام الخاصة بسيارات الأجرة والتزامات سائقيها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2024&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1986.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2024&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون اللون المميز لسيارات الأجرة هو اللون البرتقالي عدا الرفارف فتطلى باللون الأبيض.\nويحظر على أي شخص طبيعي أو معنوي طلاء سيارته باللونين المميزين لسيارة الأجرة على النحو المبين في الفقرة السابقة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "1- تحدد تعرفة سيارة الأجرة على النحو الآتي:\n(أ) ريالان لبدء انطلاق العداد.\n(ب) يبدأْ العداد العد، بعد تسجيله خمسمائة متر بالتعريفة الآتية:\n- عشرة دراهم لكل مائتي متر داخل المدن نهارا.\n- خمسة عشر درهما لكل مائتي متر داخل المدن ليلاً.\n- عشرون درهما لكل مائتي متر خارج المدن ليلاً.\n2- وتحدد تعريف الانتظار لكل دقيقة كالآتي:\n- عشرة دراهم نهارا.\n- عشرون درهما ليلا.\n3- وتحدد الساعة التاسعة مساء بداية للتعريفة الليلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يجوز لسائق سيارة الأجرة أن يتقاضى أكثر من القيمة التي سجلها العداد حتى ولو كان الراكبون معه أكثر من شخص، وكانوا يشكلون جماعة واحدة متجهة إلى جهة معينة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "لا يجوز لسائق سيارة أجرة أن يتوقف في الطريق ليسمح بركوب شخص آخر علاوة على من سبق أن استقل تلك السيارة لتوصيلة إلى المكان معين."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على قائد الشرطة تنفيذ هذا القرار."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "ينشر هذا القرار في الجريدة الرسمية، ويعمل به بعد ثلاثين يوما من تاريخ نشره.."
+    }
+  ],
   "definitions": []
 }

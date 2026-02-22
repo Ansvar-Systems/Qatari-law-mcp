@@ -4,8 +4,21 @@
   "title": "قرار رئيس المجلس الأعلى للتخطيط رقم (1) لسنة 1994 بتعديل بعض أحكام القرار رقم (1) لسنة 1993 باللائحة الداخلية للمجلس الأعلى للتخطيط",
   "short_name": "قرار رئيس المجلس الأعلى للتخطيط رقم (1) لسنة 1994 بتعديل بعض أحكام القرار رقم (1) لسنة 1993 باللائحة الداخلية للمجلس...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1914&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1914&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (1) من قرار رئيس المجلس الأعلى للتخطيط رقم (1) لسنة 1993 المشار إليه، النص التالي:\n«يعقد المجلس اجتماعاً عادياً مرة كل شهرين بدعوة من رئيسه أو نائبه، وكلما دعت الضرورة إلى ذلك»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

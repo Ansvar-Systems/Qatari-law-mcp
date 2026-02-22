@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (8) لسنة 2018 بتعيين مساعدي قاض",
   "short_name": "قرار رئيس مجلس الوزراء رقم (8) لسنة 2018 بتعيين مساعدي قاض",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7584&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7584&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين مساعد قاض، كل من:\n1- السيدة/ سارة منصور محمد المصلح.\n2- السيد/ محمد عيسى علي حسين الأنصاري.\n3- السيد/ ناصر محمد ناصر آل حباب الهاجري.\n4- السيد/ ماجد محمد راشد الشملاني العنزي.\n5- السيد/ عبدالرحمن يوسف أحمد علي الكواري.\n6- السيد/ جهيم زايد جهيم الجنيدي الشمري.\n7- السيد/ سعد أحمد سعد اليوسف السليطي.\n8- السيد/ خالد عبدالله محمد راشد لبده.\n9- السيد/ عبدالله أحمد صالح الفضالة السليطي.\n10- السيد/ سعود مساعد نادر سليمان العبدالله.\n11- السيد/ فهد محمد مشلح الشكره الدوسري.\n12- السيد/ عبدالله عبدالرحمن عبدالله أحمد العبدالله.\n13- السيد/ حمد حسن سعد النصف المنصوري.\n14- السيد/ جاسم محمد أحمد حسن السيد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

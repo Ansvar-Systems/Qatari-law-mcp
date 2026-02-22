@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (2) لسنة 2025 بتعديل بعض أحكام القرار الأميري رقم (57) لسنة 2021 بتعيين اختصاصات الوزارات",
   "short_name": "قرار أميري رقم (2) لسنة 2025 بتعديل بعض أحكام القرار الأميري رقم (57) لسنة 2021 بتعيين اختصاصات الوزارات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9892&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9892&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى القرار الأميري رقم (57) لسنة 2021 بتعيين اختصاصات الوزارات النصان التاليان :\nمادة (12/ بند 9):\n&laquo;9 - إبداء الرأي القانوني للوزارات والجهات الحكومية الأخرى .&raquo;."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article (19)",
+      "content": "فقرة أخيرة) :\n&laquo;ويجوز بقرار من الوزير المختص ، بناءً على إقرار ديوان الخدمة المدنية والتطوير الحكومي بعد التنسيق مع الأمانة العامة لمجلس الوزراء، إنشاء ما تقتضيه المصلحة العامة من أقسام في الوحدات الإدارية التي تتألف منها الوزارة ، أو إلغاؤها أو دمجها وتعيين اختصاصاتها وتعديلها.&raquo;"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

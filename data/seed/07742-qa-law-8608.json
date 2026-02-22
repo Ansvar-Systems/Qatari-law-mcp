@@ -4,8 +4,21 @@
   "title": "قـرار رقم (28) لسنة 2021 بتخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط القضائي",
   "short_name": "قـرار رقم (28) لسنة 2021 بتخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8608&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8608&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي المؤسسة العامة القطرية للكهرباء والماء الواردة أسمائهم صفة مأموري الضبط القضائي في ضبط الجرائم التي تقع بالمخالفة لأحكام القانون رقم (26) لسنة 2008 والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nبدر عبدالرزاق كربون عبدالله كربون\nمفتش\n2\nخميس فضل خميس فضل النعيمي\nمفتش\n3\nعبداللطيف عبدالله علي عمران الكواري\nمفتش\n4\nخالد حسن صالح بوهادي الكواري\nمفتش"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

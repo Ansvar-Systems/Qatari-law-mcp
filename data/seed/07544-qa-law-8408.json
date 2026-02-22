@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (57) لسنة 2020 بالتصديق على مذكرة تفاهم للتعاون في مجال الرياضة بين وزارة الثقافة والرياضة في دولة قطر ووزارة التعليم والرياضة والشباب في جمهورية البانيا",
   "short_name": "مرسوم رقم (57) لسنة 2020 بالتصديق على مذكرة تفاهم للتعاون في مجال الرياضة بين وزارة الثقافة والرياضة في دولة قطر ووزا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8408&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8408&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على مذكرة تفاهم للتعاون في مجال الرياضة بين وزارة الثقافة والرياضة في دولة قطر ووزارة التعليم والرياضة والشباب في جمهورية ألبانيا ، الموقعة بمدينة الدوحة بتاريخ 11/04/2019 ، المرفق نصها بهذا المرسوم ، وتكون لها قوة القانون ، وفقا للمادة (68) من الدستور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

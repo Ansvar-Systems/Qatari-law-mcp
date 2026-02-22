@@ -4,8 +4,27 @@
   "title": "قرار وزير المالية والاقتصاد والتجارة رقم (37) لسنة 1998 بتعديل بعض أحكام القرار الوزاري رقم (8) لسنة 1983 بتعيين الحد الأقصى لأسعار بعض المنتجات البترولية والغاز",
   "short_name": "قرار وزير المالية والاقتصاد والتجارة رقم (37) لسنة 1998 بتعديل بعض أحكام القرار الوزاري رقم (8) لسنة 1983 بتعيين الحد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2046&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2046&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستبدل على التوالي بعبارات وزارات الاقتصاد والتجارة، ووزير الاقتصاد والتجارة، وقسم تحديد الأسعار وحماية المستهلك عبارات وزارات المالية والاقتصاد والتجارة، ووزير المالية والاقتصاد والتجارة، وإدارة المواصفات والمقاييس وحماية المستهلك، أينما وردت بالقرار الوزاري رقم (8) لسنة 1983 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تحدد قيمة التأمين الذي يطلب من المستهلك دفعه مقابل اسطوانة الغاز الفارغة. في حالة عدم قيامه باستبدالها، وفقاً لما يلي:\nالوحدة\nقيمة التأمين المطلوب دفعه من المستهلك\n1- اسطوانة غاز فارغة سعة (12) كيلو جراماً\n(100) ريال\n2- اسطوانة غاز فارغة سعة (48) كيلو جراماً\n(300) ريال"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

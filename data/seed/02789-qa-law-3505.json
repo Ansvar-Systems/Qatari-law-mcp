@@ -4,8 +4,21 @@
   "title": "قرار رقم (119) لسنة 2010 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (119) لسنة 2010 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3505&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3505&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (32) لسنة 1995 بشأن منع الأضرار بالبيئة النباتية ومكوناتها المُشار إليه، والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nخالد أحمد عبدالله السندي\nمهندس مدني أول\n2\nحويدر محمد حويدر الهاجري\nمشرف كتبه دوام أول\n3\nربيعة محمد مطر الكواري\nمراقب رخص تجارية\n4\nخالد علي هجاج الهاجري\nأخصائي جيولوجي\n5\nسعد علوم سويد العنزي\nملاحظة أفراد أمن أول\n6\nأحمد حسن علي الكبيسي\nباحث علاقات عامة إعلام\n7\nعبدالله هجرس مقرن الدوسري\nمشرف مراقبين أسواق أول\n8\nعبدالله حمد محمد العذبة\nمشرف مراقبين أسواق أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُلٍ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

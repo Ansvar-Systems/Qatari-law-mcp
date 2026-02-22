@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (25) لسنة 2025 بتعيين مجلس إدارة مصرف قطر المركزي",
   "short_name": "قرار أميري رقم (25) لسنة 2025 بتعيين مجلس إدارة مصرف قطر المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10111&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10111&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين مجلس إدارة مصرف قطر المركزي، برئاسة سعادة الشيخ/ بندر بن محمد بن سعود آل ثاني، محافظ مصرف قطر المركزي، وسعادة الشيخ/ أحمد بن خالد بن أحمد بن سلطان آل ثاني، نائب المحافظ، نائبًا للرئيس، وعضوية كل من :\n1- سعادة الدكتور/ صالح بن محمد النابت .\n2- سعادة وكيل وزارة المالية .\n3- سعادة وكيل وزارة التجارة والصناعة .\n4- سعادة الدكتور/ طامي بن أحمد بن علي آل بوطامي البنعلي .\n5- الدكتور/ خالد ناصر الخاطر ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتبارًا من 19/06/2025. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

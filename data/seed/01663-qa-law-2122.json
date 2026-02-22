@@ -4,8 +4,21 @@
   "title": "قرار وزير العدل رقم (50) لسنة 2001 بتسمية أعضاء مجلس إدارة مركز الدراسات القانونية والقضائية",
   "short_name": "قرار وزير العدل رقم (50) لسنة 2001 بتسمية أعضاء مجلس إدارة مركز الدراسات القانونية والقضائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2122&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2122&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة مركز الدراسات القانونية والقضائية على النحو التالي:\n1- السيد/سلطان بن عبد الله السويدي\nوكيل وزارة العدل\nرئيساً\n2- السيد/إبراهيم موسى الهتمي\nمدير إدارة الفتوى والعقود بوزارة العدل\nنائباً للرئيس\n3- السيد/جمعة حسن عوض أبو جلوف\nمدير إدارة الدراسات القانونية بالأمانة العامة لمجلس الوزراء\nعضواً\n4- السيد/أحمد بن علي بن حجر البنعلي\nنائب رئيس محكمة الاستئناف الشرعية\nعضواً\n5- السيد/مبارك بن ناصر الهاجري\nالقاضي بمحكمة الاستناف العدلية\nعضواً\n6- الدكتور/حسن عطية الله محمد أحمد\nالخبير القانوني بوزارة العدل\nعضواً مقرراً\nويحل نائب الرئيس محل الرئيس في حالة غيابه، أو خلو منصبه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

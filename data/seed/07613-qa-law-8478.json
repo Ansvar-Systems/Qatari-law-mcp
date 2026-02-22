@@ -4,8 +4,21 @@
   "title": "قرار وزير الثقافة والرياضة رقم (145) لسنة 2020 بتعديل مسمى مركز إثراء الثقافي",
   "short_name": "قرار وزير الثقافة والرياضة رقم (145) لسنة 2020 بتعديل مسمى مركز إثراء الثقافي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8478&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8478&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل مسمى \"مركز إثراء الثقافي\" الصادر بقرار وز&#1740;ر الثقافة والرياضة رقم (204) لسنة 2019 المشار إليه بمسمى \"مركز لدعم الثقافي\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما خصه تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية، ويُلغى كل حکم خالف أحكامه..\nوتفضلوا بقبول فائق الاحترام"
+    }
+  ],
   "definitions": []
 }

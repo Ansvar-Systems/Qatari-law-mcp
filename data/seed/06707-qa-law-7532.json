@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (420) لسنة 2017 بتحول شركة أمواج لخدمات التموين المحدودة من شركة مساهمة قطرية إلى شركة مساهمة خاصة قطرية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (420) لسنة 2017 بتحول شركة أمواج لخدمات التموين المحدودة من شركة مساهمة قطرية إلى شرك...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7532&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7532&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحول شركة أمواج لخدمات التموين المحدودة من شركة مساهمة قطرية إلى شركة مساهمة خاصة قطرية برأس مال مصدر قدره (100,000,000) ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس و النظام الأساسي المرفق نصهما بهذا القرار وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها في الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على تحول الشركة نشوء شخص معنوي جديد، وتظل الشركة محتفظة بحقوقها وإلتزاماتها السابقة على التحول، ويعمل بهذا القرار من تاريخ صدوره وشهره وفقاً لأحكام قانون الشركات التجارية رقم (11) لسنة 2015."
+    }
+  ],
   "definitions": []
 }

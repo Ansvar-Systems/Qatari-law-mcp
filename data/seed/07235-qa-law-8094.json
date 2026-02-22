@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (11) لسنة 2019 بمنح بدل محاماة للقانونيين القطريين بإدارة قضايا الدولة بوزارة العدل",
   "short_name": "قرار مجلس الوزراء رقم (11) لسنة 2019 بمنح بدل محاماة للقانونيين القطريين بإدارة قضايا الدولة بوزارة العدل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8094&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8094&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُمنح القانونيون القطريون بإدارة قضايا الدولة بوزارة العدل، بدل محاماة شهري بنسبة (25%) من الراتب الأساسي لكل منهم، بالإضافة إلى بدل طبيعة العمل المقرر لهم بقرار مجلس الوزراء في اجتماعه العادي (12) لعام 2010 المشار إليه، وبذات الضوابط الواردة به."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

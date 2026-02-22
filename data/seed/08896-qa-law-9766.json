@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (89) لسنة 2024 بالـتـصــديــق عـلـى اتـفـاقـيـة بــين حـكـومـــة دولـــة قــطــــر وحكومة جمهورية طاجيكستان بشأن تجنب الإزدواج الضريبي ومنع التهرب المالـي فـيمـا يـتـعـلـق بـالـضــرائـب عـلـى الدخل وعلى رأس المال",
   "short_name": "مرسوم رقم (89) لسنة 2024 بالـتـصــديــق عـلـى اتـفـاقـيـة بــين حـكـومـــة دولـــة قــطــــر وحكومة جمهورية طاجيكستان...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9766&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9766&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية بين حكومة دولة قطر وحكومة جمهورية طاجيكستان بشأن تجنب الإزدواج الضريبي ومنع التهرب المالي فيما يتعلـق بـالـضـرائـب عـلى الدخل وعلى رأس المال ، الموقعة بمدينة الدوحة بتاريخ 2024/01/22 ، المرفق نصهابهـذا المـرســـــوم ، وتكون لها قوة الـقـانـون ، وفقاً للمادة (68) مــن الـدسـتـور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

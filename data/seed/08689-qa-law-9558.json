@@ -4,8 +4,27 @@
   "title": "قرار وزير الرياضة والشباب رقم (62) لسنة 2024 بتعديل بعض أحكام قرار وزير الشباب والرياضة رقم (47) لسنة 2015 بإنشاء الاتحاد القطري للرياضة للجميع",
   "short_name": "قرار وزير الرياضة والشباب رقم (62) لسنة 2024 بتعديل بعض أحكام قرار وزير الشباب والرياضة رقم (47) لسنة 2015 بإنشاء الا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9558&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9558&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد النظام الأساسي للاتحاد القطري للرياضة للجميع المُرفق مع هذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُستبدل المادة (4) من قرار وزير الشباب والرياضة رقم (47) لسنة 2015م المُشار إليه، بالنص التالي:\n\"يصدر بتعيين إدارة الاتحاد من قرار وزير الرياضة والشباب، وتكون مدة العضوية في إدارة الاتحاد أربع سنوات قابلة للتجديد، لمدة، أو مُدد أخرى مماثلة\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على كافة الجهات المُختصة، كُل فيما يخُصّه، تنفيذ هذا القرار ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية، ويُلغي كل حكم يتعارض مع أحكامه"
+    }
+  ],
   "definitions": []
 }

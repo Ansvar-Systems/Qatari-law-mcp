@@ -4,8 +4,45 @@
   "title": "مرسوم بقانون رقم (37) لسنة 2004بمنح شركة المواصلات (شركة مساهمة قطرية) «مواصلات»إمتياز إدارة وتسيير سيارات الأجرة",
   "short_name": "مرسوم بقانون رقم (37) لسنة 2004بمنح شركة المواصلات (شركة مساهمة قطرية) «مواصلات»إمتياز إدارة وتسيير سيارات الأجرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=574&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=574&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمنح شركة المواصلات (شركة مساهمة قطرية) «مواصلات» إمتياز إدارة وتسيير سيارات الأجرة داخل الدولة، ولا يجوز لأى فرد أو شركة أو هيئة أو مؤسسة أخرى ممارسة هذا النشاط أو استغلاله."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة الأمتياز عشرون سنة، تبدأ من تاريخ العمل بهذا القانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "مكرر ( اضيفت بموجب: قانون 18 / 2014 )\nيجوز منح الشركة دعماً مالياً سنوياً من خزانة الدولة، لتغطية الفرق بين التكلفة الفعلية التي تتحملها الشركة لخدمة النقل، وما يدفعه الجمهور مقابل هذه الخدمة.\nويصدر بتحديد مقدار هذا الدعم ومواعيد صرفه قرار من مجلس الوزراء، بناءً على اقتراح وزير المالية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يمنح حائزي لوحات سيارات الأجرة، عند تاريخ العمل بهذا القانون، تعويضاً يصدر بتحديد مقداره وشروطه وكيفية أدائه قرار من مجلس الوزراء."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تتولى وزارة المالية مراقبة التزام الشركة بأحكام الامتياز المنصوص عليها في هذا القانون، ولها في سبيل ذلك التفتيش على الشركة، وفحص حساباتها، والاطلاع على جميع مستنداتها وسجلاتها."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

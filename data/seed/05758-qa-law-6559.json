@@ -4,8 +4,27 @@
   "title": "قرار وزير البيئة رقم (55) لسنة 2015م بتنظيم صيد الكنعد",
   "short_name": "قرار وزير البيئة رقم (55) لسنة 2015م بتنظيم صيد الكنعد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6559&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6559&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحظر صيد الكنعد بالشباك في المياه القطرية اعتباراً من (15) أغسطس وحتى (15) من أكتوبر من كل عام، وذلك ابتداءً من عام 2015.\nكما يُحظر، خلال الفترة المشار إليها، نقل وتداول شباك صيد الكنعد في سفن الصيد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُسمح لسفن الصيد، المُرخص لها من إدارة الثروة السمكية لصيد الكنعد. بالصيد خلال فترة الحظر المنصوص عليها في المادة السابقة، وذلك باستخدام الخيط فقط. دون غيره من أدوات الصيد الأخرى.\nولا يسري الحظر على المرخص لهم بغرض البحث العلمي بعد الحصول على ترخيص بذلك من وزارة البيئة، يُحدد فيه مدة الترخيص وضوابطه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، وينُشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (19) لسنة 2002 بإسناد إدارة بعض الموانئ لقطر للبترول",
   "short_name": "قرار مجلس الوزراء رقم (19) لسنة 2002 بإسناد إدارة بعض الموانئ لقطر للبترول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1489&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1489&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تكون إدارة موانئ مسيعيد ورأس لفان وجزيرة حالول ورصيف رأس أبوعبود والإشراف عليها لقطر للبترول."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون لقطر للبترول في سبيل إدارة الموانئ والرصيف المشار إليهم في المادة السابقة ممارسة الاختصاصات التالية:\n1- القيام بأعمال الإرشاد والقطر والرسو، وتنظيم حركة السفن بجميع أنواعها وأحجامها، وعمليات شحن وتفريغ وتخزين البضائع.\n2- تحديد المساحات المائية للموانئ والرصيف المشار إليهم، وصيانة الأجهزة والمنشآت والمساعدات الملاحية بها والاشراف على سلامة الملاحة في جميع الممرات المائية والأرصفة التابعة لهذه الموانئ وحمايتها من التلوث البيئي، وتقديم جمع التسهيلات الملاحية، وذلك بالتنسيق مع الجهات المختصة.\n3- تحديد وتحصيل الأجور ومقابل الخدمات التي تقدمها بتلك الموانىء والرصيف."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

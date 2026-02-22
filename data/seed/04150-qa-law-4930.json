@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (70) لسنة 2013 بمد مدة مجلس الشورى",
   "short_name": "قرار أميري رقم (70) لسنة 2013 بمد مدة مجلس الشورى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4930&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4930&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمد مدة مجلس الشورى ثلاث سنوات ميلادية، تبدأ من أول يوليو 2013 وتنتهي في يوم 30 يونيو 2016."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعمل بهذا القرار من أول يوليو 2013. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قانون رقم (5) لسنة 2004 بتعديل بعض أحكام المرسوم بقانون رقم (12) لسنة 1969 بشأن إنشاء شركة مطاحن الدقيق القطرية ومنحها امتيازاً",
   "short_name": "قانون رقم (5) لسنة 2004 بتعديل بعض أحكام المرسوم بقانون رقم (12) لسنة 1969 بشأن إنشاء شركة مطاحن الدقيق القطرية ومنحه...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=344&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=344&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى المادتان (2) ، (8) من المرسوم بقانون رقم (12) لسنة 1969 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويُعمل به بعد ستة أشهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

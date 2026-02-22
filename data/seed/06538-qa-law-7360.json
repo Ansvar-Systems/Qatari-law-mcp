@@ -4,8 +4,27 @@
   "title": "قرار المجلس الأعلى لرعاية الشباب رقم (2) لسنة 1987م بالموافقة على النظام الأساسي لنادي السباق والفروسية",
   "short_name": "قرار المجلس الأعلى لرعاية الشباب رقم (2) لسنة 1987م بالموافقة على النظام الأساسي لنادي السباق والفروسية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7360&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1987.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7360&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على النظام الأساسي لنادي السباق والفروسية المرافق لهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتولى السكرتارية العامة للمجلس الأعلى لرعاية الشباب اتخاذ الإجراءات القانونية اللازمة في هذا الشأن."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

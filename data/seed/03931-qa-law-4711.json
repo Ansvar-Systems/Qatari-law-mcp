@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (18) لسنة 2013 بإعفاء المنشآت الصناعية من الرسوم الجمركية على مدخلات الصناعة",
   "short_name": "مرسوم رقم (18) لسنة 2013 بإعفاء المنشآت الصناعية من الرسوم الجمركية على مدخلات الصناعة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4711&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4711&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعفى المنشآت الصناعية من الرسوم الجمركية على وارداتها من الآلات والمعدات وقطع الغيار والمواد الخام الأولية ونصف المصنعة ومواد التعبئة والتغليف اللازمة مباشرة للإنتاج الصناعي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون الإعفاء المنصوص عليه في المادة السابقة، وفقاً لضوابط إعفاء مدخلات الصناعة بدول مجلس التعاون لدول الخليج العربية، والتي تصدر بقرار من وزير الطاقة والصناعة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

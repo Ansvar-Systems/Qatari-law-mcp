@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (100) لسنة 2005 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (100) لسنة 2005 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5655&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5655&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة الآتية أسماؤهم في الوظيفة المبينة قرين اسمه، وتكون أقدمية كل منهم حسب ترتيبه الوارد في هذا المرسوم.\n1-\nعلي حسن علي عشماوي\nنائب رئيس بمحكمة الاستئناف\n2-\nعبدالرحيم حسين عامر\nقاضياً بمحكمة الاستئناف\n3-\nلظمي حمدي أمين مسعود\nقاضياً بمحكمة الاستئناف\n4-\nأسامة محمود محمود شاهين\nقاضياً بمحكمة الاستئناف\n5-\nمحمود حسن محمد جاد\nقاضياً بمحكمة الاستئناف\n6-\nمجدي حسين عبدالخالق\nقاضياً بمحكمة الاستئناف\n7-\nصلاح حسن محمد حسن البرعي\nرئيساً بالمحكمة الابتدائية\n8-\nجمال أحمد عبدالرحمن عبدالعال\nقاضياً بالمحكمة الابتدائية\n9-\nمحمود علي حلمي محمد علي\nقاضياً بالمحكمة الابتدائية\n10-\nخالد فائق خليل محمد المسلمي\nقاضياً بالمحكمة الابتدائية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به اعتباراً من 19/9/2005. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

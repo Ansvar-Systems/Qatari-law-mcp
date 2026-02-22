@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (7) لسنة 2023 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية وتحديد مكافآت أعضائها",
   "short_name": "قرار مجلس الوزراء رقم (7) لسنة 2023 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية وتحديد مكافآت أعضائها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9255&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9255&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية، برئاسة سعادة وزير الثقافة، وسعادة الدكتور/ إبراهيم بن صالح النعيمي، نائباً للرئيس، وعضوية كل من:\n1 - سعادة السيّد/ سعد بن محمد الرميحي.\n2 - الدكتور/ حسن راشد الدرهم.\n3 - السيّد عبدالله نصر النصر.\n4 - السيّدة/ آمال عبد اللطيف المناعي.\n5 - السيّد/ عمر حسين الفردان"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُحدد مكافأة لجنة أمناء جائزتي الدولة التقديرية والتشجيعية، على النحو التالي:\n- رئيس اللجنة ونائبه: (10,000) عشرة آلاف ريال شهرياً، لكل منهما.\n- أعضاء اللجنة: (8,000) ثمانية آلاف ريال شهرياً، لكل منهم"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى قرارا مجلس الوزراء رقم (3) لسنة 2005، ورقم (15) لسنة 2019، المشار إليهما."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

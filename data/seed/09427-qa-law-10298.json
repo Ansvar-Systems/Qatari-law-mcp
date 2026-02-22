@@ -4,8 +4,33 @@
   "title": "قرار رئيس المؤسسة العامة القطرية للكهرباء والماء رقم (1) لسنة 2026 بتنظيم سجل قيد تراخيص إنشاء أو تشغيل نظام تبريد المناطق أو تقديم خدمات تبريد المناطق وتحديد بياناته",
   "short_name": "قرار رئيس المؤسسة العامة القطرية للكهرباء والماء رقم (1) لسنة 2026 بتنظيم سجل قيد تراخيص إنشاء أو تشغيل نظام تبريد ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10298&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2026.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10298&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تتولى الإدارة المختصة قيد التراخيص الصادرة بإنشاء أو تشغيل نظام تبريد المناطق، أو تقديم خدمات تبريد المناطق، في السجل المعد لهذا الغرض.\nويتكون السجل من عدد من الصحائف تخصص كل صحيفة لقيد المرخص له، ويجوز أن تنشأ نسخة إلكترونية من السجل تتضمن ذات البيانات الواردة بالسجل الورقي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُحدد بيانات سجل قيد التراخيص المنصوص عليه في المادة (1) من هذا القرار، على النحو المبين بالنموذج المرفق."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تتولى الإدارة المختصة مراجعة وتحديث بيانات سجل قيد التراخيص بشكل دوري لضمان دقة البيانات والمعلومات المقيدة فيه، وتوافقها مع القوانين والقرارات واللوائح.\nوفي حالة وقوع خطأ مادي في السجل والبيانات الواردة به، يتم تصحيح الخطأ بعد العرض على مدير الإدارة المختصة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

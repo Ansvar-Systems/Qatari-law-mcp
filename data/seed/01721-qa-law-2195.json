@@ -4,8 +4,27 @@
   "title": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (7) لسنة 2003 بالموافقة على تأسيس وتسجيل وشهر المركز الثقافي للأمومة والطفولة",
   "short_name": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (7) لسنة 2003 بالموافقة على تأسيس وتسجيل وشهر المركز الثقافي للأمومة والطفولة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2195&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2195&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على تأسيس المركز الثقافي للأمومة والطفولة، مؤسسة خاصة قطرية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يسجل المركز ويشهر طبقاً لأحكام القانون رقم (8) لسنة 1998 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

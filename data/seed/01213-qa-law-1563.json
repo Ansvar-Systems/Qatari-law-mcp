@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (27) لسنة 2000 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) في اجتماعه العاشر لعام 2000 بالموافقة على إبرام الاتفاقيات المتعلقة بنقل جميع حقوق والتزامات شركة البترول الوطنية للتوزيع (نودكو) إلى المؤسسة فيما يخص تمويل مشروع توسعة مصفاة (نودكو)",
   "short_name": "قرار مجلس الوزراء رقم (27) لسنة 2000 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) في اجتماعه العاشر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1563&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1563&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "اعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه العاشر لعام 2000، المنعقد بتاريخ 4/12/2000، بشأن الموافقة على ابرام الاتفاقيات المتعلقة بنقل جميع حقوق والتزامات شركة البترول الوطنية للتوزيع (نودكو) فيما يخص تمويل مشروع توسعة مصفاة شركة البترول الوطنية للتوزيع (نودكو)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من التاريخ المنصوص عليه في قرار مجلس إدارة المؤسسة المشار إليه، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

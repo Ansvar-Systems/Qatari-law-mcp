@@ -4,8 +4,21 @@
   "title": "قرار رقم (20) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (20) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8600&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8600&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبينة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (10) لسنة 1987م المُشار إليه أعلاه، والقرارات المُنفذة له، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nمحمد ناصر سعيد النعيمي.\nمراقبي بيئي ثاني\n2\nعبدالله محمد عبدالله الكبيسي.\nمشرف مراقبين بيئة برية رابع\n3\nناصر مبارك حمد المنصوري.\nمراقب بيئة برية ثاني\n4\nسالم حمد مبارك الهاجري.\nأخصائي شؤون إدارية\n5\nفيصل محمد ناجي المري.\nمشرف مراقبين بيئة برية رابع\n6\nخالد محمد صالح الكواري.\nباحث شؤون إدارية ثاني\n7\nحمد محمد عبدالله المري\nمراقب مزارع ثاني\n8\nعلي سلطان ضابت الدوسري.\nمشرف تفتيش بيئي\n9\nعبدالله خلف مبارك الكواري.\nمراقب بيئة برية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُلٍ فيما يَخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

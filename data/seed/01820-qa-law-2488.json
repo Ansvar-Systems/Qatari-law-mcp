@@ -4,8 +4,33 @@
   "title": "قانون رقم (12) لسنة 2006 بشأن بلدية مسيعيد الملغاة",
   "short_name": "قانون رقم (12) لسنة 2006 بشأن بلدية مسيعيد الملغاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2488&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2488&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لقطر للبترول ممارسة الاختصاصات المقررة للبلديات المنصوص عليها في القرار الأميري رقم (11) لسنة 2019 المشار إليه، أو في أي قانون، وذلك في نطاق مناطق بلدية مسيعيد الملغاة، والمبينة الحدود والمعالم بالخريطة المرفقة بهذا القانون. وتتولى بلدية الوكرة مباشرة الاختصاصات المقررة للبلديات في باقي مناطق بلدية مسيعيد الملغاة ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون لموظفي قطر للبترول، الذين يصدر بتخويلهم صفة مأموري الضبط القضائي، قرار من النائب العام، بالاتفاق مع رئيس مجلس إدارة قطر للبترول، ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام قوانين البلدية، في نطاق المناطق المبينة في الخريطة المشار إليها في المادة السابقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

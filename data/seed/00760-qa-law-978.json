@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (21) لسنة 1999 بتحديد مكافأة عضوية المجلس البلدي المركزي",
   "short_name": "مرسوم رقم (21) لسنة 1999 بتحديد مكافأة عضوية المجلس البلدي المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=978&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=978&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمنح أعضاء المجلس البلدي المركزي مكافأة شهرية للفئات الآتية:\n- رئيس المجلس\n(6000) ريال\n- نائب رئيس المجلس\n(5000) ريال\n- عضو المجلس\n(4000) ريال"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تصرف المكافأة لأعضاء المجلس البلدي المركزي من تاريخ حلف اليمين أمام المجلس. ويستحق أعضاء المجلس من العاملين بالحكومة أو الهيئات والمؤسسات العامة الذين يحتفظون بوظائفهم ورواتبهم طوال مدة عضويتهم بالمجلس نصف المكافأة المشار اليها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

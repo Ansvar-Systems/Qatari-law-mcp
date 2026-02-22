@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (6) لسنة 1991 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 1991 بتشكيل الهيئة العامة للشباب والرياضة وتحديد اختصاصاتها وتنظيم أعمالها",
   "short_name": "قرار مجلس الوزراء رقم (6) لسنة 1991 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 1991 بتشكيل الهيئة العامة للشباب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1698&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1698&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة الأولى من قرار مجلس الوزراء رقم (2) لسنة 1991 المشار إليه، النص التالي:\n«تشكل الهيئة العامة للشباب والرياضة من رئيس ونائب للرئيس، وعضوية كل من الأمين العام والأمين العام المساعد للهيئة.\nويصدر بتعيين الرئيس قرار أميري.\nكما يصدر بتعيين نائب الرئيس والأمين العام المساعد قرار أميري بناء على عرض رئيس الهيئة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

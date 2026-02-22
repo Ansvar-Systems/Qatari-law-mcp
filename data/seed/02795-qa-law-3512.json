@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل رقم (11) لسنة 1985 دولة قطر شهادة تسجيل",
   "short_name": "شهادة تسجيل رقم (11) لسنة 1985 دولة قطر شهادة تسجيل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3512&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1985.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3512&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل رقم (11) لسنة 1985\nدولة قطر\nشهادة تسجيل\nشهادة تسجيل رقم (11) لسنة 1985\nدولة قطر\nشهادة تسجيل 11 / 1985\nأشهد أن جمعية اليرموك التعاونية الاستهلاكية - محدودة المسئولية قد سجلت تحت رقم (11) بموجب قانون الجمعيات التعاونية رقم (12) لسنة 1973م في اليوم الأول من جمادى الثانية سنة 1405هـ الموافق العشرون من فبراير 1985م."
+    }
+  ],
   "definitions": []
 }

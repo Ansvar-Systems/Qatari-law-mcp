@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (43) لسنة 2016 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (43) لسنة 2016 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7113&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7113&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة الآتية أسماؤهم، في الوظيفة المبينة قرين اسم كل منهم:\n1- السيد/ محمد خير الدين محمد حلبي اعتباراً من 24/7/2016.\nقاضياً بمحكمة التمييز\n2- السيد/ محمد سامح أحمد تمساح علي اعتباراً من 24/7/2016.\nقاضياً بمحكمة التمييز\n3- السيد/ سيد حامد معبد سليم اعتباراً من 24/7/2016.\nقاضياً بمحكمة التمييز\n4- السيد/ محمود عبدالباسط رسلان أحمد اعتباراً من 3/8/2016.\nقاضياً بمحكمة التمييز\n5- السيد/ حمدي إبراهيم عبدالجليل منصور اعتباراً من 24/7/2016.\nقاضياً بمحكمة الاستئناف\n6- السيد/ نيازي عبدالسميع إبراهيم سلامة اعتباراً من 24/7/2016.\nقاضياً بمحكمة الاستئناف\n7- السيد/ سعيد علي سعيد محمد اعتباراً من 24/7/2016.\nرئيساً بالمحكمة الابتدائية\n8- السيد/ هشام مختار مصطفى عبدالرحمن اعتباراً من 24/7/2016.\nرئيساً بالمحكمة الابتدائية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

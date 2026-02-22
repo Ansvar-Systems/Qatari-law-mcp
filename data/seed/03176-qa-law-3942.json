@@ -4,8 +4,15 @@
   "title": "وثيقة تأسيس مركز قطر للتراث والهوية",
   "short_name": "وثيقة تأسيس مركز قطر للتراث والهوية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3942&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3942&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "وثيقة تأسيس مركز قطر للتراث والهوية\nوثيقة تأسيس مركز قطر للتراث والهوية 0 / 2007\nرغبة منا في المساهمة في اعمال البر والنفع العام فقد رأينا انشاء مؤسسة خاصه ذات نفع عام معنية بالتراث والهوية من خلال تأصيل قيم تراث المجتمع وحفظ الاصول التراثية وفقا لما يلي:\nاسم المؤسسة: مركز قطر للتراث والهوية\nرأسمال المؤسسة: (5،000000) ريال قطري\nمقر المؤسسة مدينة الدوحة، ويجوز لها انشاء فروع في داخل الدولة وخارجها"
+    }
+  ],
   "definitions": []
 }

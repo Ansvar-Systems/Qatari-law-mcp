@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (44) لسنة 2001 بتأسيس شركة رأس لفان للكهرباء المحدودة شركة مساهمة قطرية",
   "short_name": "مرسوم رقم (44) لسنة 2001 بتأسيس شركة رأس لفان للكهرباء المحدودة شركة مساهمة قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1131&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1131&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لـ:\n1- قطر للبترول.\n2- شركة الكهرباء والماء القطرية.\n3- مؤسسة الخليج للاستثمار.\n4- شركة «أيه. إي. إس رأس لفان القابضة المحدودة».\nفي أن يؤسسوا في قطر شركة مساهمة قطرية تسمى (شركة رأس لفان للكهرباء المحدودة) برأسمال مصرح به قدره (300,000) ثلاثمائة ألف دولار أمريكي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفق صورة كل منهما بهذا المرسوم، وبأحكام قانون الشركات التجارية المشار إليه، فيما لا يتعارض مع أحكام عقد التأسيس و النظام الأساسي للشركة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

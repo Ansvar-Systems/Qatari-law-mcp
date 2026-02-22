@@ -4,8 +4,27 @@
   "title": "قانون رقم (1) لسنة 2005 بتعديل بعض أحكام القانون رقم (14) لسنة 1999 بشأن الأسلحة والذخائر والمتفجرات",
   "short_name": "قانون رقم (1) لسنة 2005 بتعديل بعض أحكام القانون رقم (14) لسنة 1999 بشأن الأسلحة والذخائر والمتفجرات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=150&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=150&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "'تُضاف مادة برقم ( 60 مكرراً ) إلى القانون رقم (14) لسنة 1999 المشار إليه، نصها التالي:"
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Article (60)",
+      "content": "مكرراً)\n«يصدر بتحديد كيفية وإجراءات التصرف في الأسلحة والذخائر والمتفجرات المتحصلة وفقاً لأحكام هذا القانون، قرار من الوزير»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

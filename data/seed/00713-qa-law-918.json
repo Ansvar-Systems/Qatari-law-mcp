@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (15) لسنة 1997 بالموافقة على انضمام دولة قطر إلى الاتفاقية الدولية بشأن المعارض الدولية وبروتوكولاتها وتعديلاتها",
   "short_name": "مرسوم رقم (15) لسنة 1997 بالموافقة على انضمام دولة قطر إلى الاتفاقية الدولية بشأن المعارض الدولية وبروتوكولاتها وتعدي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=918&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=918&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى الاتفاقية الدولية بشأن المعارض الدولية الموقعة في باريس بتاريخ 22/11/1928 والبروتوكولات الملحقة بها الموقعة في باريس بتاريخ 10/5/1948، 16/11/1966، 30/11/1972 والتعديلات التي جرت عليها في 24/6/1982، المرفق نصها بهذا المرسوم، ويكون لها قوة القانون، وفقاً للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

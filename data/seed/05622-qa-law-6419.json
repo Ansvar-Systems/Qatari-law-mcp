@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (53) لسنة 2014 بتعديل تشكيل لجنة الثروات المائية الحية",
   "short_name": "قرار مجلس الوزراء رقم (53) لسنة 2014 بتعديل تشكيل لجنة الثروات المائية الحية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6419&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6419&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل لجنة الثروات المائية الحية، المنشأة بموجب القانون رقم (4) لسنة 1983 المشار إليه، على النحو التالي:\n- وكيل وزارة البيئة المساعد لشؤون الزراعة والثروة السمكية.\nرئيساً\n- مدير إدارة الثروة السمكية بوزارة البيئة.\nنائباً للرئيس\n- ممثل عن وزارة الداخلية.\nعضواً\n- ممثل عن وزارة البلدية والتخطيط العمراني.\nعضواً\n- ممثل عن وزارة الاقتصاد والتجارة.\nعضواً\n- ممثل عن وزارة المواصلات.\nعضواً\n- ممثل عن المجلس البلدي المركزي.\nعضواً\n- ممثل عن جامعة قطر.\nعضواً\n- أربعة ممثلين عن الصيادين، يمثلون مناطق الصيد، يختارهم وزير البيئة.\nأعضاء\nوتختار كل جهة من يمثلها في اللجنة، ويصدر بتسمية رئيس ونائب رئيس وأعضاء اللجنة قرار من وزير البيئة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

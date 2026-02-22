@@ -4,8 +4,21 @@
   "title": "قرار حاكم قطر رقم (3) لسنة 1964 بالموافقة على قبول عرض شركة نفط قطر المحدودة بشأن تسوية المسائل موضوع قراري منظمة البلاد المصدرة للبترول رقمي 4/ 33، 4/ 34",
   "short_name": "قرار حاكم قطر رقم (3) لسنة 1964 بالموافقة على قبول عرض شركة نفط قطر المحدودة بشأن تسوية المسائل موضوع قراري منظمة الب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2830&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1964.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2830&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يوافق على قبول عرض شركة نفط قطر المقدم بكتابها رقم 3642 / ب بتاريخ 13 نوفمبر 1964 بشأن تسوية المسائل موضوع قراري منظمة البلاد المصدرة للبترول رقمي 4/33، 4 /34."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا القرار اعتباراً من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

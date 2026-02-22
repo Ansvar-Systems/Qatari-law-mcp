@@ -4,8 +4,21 @@
   "title": "قرار رقم (12) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (12) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8592&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8592&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون (10) لسنة 1987م المُشار إليه، والقرارات المُنفذة له وهم:-\nم\nالإسم\nالمسمى الوظيفي\n1\nصالح عبيد حمد المخضوبية\nمعاون مراقب رخص بناء أول\n2\nعبدالله ناصر هزاع الهاجري\nمشرف تفتيش رخص بناء أول\n3\nناصر راشد فرهود الهاجري\nمراقب رخص بناء أول\n4\nمحمد غالب محمد الدوسري\nمفتش رخص بناء ثاني\n5\nناصر محمد سعد المهندي\nمراقب رخص بناء ثالث\n6\nمبارك محبوب سعيد المهندي\nباحث رخص بناء ثاني\n7\nجاسم ظاهر فهد الشمري\nمراقب رخص بناء رابع\n8\nمحمد طالب محمد المالكي\nباحث شؤون إدارية ثاني\n9\nعبدالرحمن عبدالله محمد الوارد\nباحث شؤون إدارية ثالث\n10\nفرج محمد أكبر\nرسام هندسي ثالث\n11\nخلدون أحمد علي عزازي\nمساح ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

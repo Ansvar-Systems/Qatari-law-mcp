@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (10) لسنة 2006 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة التربية والتعليم",
   "short_name": "قرار مجلس الوزراء رقم (10) لسنة 2006 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة التربية والتعليم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3144&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3144&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحذف «إدارة البعثات» من بين الوحدات الإدارية التي تتألف منها وزارة التربية والتعليم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من 1/3/2005. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

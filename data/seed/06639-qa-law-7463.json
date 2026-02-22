@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (89) لسنة 2017 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (89) لسنة 2017 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7463&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7463&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السيد/ مبارك شبيب الرمزاني النعيمي، والسيد/ تركي راشد حارب المهندي، في وظيفة رئيس نيابة، وتحدد أقدميتهما فيها اعتباراً من 11/10/2017."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُعين السيدة/ هند عبدالرب علي محمد المالكي، في وظيفة وكيل نيابة أول، وتحدد أقدميتها فيها اعتباراً من 11/10/2017."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

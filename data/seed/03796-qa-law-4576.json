@@ -4,8 +4,39 @@
   "title": "قرار مجلس الوزراء رقم (17) لسنة 2012 بتطبيق بعض أحكام قانون العمل الصادر بالقانون رقم (14) لسنة 2004 على العمال الذين يعملون في الزراعة والرعي",
   "short_name": "قرار مجلس الوزراء رقم (17) لسنة 2012 بتطبيق بعض أحكام قانون العمل الصادر بالقانون رقم (14) لسنة 2004 على العمال الذين...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4576&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4576&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُطبق أحكام الفصول: الثالث، الرابع، الخامس، السادس، الثامن، التاسع، والحادي عشر، من قانون العمل المشار إليه، على العمال الذين يعملون في الزراعة والرعي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مع مراعاة أحكام المادة ( 23 ) من قانون العمل المشار إليه، يكون استقدام العمال الذين يعملون في الزراعة والرعي، بموافقة الإدارة المختصة بوزارة الداخلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يجب أن تتضمن عقود العمل الخاصة بالعمال الذين يعملون في الزراعة والرعي، النص على استحقاقهم إجازة سنوية وعطلة أسبوعية مدفوعة الأجر."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُصدر وزير العمل القرارات اللازمة لتنفيذ أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

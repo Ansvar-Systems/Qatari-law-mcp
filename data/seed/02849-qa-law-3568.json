@@ -4,8 +4,21 @@
   "title": "قرار رقم (144) لسنة 2010 بتخويل بعض موظفي وزارة العمل صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (144) لسنة 2010 بتخويل بعض موظفي وزارة العمل صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3568&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3568&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العمل التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (14) لسنة 2004 م بإصدار قانون العمل والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nعبد الله أحمد المهندي.\nمدير إدارة الاستخدام\n2\nفواز محمد الريس.\nمساعد مدير إدارة الاستخدام بالوكالة\n3\nفارس محمد الكعبي.\nمشرف تفتيش عمل\n4\nإبراهيم عبد الله المعاضيد.\nأخصائي عمل\n5\nراشد فالح سعيد الشهواني.\nأخصائي تفتيش عمل\n6\nمحمد عمير عرار النعيمي.\nباحث تفتيش عمل\n7\nمشبب علي القحطاني.\nباحث قوى عاملة\n8\nناصر محمد سيف النعيمي.\nمفتش سلامة وصحة مهنية\n9\nعبد الله عيسى الدوسري.\nمفتش عمل\n10\nمحمد حمد محمد العطان المري.\nمفتش عمل\n11\nيوسف حسن محمد شمس.\nمفتش عمل\n12\nمسفر علي سالم السفران المري.\nمفتش عمل"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

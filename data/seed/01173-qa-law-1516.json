@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (1) لسنة 2001 بإعفاء شركة الخليج للفنادق والبنوك الممولة لمشروع فندق إنتركونتننتال- الدوحة من ضريبة الدخل",
   "short_name": "قرار مجلس الوزراء رقم (1) لسنة 2001 بإعفاء شركة الخليج للفنادق والبنوك الممولة لمشروع فندق إنتركونتننتال- الدوحة من ض...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1516&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1516&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعفى الأرباح التي يحققها فندق إنتركونتننتال - الدوحة، وأرباح حصص الشركاء الأجانب في هذا الفندق (شركة جوانا وبراسكفيدس البريطانية الجنسية) من ضريبة الدخل، وذلك لمدة عشر سنوات اعتباراً من تاريخ مباشرة الفندق لنشاطه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تعفى من ضريبة الدخل فوائد البنوك المستحقة عن القرض المقدم من البنك السعودي الفرنسي الممول لبناء المرحلة الأولى للفندق المذكور وذلك طوال مدة سريان القرض."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُشترط لسريان الإعفاءات الضريبية المشار إليها في المادتين السابقتين قيام أصحاب الفندق بتعيين قطريين وفقاً للتعليمات التي تصدر إليهم من الجهات المختصة في هذا الشأن."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

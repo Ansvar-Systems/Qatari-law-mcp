@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (20) لسنة 2000 بتشكيل مجلس إدارة صندوق الزكاة",
   "short_name": "قرار مجلس الوزراء رقم (20) لسنة 2000 بتشكيل مجلس إدارة صندوق الزكاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1522&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1522&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة صندوق الزكاة على النحو التالي:-\n1- السيد/أحمد بن عبد الله\nرئيساً\n2- السيد/فيصل بن عبد الله بن زيد آل محمود\nنائباً للرئيس\n3- السيد/محمد بن عبد اللطيف المانع\nعضواً\n4- السيد/خليفة بن جاسم الكواري\nعضواً\n5- السيد/محمد بن إسماعيل العمادي\nعضواً\n6- الدكتور/شافي بن سفر الهاجري\nعضواً\n7- السيد/محمد بن سيف العسيري\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار مجلس الوزراء رقم (9) لسنة 1995 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

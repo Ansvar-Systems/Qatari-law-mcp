@@ -4,8 +4,21 @@
   "title": "قانون رقم (61) لسنة 1983 بالموافقة على انضمام دولة قطر إلى اتفاقية حصانات وامتيازات منظمة المؤتمر الإسلامي",
   "short_name": "قانون رقم (61) لسنة 1983 بالموافقة على انضمام دولة قطر إلى اتفاقية حصانات وامتيازات منظمة المؤتمر الإسلامي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2626&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1983.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2626&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى اتفاقية حصانات وامتيازات المؤتمر الإسلامي ، المرفق نصها بهذا المرسوم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به اعتباراً من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

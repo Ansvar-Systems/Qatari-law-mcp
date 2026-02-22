@@ -4,8 +4,21 @@
   "title": "قرار رقم (152) لسنة 2008 بتخويل أعضاء لجنة حماية المنافسة ومنع الممارسات الاحتكارية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (152) لسنة 2008 بتخويل أعضاء لجنة حماية المنافسة ومنع الممارسات الاحتكارية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3583&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3583&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لأعضاء لجنة حماية المُنافسة ومنع الممارسات الاحتكارية التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (19) لسنة 2006 المُشار إليه، والقرارات المُنفذةِ له وهم:\nم\nالإسم\nالمسمى\n1\nخليفة بن جاسم آل ثاني.\nرئيس اللجنة\n2\nمحمد حسن السعدي.\nعضو\n3\nسعيد مبارك الكواري.\nعضو\n4\nبدر أحمد القايد.\nعضو\n5\nناصر محمد الحميدي.\nعضو\n6\nحمد عبد الرحمن المناعي.\nعضو\n7\nمرشد شاهين الكواري.\nعضو\n8\nسيف سعيد السويدي.\nعضو\n9\nخالد عبد الله السليطين.\nعضو\n10\nسفيان محمد المراغي.\nأمين سر اللجنة\n11\nأحمد محمد المرزوقي.\nأمين سر اللجنة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يَخصُه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

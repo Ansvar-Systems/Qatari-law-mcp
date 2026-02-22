@@ -4,8 +4,21 @@
   "title": "قانون رقم (6) لسنة 1996 بتعديل بعض أحكام القانون رقم (12) لسنة 1981 بشأن الحجر الزراعي",
   "short_name": "قانون رقم (6) لسنة 1996 بتعديل بعض أحكام القانون رقم (12) لسنة 1981 بشأن الحجر الزراعي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=380&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=380&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستبدل بعبارات «وزارة الصناعة والزراعة» و«وزير الصناعة والزراعة» و«وكيل وزارة الصناعة والزراعة» و«إدارة الشئون الزراعية» على التوالي، عبارات «وزارة الشئون البلدية والزراعة» و«وزير الشئون البلدية والزراعة» و«وكيل وزارة الشئون البلدية والزراعة» و«إدارة التنمية الزراعية» أينما وردت في القانون رقم (12) لسنة 1981 المشار إليه، و لائحته التنفيذية ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

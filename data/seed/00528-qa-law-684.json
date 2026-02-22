@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (20) لسنة 2004 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
   "short_name": "قرار أميري رقم (20) لسنة 2004 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=684&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=684&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل اللجنة العليا للتنسيق والمتابعة برئاسة الأمير، وعضوية كل من:\n1- رئيس مجلس الوزراء.\n2- النائب الأول لرئيس مجلس الوزراء ووزير الخارجية.\n3- وزير المالية.\n4- وزير الدولة لشئون مجلس الوزراء، عضو مجلس الوزراء.\n5- وزير الشئون البلدية والزراعة.\n6- رئيس المجلس الوطني للثقافة والفنون والتراث.\n7- سكرتير الأمير لشؤون المتابعة.\n8- رئيس الهيئة العامة للتخطيط والتطوير العمراني."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

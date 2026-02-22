@@ -4,8 +4,21 @@
   "title": "قرار رقم (124) لسنة 2021م بتخويل بعض موظفي وزارة التنمية الاجتماعية والأسرة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (124) لسنة 2021م بتخويل بعض موظفي وزارة التنمية الاجتماعية والأسرة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8896&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8896&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التنمية الاجتماعية والأسرة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (21) لسنة 2020 المشار إليه أعلاء، والقرارات المُنفذة له وهم:\nم الإسم المسمى الوظيفي\n1 الشيخة / جواهر ثاني محمد آل ثاني أخصائي رقابة مالية أول\n2 سارة سعود سعد الخزيم باحث رقابة مالية ثالث\n3 فجر حسن علي الساعي باحث جمعيات ومؤسسات ثالث\n4 ميثاء شافي سفر الهاجري باحث جمعيات ومؤسسات ثالث\n5 أسماء إبراهيم جاسم الهيدوس باحث جمعيات ومؤسسات ثالث\n6 آمنة عبدالله غانم القبيسي باحث جمعيات ومؤسسات ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

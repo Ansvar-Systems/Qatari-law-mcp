@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (23) لسنة 2018 بمنح مكافأة لرئيس وأعضاء لجنة التنسيق والمتابعة المنصوص عليها في قانون تنظيم المجلس البلدي المركزي",
   "short_name": "قرار مجلس الوزراء رقم (23) لسنة 2018 بمنح مكافأة لرئيس وأعضاء لجنة التنسيق والمتابعة المنصوص عليها في قانون تنظيم الم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7866&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7866&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُمنح كل من رئيس ونائب رئيس وأعضاء لجنة التنسيق والمتابعة المنصوص عليها في القانون رقم (12) لسنة 1998 المشار إليه، مكافأة مالية، على النحو التالي:\n- رئيس اللجنة (5000) خمسة آلاف ريال شهرياً.\n- نائب رئيس اللجنة (4500) أربعة آلاف وخمسمائة ريال شهرياً.\n- كل عضو من أعضاء اللجنة (4000) أربعة آلاف ريال شهرياً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار مجلس الوزراء رقم (1) لسنة 2006 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

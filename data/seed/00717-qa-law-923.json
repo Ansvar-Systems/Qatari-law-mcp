@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (16) لسنة 1998 بالتصديق على اتفاقية الاستكشاف ومشاركة الإنتاج بالمنطقة الاستكشافية رقم (2) بين حكومة دولة قطر وشركة شيفرون عبر البحار للنفط (قطر) المحدودة",
   "short_name": "مرسوم رقم (16) لسنة 1998 بالتصديق على اتفاقية الاستكشاف ومشاركة الإنتاج بالمنطقة الاستكشافية رقم (2) بين حكومة دولة ق...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=923&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=923&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية الاستكشاف ومشاركة الإنتاج بالمنطقة الاستكشافية رقم (2) بين حكومة دولة قطر وشركة شيفرون عبر البحار للنفط (قطر) المحدودة، الموقعة بتاريخ 24/3/1998."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

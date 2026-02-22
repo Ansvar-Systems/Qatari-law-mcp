@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (19) لسنة 1999 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) لعام 1999 بالتمرير بالموافقة على إبرام اتفاقية ضمان إتمام مشروع شركة قطر للكيماويات المحدودة (كيوكيم)",
   "short_name": "قرار مجلس الوزراء رقم (19) لسنة 1999 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) لعام 1999 بالتمري...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1486&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1486&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) لعام 1999، (بالتمرير)، بالموافقة على إبرام اتفاقية ضمان إتمام مشروع شركة قطر للكيماويات المحدودة (كيوكيم)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

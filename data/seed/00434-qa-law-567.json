@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (35) لسنة 2005 بتعديل بعض أحكام القانون رقم (13) لسنة 1997 بشأن الدفاع المدني",
   "short_name": "مرسوم بقانون رقم (35) لسنة 2005 بتعديل بعض أحكام القانون رقم (13) لسنة 1997 بشأن الدفاع المدني",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=567&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=567&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 21 ) من القانون رقم (13) لسنة 1997 المشار إليه النص التالي:"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article (21)",
+      "content": "«يجوز بقرار من وزير الداخلية، أو من ينيبه، غلق المنشآت التي تمتنع عن تنفيذ تدابير الدفاع المدني في الميعاد الذي تحدده إدارة الدفاع المدني. ويتم الغلق إدارياً لمدة لا تزيد على ثلاثة أشهر، يجوز تمديدها لمدد أخرى مماثلة في حالة عدم تنفيذ التدابير المطلوبة.\nولذي الشأن الطعن في قرار الغلق أمام المحكمة الابتدائية، خلال خمسة عشر يوماً من تاريخ إعلانه بالقرار»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

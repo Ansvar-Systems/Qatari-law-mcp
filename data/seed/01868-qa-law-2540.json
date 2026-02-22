@@ -4,8 +4,33 @@
   "title": "قانون رقم (1) لسنة 1999 بتعديل بعض أحكام القانون رقم (7) لسنة 1990 بنظام تسعير الأدوية الطبية والمستحضرات الصيدلية ومراقبة أسعارها",
   "short_name": "قانون رقم (1) لسنة 1999 بتعديل بعض أحكام القانون رقم (7) لسنة 1990 بنظام تسعير الأدوية الطبية والمستحضرات الصيدلية وم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2540&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2540&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 4 ) من القانون رقم (7) لسنة 1990 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "«تحدد اللجنة أسعار بيع الأدوية والمستحضرات الصيدلية للجمهور بإضافة نسبة 40% من تكاليف إستيرادها، يتقاضى منهـا المستورد سواء كان وكيلاً أو وسيطاً أو مرخصاً له بالإستيراد 10% ويتقاضى تاجر التجزئة 30%.\nولا يكون تحديد الأسعار نافذاً إلا بعد اعتماده نهائياً من الوزير»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسات الصيدلية التي تستورد الأدوية وتبيعها بالجملة أو بالتجزئة أن تصحح أوضاعها وفقاً لأحكام هذا القانون، خلال ستة أشهر من تاريخ العمل به."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

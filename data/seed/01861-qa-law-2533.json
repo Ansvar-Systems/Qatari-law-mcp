@@ -4,8 +4,39 @@
   "title": "قانون رقم (1) لسنة 2009 بتعديل بعض أحكام القانون رقم (18) لسنة 2002 بشأن الدين العام",
   "short_name": "قانون رقم (1) لسنة 2009 بتعديل بعض أحكام القانون رقم (18) لسنة 2002 بشأن الدين العام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2533&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2533&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بعنوان القانون رقم (18) لسنة 2002 المشار إليه، العنوان التالي:\n«بشأن الدين العام والأوراق المالية الإسلامية»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "«يرخص للحكومة بما يلي:\n1- الاقتراض عن طريق إصدار أوراق الدين العام، أو عن طريق الاقتراض المباشر، وذلك بالريال القطري، أو بأي عملة أخرى.\n2- التعاقد مع الغير عن طريق إصدار أوراق مالية إسلامية بالريال القطري أو بأي عملة أخرى، وفقاً لما يتم الاتفاق عليه.\nوتُحدد مبالغ أوراق الدين العام والأوراق المالية الإسلامية، ومدتها، والمزايا التي تُمنح لحامليها، من وقت إلى آخر، بقرار من مجلس الوزراء بعد أخذ رأي المصرف»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُضاف إلى نص المادة (1) من القانون رقم (18) لسنة 2002 المشار إليه، التعريف التالي على أن يكون تالياً لتعريف إذن الخزانة:\n«الأوراق المالية الإسلامية: هي الصكوك الإسلامية وأي أوراق مالية إسلامية أخرى تصدرها الحكومة، وتُستثمر حصيلتها وفقاً لأحكام الشريعة الإسلامية»."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُضاف إلى القانون رقم (18) لسنة 2002 المشار إليه، مادة برقم (2 مكرراً)، نصها التالي:"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

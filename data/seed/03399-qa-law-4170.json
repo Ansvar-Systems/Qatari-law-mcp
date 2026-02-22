@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (20) لسنة 1991 بتأسيس شركة قطر للإضافات البترولية المحدودة (شركة مساهمة قطرية)",
   "short_name": "مرسوم رقم (20) لسنة 1991 بتأسيس شركة قطر للإضافات البترولية المحدودة (شركة مساهمة قطرية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4170&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4170&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص للمؤسسة العامة القطرية للبترول، ولشركة أوكتين الدولية المحدودة في أن تؤسسا شركة مساهمة قطرية تسمى \"شركة قطر للإضافات البترولية المحدودة\" برأس مال قدره (370,000,000) ثلاثمائة وسبعون مليون ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفق صورة كل منهما بهذا المرسوم، وعليهما الالتزام بأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخري المعمول بها"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

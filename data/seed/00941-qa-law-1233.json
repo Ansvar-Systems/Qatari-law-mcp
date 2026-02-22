@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (63) لسنة 1986 بالتصديق على الوثائق التي أسفر عنها المؤتمر التاسع عشر للاتحاد البريدي العالمي",
   "short_name": "مرسوم رقم (63) لسنة 1986 بالتصديق على الوثائق التي أسفر عنها المؤتمر التاسع عشر للاتحاد البريدي العالمي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1233&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1986.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1233&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على الوثائق التي أسفر عنها المؤتمر التاسع عشر للاتحاد البريدي العالمي الذي انعقد في مدينة هامبورج بألمانيا الاتحادية خلال الفترة من 18 إلى 27/ 7/ 1984م، ووقعها وفد دولة قطر في27/ 7/ 1984م وبيانها كما يلي:\n1 - النظام العالمي للاتحاد البريدي العالمي والبروتوكول الختامي له.\n2 - البروتوكول الإضافي الثالث لدستور الاتحاد.\n3 - اتفاقية البريد العالمية.\n4 - الاتفاق الخاص بالطرود البريدية.\n5 - الاتفاق الخاص بحوالات البريد وأذون البريد للسفر.\nويكون لها قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل،"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

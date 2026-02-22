@@ -4,8 +4,21 @@
   "title": "قرار وزاري رقم (10) لسنة 2018 بإلغاء القرار الوزاري رقم (117) لسنة 2017 بإعتبار استملاك الأجزاء المحددة لصالح محطة كهرباء رئيسية من أعمال المنفعة العامة",
   "short_name": "قرار وزاري رقم (10) لسنة 2018 بإلغاء القرار الوزاري رقم (117) لسنة 2017 بإعتبار استملاك الأجزاء المحددة لصالح محطة كه...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7527&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7527&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُلغى القرار رقم (117) لسنة 2017 بإعتبار استملاك الأجزاء المحددة لصالح محطة كهرباء رئيسية من أعمال المنفعة العامة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كلاً فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

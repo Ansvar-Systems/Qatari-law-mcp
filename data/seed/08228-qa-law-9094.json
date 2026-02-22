@@ -4,8 +4,21 @@
   "title": "قرار رقم (126) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (126) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9094&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9094&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المشار إليها أعلاه والقرارات المنفذة لها، وهم:-\nم\nالإسم\nالمسمى الوظيفي\n1\nسيف محمد خميس الشهواني\nمراقب مزارع ثاني\n2\nجاسم محمد ابراهيم الكواري\nمراقب سكن عمال رابع\n3\nمبخوت سعيد سريع الشهواني\nمفتش نظافة عامة أول\n4\nمحمد فيصل محمد الدوسري\nمهندس كهربائي ثالث\n5\nمحمد عبد الحميد رضواني\nمهندس ميكانيكي ثالث\n6\nأسعد عدنان أبومطير\nمهندس مدني ثالث\n7\nأحمد علي أحمد أبوجميعان\nمراقب رخص بناء رابع\n8\nمهند صلاح الدين أحمد\nمهندس مساحة ثالث\n9\nزكريا عمران حسن عاشور\nمهندس مساحة ثالث\n10\nعاشور راضي محمد سعيد\nمساح ثاني\n11\nمحمد عبدالحميد عبدالسلام\nمفتش شواطئ وجزر ثالث\n12\nجبران محمد عبدالله طاهر\nمشرف مفتش أملاك دولة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

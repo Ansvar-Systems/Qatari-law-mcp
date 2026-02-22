@@ -4,8 +4,27 @@
   "title": "قرار رئيس المجلس الأعلى لرعاية الشباب رقم (1) لسنة 1985م بإعادة تشكيل اللجنة الأولمبية القطرية",
   "short_name": "قرار رئيس المجلس الأعلى لرعاية الشباب رقم (1) لسنة 1985م بإعادة تشكيل اللجنة الأولمبية القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6087&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1985.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6087&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل اللجنة الأولمبية القطرية على النحو الآتي:\n1- العقيد الشيخ عبد الله بن خليفة آل ثاني\nرئيساً\n2- رؤساء الاتحادات الرياضية القائمة حالياً، والتي تنشأ مستقبلاً\nأعضاء\n3- السيد/ سلطان خالد السويدي\nأميناً عاماً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

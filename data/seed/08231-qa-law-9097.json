@@ -4,8 +4,21 @@
   "title": "قرار رقم (133) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (133) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9097&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9097&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (32) لسنة 1995 المشار إليه أعلاه، والقرارات المنفذة له، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nنورة محمد حسين علي عبدالله\nمشرف تفتيش نظافة عامة\n2\nعائشة خالد صالح الجابر\nمشرف تفتيش إعلانات أول\n3\nأمل ناصر خلف البوعينين\nخبير تفتيش نظافة عامة أول\n4\nذيبان فرج جابر المري\nمفتش نظافة وصحة بيئية ثالث\n5\nفوزية محمد يوسف البوعينين\nمشرف تفتيش صحة عامة\n6\nراشد محمد راشد حمد نحيان\nمشرف تفتيش نظافة وصحة بيئية أول\n7\nصالح عبدالملك صالح العبيدلي\nمفتش نظافة وصحة بيئية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

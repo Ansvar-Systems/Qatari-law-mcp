@@ -4,8 +4,27 @@
   "title": "قرار وزير العدل رقم (62) لسنة 2022 بالإذن بتقديم الخبرة موضوع التصوير الجنائي",
   "short_name": "قرار وزير العدل رقم (62) لسنة 2022 بالإذن بتقديم الخبرة موضوع التصوير الجنائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8916&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8916&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُؤذن بتقديم الخبرة في موضوع التصوير الجنائي لكل من:\nالاسم\nالرقم الوظيفي\n1\nعميد/ إبراهيم محمد على الدرويش\n1362\n2\nرائد/ نشوان قاسم شرف الدين قايد\n2233\n3\nمريم أحمد ناصر الحيي النعيمي\n13337\n4\nمزون علي عبدالله الأنصاري\n13836\n5\nهنادي محمود صالح\n11339\n6\nنبيل نبيه\n19519"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُؤدي من صدر له الإذن اليمين المنصوص عليها في المادة (12) من القانون رقم (16) لسنة 2017 بتنظيم أعمال الخبرة، أمام الوزير أو من يُفوضه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ نشره في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

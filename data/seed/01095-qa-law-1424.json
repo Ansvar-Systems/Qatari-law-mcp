@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (13) لسنة 1998 بتعديل بعض رسوم التصديق على المحررات في وزارة الخارجية وبعثاتها الدبلوماسية والقنصلية بالخارج",
   "short_name": "قرار مجلس الوزراء رقم (13) لسنة 1998 بتعديل بعض رسوم التصديق على المحررات في وزارة الخارجية وبعثاتها الدبلوماسية والق...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1424&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1424&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعفى المستندات والمحررات التجارية للبضائع الواردة وفقاً لنظام الترانزيت والمعاد تصديرها، من رسوم التصديق على المحررات في وزارة الخارجية وبعثاتها الدبلوماسية والقنصلية بالخارج المنصوص عليها في البند أولاً من الجدول الملحق بقرار مجلس الوزراء رقم (10) لسنة 1995 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

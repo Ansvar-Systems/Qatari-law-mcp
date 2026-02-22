@@ -4,8 +4,21 @@
   "title": "قرار رقم (61) لسنة 2015 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (61) لسنة 2015 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6595&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6595&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظف وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمُخالفة لإحكام القوانين، المُشار إليها والقرارات المنفذة لها وهم:\nالاسم\nالوظيفة\n1\nفايقه عبدالله عبدالرضا اشكناني\nمدير إدارة الجودة\n2\nخالد ثامر ناصر الحميدي\nمدير إدارة الرقابة البلدية بالوكالة (بلدية الظعاين)\n3\nمبارك ناصر سالم آل خليفة\nمدير بلدية الظعاين\n4\nصالح سالم خويتم الراشدي\nمدير إدارة الرقابة البلدية بالوكالة (بلدية الشمال)\n5\nمنصور عجران منصور البوعينين\nمدير بلدية الوكرة\n6\nحمد جمعة جاسم المناعي\nمدير بلدية الشمال"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

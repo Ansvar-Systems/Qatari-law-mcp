@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (2) لسنة 2001 بالترخيص لوزارة المالية في تقديم الضمانات الخاصة بقروض شراء طائرات للخطوط الجوية القطرية",
   "short_name": "مرسوم رقم (2) لسنة 2001 بالترخيص لوزارة المالية في تقديم الضمانات الخاصة بقروض شراء طائرات للخطوط الجوية القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4198&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4198&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "لوزارة المالية أن تقوم باسم حكومة دولة قطر بتوقيع الوثائق الضرورية لتقديم الضمانات إلى البنوك والمؤسسات المالية وإدارات ضمان ائتمان الصادرات المتعلقة بقروض شراء طائرات للخطوط الجوية القطرية وذلك في حدود مبلغ (356) مليون دولار أمريكي (ثلاثمائة وستة وخمسون مليون دولار أمريكي)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية، أو من ينيبه، في التوقيع على الوثائق المذكورة في المادة السابقة وفي تنفيذها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (8) لسنة 1988 بتعديل القرار رقم (1) لسنة 1987م بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
   "short_name": "قرار مجلس الوزراء رقم (8) لسنة 1988 بتعديل القرار رقم (1) لسنة 1987م بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1733&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1988.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1733&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعدل البند (5) من الجزء الأول من المواصفة القياسية الخليجية الخاصة بإطارات سيارات الركوب والمتعلقة بالمسميات والتمييز والبيانات الإيضاحية والأبعاد والأحمال وضغوط النفخ، والتي صدر باعتمادها قرار مجلس الوزراء رقم (1) لسنة 1987 م المشار إليه وذلك على النحو التالي:-\nأن تكون الأبعاد والأحمال وضغوط النفخ لإطارات سيارات الركوب كما هو وارد بالجداول المرفقة، وفي آلة المقاسات غير الواردة بهذه الجداول يراعى أن تتلاءم مع استخداماتها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية. ويعمل به من تاريخ نشره."
+    }
+  ],
   "definitions": []
 }

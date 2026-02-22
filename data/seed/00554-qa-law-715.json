@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (29) لسنة 1996 بشأن قرارات مجلس الوزراء التي ترفع للأمير للتصديق عليها وإصدارها",
   "short_name": "قرار أميري رقم (29) لسنة 1996 بشأن قرارات مجلس الوزراء التي ترفع للأمير للتصديق عليها وإصدارها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=715&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=715&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ترفع إلى الأمير، للتصديق عليهـا وإصدارها، قرارات مجلس الوزراء المتعلقة بالأمور التالية:\n1- اللوائح والقرارات التي تصدر أو تعتمد من مجلس الوزراء تنفيذاً للقوانين.\n2- إنشاء وتنظيم الأجهزة الحكومية والهيئات العامة.\n3- إستتباب الأمن الداخلي والمحافظة على النظام في الدولة.\n4- إعتماد المشروعات الاقتصادية، ووسائل تنفيذها.\n5- رعاية مصالح الدولة في الخارج، وتنظيم علاقاتها الدولية وشئونها الخارجية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على مجلس الوزراء تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

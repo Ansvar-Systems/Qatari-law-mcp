@@ -4,8 +4,27 @@
   "title": "قـرار أمـيـري رقـم (43) لـسـنـة 2025 بـتـعـيــين رئـيـس تـنـفـيـذي للمـؤسـسـة الـقـطـريـة للإعـلام",
   "short_name": "قـرار أمـيـري رقـم (43) لـسـنـة 2025 بـتـعـيــين رئـيـس تـنـفـيـذي للمـؤسـسـة الـقـطـريـة للإعـلام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10191&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10191&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعـين الـشـيـخ/ خـالـد بـن عـبـدالـعـزيـز بـن جـاسـم آل ثـانـي ، رئـيـسـاً تـنـفـيـذيـاً للمـؤسـسـة الـقـطـريـة للإعـلام ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُـلـغـى كـل حـكـم يـخـالـف أحـكـام هـذا الـقـرار ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "عـلـى جـمـيـع الجـهـات المـخـتـصـة ، كـل فـيـمـا يـخـصـه ، تـنـفـيـذ هـذا الـقـرار . ويُعـمـل بـه مـن تـاريـخ صـدوره . ويُـنـشـر فـي الـجـريـدة الـرسـمـيـة ."
+    }
+  ],
   "definitions": []
 }

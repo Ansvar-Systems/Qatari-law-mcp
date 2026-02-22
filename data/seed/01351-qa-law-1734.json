@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (9) لسنة 1997 بإدماج قسم التثقيف الصحي بمؤسسة حمد الطبية في قسم التثقيف الصحي بوزارة الصحة العامة",
   "short_name": "قرار مجلس الوزراء رقم (9) لسنة 1997 بإدماج قسم التثقيف الصحي بمؤسسة حمد الطبية في قسم التثقيف الصحي بوزارة الصحة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1734&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1734&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يدمج قسم التثقيف الصحي بمؤسسة حمد الطبية في قسم التثقيف الصحي بوزارة الصحة العامة وتؤول إليه إختصاصاته، ويتبع قسم التثقيف الصحي وزير الصحة العامة مباشرة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينقل الموظفون العاملون بقسم التثقيف الصحي بمؤسسة حمد الطبية إلى وزارة الصحة العامة، ويشغلون الدرجات المقابلة لدرجاتهم الحالية في قانون الوظائف العامة المدنية ، مع احتفاظهم برواتبهم وبدلاتهم والمزايا المقررة لهم حالياً.\nفإذا كان مجموع ما يتقاضونه من رواتب وبدلات ومزايا يزيد على ما هو مقرر للدرجات التي سيشغلونها، فيتم استهلاك الزيادة من العلاوات الدورية وعلاوات الترقية التي تتقرر لهم مستقبلاً."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

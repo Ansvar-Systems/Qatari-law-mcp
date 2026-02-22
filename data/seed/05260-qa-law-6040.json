@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (1) لسنة 1996 بتعيين مدير لمطار الدوحة الدولي وتحديد اختصاصاته",
   "short_name": "قرار رئيس مجلس الوزراء رقم (1) لسنة 1996 بتعيين مدير لمطار الدوحة الدولي وتحديد اختصاصاته",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6040&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6040&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين الشيخ/ عبد الله بن جاسم آل ثاني مديراً لمطار الدوحة الدولي، بدرجة مساعد وكيل وزارة، ويتبع وزير المواصلات والنقل مباشرة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون مدير المطار هو المسئول عن سير العمل فيه؛ وفقاً لأحكام القانون. وتعتبر جميع الأجهـزة العاملة في المطار، من الوزارات المختلفة، أجهزة معاونة؛ تقوم بأداء عملها طبقاً للسياسة العامة المرسومة لها من وزاراتها، بالتشاور مع مدير المطار، بما يحقق مصلحة العمل به."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

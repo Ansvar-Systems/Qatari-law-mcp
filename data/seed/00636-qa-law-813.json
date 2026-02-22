@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (70) لسنة 2003 بإضافة عضو إلى اللجنة العليا للتنسيق والمتابعة",
   "short_name": "قرار أميري رقم (70) لسنة 2003 بإضافة عضو إلى اللجنة العليا للتنسيق والمتابعة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=813&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=813&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف سعادة الشيخ/سعود بن محمد بن علي آل ثاني، رئيس المجلس الوطني للثقافة والفنون والتراث، إلى عضوية اللجنة العليا للتنسيق والمتابعة، الصادر بإنشائها القرار الأميري رقم (28) لسنة 1999 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

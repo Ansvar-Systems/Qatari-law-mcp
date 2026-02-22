@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية والبترول رقم (1) لسنة 1973 بانتقال التزامات هيئة نقد قطر ودبي الخاصة بالنقد المتداول إلى مؤسسة النقد القطري",
   "short_name": "قرار وزير المالية والبترول رقم (1) لسنة 1973 بانتقال التزامات هيئة نقد قطر ودبي الخاصة بالنقد المتداول إلى مؤسسة النق...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1909&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1973.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1909&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنتقل إلى مؤسسة النقد القطري التزامات هيئة نقد قطر ودبي الخاصة بالنقد المتداول، كما هي في نهاية آخر يوم عمل، مع ما يقابلها من موجودات خارجية، وذلك اعتبارا من اليوم السادس عشر من ربيع الثاني لسنة 1393هـ الموافق اليوم التاسع عشر من شهر مايو لسنة 1973م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

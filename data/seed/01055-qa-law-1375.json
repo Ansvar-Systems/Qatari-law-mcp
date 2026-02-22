@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (10) لسنة 1999 بإعفاء شركة إندستريال اندكميرشل هولدنج (أ.س) ­ كوبنهاجن ­ الدنماركية من ضريبة الدخل",
   "short_name": "قرار مجلس الوزراء رقم (10) لسنة 1999 بإعفاء شركة إندستريال اندكميرشل هولدنج (أ.س) ­ كوبنهاجن ­ الدنماركية من ضريبة الدخل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1375&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1375&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعفى شركة إندستريال اند كميرشل هولدنج (أ.س) &shy; كوبنهاجن &shy; الدنماركية من ضريبة الدخل، المستحقة على الأتاوات والرسوم التي تتقاضاها من شركة أصباغ همبل قطر ذات المسئولية المحدودة، وذلك لمدة عشر سنوات، إعتباراً من سنة 1993 إلى سنة 2002."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

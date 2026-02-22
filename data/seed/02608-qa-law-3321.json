@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (36) لسنة 2010 بالترخيص لوزارة الاقتصاد والمالية بالاقتراض المباشر وبإصدار أوراق دين عام وأوراق مالية إسلامية",
   "short_name": "قرار مجلس الوزراء رقم (36) لسنة 2010 بالترخيص لوزارة الاقتصاد والمالية بالاقتراض المباشر وبإصدار أوراق دين عام وأوراق...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3321&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3321&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص لوزارة الاقتصاد والمالية بصفتها ممثلة لحكومة دولة قطر بالاقتراض المباشر وبإصدار أوراق دين عام وأوراق مالية إسلامية في حدود مبلغ (عشرة مليارات ريال قطرى)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يحدد وزير الاقتصاد والمالية مقدار المصدر من أوراق الدين العام والأوراق المالية الإسلامية المنصوص عليها في المادة السابقة، ومن لهم حق الاكتتاب فيها، ومدة استحقاقها، وعائدها السنوي ومواعيد دفعه، وذلك بحسب متطلبات كل إصدار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا تخضع عوائد أوراق الدين العام والأوراق المالية الإسلامية المصدرة بناءً على هذا القرار للضريبة على الدخل المفروضة بموجب أحكام قانون الضريبة على الدخل المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

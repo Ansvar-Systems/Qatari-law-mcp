@@ -4,8 +4,27 @@
   "title": "قرار المدير العام رقم (70) لسنة 2006م باعتبار مشروع تطوير منطقة محمد بن جاسم (مشيرب) والبدع من أعمال المنفعة العامة",
   "short_name": "قرار المدير العام رقم (70) لسنة 2006م باعتبار مشروع تطوير منطقة محمد بن جاسم (مشيرب) والبدع من أعمال المنفعة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3862&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3862&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنزع للمنفعة العامة ملكية العقارات اللازمة لمشروع تطوير منطقة محمد بن جاسم «مشيرب» والبدع والموضح تفاصيلها وموقعها بالمذكرة و المخطط التوجيهي المرفقين بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تنتعين هندسياً حدود ومعالم العقارات المراد تطويرها وفقاً لما تضمنه الرسم التخطيطي المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كلٌ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

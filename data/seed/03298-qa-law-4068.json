@@ -4,8 +4,27 @@
   "title": "قانون رقم (1) لسنة 1991 بتعديل بعض أحكام قانون عقوبات قطر الصادر بالقانون رقم (14) لسنة 1971",
   "short_name": "قانون رقم (1) لسنة 1991 بتعديل بعض أحكام قانون عقوبات قطر الصادر بالقانون رقم (14) لسنة 1971",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4068&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4068&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف إلى قانون عقوبات قطر الصادر بالقانون رقم (14) لسنة 1971، المشار إليه أربع مواد جديدة، بأرقام 48 مكرر، 48 مكرر (1) مكرر(2)، 48 مكرر (3)، نصها الآتي:"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Article (48)",
+      "content": "مكرر (3):\nيقصد بالأموال العامة في تطبيق أحكام المادتين السابقتين ما يكون كله أو بعضه مملوكاً لإحدى الجهات الآتية أو خاضعاً لإشرافها أو لإدارتها:\n(أ) الدولة والهيئات العامة والمؤسسات العامة.\n(ب) المؤسسات والجمعيات الخاصة ذات النفع العام والاتحادات،\n(ج) الجمعيات التعاونية.\n(د) الشركات والجمعيات والوحدات الاقتصادية التي تساهم فيها إحدى الجهات المنصوص عليها في الفقرات السابقة.\n(هـ) أية جهة أخرى ينص القانون على اعتبار أموالها من الأموال العامة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

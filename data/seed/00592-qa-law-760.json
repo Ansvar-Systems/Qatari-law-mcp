@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (49) لسنة 1998 بإضافة وحدة جديدة إلى الوحدات الإدارية التي يتألف منها الديوان الأميري",
   "short_name": "قرار أميري رقم (49) لسنة 1998 بإضافة وحدة جديدة إلى الوحدات الإدارية التي يتألف منها الديوان الأميري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=760&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=760&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف إلى الوحدات الإدارية التي يتألف منها الديوان الأميري، المنصوص عليها في المادة (7) من المرسوم بقانون رقم (35) لسنة 1995 المشار إليه، وحدة جديدة تسمى «إدارة المتابعة» وتتولى الاختصاصات الآتية:\n1) متابعة تنفيذ الجهات المختلفة في الدولة للمراسلات الصادرة عن رئيس الديوان الأميري، وإعداد التقارير اللازمة بنتائج المتابعة ورفعها إليه.\n2) متابعة تنفيذ القرارات الصادرة عن الديوان الأميري، التي يكلفها رئيس الديوان بمتابعتها.\n3) أمور المتابعة الأخرى التي يكلفها بها رئيس الديوان."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

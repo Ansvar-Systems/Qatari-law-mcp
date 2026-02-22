@@ -4,8 +4,27 @@
   "title": "قرار وزاري رقم (301) لسنة 2017 بإعادة تسمية رئيس وأعضاء لجان فض المنازعات الإيجارية",
   "short_name": "قرار وزاري رقم (301) لسنة 2017 بإعادة تسمية رئيس وأعضاء لجان فض المنازعات الإيجارية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7395&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7395&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُسمى رئيس وأعضاء لجان لفض المنازعات الإيجارية الخمسة على النحو التالي:-\nاللجنة الأولى:\n1- السيد/ حارب راشد حارب المهندي\nرئيساً\n2- السيد/ مبارك سعيد مبارك الهاجري\nعضواً\n3- السيد/ خليفة أحمد خليفة العسيري\nعضواً\nاللجنة الثانية:\n1- السيد/ عايض سعد سعيد القحطاني\nرئيساً\n2- السيد/ علي محمد حسن الحمادي\nعضواً\n3- السيد/ راشد حسين الحسين\nعضواً\nاللجنة الثالثة:\n1- السيد/ محمد علي حمد العذبي\nرئيساً\n2- السيد/ عبدالله صلهام عيد الكبيسي\nعضواً\n3- السيد/ أحمد غانم العلي المعاضيد\nعضواً\nاللجنة الرابعة:\n1- السيد/ ناصر أحمد السعدي\nرئيساً\n2- السيدة/ نوف عبدالرحمن المالكي\nعضواً\n3- السيد/ ناصر حمد سعيد الجبارة\nعضواً\nاللجنة الخامسة:\n1- السيد/ فهد محمد راشد المناعي\nرئيساً\n2- السيد/ مبارك سالم النابت\nعضواً\n3- السيد/ طالب علي سالم العفيفه\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ 1/10/2017، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (113) لسنة 2016 بتخويل بعض موظفي مطار حمد الدولي صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (113) لسنة 2016 بتخويل بعض موظفي مطار حمد الدولي صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7068&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7068&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون للموظفين التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون المشار إليها أعلاه، والقرارات المنفذة له وهم:\nم\nالإسم\nالرقم الشخصي\n1\nسعيد يوسف خاطر السليطي\n26563400981\n2\nياسر سعيد علي العلي\n26963400403\n3\nعبدالله غلام عبدالله جنكير علي\n28563401687\n4\nأحمد عبدالعزيز عبدالله الخاطر\n27563400643\n5\nعبدالعزيز سعود ياسر ياسر المسلم\n27663400543\n6\nناصر محمد راشد المطاوعة\n27463400470\n7\nخالد محمد درويش جاسم عبدالله\n27863402650\n8\nجابر صالح حمد الغفراني المري\n26763400876"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

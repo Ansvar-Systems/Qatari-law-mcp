@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (17) لسنة 1997 بشأن إعفاء الطلبة المعاقين غير القطريين من ثمن الكتب الدراسية وأجور المواصلات",
   "short_name": "قرار مجلس الوزراء رقم (17) لسنة 1997 بشأن إعفاء الطلبة المعاقين غير القطريين من ثمن الكتب الدراسية وأجور المواصلات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1469&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1469&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعفى الطلبة المعاقون غير القطريين من ثمن الكتب الدراسية وأجور المواصلات المقررة بالمرسوم بقانون رقم (12) لسنة 1996 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من 1/9/1997. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

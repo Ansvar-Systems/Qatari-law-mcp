@@ -4,8 +4,21 @@
   "title": "قـرار رقم (84) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قـرار رقم (84) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8985&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8985&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (24) لسنة 2005 المُشار إليه أعلاه، والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nالأمين الطاهر الأمين بدري\nمهندس زراعي ثاني\n2\nرشيد عبدالهادي عبدالهادي\nمهندس زراعي ثالث\n3\nعلي عبد الدافع الطاهر ادريس\nمهندس زراعي ثاني\n4\nعمر عبدالله الطيب إبراهيم\nباحث زراعي ثاني\n5\nعبد الكريم أحمد المحمود\nمهندس زراعي ثالث\n6\nمحمد أحمد سالم الخلاقي اليافعي\nرئيس قسم وقاية النبات والحجر الزراعي\n7\nمحمد أحمد المتولي عوض\nمشرف تفتيش حجر زراعي\n8\nيمام عدنان حاج حسن\nمهندس زراعي ثاني\n9\nرياض حميد كردي مصيول العسافي\nمهندس زراعي ثالث\n10\nخالد هلال يتيم السبيعي العنزي\nاستشاري بيولوجي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

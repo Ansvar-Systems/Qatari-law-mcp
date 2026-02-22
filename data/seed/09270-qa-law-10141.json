@@ -4,8 +4,27 @@
   "title": "قرار وزير البلدية رقم (166) لسنة 2025 بتسمية رئيس وأعضاء لجان فض منازعات التطوير العقاري",
   "short_name": "قرار وزير البلدية رقم (166) لسنة 2025 بتسمية رئيس وأعضاء لجان فض منازعات التطوير العقاري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10141&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10141&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُسمى رئيس وأعضاء لجان فض منازعات التطوير العقاري الثلاثة، على النحو التالي:\nاللجنة الأولى:\n1-\nالسيدة القاضي/ فاطمة عبدالله يوسف المال\nرئيساً\n2 -\nالسيد/ يوسف أبوبكر المصلح\nممثل وزارة البلدية\nعضواً\n3 -\nالسيد/ طالب علي حمد المري\nممثل وزارة العدل\nعضواً\nاللجنة الثانية:\n1-\nالسيدة القاضي/ عائشة حسن إبراهيم العمادي\nرئيساً\n2 -\nالمهندس/ جابر عبدالله القطيري\nممثل وزارة البلدية\nعضواً\n3 -\nالسيد/ حسن أحمد جاسم المنصوري\nممثل وزارة العدل\nعضواً\nاللجنة الثالثة:\n1-\nالسيد القاضي/ عيسى علي عيسى الخليفي\nرئيساً\n2 -\nالمهندس/ سعد عبدالكريم القحطاني\nممثل وزارة البلدية\nعضواً\n3 -\nالسيد/ مهنا طارق عبدالله المسلماني\nممثل وزارة العدل\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

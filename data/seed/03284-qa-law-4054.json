@@ -4,8 +4,21 @@
   "title": "قانون رقم (11) لسنة 1998 بتعديل بعض أحكام قانون الوظائف العامة المدنية الصادر بالمرسوم بقانون رقم (9) لسنة 1967",
   "short_name": "قانون رقم (11) لسنة 1998 بتعديل بعض أحكام قانون الوظائف العامة المدنية الصادر بالمرسوم بقانون رقم (9) لسنة 1967",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4054&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4054&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص البند (5) من المادة (75) من قانون الوظائف العامة المدنية المشار إليه، النص التالي:\n«(5) الفصل بغير الطريق التأديبي بناء على مقتضيات الصالح العام. ويجب في جميع الأحوال، أن يكون هذا الفصل بقرار من رئيس مجلس الوزراء بناء على اقتراح الوزير المختص أو الرئيس الأعلى في الأجهزة الحكومية الأخرى، ويكون هذا القرار نهائياً غير قابل للإلغاء، دون الإخلال بحق المفصول في المطالبة بالتعويض إذا كان لذلك مقتض.\nوتختص بالنظر في طلب التعويض، وحدها دون غيرها، لجنة يصدر بتشكيلها وبيان الإجراءات التي تتبع أمامها، وكيفية أدائها لعملها قرار أميري»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

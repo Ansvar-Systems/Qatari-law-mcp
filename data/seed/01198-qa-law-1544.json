@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (24) لسنة 2003بتعديل بعض رسوم التوثيق",
   "short_name": "قرار مجلس الوزراء رقم (24) لسنة 2003بتعديل بعض رسوم التوثيق",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1544&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1544&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعدل فئات رسوم التوثيق على الإجراءات المنصوص عليها في المادة (23) من القانون رقم (9) لسنة 1979 المشار إليه، على النحو التالي:\nالإجراء المطلوب\nقيمة الرسم\nتوثيق المحرر\nعشرة ريالات\nالتصديق على كل إمضاء أو ختم\nأربعة ريالات\nاستخراج صورة رسمية من المحرر\nخمسة ريالات\nاستخراج شهادة أو ملخص من السجلات أو المحررات أو مرفقاتها\nخمسة ريالات\nالبحث في السجلات والفهارس لاستخراج صورة رسمية أو شهادة أو ملخص للاطلاع\nخمسة ريالات عن كل إسم في كل سنة أو كسورها\nالاطلاع (الكشف النظري) على المحرر\nخمسة ريالات\nانتقال الموثق خارج المكتب\nخمسمائة ريال\nإثبات التاريخ\nعشرة ريالات\nويُفرض رسم مقداره خمسة ريالات على كل إجراء من الإجراءات غير المنصوص عليها في الجدول."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به بعد شهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

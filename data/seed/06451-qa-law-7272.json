@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (14) لسنة 2017 بتعيين مجلس إدارة مصرف قطر المركزي",
   "short_name": "قرار أميري رقم (14) لسنة 2017 بتعيين مجلس إدارة مصرف قطر المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7272&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7272&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين مجلس إدارة مصرف قطر المركزي برئاسة سعادة الشيخ/ عبدالله بن سعود بن عبدالعزيز آل ثاني، محافظ مصرف قطر المركزي، وسعادة الشيخ/ محمد بن حمد بن قاسم العبدالله آل ثاني، نائب المحافظ، وعضوية كل من:\n1- سعادة الدكتور/ صالح بن محمد النابت، وزير التخطيط التنموي والإحصاء.\n2- سعادة الدكتور/ إبراهيم الإبراهيم.\n3- سعادة السيد/ خلف بن أحمد المناعي، ممثلاً عن وزارة المالية.\n4- سعادة السيد/ سلطان بن راشد الخاطر، ممثلاً عن وزارة الاقتصاد والتجارة.\n5- السيد/ ناصر أحمد الشيبي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات، قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 19/6/2017. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

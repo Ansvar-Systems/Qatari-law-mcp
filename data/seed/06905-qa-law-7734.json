@@ -4,8 +4,21 @@
   "title": "قرار رقم (92) لسنة 2018 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (92) لسنة 2018 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7734&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7734&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (32) لسنة 1995 بشأن منع الإضرار بالبيئة النباتية ومكوناتها المُشار إليه والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nالدانة هادي محمد المري.\nباحث إداري ثاني.\n2\nبينة هادي محمد المري.\nأخصائي توثيق ومكتبات.\n3\nنائلة عبدالكريم الحمادي.\nباحث شئون إدارية ثالث.\n4\nشيخة محمد أحمد الشيب.\nمفتش صحة عامة ثاني.\n5\nفاطمة محمد الكبيسي.\nمراقب حدائق رابع.\n6\nمنال على سالم الشرف.\nمنسق خدمة عملاء ثاني."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

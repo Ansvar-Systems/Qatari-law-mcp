@@ -4,8 +4,21 @@
   "title": "قرار رقم (28) لسنة 2008 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (28) لسنة 2008 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3693&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3693&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الاقتصاد والتجارة التالي اسميهما، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (8) لسنة 2002 بشأن تنظيم أعمال الوكلاء التجاريين والقرارات المُنفذة له وهما:\nالإسم\nالمسمى الوظيفي\nغانم شاهين الغانم.\nأخصائي شؤون تجارية\nعيسى عبد العزيز عبد الله المسلم.\nمشرف كتبة شؤون تجارية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

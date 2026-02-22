@@ -4,8 +4,33 @@
   "title": "قرار وزير التجارة والصناعة رقم (18) لسنة 2021 بتحوّل شركة الفالح التعليمية القابضة من شركة ذات مسئولية محدودة الى شركة مساهمة عامة قطرية",
   "short_name": "قرار وزير التجارة والصناعة رقم (18) لسنة 2021 بتحوّل شركة الفالح التعليمية القابضة من شركة ذات مسئولية محدودة الى شرك...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8582&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8582&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحوّل شركة الفالح التعليمية القابضة من شركة ذات مسئولية محدودة إلى شركة مساهمة عامة قطرية برأس مال مصدر ومقداره (240,000,000 ريال) مائتان وأربعون مليون ريال قطري، وفقاً لأحكام المادة ( 271 ) من قانون الشركات التجارية المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس والنظام الأساسي المُشار إليهما، وتلتزم الشركة بأحكام قانون الشركات التجارية المشار إليه، فيما لم يرد بشأنه نص خاص في عقد التأسيس والنظام الأساسي."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على تحوّل الشركة نشوء شخص معنوي جديد، وتظل الشركة محتفظة بحقوقها والتزاماتها السابقة على التحوّل."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به اعتباراً من تاريخ صدوره، ويتم شهره وفقاً لأحكام قانون الشركات التجارية المُشار إليه."
+    }
+  ],
   "definitions": []
 }

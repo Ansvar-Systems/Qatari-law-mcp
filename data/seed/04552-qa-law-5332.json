@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (23) لسنة 2009 بتعيين رئيس ونائب رئيس وأعضاء المجلس الأعلى لشؤون الأسرة",
   "short_name": "قرار أميري رقم (23) لسنة 2009 بتعيين رئيس ونائب رئيس وأعضاء المجلس الأعلى لشؤون الأسرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5332&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5332&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل المجلس الأعلى لشؤون الأسرة من سعادة الشيخة حصة بنت حمد بن خليفة آل ثاني رئيساً، والدكتورة/ جهينة آل عيسى نائباً للرئيس، وعضوية كل من:\n1- سعادة السيد/ ناصر بن عبدالله الحميدي.\n2- سعادة الدكتور/ إبراهيم الإبراهيم.\n3- السيد/ عبدالله بن ناصر آل خليفة.\n4- الدكتورة/ حنان الكواري.\n5- السيدة/ صباح الهيدوس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

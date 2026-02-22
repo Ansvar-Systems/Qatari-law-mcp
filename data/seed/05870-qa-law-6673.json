@@ -4,8 +4,27 @@
   "title": "قرار وزير التعليم والتعليم العالي رقم (12) لسنة 2015م بتحديد رسوم بعض الخدمات التي يؤديها المجلس الأعلى للتعليم",
   "short_name": "قرار وزير التعليم والتعليم العالي رقم (12) لسنة 2015م بتحديد رسوم بعض الخدمات التي يؤديها المجلس الأعلى للتعليم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6673&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6673&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحدد رسم مقداره (10) عشرة ريالات مقابل الحصول على أي من الشهادات والمستندات التي يصدرها المجلس الأعلى للتعليم، على النحو الموضح بالجدول المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى القرار الوزاري رقم (18) لسنة 1987 المشار إليه، كما يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به بعد شهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

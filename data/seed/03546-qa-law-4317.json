@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (188) لسنة 2007م بتأسيس شركة مساهمة قطرية خاصة باسم/ شركة مكين للتطوير والاستثمار العقاري",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (188) لسنة 2007م بتأسيس شركة مساهمة قطرية خاصة باسم/ شركة مكين للتطوير والاستثمار الع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4317&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4317&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص للسادة الواردة أسمائهم في عقد التأسيس والنظام الأساسي المرفق في أن يؤسسوا فيما بينهم شركة مساهمة قطرية تسمى \"شركة/ مكين للتطوير والاستثمار العقاري\" برأس مال قدره مائة مليون ريال (100,000,000) ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس والنظام الأساسي المرفق نصها بهذا القرار، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها فيما لم يرد بشأنه نص في النظام الأساسي."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

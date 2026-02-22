@@ -4,8 +4,15 @@
   "title": "قرار رئيس مجلس الوزراء رقم (2) لسنة 2021 بتعيين مساعد نيابة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (2) لسنة 2021 بتعيين مساعد نيابة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8557&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8557&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "قرار رئيس مجلس الوزراء رقم (2) لسنة 2021 بتعيين مساعد نيابة\nقرار رئيس مجلس الوزراء رقم (2) لسنة 2021 بتعيين مساعد نيابة 2 / 2021\nرئيس مجلس الوزراء،\nبعد الاطلاع على الدستور ،\nوعلى القانون رقم (10) لسنة 2002 بشأن النيابة العامة، والقوانين المعدلة له، وعلى اقتراح النائب العام،\nقرر ما يلي"
+    }
+  ],
   "definitions": []
 }

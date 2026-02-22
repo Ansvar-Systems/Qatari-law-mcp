@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (117) لسنة 2025 بشأن رفع نسبة الرسوم الجمركية على حديد التسليح ولفائف الحديد",
   "short_name": "مرسوم رقم (117) لسنة 2025 بشأن رفع نسبة الرسوم الجمركية على حديد التسليح ولفائف الحديد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10277&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10277&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُرفع نسبة الرسوم الجمركية على أصناف حديد التسليح ولفائف الحديد ، المبينة بالجدول المرفق بهذا المرسوم ، إلى (10%) من قيمة البضاعة ، وذلك لمدة عام من تاريخ انتهاء العمل بالمرسوم رقم (88) لسنة 2024 المشار إليه ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

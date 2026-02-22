@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (6) لسنة 2014 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (6) لسنة 2014 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6141&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6141&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السادة الآتية أسماؤهم في الوظيفة المبينة قرين كل منهم:\n1- عز الدين الغريبي\nوكيل نيابة أول.\n2- حمد محمد زعل الجفالي النعيمي\nوكيل نيابة.\n3- فهد راشد حمد ربيعة الكعبي\nوكيل نيابة.\n4- فهد حمد سالم بو شهاب آل سنيد\nوكيل نيابة.\n5- علي سعيد علي الإبراهيم المهندي\nوكيل نيابة.\n6- حمد صقر محمد صقر المفتاح\nوكيل نيابة مساعد.\n7- سعيد موسى فرج الماس\nوكيل نيابة مساعد.\n8- أحمد يوسف أحمد الكواري\nوكيل نيابة مساعد.\n9- محمد إبراهيم يوسف الحسن المهندي\nوكيل نيابة مساعد.\n10- حمد محمد عمر محسن الكثيري\nوكيل نيابة مساعد.\n11- صالح عبد الله محمد راشد الوارد\nوكيل نيابة مساعد.\n12- أحمد صالح أحمد عبد الرحمن الزمان\nوكيل نيابة مساعد.\n13- محمد سلطان محمد آل مذكور الخالدي\nوكيل نيابة مساعد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

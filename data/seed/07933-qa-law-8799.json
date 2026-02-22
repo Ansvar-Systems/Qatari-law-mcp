@@ -4,8 +4,33 @@
   "title": "قرار محافظ مصرف قطر المركزي رقم (12) لسنة 2021 بالموافقة النهائية على اندماج مصرف الريان وبنك الخليج التجاري",
   "short_name": "قرار محافظ مصرف قطر المركزي رقم (12) لسنة 2021 بالموافقة النهائية على اندماج مصرف الريان وبنك الخليج التجاري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8799&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8799&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "الموافقة النهائية على الاندماج بطريق الضم بين مصرف الريان (البنك الدامج) وبنك الخليج التجاري (البنك المندمج)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يحل مصرف الريان (البنك الدامج) حكماً وقانوناً محل بنك الخليج التجاري (البنك المندمج)، وذلك في جميع حقوقه والتزاماته قبل الغير، وفي جميع الاجراءات بما في ذلك الدعاوى والإجراءات القضائية، وذلك اعتباراً، من تاريخ صدور هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يجب على مصرف الريان (البنك الدامج) أن ينشر في الجريدة الرسمية، وفي صحيفتين يوميتين محليتين على الأقل تصدر أحدهما باللغة العربية والآخرة باللغة الإنجليزية، وذلك خلال شهر من تاريخ صدور هذا القرار، مُلخصاً عن قرارات الجمعيات العمومية غير العادية ذات الصلة بقرار الاندماج، وكذلك القرار النهائي بالموافقة على الاندماج."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المحتصة تنفيذ هذا القرار ويُعمل به من تاريخه ويلغي كل ما يخالفه."
+    }
+  ],
   "definitions": []
 }

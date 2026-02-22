@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (31) لسنة 2005 بتشكيل لجنة مكافحة التستر",
   "short_name": "قرار مجلس الوزراء رقم (31) لسنة 2005 بتشكيل لجنة مكافحة التستر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4032&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4032&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة مكافحة التستر بوزارة الاقتصاد والتجارة على النحو التالي:\n- ممثلين اثنين عن وزارة الاقتصاد والتجارة يكون أحدهما رئيساً للجنة.\n- ممثل عن وزارة الداخلية.\n- ممثل عن وزارة المالية.\n- ممثل عن جهاز أمن الدولة.\n- ممثل عن مصرف قطر المركزي.\nوتختار كل جهة من يمثلها في اللجنة. ويصدر بتسمية رئيس وأعضاء اللجنة قرار من وزير الاقتصاد والتجارة. وتختار اللجنة نائباً للرئيس من بين أعضائها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

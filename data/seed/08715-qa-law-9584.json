@@ -4,8 +4,21 @@
   "title": "مرسوم رقم ( 30 ) لسنة 2024 بالتصديق على اتفاقية بين حكومة دولة قطر وحكومة جمهورية مصر العربية بشأن إزالة الازدواج الضريبي بالنسبة للضرائب على الدخل ومنع التهرب من الضرائب وتجنبها ، والبروتوكول الملحق بها",
   "short_name": "مرسوم رقم ( 30 ) لسنة 2024 بالتصديق على اتفاقية بين حكومة دولة قطر وحكومة جمهورية مصر العربية بشأن إزالة الازدواج الض...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9584&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9584&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية بين حكومة دولـــة قـطــر وحـكـومـــة جمهورية مصر العربية بشأن إزالة الازدواج الضريبي بالنسبة للضرائب على الدخل ومنع التهرب من الضرائب وتجنبها ، والبروتوكول الملحق بها ، الموقع عليهما بمدينة الدوحة بتاريخ 2023/02/27 ، المرفق نصهما بهذا المرسوم، وتكون لهما قوة القانون ، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

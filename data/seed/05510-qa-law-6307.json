@@ -4,8 +4,21 @@
   "title": "قرار رقم (108) لسنة 2014م بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (108) لسنة 2014م بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6307&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6307&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون المشار إليها أعلاه، والقرارات المنفذة له وهم:\nم\nالإسم\n1\nسعد إبراهيم سعد سلطان المضاحكة\n2\nمحمود محمد عبدالفتاح يوسف\n3\nأحمد عيد زغلي شادي\n4\nإبراهيم غازي محمد النوحي\n5\nعائشة عثمان حسن عثمان اليوسف\n6\nمحمد صالح العطان المري\n7\nحمد إبراهيم الشيخ حسين علي الشيخ\n8\nحسن عبدالرحمن ناصر البوعينين\n9\nعبدالله محمد السادة\n10\nجاسم محمد حسن علي المرزوقي\n11\nمحمد حمد سالم الغفراني المري\n12\nأيمن قاسم الرفاعي\n13\nخالد محمد الواوي\n14\nجمال محمد فريد زيد\n15\nأشرف عبدالخالق والي اسماعيل\n16\nسمير حيدر الطلب\n17\nد. عبدالله الفاضل أحمد أدريس\n18\nد. أحمد بابكر عمر كينان"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

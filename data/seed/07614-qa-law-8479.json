@@ -4,8 +4,21 @@
   "title": "قرار رئيس الهيئة العامة للضرائب رقم (8) لسنة 2020 بتعديل بعض احكام القرار رقم (8) لسنة 2019 بشأن الجزاءات على مخالفة الالتزامات المتعلقة بتطبيق المعيار المشترك للابلاغ",
   "short_name": "قرار رئيس الهيئة العامة للضرائب رقم (8) لسنة 2020 بتعديل بعض احكام القرار رقم (8) لسنة 2019 بشأن الجزاءات على مخالفة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8479&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8479&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعدل الفقرتان رقم (6 و7) من المادة (2) من قرار رئيس الهيئة العامة للضرائب رقم 8 لسنة 2019 المشار إليه أعلاه كالأتي:\n6. كل مؤسسة مالية أو شخص أو وسيط يتبنى ممارسات فيها التفاف على إجراءات الإبلاغ والعناية الواجبة بموجب المعيار والتعليقات يوقع عليه جزاء مالي مقداره (20.000) عشرون ألف ريال\n7. كل صاحب حساب، أو من يمثله، يوقّع أو يؤكد على شهادة ذاتية غير صحيحة يوقع عليه جزاء مالي مقداره (5,000) خمسة آلاف ر&#1740;ال"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

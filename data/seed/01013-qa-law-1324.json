@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (88) لسنة 2004 بالموافقة على انضمام دولة قطر إلى الاتفاقية الدولية الخاصة بالمساعدة الإدارية المتبادلة لمنع وتقصي وقمع المخالفات الجمركية وملاحقها",
   "short_name": "مرسوم رقم (88) لسنة 2004 بالموافقة على انضمام دولة قطر إلى الاتفاقية الدولية الخاصة بالمساعدة الإدارية المتبادلة لمنع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1324&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1324&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى الاتفاقية الدولية الخاصة بالمساعدة الإدارية المتبادلة لمنع وتقصي وقمع المخالفات الجمركية و ملاحقها ، المبرمة في نيروبي بتاريخ 9/6/1977، والمرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقا للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

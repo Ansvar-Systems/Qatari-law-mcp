@@ -4,8 +4,21 @@
   "title": "قانون رقم (4) لسنة 1996 بتعديل بعض أحكام المرسوم بقانون رقم (29) لسنة 1966 بتنظيم موانئ قطر البحرية",
   "short_name": "قانون رقم (4) لسنة 1996 بتعديل بعض أحكام المرسوم بقانون رقم (29) لسنة 1966 بتنظيم موانئ قطر البحرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=317&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=317&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف إلى المادة (61) من القانون رقم (29) لسنة 1966 المشار إليه، فقرة يكون نصها كما يلي.\n«ويجوز بقرار من مجلس الوزراء، بناء على اقتراح وزير المواصلات والنقل، إعفاء بعض الأشخاص، المذكورين بالفقرة السابقة، من كل أو بعض الرسوم والأجور المشار إليها، أو تخفيضها. وله أن يحدد، لسريان هذا الإعفاء أو التخفيض، مدة معينة، إذا اقتضى ذلك تشجيع الملاحة في الموانئ البحرية »."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

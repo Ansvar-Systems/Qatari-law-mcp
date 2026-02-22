@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (16) لسنة 1994 بالتصديق على الاتفاقية رقم (80359) الخاصة بمشروع رأس أبو فنطاس (ب) بين حكومة دولة قطر وشركة (إيه. بي. بي. كرافت فيرك اكسينغسلشافت-منهايم- ألمانيا",
   "short_name": "مرسوم رقم (16) لسنة 1994 بالتصديق على الاتفاقية رقم (80359) الخاصة بمشروع رأس أبو فنطاس (ب) بين حكومة دولة قطر وشركة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=925&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=925&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على الاتفاقية رقم (80359) المبرمة بين حكومة دولة قطر وشركة (إيه. بي. بي. كرافت فيرك اكسينغسلشافت-منهايم- ألمانيا)، والخاصة بمشروع محطة الكهرباء وتحلية المياه في رأس أبو فنطاس (ب) الموقعة بتاريخ 23/12/1993."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية والاقتصاد والتجارة نيابة عن حكومة دولة قطر في التوقيع على السندات الإذنية واتفاقية حفظ السندات المنصوص عليهـما في الاتفاقية رقم (80359) المشار إليها، وذلك وفقاً للشروط الواردة بالاتفاقية المذكورة والملاحق المرفقة بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

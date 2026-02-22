@@ -4,8 +4,21 @@
   "title": "قانون رقم (9) لسنة 1989 بشأن مساواة مواطني دول مجلس التعاون لدول الخليج العربية في المعاملات الضريبية",
   "short_name": "قانون رقم (9) لسنة 1989 بشأن مساواة مواطني دول مجلس التعاون لدول الخليج العربية في المعاملات الضريبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=436&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1989.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=436&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعامل مواطنو دول مجلس التعاون لدول الخليج العربية معاملة المواطنين القطريين، بما يحقق المساواة بينهم في المعاملات الضريبية، عند ممارستهم الأنشطة الاقتصادية المسموح بها بما في ذلك الحرف والمهن، وذلك وفقاً للاتفاقية الاقتصادية الموحدة وقرارات المجلس الأعلى لمجلس التعاون لدول الخليج العربية والقوانين الصادرة تنفيذاً لها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "لا تخل أحكام المادة السابقة بأية مزايا ضريبية أفضل تمنحها دولة قطر لمواطني دول مجلس التعاون.\nعلى جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من أول مارس 1989. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (54) لسنة 2011 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (54) لسنة 2011 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3795&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3795&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، كل حسب اختصاصه الوظيفي، صفة مأموري الضبط القضائي في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (8) لسنة 1990 م المشار إليه والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nاحمد نور الدين احمد عامر\nمراقب أغذية\n2\nعبدالله محمود جاسم المحمود\nكيميائي أول\n3\nعبدالله عايد رحبان الرويلي\nمفتش أغذية أول\n4\nسعد إبراهيم سعد المضاحكة\nضابط أراضي\n5\nسعد مبارك مهل الدوسري (ملغي)\nمراقب رخص تجارية\n6\nمحمد فيصل جبر النعيمي\nمفتش أراضي أول\n7\nعبدالله علي مبارك المهندي\nمفتش رخص تجارية\n8\nمنصور راشد ماجد المنصوري\nطابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

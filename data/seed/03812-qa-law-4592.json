@@ -4,8 +4,45 @@
   "title": "وثيقة تأسيس مؤسسة آفاق (مؤسسة خاصة ذات نفع عام)",
   "short_name": "وثيقة تأسيس مؤسسة آفاق (مؤسسة خاصة ذات نفع عام)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4592&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4592&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "اسم المؤسسة: آفاق (مؤسسة خاصة ذات نفع عام)"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "المقر الرئيسي للمؤسسة ومحلها القانوني مدينة الدوحة، ويجوز للمؤسسة إنشاء فروع أو مكاتب لها داخل وخارج دولة قطر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تهدف المؤسسة إلى مساعدة المؤسسات التعليمية التي تشرف عليها الدولة في القيام بمهامها بجودة تنافسية عالية الكفاءة، وقدرة على تزويد المجتمع بخبرات تعليمية متميزة، من خلال المساهمة في تطوير نظام تعليمي عماده التميز، ومستنداً إلى معايير عالمية وقيم اجتماعية، وروح تنافسية عالية، مما يسهم في تقدم دولة قطر في خضم الاقتصاد المعرفي العالمي."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "خُصص للمؤسسة مبلغ (00/200000 مئتي ألف ريال قطري)، لدى البنك التجاري القطري لتغطية نفقاتها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تُسجل المؤسسة وتُشهر طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه. وتعمل وفقاً للنظام الأساسي الصادر من المؤسس."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "حررت هذه الوثيقة من نسختين متطابقتين تودع واحدة منها لدى الجهة المختصة بتوثيق المحررات، وتحتفظ المؤسسة بالنسخة الأخرى."
+    }
+  ],
   "definitions": []
 }

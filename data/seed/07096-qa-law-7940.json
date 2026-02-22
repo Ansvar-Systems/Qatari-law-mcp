@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (6) لسنة 2019 بتعيين وكيل وزارة مساعد لشؤون النقل البحري",
   "short_name": "قرار رئيس مجلس الوزراء رقم (6) لسنة 2019 بتعيين وكيل وزارة مساعد لشؤون النقل البحري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7940&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7940&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد الدكتور/ صالح محسن فطيس المري، وكيل وزارة مساعد لشؤون النقل البحري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير العدل رقم (55) لسنة 2021 بتعديل بعض أحكام قرار وزير العدل رقم (22) لسنة 2021 بإعادة تسمية رئيس وأعضاء لجنة شؤون الخبراء",
   "short_name": "قرار وزير العدل رقم (55) لسنة 2021 بتعديل بعض أحكام قرار وزير العدل رقم (22) لسنة 2021 بإعادة تسمية رئيس وأعضاء لجنة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8790&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8790&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيّد/ أحمد حسن جاسم الكواري، وكيل الوزارة المساعد للشؤون القانونية، محل السيّد/ علي محمد اليافعي، في رئاسة اللجنة المشار إليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه. تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

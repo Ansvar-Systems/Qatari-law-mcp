@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (20) لسنة 2019 بتشكيل مجلس إدارة المدينة الإعلامية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (20) لسنة 2019 بتشكيل مجلس إدارة المدينة الإعلامية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8055&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8055&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة المدينة الإعلامية، على النحو التالي:\n1- سعادة الشيخ/ سيف بن أحمد آل ثاني رئيسا\n2- السيد/ عبدالرحمن شريف العمادي نائبا للرئيس\n3- السيد/ محمد علي المناعي عضوا\n4- السيد/ يوسف إبراهيم المالكي عضوا\n5- سعادة السيدة/ لولوة راشد الخاطر عضوا\n6- الشيخ/ أحمد بن سعود آل ثاني عضوا\n7- السيدة/ نورة ناصر النعيمي عضوا"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

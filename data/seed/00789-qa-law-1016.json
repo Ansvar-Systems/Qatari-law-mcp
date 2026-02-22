@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (28) لسنة 1983 بمد مدة امتياز النقل البحري وأعمال وكالات البواخر الممنوح لشركة قطر الوطنية للملاحة والنقليات المحدودة",
   "short_name": "مرسوم رقم (28) لسنة 1983 بمد مدة امتياز النقل البحري وأعمال وكالات البواخر الممنوح لشركة قطر الوطنية للملاحة والنقليا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1016&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1983.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1016&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تجدد مدة امتياز أعمال النقل البحري للبضائع بين الموانئ القطرية وأعمال وكالات البواخر المنصوص عليه في المواد ( 1 )، ( 2 )، ( 4 ) من القانون رقم (14) لسنة 1963م المشار إليه الممنوح لشركة قطر الوطنية للملاحة والنقليات المحدودة، لمدة خمس عشرة سنة تبدأ من تاريخ نهاية مدة الامتياز الأصلية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به اعتبارا من 3/6/1983. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

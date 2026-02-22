@@ -4,8 +4,27 @@
   "title": "قرار وزير المالية رقم (13) لسنة 2018 بتعديل بعض أحكام قرار وزير المالية رقم (23) لسنة 2017 بتسمية أعضاء اللجنة الوطنية لنظام التخليص الجمركي (النافذة الواحدة)",
   "short_name": "قرار وزير المالية رقم (13) لسنة 2018 بتعديل بعض أحكام قرار وزير المالية رقم (23) لسنة 2017 بتسمية أعضاء اللجنة الوطني...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7613&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7613&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيد / محمد بن أحمد المهندي، القائم بأعمال مساعد رئيس الهيئة العامة للجمارك، محل السيد / أحمد بن عيسى المهندي، رئيساً للجنة الوطنية لنظام التخليص الجمركي (النافذة الواحدة) وتكون مدة رئاسته مكمله لمدة رئاسة سلفه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يمثل الهيئة العامة للجمارك في عضوية اللجنة السيد / سلطان عبد اللطيف النعيمي، ويُعين كنائب للرئيس، وتكون مدة عضويته مكملة لمدة عضوية سلفه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

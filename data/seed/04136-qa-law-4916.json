@@ -4,8 +4,15 @@
   "title": "استدراك",
   "short_name": "استدراك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4916&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4916&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "استدراك\nاستدراك 0 / 2012\nوفقاً لكتاب نائب رئيس مجلس الوزراء ووزير الدولة لشؤون مجلس الوزراء رقم ص م و /1589 بتاريخ 23/11/1433هـ الموافق 9/10/2012م، يصحح البند (4) من المادة (6) من القرار الأميري رقم (51) لسنة 2012 بتنظيم العلاج الطبي في الخارج على النحو التالي:-\nالنص قبل التصحيح\nالنص بعد التصحيح\n4- \"النفقات اليومية للمأكل والمسكن والتنقلات للمريض والمرافقين، وذك وفقاً للوائح التي يصدرها المجلس\".\n4- \"النفقات اليومية للمأكل والمسكن والتنقلات للمريض والمرافقين، وذلك وفقاً للوائح التي يُصدرها مجلس الوزراء\"."
+    }
+  ],
   "definitions": []
 }

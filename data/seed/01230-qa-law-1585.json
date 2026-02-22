@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (2) لسنة 1994 بشأن تحديد رأس المال المدفوع للمؤسسة العامة القطرية للاتصالات السلكية واللاسلكية",
   "short_name": "قرار مجلس الوزراء رقم (2) لسنة 1994 بشأن تحديد رأس المال المدفوع للمؤسسة العامة القطرية للاتصالات السلكية واللاسلكية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1585&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1585&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحدد رأس المال المدفوع للمؤسسة العامة القطرية للإتصالات السلكية واللاسلكية بمبلغ 96/862,234,506 ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من تاريخ العمل بالقانون رقم (13) لسنة 1987 المشار إليه. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

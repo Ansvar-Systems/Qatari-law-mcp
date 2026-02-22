@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة 2005 بتحديد مقر مركز قطر للمال",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة 2005 بتحديد مقر مركز قطر للمال",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1664&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1664&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون مقر مركز قطر للمال بمدينة الدوحة بمبنى وزارة الاقتصاد والتجارة بالطابق الرابع عشر بصفة مؤقتة، ويباشر نشاطه فيه إلى حين تحديد مقره الدائم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من 1/5/2005 وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

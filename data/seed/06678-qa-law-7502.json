@@ -4,8 +4,27 @@
   "title": "قرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية رقم (46) لسنة 2017 بشأن إيقاف مجلس إدارة جمعية المهندسين القطرية وتعيين مجلس إدارة مؤقت",
   "short_name": "قرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية رقم (46) لسنة 2017 بشأن إيقاف مجلس إدارة جمعية المهندسين القطرية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7502&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7502&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إيقاف مجلس إدارة جمعية المهندسين القطرية عن العمل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تعيين مجلس إدارة مؤقت لجمعية المهندسين القطرية لمدة لا تجاوز سنة يتشكل من:\n1- المهندس/ خالد عبد الرحيم يوسف حسن السيد.\n2- المهندس/ عبد العزيز علي عبد الله جابر الإسحاق.\n3- المهندس/ عبدالله سلطان علي عبدالله العلي.\n4- المهندس/ محمد عبد الله سعد الكواري.\n5- المهندس/ محمد مسفر ناصر الحشيفان الهاجري."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

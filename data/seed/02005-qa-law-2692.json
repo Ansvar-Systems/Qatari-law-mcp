@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (19) لسنة 2010 بتعديل بعض أحكام القانون رقم (19) لسنة 2002 بإنشاء صندوق قطر للتنمية",
   "short_name": "مرسوم بقانون رقم (19) لسنة 2010 بتعديل بعض أحكام القانون رقم (19) لسنة 2002 بإنشاء صندوق قطر للتنمية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2692&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2692&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف إلى القانون رقم (19) لسنة 2002 المشار إليه، مادة برقم (31 مكرراً)، نصها التالي:"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article (31)",
+      "content": "مكرراً):\n«للمجلس أن يفوِّض بنك قطر للتنمية في إدارة العمليات التنفيذية للصندوق، وفقاً للسياسة العامة التي يضعها المجلس.\nوتُحدد الرسوم التي يستحقها البنك، مقابل هذه الإدارة، بالاتفاق بين الصندوق والبنك.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

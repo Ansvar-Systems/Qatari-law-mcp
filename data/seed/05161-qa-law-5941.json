@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (6) لسنة 1998 بتعيين قاضيين بالمحاكم الشرعية",
   "short_name": "مرسوم رقم (6) لسنة 1998 بتعيين قاضيين بالمحاكم الشرعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5941&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5941&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين قاضياً بالمحاكم الشرعية كل من السيدين:\n1- حمد محمود المحمود\n2- أنور محمد عباس البدوي\nويتقاضى كل منهما مرتباً شهرياً قدره-/8,000 ريال، مع علاوة سنوية قدرها-/200 ريال في الشهر، حتى يصل المرتب إلى 9000 ريال شهرياً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

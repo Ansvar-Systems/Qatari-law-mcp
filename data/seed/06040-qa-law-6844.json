@@ -4,8 +4,27 @@
   "title": "قرار وزير العمل والشؤون الاجتماعية رقم (10) لسنه 2015 بالموافقة على تجديد ترخيص الجمعية القطرية لمهندسي البترول (جمعية مهنية)",
   "short_name": "قرار وزير العمل والشؤون الاجتماعية رقم (10) لسنه 2015 بالموافقة على تجديد ترخيص الجمعية القطرية لمهندسي البترول (جمعي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6844&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6844&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "وُوفق على تجديد ترخيص الجمعية القطرية لمهندسي البترول لمدة ثلاث سنوات اعتباراً من تاريخ 12/6/2015م، وحتى تاريخ 11/6/2018م (جمعية مهنية)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُجدد الترخيص المنصوص عليه في المادة السابقة، ويشهر وفقاً لأحكام القانون رقم (12) لسنة 2004 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

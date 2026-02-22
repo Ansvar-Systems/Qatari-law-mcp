@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (29) لسنة 2019 بتعديل بعض أحكام القرار رقم (28) لسنة 2018 بإنشاء اللجنة الدائمة للإشراف العام ومتابعة انجاز استراتيجيات التنمية الوطنية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (29) لسنة 2019 بتعديل بعض أحكام القرار رقم (28) لسنة 2018 بإنشاء اللجنة الدائمة للإشراف ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8150&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8150&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"تنشأ لجنة تسمى \"اللجنة الدائمة للإشراف العام ومتابعة انجاز استراتيجيات التنمية الوطنية\" وتشكل برئاسة وزير العدل القائم بأعمال وزير الدولة لشؤون مجلس الوزراء، وعضوية كل من:\n- رئيس جهاز التخطيط والإحصاء.\n- رئيس المكتب الفني بمكتب رئيس مجلس الوزراء.\n- ممثل عن وزارة المالية، يختاره وزير المالية.\n- ممثل عن ديوان المحاسبة، يختاره رئيس الديوان.\n- ممثل عن هيئة الرقابة الإدارية والشفافية، يختاره رئيس الهيئة.\nويتولى أمانة السر موظف أو أكثر، يصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من رئيس اللجنة\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

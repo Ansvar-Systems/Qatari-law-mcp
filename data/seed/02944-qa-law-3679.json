@@ -4,8 +4,21 @@
   "title": "قرار رقم (24) لسنة 2006 بشأن تخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (24) لسنة 2006 بشأن تخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3679&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3679&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي إدارة الثروة السمكية في وزارة الشؤون البلدية والزراعة التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (4) لسنة 1983 ، المشار إليه والقرارات المنفذة له وهم:\nم\nالإسم\n1\nنواف راشد صقر الجبر النعيمي\n2\nعبدالرحمن سعيد جاسم الكواري\n3\nمنصور عبده مرشد صويلح الشعر\n4\nسيف ماجد عبدالله ماجد الكواري\n5\nصالح محمد عبدالله الدسم الكبيسي\n6\nإبراهيم عبدالله علي محمد الحرمي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

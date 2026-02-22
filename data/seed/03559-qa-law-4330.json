@@ -4,8 +4,21 @@
   "title": "قرار وزير البيئة رقم (28) لسنة 2011 بشأن أعتماد بعض اللوائح الفنية والمواصفات القياسية الخليجية لوائح فنية ومواصفات قياسية قطرية",
   "short_name": "قرار وزير البيئة رقم (28) لسنة 2011 بشأن أعتماد بعض اللوائح الفنية والمواصفات القياسية الخليجية لوائح فنية ومواصفات ق...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4330&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4330&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد اللوائح الفنية والمواصفات القياسية الخليجية، المبينة أرقامها وعناوينها بالجداول من (1) إلى (29) ، المرفقة بهذا القرار، لوائح فنية ومواصفات قياسية قطرية، وفقاً للبيانات المحددة قرين كل منها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

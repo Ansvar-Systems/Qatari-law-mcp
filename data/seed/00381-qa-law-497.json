@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (16) لسنة 1996 بتعديل بعض أحكام القانون رقم (7) لسنة 1996 بشأن تنظيم العلاج الطبي والخدمات الصحية في الداخل",
   "short_name": "مرسوم بقانون رقم (16) لسنة 1996 بتعديل بعض أحكام القانون رقم (7) لسنة 1996 بشأن تنظيم العلاج الطبي والخدمات الصحية في...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=497&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=497&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 8 ) من القانون رقم (7) لسنة 1996 المشار، إليه النص الآتي:"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "«يجوز، بقرار من وزير الصحة العامة، تعديل رسوم وأجور العلاج الطبي والخدمات الصحية المنصوص عليها في الجداول المرافقة ( 14 - 15 - 16 - 17 ) لهذا القانون أو إضافة رسوم وأجور جديدة لها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

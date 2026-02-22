@@ -4,8 +4,21 @@
   "title": "قرار رقم (126) لسنة 2024 بتخويل بعض موظفي وزارة البيئة والتغير المناخي صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (126) لسنة 2024 بتخويل بعض موظفي وزارة البيئة والتغير المناخي صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9816&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9816&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البيئة والتغير المناخي التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام المرسوم بقانون المشار إليه أعلاه، والقرارات المنفذة له، وهم:\nم\nالإسـ م\nالمسمى الوظيفي\n1\nهلال سعد هلال الفرحان النعيمي\nمدير مكتب وكيل.م. لشؤون الحماية والمحميات\n2\nعلي جاسم محمد ال جهام الكواري\nمدير إدارة الحماية البحرية\n3\nعبدا لله ع&#1740;س&#1740; محمد عيسى الخليفي\nمساعد مدير إدارة الحماية البحرية بالتكليف\n4\nحسن محمد عبدا لله الحسن المهندي\nكاتب شؤون إدارية رابع\n5\nيونس عبد الرحمن كنعاني\nملاحظ عمال خدمات خامس\n6\nمحمد عبد الرحمن كنعاني\nملاحظ عمال خدمات خامس"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

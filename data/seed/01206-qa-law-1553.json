@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (25) لسنة 1995 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
   "short_name": "قرار مجلس الوزراء رقم (25) لسنة 1995 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1553&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1553&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعتمد المواصفة القياسية رقم (176) والمرفقة ملخصها بهذا القرار، كمواصفة قياسية قطرية ملزمة وتضاف للمواصفات القياسية القطرية الأخرى المعتمدة بموجب قرار مجلس الوزراء رقم (1) لسنة 1986 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تسري في شأن المواصفة المرفقة الأحكام الواردة بقرار مجلس الوزراء رقم (1) لسنة 1986 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد ستة أشهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

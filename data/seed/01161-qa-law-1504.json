@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (1) لسنة 1975 بأيلولة حصة شركتي نفط قطر وشل قطر، التي آلت ملكيتها إلى الدولة، إلى المؤسسة العامة القطرية للبترول",
   "short_name": "قرار مجلس الوزراء رقم (1) لسنة 1975 بأيلولة حصة شركتي نفط قطر وشل قطر، التي آلت ملكيتها إلى الدولة، إلى المؤسسة العام...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1504&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1975.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1504&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تؤول إلى المؤسسة العامة القطرية للبترول الحصة الباقية، التي آلت ملكيتها للدولة، من حقوق وأموال شركتي نفط قطر وشل قطر، وقدرها 40%."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

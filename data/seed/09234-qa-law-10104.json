@@ -4,8 +4,27 @@
   "title": "قرار رئيس هيئة تنظيم الاتصالات رقم (52) لسنة 2025 بإصدار اللائحة التنظيمية للتعرفة البريدية",
   "short_name": "قرار رئيس هيئة تنظيم الاتصالات رقم (52) لسنة 2025 بإصدار اللائحة التنظيمية للتعرفة البريدية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10104&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10104&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إصدار هذه اللائحة التنظيمية لتحديد القواعد والإجراءات الخاصة بتعرفة الخدمات البريدية، حيث تُرفق هذه القواعد والإجراءات بهذا القرار وتُعد سارية المفعول على قطاع البريد بموجب المرجع رقم CRARAC2025/07/27."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تم إصدار القواعد والإجراءات المتعلقة بتعرفة الخدمات البريدية المبيّنة في اللائحة التنظيمية المرفقة وفقاً لأحكام المادة (&#1634;&#1638;) من قانون البريد، وتُطبّق على جميع مقدمي خدمة البريد."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تقوم جميع الجهات المختصة، كلٌّ ضمن نطاق اختصاصها، بتنفيذ هذا القرار. ويُصبح نافذاً اعتباراً من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (4) لسنة 1997 بتشكيل مجلس إدارة مؤسسة حمد الطبية",
   "short_name": "قرار أميري رقم (4) لسنة 1997 بتشكيل مجلس إدارة مؤسسة حمد الطبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=765&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=765&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة مؤسسة حمد الطبية على النحو التالي:\n1- سعادة الدكتور/عبد الرحمن سالم الكواري\nوزير الصحة العامة\nرئيساً\n2- ملغى\n3- الشيخ/جاسم بن حسن آل ثاني\nمدير مكتب رئيس مجلس الوزراء\nعضواً\n4- السيد/تركي محمد الخاطر\nمساعد وكيل وزارة الصحة العامة للشؤون الإدارية والمالية\nعضواً\n5- الدكتور/محمد غانم العلي\nالطبيب بوزارة الدفاع\nعضواً\n6- السيد/هادي سعيد الخيارين\nمدير إدارة ترتيب وموازنة الوظائف بوزارة شؤون الخدمة المدنية والإسكان\nعضواً\n7- السيد/عبد الله ظاعن الكواري\nمدير إدارة المتابعة بالأمانة العامة للمجلس الأعلى للتخطيط\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى قرار إعادة تشكيل مجلس إدارة مؤسسة حمد الطبية، الصادر في 25/10/1995."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

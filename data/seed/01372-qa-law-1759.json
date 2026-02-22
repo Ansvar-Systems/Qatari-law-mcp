@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (9) لسنة 2005 بتشكيل مجلس إدارة مؤسسة حمد الطبية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (9) لسنة 2005 بتشكيل مجلس إدارة مؤسسة حمد الطبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1759&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1759&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة مؤسسة حمد الطبية على النحو التالي:\n1- الدكتورة / لطيفة إبراهيم الحوطي\nرئيسا\n2- الدكتورة / حنان محمد سالم الكواري\nنائبا للرئيس\n3- الدكتور الشيخ/ حسن بن علي سعود عبد العزيز آل ثاني\nعضوا\n4- السيد / ناصر خليل الجيدة\nعضوا\n5- الدكتورة / لولوة بنت عبدالله المسند\nعضوا\n6- الدكتور/ دانييل ألونسو\nعضوا\n7- السيد / مالك دحلان\nعضوا"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يمنح أعضاء مجلس الإدارة مكافأة سنوية على النحو التالي:\n- (60,000) ريال للرئيس.\n- (55,000) ريال لنائب الرئيس\n- (50,000) ريال للعضو"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

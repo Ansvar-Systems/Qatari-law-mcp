@@ -4,8 +4,27 @@
   "title": "قرار وزير الدولة لشؤون الدفاع رقم (5) لسنة 2025 بإصدار قائمة السلع الاستراتيجية ذات الاستخدام العسكري أو المزدوج",
   "short_name": "قرار وزير الدولة لشؤون الدفاع رقم (5) لسنة 2025 بإصدار قائمة السلع الاستراتيجية ذات الاستخدام العسكري أو المزدوج",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9900&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9900&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد السلع الاستراتيجية ذات الاستخدام العسكري أو المزدوج وفقاً للأرقام والرموز والتوصيفات العلمية والتكنولوجية والتقنية المُبينة بالقائمة المرفقة بهذا القرار، والمُطبقة في دول الاتحاد الأوروبي، وفقاً لنظام مراقبة تكنولوجيا الصواريخ (MTCR) واتفاق فاس&#1740;نار (Wassenaar Arrangement) ومجموعة موردي المواد النووية (NSG) ، ومجموعة استراليا (AG) ، ومنظمة حظر الأسلحة الكيميائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتولى اللجنة الوطنية لحظر الأسلحة نشر ومتابعة القائمة المشار إليها وتحديثاتها على الموقع الإلكتروني للوزارة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمَل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

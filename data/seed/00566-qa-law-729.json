@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (31) لسنة 2002 بتشكيل مجلس إدارة الهيئة العامة للتقاعد والمعاشات",
   "short_name": "قرار أميري رقم (31) لسنة 2002 بتشكيل مجلس إدارة الهيئة العامة للتقاعد والمعاشات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=729&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=729&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة الهيئة العامة للتقاعد والمعاشات، على النحو التالي:\n1- السيد/ عبد الله خالد العطية\nرئيسا\n2- السيد/ حمزة محمد الكواري\nنائب للرئيس\n3- السيد/ حسين يوسف الملا\nعضواً\n4- السيد/ خلف أحمد المناعي\nعضواً\n5- السيد/ حمود ناصر السبيعي\nعضواً\n6- السيد/ عيسى راشد الكعبي\nعضواً\n7- السيد/ سعيد عبد الله المسند\n1- الدكتورة/ جهينة سلطان سيف العيسى.\n2- السيدة/ شيخة يوسف الجفيري.\nعضواً\nعضواً\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يباشر المجلس مهامه إعتبارا من تاريخ العمل بأحكام القانون رقم (24) لسنة 2002 المشار إليه. وتكون مدة عضوية المجلس ثلاث سنوات، ويتولى الأعضاء عملهم فيه بالإضافة إلى أعمالهم الأصلية، على أن يتفرغ السيد/ حمزة محمد الكواري، لعمله في المجلس."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتولى المجلس، اعتبارا من تاريخ العمل بهذا القرار، اتخاذ الإجراءات اللازمة لتهيئة الهيئة العامة للتقاعد والمعاشات لمباشرة الاختصاصات المقررة لها في قانون إنشائها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

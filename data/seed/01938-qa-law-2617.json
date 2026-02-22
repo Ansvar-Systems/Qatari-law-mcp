@@ -4,8 +4,21 @@
   "title": "قانون رقم (5) لسنة 2008 بإلغاء القانون رقم (16) لسنة 2004 بإنشاء أكاديمية التفوق الرياضي (أسباير)",
   "short_name": "قانون رقم (5) لسنة 2008 بإلغاء القانون رقم (16) لسنة 2004 بإنشاء أكاديمية التفوق الرياضي (أسباير)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2617&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2617&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يلغى القانون رقم (16) لسنة 2004 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به اعتباراً من 7/1/2008. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

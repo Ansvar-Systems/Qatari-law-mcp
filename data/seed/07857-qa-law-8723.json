@@ -4,8 +4,21 @@
   "title": "قرار رقم (75) لسنة 2021م بإلغاء تخويل أحد موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (75) لسنة 2021م بإلغاء تخويل أحد موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط الق...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8723&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8723&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة للسيّد/ صالح حمد محمد العطان الموظف السابق بوزارة التنمية الإدارية والعمل والشؤون الاجتماعية، والسابق منحها له بموجب قرار النائب العام رقم (88) لسنة 2009م المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

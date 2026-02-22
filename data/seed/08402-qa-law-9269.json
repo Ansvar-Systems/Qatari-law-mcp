@@ -4,8 +4,21 @@
   "title": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (2) لسنة 2023 بتعديل بعض أحكام قواعد مكافحة غسل الأموال وتمويل الإرهاب",
   "short_name": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (2) لسنة 2023 بتعديل بعض أحكام قواعد مكافحة غسل الأموال وتمويل الإرهاب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9269&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9269&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص الفقرة (ج) من البند (1) من المادة (4.1.2) من قواعد مكافحة غسل الأموال وتمويل الإرهاب المشار إليها النص التالي:\n\"(ج) امتلاك العميل لحساب بنكي في دولة قطر أو حساب بنكي في بلد الإقامة خاضع لإشراف جهة رقابية، يتم من خلاله سداد جميع الدفعات الخاصة بتداول الأوراق المالية من أو إلى العميل\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

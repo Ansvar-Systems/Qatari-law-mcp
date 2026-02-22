@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (12) لسنة 1973 بإعفاء الأرز والسكر من الرسوم الجمركية",
   "short_name": "قرار مجلس الوزراء رقم (12) لسنة 1973 بإعفاء الأرز والسكر من الرسوم الجمركية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1404&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1973.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1404&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعفى الأرز والسكر من الرسوم الجمركية المستحقة بموجب قانون جمارك قطر المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

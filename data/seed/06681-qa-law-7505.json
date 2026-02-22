@@ -4,8 +4,21 @@
   "title": "قانون رقم (2) لسنة 2018 بتعديل بعض أحكام القانون رقم (17) لسنة 2002 بشأن حماية المجتمع",
   "short_name": "قانون رقم (2) لسنة 2018 بتعديل بعض أحكام القانون رقم (17) لسنة 2002 بشأن حماية المجتمع",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7505&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7505&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"استثناءً من أحكام قانون الإجراءات الجنائية و القانون رقم (5) لسنة 2003 ، المشار إليهما، يجوز لوزير الداخلية، في الجرائم المتعلقة بأمن الدولة أو الواقعة على العرض أو المخلة بالحياء أو الآداب العامة، أن يقرر التحفظ على المتهم، إذا ثبت أن هناك مبررات قوية تقتضي ذلك، بناءً على تقرير بالواقعة يرفعه مدير عام الأمن العام.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

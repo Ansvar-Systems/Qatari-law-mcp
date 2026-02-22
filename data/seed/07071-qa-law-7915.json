@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (4) لسنة 2019 بتعيين وكيل وزارة مساعد لشؤون مكتب رئيس المجلس الأعلى للقضاء",
   "short_name": "قرار رئيس مجلس الوزراء رقم (4) لسنة 2019 بتعيين وكيل وزارة مساعد لشؤون مكتب رئيس المجلس الأعلى للقضاء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7915&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7915&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعين السيدة/ ميثة مبارك راشد النعيمي، وكيل وزارة مساعد لشؤون مكتب رئيس المجلس الأعلى للقضاء، بالمجلس الأعلى للقضاء."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

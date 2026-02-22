@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (6) لسنة 1995 بشأن اعتبار البطاقة الشخصية أو الرقم الشخصي المدون على شهادة الميلاد المستند الرسمي الوحيد لإثبات الشخصية",
   "short_name": "قرار مجلس الوزراء رقم (6) لسنة 1995 بشأن اعتبار البطاقة الشخصية أو الرقم الشخصي المدون على شهادة الميلاد المستند الرس...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1702&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1702&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "على جميع الوزارات والأجهزة الحكومية الأخرى، والهيئات والمؤسسات العامة، والشركات والبنوك العاملة بالدولة، الإلتزام بإثبات رقم البطاقة الشخصية، أو الرقم الشخصي المدون على شهادة الميلاد، على جميع المعاملات الخاصة بالقطريين التي تجريها هذه الجهات، وعدم الاعتداد بأي مستند آخر لإثبات الشخصية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "كل من خالف، من العاملين بالجهات المشار إليها في المادة السابقة، الإلتزام المنصوص عليه فيها، يكون محلاً للمساءلة الإدارية، و يقوع عليه الجزاء التأديبي المناسب، وفقاً للأنظمة القانونية المتبعة بها. وتخطر وزارة الداخلية بذلك."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

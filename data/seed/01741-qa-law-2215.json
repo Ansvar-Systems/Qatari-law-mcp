@@ -4,8 +4,21 @@
   "title": "قرار رقم (84) لسنة 2004بتخويل بعض موظفي وزارة الاقتصاد والتجارةصفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (84) لسنة 2004بتخويل بعض موظفي وزارة الاقتصاد والتجارةصفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2215&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2215&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفى وزارة الاقتصاد والتجارة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (27) لسنة 2004 ، بشأن حماية علامات وشعارات ومصنفات والحقوق المجاورة لدورة الألعاب الآسيوية - الخامسة عشرة - الدوحة 2006، وهم:\n1- السيد/عبدالله أحمد القايد\nرئيس قسم حماية حق المؤلف والحقوق المجاورة\n2- السيد/أحمد يوسف الجفيري\nرئيس قسم العلامات التجارية.\n3- الشيخ/جاسم بن جبر آل ثاني\nفاحص علامات.\n4- السيد/خليفه جمعه الهتمي\nمفتش ضبط قضائي.\n5- السيد/ناصر حمود السليطي\nمسجل علامات تجارية.\n6- السيد/عبدالرحمن محمد المطاوعة\nمفتش علامات تجارية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (3) لسنة 2020 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطريين في الشركات التابعة لشركة كتارا للضيافة",
   "short_name": "قرار مجلس الوزراء رقم (3) لسنة 2020 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8364&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8364&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تسري أحكام القانون رقم (24) لسنة 2002 المشار إليه، على العاملين القطريين في الشركات التابعة لشركة كتارا للضيافة، التالية:\n1 - كتارا إس.جي.دي (ذ.م.م).\n2 - كتارا أر. سي. إتش. دي (ذ.م.م)\n3 - كتارا أم. جي. دي (ذ.م.م).\n4 - فندق فريج شرق (ذ.م.م).\n5 - منتجع شاطئ سيلين (ذ.م.م).\n6 - كتارا أم. أتش. دي (ذ.م.م).\n7 - منتجع المسيلة (ذ.م.م).\nوذلك اعتباراً من 27/7/2017، عدا منتجع المسيلة (ذ.م.م) فاعتباراً من 1/1/2019."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

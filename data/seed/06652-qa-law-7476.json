@@ -4,8 +4,21 @@
   "title": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (6) لسنة 2017 بإصدار الضوابط الخاصة بأسهم تحفيز الموظفين في الشركات المساهمة المدرجة من خلال تملك أسهم في الشركة المدرجة",
   "short_name": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (6) لسنة 2017 بإصدار الضوابط الخاصة بأسهم تحفيز الموظفين في الشركات المس...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7476&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7476&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعمل بالضوابط الخاصة بأسهم تحفيز الموظفين في الشركات المساهمة المدرجة من خلال تملك أسهم في الشركة المدرجة المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

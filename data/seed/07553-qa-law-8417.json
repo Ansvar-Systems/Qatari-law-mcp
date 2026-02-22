@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (21) لسنة 2020 بتعديل بعض أحكام القرار رقم (30) لسنة 2017 بإنشاء لجنة سياسات تمويل مشاريع الدولة",
   "short_name": "قرار مجلس الوزراء رقم (21) لسنة 2020 بتعديل بعض أحكام القرار رقم (30) لسنة 2017 بإنشاء لجنة سياسات تمويل مشاريع الدولة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8417&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8417&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة (2/ فقرة أولى) من قرار مجلس الوزراء رقم (30) لسنة 2017 المشار إليه، النص التالي.\nمادة (2/ فقرة أو):\n\"تُنشأ لجنة تسمى \"لجنة سياسات تمويل مشاريع الدولة\"، تُشكل برئاسة وزير المالية، وممثل عن مصرف قطر المركزي نائبا للرئيس، وعضوية ممثل عن كل من:\n1 - مكتب رئيس مجلس الوزراء.\n2 - وزارة التجارة والصناعة.\n3 - قطر للبترول\n4 - جهاز قطر للاستثمار\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (8) لسنة 1992 بإعادة تشكيل مجلس إدارة مؤسسة حمد الطبية",
   "short_name": "قرار أميري رقم (8) لسنة 1992 بإعادة تشكيل مجلس إدارة مؤسسة حمد الطبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=825&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1992.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=825&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل مجلس إدارة مؤسسة حمد الطبية على النحو الآتي:\n1- وزير الصحة العامة\nرئيساً\n2- وكيل وزارة الصحة العامة والمدير العام لمؤسسة حمد الطبية\nنائباً للرئيس وعضواً منتدباً\n3- وكيل وزارة العدل\nعضواً\n4- رئيس ديوان الخدمة المدنية\nعضواً\n5- مدير جامعة قطر\nعضواً\n6- مدير إدارة الشؤون المالية بوزارة المالية والبترول\nعضواً\n7- المدير الطبي لمؤسسة حمد الطبية\nعضواً\n8- المدير الإداري لمؤسسة حمد الطبية\nعضواً\n9- مدير إدارة الصحة الوقائية بوزارة الصحة العامة\nعضواً\n10- مدير إدارة الرعاية الصحية الأولية بوزارة الصحة العامة\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى القرار الأميري رقم (8) لسنة 11990م بتعيين نائب لمدير عام مؤسسة حمد الطبية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

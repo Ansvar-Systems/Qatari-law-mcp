@@ -4,8 +4,39 @@
   "title": "قرار مجلس الوزراء رقم (18) لسنة 1993 بتعديل بعض أحكام اللائحة التنفيذية لقانون الوظائف العامة المدنية",
   "short_name": "قرار مجلس الوزراء رقم (18) لسنة 1993 بتعديل بعض أحكام اللائحة التنفيذية لقانون الوظائف العامة المدنية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1482&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1993.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1482&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 44 )، ( 48 ) من اللائحة التنفيذية لقانون الوظائف العامة المدنية المشار إليها، النصان الآتيان:"
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Article (44)",
+      "content": "«1- يستحق الموظف الذي يكلف بعمل خارج قطر علاوة تشمل أجور السكن والمأكل ونقل الأمتعة الشخصية والانتقالات المحلية فيما عدا ما كان منها خارج المدن وكان متعلقاً بطبيعة المهمة الرسمية.\n2- تحدد العلاوة اليومية وفقاً لما يلي:\n1500\nريال لوكيل الوزارة.\n1200\nريال لمساعد وكيل الوزارة.\n1000\nريال لموظفي الحلقتين الثانية وما يعلوهما من الدرجات الخاصة.\n800\nريال لموظفي الحلقات الأخرى»."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Article (48)",
+      "content": "«تخفض العلاوة المنصوص عليها في المادة ( 44 ) إلى النصف في حالة الضيافة الكاملة للموظف لدى الدولة الموفد إليها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تلغى المادة (45) من اللائحة التنفيذية لقانون الوظائف المدنية، المشار إليها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

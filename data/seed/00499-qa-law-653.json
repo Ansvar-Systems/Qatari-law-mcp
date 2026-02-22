@@ -4,8 +4,33 @@
   "title": "قرار أمير دولة قطر رقم 16 لسنة 1981 بزيادة الاعانة التي تمنح للطلبة المحتاجين",
   "short_name": "قرار أمير دولة قطر رقم 16 لسنة 1981 بزيادة الاعانة التي تمنح للطلبة المحتاجين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=653&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1981.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=653&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ترفع الإعانة التي تمنح لطلبة المدارس القطريين المحتاجين على النحو الآتي:\nطالب المرحلة الثانوية طالب المرحلة الإعدادية طالب المرحلة الابتدائية 250 ريال شهريا 200 ريال شهريا 150 ريال شهريا\nوتتولى وزارة التربية والتعليم تقديم هذه الإعانة لطلابها.\nولا يجوز منح هذه الإعانة لأكثر من طالبين في الأسرة الواحدة، كما لا يجوز الجمع بين المعاش والإعانة المذكورة.\nولمراعاة تطبيق هذا الحكم الأخير، يتم التنسيق بين وزارة التربية والتعليم ووزارة العمل والشئون الاجتماعية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تواجه المصروفات اللازمة لتنفيذ هذا القرار من الاحتياطي العام للدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار ويعمل به اعتباراً من أول جمادى الأولى سنة 1401هـ، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

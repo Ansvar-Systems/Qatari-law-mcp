@@ -4,8 +4,21 @@
   "title": "قرار وزير العدل رقم (82) لسنة 2002 بتعديل بعض أحكام القرار رقم (50) لسنة 2001 بتسمية أعضاء مجلس إدارة مركز الدراسات القانونية والقضائية",
   "short_name": "قرار وزير العدل رقم (82) لسنة 2002 بتعديل بعض أحكام القرار رقم (50) لسنة 2001 بتسمية أعضاء مجلس إدارة مركز الدراسات ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2208&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2208&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل الدكتور/حسن عطية الله محمد أحمد، الخبير القانوني بوزارة العدل، محل السيد/حسن عبد الحميد البرعي، الخبير القانوني بوزارة العدل، في عضوية مجلس إدارة مركز الدراسات القانونية والقضائية ويكون مقرراً للمجلس، وذلك لباقي مدة مجلس الإدارة الحالي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

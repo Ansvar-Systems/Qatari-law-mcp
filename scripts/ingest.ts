@@ -10,7 +10,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchBinaryFromUrl, fetchTextFromUrl } from './lib/fetcher.js';
+import { fetchBinaryFromUrl, fetchTextFromUrl, isAntiBotChallengeHtml } from './lib/fetcher.js';
 import {
   buildSeedDocument,
   parseDocxLegislation,
@@ -345,14 +345,24 @@ async function loadTextWithCache(url: string, localPath: string, opts: CliArgs):
     if (!fs.existsSync(localPath)) {
       throw new Error(`Missing cached file for --skip-fetch: ${localPath}`);
     }
-    return fs.readFileSync(localPath, 'utf8');
+    const cached = fs.readFileSync(localPath, 'utf8');
+    if (isAntiBotChallengeHtml(cached)) {
+      throw new Error(`Cached anti-bot challenge page for --skip-fetch: ${localPath}`);
+    }
+    return cached;
   }
 
   if (!opts.refresh && fs.existsSync(localPath)) {
-    return fs.readFileSync(localPath, 'utf8');
+    const cached = fs.readFileSync(localPath, 'utf8');
+    if (!isAntiBotChallengeHtml(cached)) {
+      return cached;
+    }
   }
 
   const html = await fetchTextFromUrl(url);
+  if (isAntiBotChallengeHtml(html)) {
+    throw new Error(`Anti-bot challenge page returned for ${url}`);
+  }
   fs.mkdirSync(path.dirname(localPath), { recursive: true });
   fs.writeFileSync(localPath, html, 'utf8');
   return html;

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (5) لسنة 2021 بتعديل بعض أحكام القرار رقم (27) لسنة 2014 بشأن لجنة التقاعد العسكري",
   "short_name": "قرار مجلس الوزراء رقم (5) لسنة 2021 بتعديل بعض أحكام القرار رقم (27) لسنة 2014 بشأن لجنة التقاعد العسكري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8564&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8564&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل العميد/ محمد جاسم حمد السليطي، محل العميد/ حسين حسن الجابر، نائبًا لرئيس لجنة التقاعد العسكري، كما يحل الرائد/ بندر فرحان عقيل الرويلي العنزي، محل المقدم/ سالم جار الله سالم النابت، في عضرية اللجنة، وتكون مدة عضويتهما مكملة لمدة عضوية سلفيهما"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

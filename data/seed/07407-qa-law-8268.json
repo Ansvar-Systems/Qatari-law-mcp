@@ -4,8 +4,33 @@
   "title": "قرار وزير التجارة والصناعة رقم (13) لسنة 2020 بتحول الشركة القطرية لإدارة الموانئ من شركة مساهمة قطرية الى شركة مساهمة خاصة قطرية",
   "short_name": "قرار وزير التجارة والصناعة رقم (13) لسنة 2020 بتحول الشركة القطرية لإدارة الموانئ من شركة مساهمة قطرية الى شركة مساهم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8268&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8268&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحول الشركة القطرية لإدارة الموانئ من شركة مساهمة قطرية إلى شركة مساهمة خاصة قطرية برأس مال مصرح به (2,000,000,000) اثنين مليار ريال قطري، وفقاً لأحكام المادة ( 271 ) من قانون الشركات التجارية الصادر بالقانون رقم (11) لسنة 2015."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس و النظام الأساسي المشار إليهما، وتلتزم الشركة بأحكام قانون الشركات التجارية المشار إليه، فيما لم يرد بشأنه نص خاص في عقد التأسيس و النظام الأساسي ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على تحول الشركة نشوء شخص معنوي جديد، وتظل الشركة محتفظة بحقوقها والتزاماتها السابقة على التحول."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من تاريخ صدوره. ويتم شهره وفقاً لأحكام قانون الشركات التجارية المشار إليه."
+    }
+  ],
   "definitions": []
 }

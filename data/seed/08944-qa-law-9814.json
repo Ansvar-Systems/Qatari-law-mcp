@@ -4,8 +4,21 @@
   "title": "قرار وزير الاتصالات وتكنولوجيا المعلومات رقم (27) لسنة 2024 بتعيين مشغل البريد العام",
   "short_name": "قرار وزير الاتصالات وتكنولوجيا المعلومات رقم (27) لسنة 2024 بتعيين مشغل البريد العام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9814&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9814&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعين الشركة القطرية للخدمات البريدية مشغل البريد العام ، وفقاً لأحكام المادة (14) من قانون تنظيم الخدمات البريدية المشار إليه ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره .ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

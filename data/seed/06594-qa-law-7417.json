@@ -4,8 +4,21 @@
   "title": "قرار رقم (103) لسنة 2017 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (103) لسنة 2017 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7417&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7417&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الاقتصاد والتجارة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانونين المشار إليهما والقرارات المُنفذة لهما وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nنوره عبدالله حسن سالم الخلف.\nمحاسب ثالث.\n2\nالدانة راشد فضل الربيعة الكعبي.\nمحاسب ثالث.\n3\nنوره حمد صالح الشرقي مانعة.\nمحاسب ثالث.\n4\nعجايب حمد محمد المنخس المري.\nمراقب أسواق رابع.\n5\nعائشة سلطان مبارك الكشاشي المهندي.\nمراقب أسواق رابع.\n6\nساره عبدالله إسماعيل حاجي العمادي.\nمراقب أسواق رابع."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,51 @@
   "title": "قرار رقم (2) لسنة 2010 بتعديل وثيقة التأسيس والنظام الأساسي للمركز العربي لأبحاث السياسات (ترشيد)",
   "short_name": "قرار رقم (2) لسنة 2010 بتعديل وثيقة التأسيس والنظام الأساسي للمركز العربي لأبحاث السياسات (ترشيد)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4498&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4498&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعدل مسمى المركز الوارد في وثيقة التأسيس و النظام الأساسي المشار إليهما، ليكون \"المركز العربي للأبحاث ودراسة السياسات - معهد الدوحة\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل مسمى \" الدير العام\" بمسمى \"المدير التنفيذي\"، أينما ورد في النظام الأساسي المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُستبدل بنص المادة (4/ بند 5) من النظام الأساسي المشار إليه، النص التالي:\nمادة (4/ بند 5):\n\"5- إجراء استطلاعات للرأي العام\""
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُستبدل بنص المادة ( 10 ) من النظام الأساسي المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article (10)",
+      "content": "\"يُشكل مجلس الإدارة من رئيس، وعدد من الأعضاء لا يقل عن ثلاثة ولا يزيد على تسعة، يعينهم المؤسس، استناداً إلى كفاءتهم الخاصة واهتمامهم بأهداف المركز، ويجوز للمؤسس أن يعين المدير العام عضواً بمجلس الإدارة.\nوإلى حين تعيين مجلس الإدارة، أو في حالة غيابه، يتولى المؤسس كافة الاختصاصات المقررة لمجلس الإدارة، بما في ذلك تعيين المدير العام.\""
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تُلغى الفقرة الثانية من المادة ( 12 ) من النظام الأساسي المشار إليه."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يُسجل ويُشهر هذا التعديل، طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه."
+    }
+  ],
   "definitions": []
 }

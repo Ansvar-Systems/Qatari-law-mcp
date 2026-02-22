@@ -4,8 +4,27 @@
   "title": "قرار رقم (23) لسنة 1966 بشأن تحديد الرسوم المستحقة على طلبات تأشيرة الدخول",
   "short_name": "قرار رقم (23) لسنة 1966 بشأن تحديد الرسوم المستحقة على طلبات تأشيرة الدخول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3676&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1966.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3676&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحصل رسم قدره خمسة عشر ريالا على كل طلب من طلبات الحصول على تأشيرة دخول، ويدفع هذا الرسم مقدما وقت تقديم الطلب نقدا أو بحوالات بريدية أو غيرها من وسائل الدفع التي تقبلها إدارة الهجرة والجوازات والجنسية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يجري تحصيل الرسوم المنصوص عليها في المادة السابقة و المادة (11) من القرار رقم (9) لسنة 1963 وتوريدها طبقا للقواعد والإجراءات التي يضعها مدير إدارة الهجرة والجوازات والجنسية في هذا الشأن، ويعتمدها وزير المالية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

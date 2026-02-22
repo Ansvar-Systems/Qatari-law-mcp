@@ -4,8 +4,27 @@
   "title": "قرار وزير التنمية الاجتماعية والأسرة رقم (14) لسنة 2022 بالموافقة على تجديد ترخيص جمعية المحاسبين القانونيين القطرية (جمعية مهنية)",
   "short_name": "قرار وزير التنمية الاجتماعية والأسرة رقم (14) لسنة 2022 بالموافقة على تجديد ترخيص جمعية المحاسبين القانونيين القطرية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9044&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9044&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "وُوفق على تجديد ترخيص جمعية المحاسبين القانونيين القطرية (جمعية مهنية)، لمدة ثلاث سنوات اعتباراً من تاريخ 5/3/2022، وحتى تاريخ 4/3/2025م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُجدد الترخيص المنصوص عليه في المادة السابقة، ويُشهر وفقاً لأحكام المرسوم بقانون رقم (21) لسنة 2020 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ أحكام هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

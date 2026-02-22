@@ -4,8 +4,27 @@
   "title": "قرار وزاري رقم (209) لسنة 2019 بإعادة تسمية رئيس وأعضاء لجان فض المنازعات الإيجارية",
   "short_name": "قرار وزاري رقم (209) لسنة 2019 بإعادة تسمية رئيس وأعضاء لجان فض المنازعات الإيجارية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8137&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8137&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُسمى رئيس وأعضاء لجان فض المنازعات الإيجارية الخمسة على النحو التالي:-\nاللجنة الأولى:\n1- السيد/ نايف محمد سعيد الكواري رئيساً\n2- السيد/ مبارك سعيد مبارك الهاجري عضواً\n3- السيد/ طالب علي سالم العفيفة عضواً\nاللجنة الثانية:\n1- السيد/ غانم راشد مبارك الخيارين رئيساً\n2- السيد/ علي محمد حسن الحمادي عضواً\n3- السيد/ راشد حسين الحسين عضواً\nاللجنة الثالثة:\n1- السيد/ حمد صالح طالب النابت رئيساً\n2- السيدة/ نوف عبدالرحمن المالكي عضواً\n3- السيد/ محمد علي الكبيسي عضواً\nاللجنة الرابعة:\n1- السيد/ محمد حسن جاسم الهيل رئيساً\n2- السيد/ علي خميس الكبيسي عضواً\n3- السيد/ أحمد غانم العلي المعاضيد عضواً\nاللجنة الخامسة:\n1- السيد/ سالم محمد حميد الشهواني رئيساً\n2- السيد/ مبارك سالم النابت عضواً\n3- السيد/ عبدالعزيز أحمد الكواري عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ 1/10/2019، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

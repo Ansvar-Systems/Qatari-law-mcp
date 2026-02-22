@@ -4,8 +4,21 @@
   "title": "قرار رقم (103) لسنة 2005 بشأن إلغاء تخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (103) لسنة 2005 بشأن إلغاء تخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3485&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3485&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُلغى القرار رقم (12) لسنة 2005 الصادر بتاريخ 24/2/2005، فيما تضمنه فقط، من تخويل موظفي وزارة الاقتصاد والتجارة التالية أسماؤهم، لصفة مأموري الضبط القضائي وهم:\n1- سعد خلف الكواري.\n2- راشد حمد النعيمي.\n3- محمد مبارك المنصوري.\n4- يوسف راشد آل شريم.\n5- خليل سعد الغانم.\n6- علي محمد الهاجري.\n7- حسن مهدي الماجد.\n8- إبراهيم محمد المعلم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (6) لسنة 1996 بتخفيض بعض الرسوم والأجور في موانئ قطر البحرية بالنسبة للسفن المملوكة لشركة «هوج - أوجلاند لاينز»",
   "short_name": "قرار مجلس الوزراء رقم (6) لسنة 1996 بتخفيض بعض الرسوم والأجور في موانئ قطر البحرية بالنسبة للسفن المملوكة لشركة «هوج...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1694&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1694&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تخفيض رسوم الإرشاد ورسوم الميناء بنسبة (36 %) على السفن المملوكة لشركة «هوج - أوجلاند لاينز» التي تم بناؤها قبل 18/7/1982."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يسري التخفيض المنصوص عليه في المادة السابقة لمدة ثلاث سنوات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

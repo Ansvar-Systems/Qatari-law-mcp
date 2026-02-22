@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (6) لسنة 1999 بتخويل رئيس أركان القوات المسلحة تمثيل وزارة الدفاع",
   "short_name": "قرار أميري رقم (6) لسنة 1999 بتخويل رئيس أركان القوات المسلحة تمثيل وزارة الدفاع",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5598&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5598&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مع مراعاة اختصاصات إدارة قضايا الدولة المنصوص عليها في المادة ( 10 ) من المرسوم بقانون رقم (14) لسنة 1991 المشار إليه، يمثل رئيس أركان القوات المسلحة، وزارة الدفاع أمام القضاء، وهيئات التحكيم، وفي علاقاتها مع الغير."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

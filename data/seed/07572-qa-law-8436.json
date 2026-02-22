@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (72) لسنة 2020 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (72) لسنة 2020 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8436&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8436&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة قاض بمحكمة التمييز، وتُحدد أقدمية كل منهم فيها اعتباراً من 15/03/2020:\n1 - السيّد/ إبراهيم صالح حسن النصف.\n2 - السيّد/ عبدالله راشد عبدالله المهندي.\n3 - الدكتور/ إبراهيم هلال سعد المهندي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعيّن السيّد/ خالد علي عبـدالله العبيـدلي، في وظيفة رئيس بمحكمة الاستئناف، وتُحدد أقدميته فيها اعتباراً من 24/02/2020."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعيّن كل من التالية أسماؤهم في وظيفة نائب رئيس بمحكمة الاستئناف، محكمة الاستئناف، وتُحدد أقدمية كل منهم فيها اعتباراً من التاريخ الموضح قرين اسمه:\n1 - السيّد/ عبدالله إبراهيم يوسف المهندي 05/03/2020.\n2 - السيّد/ إبراهيم خالد عتيق الخليـفي 21/04/2020.\n3 - السيّد/ عادل علي يوسف الأحمد 21/04/2020."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يَخُصّه ، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

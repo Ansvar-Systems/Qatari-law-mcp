@@ -4,8 +4,21 @@
   "title": "قانون رقم (16) لسنة 2019 بتعديل بعض أحكام القانون رقم (21) لسنة 2004 بشأن الوزراء",
   "short_name": "قانون رقم (16) لسنة 2019 بتعديل بعض أحكام القانون رقم (21) لسنة 2004 بشأن الوزراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8076&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8076&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 4/بند4 ) من القانون رقم (21) لسنة 2004 المشار إليه، النص التالي:\nمادة (4/بند4) :\n\"4- إصدار قرارات تحديد رسوم الخدمات التي تؤديها الوزارة أو ما يتبع الوزير من الأجهزة الحكومية أو الهيئات والمؤسسات العامة، أو تعديل الرسوم أو إلغائها أو الإعفاء منها، بعد اعتمادها من مجلس الوزراء.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

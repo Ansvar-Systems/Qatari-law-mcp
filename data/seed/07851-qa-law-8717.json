@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (40) لسنة 2021 بتحديد موعد انتخاب أعضاء مجلس الشورى",
   "short_name": "مرسوم رقم (40) لسنة 2021 بتحديد موعد انتخاب أعضاء مجلس الشورى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8717&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8717&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحدد يوم السبت الخامس والعشرين من شهر صفر عام 1443 هجرية، الموافق للثاني من شهر أكتوبر عام 2021 ميلادية، موعداً لانتخاب أعضاء مجلس الشورى"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُدعى المواطنون المُقيّدة أسماؤهم في جداول النـاخبـين، في جميع الدوائر الانتخابية، للإدلاء بأصواتهم في انتخاب أعضاء مجلس الشورى، في الموعد المنصوص عليه في المادة السابقة"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخُصّه، تنفيذ هذا المرسوم.\nويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

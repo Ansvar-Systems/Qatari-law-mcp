@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (37) لسنة 2003 باعتبار مشروع إقامة منشآت تعليمية واجتماعية بمنطقة غرافة الريان (المرحلة الثالثة) من أعمال المنفعة العامة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (37) لسنة 2003 باعتبار مشروع إقامة منشآت تعليمية واجتماعية بمنطقة غرافة الريان...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2044&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2044&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعتبر من أعمال المنفعة العامة مشروع إقامة منشآت تعليمية واجتماعية بمنطقة غرافة الريان (المرحلة الثالثة) الموضح موقعه وتفاصيله بالمذكرة و الرسم التخطيطي المرفقين بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسياً حدود المنطقة التي تشمل العقارات موضوع هذا القرار بالمضلع الهندسي ذي النقاط الركنية الإحدى عشر المبينة إحداثياتها بالجدول التالي:\nم\nشرقا\nشمالا\n1\nE 221733.958\nN 395193.869\n2\nE 221590.563\nN 395591.08\n3\nE 221383.684\nN 395604.526\n4\nE 221283.807\nN 395628.181\n5\nE 2211230.265\nN 395613.888\n6\nE 221080.475\nN 395605.162\n7\nE 221007.039\nN 395819.464\n8\nE 220767.884\nN 395725.711\n9\nE 220879.317\nN 395548.969\n10\nE 221024.326\nN 395193.577\n11\nE 221233.232\nN 395194.113"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كلٌ فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

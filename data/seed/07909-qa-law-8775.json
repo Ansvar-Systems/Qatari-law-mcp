@@ -4,8 +4,27 @@
   "title": "قرار وزير التجارة والصناعة رقم (56) لسنة 2021 بتشكيل مجلس تأديب مدققي الحسابات",
   "short_name": "قرار وزير التجارة والصناعة رقم (56) لسنة 2021 بتشكيل مجلس تأديب مدققي الحسابات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8775&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8775&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس تأديب مُدققي الحسابات المُنشأ بموجب القانون رقم (8) لسنة 2020 المشار إليه، برئاسة القاضي الشيخة/ مها سلمان جاسم آل ثاني، الرئيس بالمحكمة الابتدائية، وعضوية كلٌّ من:\n1 - السيّد/ عبدالله محمد السليطي ممثلاً عن وزارة التجارة والصناعة عضواً\n2 - السيّدة/ مها محمد الكعبي ممثلاً عن ديوان المحاسبة عضواً\nويتولى أمانة سر المجلس موظف أو أكثر من موظفي وزارة التجارة والصناعة، يصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من وزير التجارة والصناعة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتولى مجلس التأديب الاختصاصات المنصوص عليها في القانون رقم (8) لسنة 2020 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُلّ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

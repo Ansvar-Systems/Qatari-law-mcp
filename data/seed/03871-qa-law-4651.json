@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة 2013 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها هيئة الأشغال العامة وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة 2013 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها هيئة الأشغال العامة وتعيين اختص...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4651&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4651&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى الوحدات الإدارية التي تتبع رئيس هيئة الأشغال العامة مكتب يُسمى \"المكتب الفني\"، يختص بما يلي:\n1- إبداء الرأي الفني في الموضوعات التي تحال إليه من قبل رئيس الهيئة.\n2- إبداء الرأي الفني في المشروعات التي تُكلف بها الهيئة، والتي تحال إليه من قبل رئيسها، واقتراح الحلول لمعالجة مشاكل التنفيذ.\n3- متابعة وتقييم تنفيذ المشروعات وإعداد التقارير بمراحل إنجازها، بالتنسيق مع الوحدات الإدارية المعنية.\n4- دراسة التوصيات والاقتراحات الواردة من الوحدات الإدارية بالهيئة إلى مكتب الرئيس، وإبداء الرأي بشأنها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

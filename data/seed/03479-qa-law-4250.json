@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (5) لسنة 2004 بتعديل بعض أحكام المرسوم رقم (90) لسنة 1990 بإنشاء الهيئة العامة للشباب والرياضة",
   "short_name": "مرسوم رقم (5) لسنة 2004 بتعديل بعض أحكام المرسوم رقم (90) لسنة 1990 بإنشاء الهيئة العامة للشباب والرياضة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4250&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4250&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنقل إدارة الشباب من اللجنة الأولمبية الأهلية القطرية، إلى الهيئة العامة للشباب، وتباشر ذات اختصاصاتها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا المرسوم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

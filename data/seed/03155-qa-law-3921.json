@@ -4,8 +4,27 @@
   "title": "قرار وزير الداخلية رقم (8) لسنة 2008 بالسماح لمواطني المملكة العربية السعودية بدخول دولة قطر والخروج منها باستخدام البطاقة الشخصية",
   "short_name": "قرار وزير الداخلية رقم (8) لسنة 2008 بالسماح لمواطني المملكة العربية السعودية بدخول دولة قطر والخروج منها باستخدام ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3921&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3921&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يسمح لمواطني المملكة العربية السعودية، بدخول دولة قطر والخروج منها، عبر المنافذ الرسمية، باستخدام البطاقة الشخصية (بطاقة الهوية الوطنية)، وفقاً للآلية المنصوص عليها في البيان المشترك المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تعتمد البطاقة الشخصية (بطاقة الهوية الوطنية) لمواطني المملكة العربية السعودية كإثبات شخصية لحمالها، وعند إجراء المعاملات في دولة قطر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل ما فيما يخصه، تنفيذ هذا القرار، ويُعمل به من 14/6/2008، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

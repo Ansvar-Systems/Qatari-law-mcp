@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (8) لسنة 2005 بتشكيل مجلس إدارة هيئة الأشغال العامة والهيئة العامة للتخطيط والتطوير العمراني",
   "short_name": "قرار أميري رقم (8) لسنة 2005 بتشكيل مجلس إدارة هيئة الأشغال العامة والهيئة العامة للتخطيط والتطوير العمراني",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=824&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=824&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة هيئة الأشغال العامة والهيئة العامة للتخطيط والتطوير العمراني، برئاسة سمو ولي العهد، وعضوية كل من:\n1- سعادة الشيخ/حمد بن جاسم بن جبر آل ثاني، نائباً للرئيس.\n2- سعادة السيد/عبد الله بن حمد العطية.\n3- سعادة السيد/يوسف حسين كمال.\n4- سعادة الشيخ/عبدالرحمن بن خليفة بن عبدالعزيز آل ثاني.\n5- السيد/زايد منصور غانم الخيارين.\n6- السيد/عبد الله مبارك بن اعبود المعضادي.\n7- ممثل عن المجلس الأعلى للبيئة والمحميات الطبيعية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى القرار الأميري رقم (4) لسنة 2005 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

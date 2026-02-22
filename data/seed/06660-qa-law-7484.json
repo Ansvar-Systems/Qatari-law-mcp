@@ -4,8 +4,21 @@
   "title": "قرار رقم (121) لسنة 2017 بإلغاء تخويل بعض موظفي وزارة الصحة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (121) لسنة 2017 بإلغاء تخويل بعض موظفي وزارة الصحة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7484&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7484&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغي صفة مأموري الضبط القضائي الممنوحة لكل من محمد غازي نجم وعبدالرحيم أحمد محمد المشعان الموظفين بوزارة الصحة العامة، والسابق منحها لهما بموجب قراري النائب العام رقمي 27 لسنة 2006 و 73 لسنة 2016 المُشار إليهما."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

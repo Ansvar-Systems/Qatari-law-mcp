@@ -4,8 +4,33 @@
   "title": "قانون رقم (3) لسنة 2000 بالترخيص لحكومة دولة قطر في إبرام إتفاقيات مع البنوك العالمية لإصدار سندات دين عام تطرح في الأسواق العالمية لصالح دولة قطر",
   "short_name": "قانون رقم (3) لسنة 2000 بالترخيص لحكومة دولة قطر في إبرام إتفاقيات مع البنوك العالمية لإصدار سندات دين عام تطرح في ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=287&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=287&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لوزارة المالية والاقتصاد والتجارة في إبرام وتنفيذ اتفاقيات وأية وثائق أخرى تتصل بها مع البنوك العالمية بشأن إصدار سندات دين عام تطرح في الأسواق العالمية لصالح حكومة دولة قطر ونيابة عنها في حدود مبلغ (2000) ألفي مليون دولار أمريكي، وذلك وفقاً للشروط المنصوص عليها في الإتفاقيات المذكورة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية والاقتصاد والتجارة أو من ينيبه في التوقيع على الإتفاقيات المشار إليها في المادة السابقة وأية وثائق أخرى تتصل بها، وفي القيام بإتخاذ الإجراءات اللازمة مع البنوك المذكورة ووضع الترتيبات المناسبة لإصدار سندات الدين العام المتفق عليها وتواريخ طرحها للاكتتاب."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا تسري أحكام القانون رقم (1) لسنة 1998 المشار إليه على أحكام الإتفاقيات المرخص بإبرامها بموجب هذا القانون."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

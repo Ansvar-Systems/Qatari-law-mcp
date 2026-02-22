@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (21) لسنة 2002 بتعديل بعض أحكام المرسومين رقمي (2) و(30) لسنة 2001 بالترخيص لوزارة المالية والاقتصاد والتجارة بتقديم الضمانات الخاصة بقروض شراء طائرات لشركة الخطوط الجوية القطرية",
   "short_name": "مرسوم رقم (21) لسنة 2002 بتعديل بعض أحكام المرسومين رقمي (2) و(30) لسنة 2001 بالترخيص لوزارة المالية والاقتصاد والتجا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=974&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=974&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بعبارتي «وزارة المالية والاقتصاد والتجارة» و«وزير المالية والاقتصاد والتجارة» أينما وردتا في المرسومين رقمي (2) و (30) لسنة 2001 المشار إليهما، عبارتا «و زارتا المالية» و«وزير المالية»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

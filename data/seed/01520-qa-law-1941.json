@@ -4,8 +4,27 @@
   "title": "قرار وزاري رقم (21) لسنة 1991 بقصر تفصيل الملابس العسكرية على المتعهدين الحاصلين على تصريح بذلك من وزارتي الدفاع والداخلية",
   "short_name": "قرار وزاري رقم (21) لسنة 1991 بقصر تفصيل الملابس العسكرية على المتعهدين الحاصلين على تصريح بذلك من وزارتي الدفاع والد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1941&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1941&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحظر على غير محال حياكة الملابس المصرح لها من وزارتي الدفاع أو اداخلية، حسب الأحوال، حياكة الملابس العسكرية الخاصة بضباط وأفراد القوات المسلحة والشرطة. وعلى الوزارتين المذكورتين إرسال صورة من التصاريح التي تصدرها في هذا الشأن، إلى وزارة الشئون البلدية والزراعة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعاقب على مخالفة أحكام هذا القرار، بالعقوبات المقررة في القانون رقم (3) لسنة 1975 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

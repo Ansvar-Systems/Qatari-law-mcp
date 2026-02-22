@@ -4,8 +4,21 @@
   "title": "قرار رقم (1) لسنة 2025 بإلغاء تخويل بعض موظفي وزارة العدل صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (1) لسنة 2025 بإلغاء تخويل بعض موظفي وزارة العدل صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9847&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9847&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي للسادة التالية أسماؤهما، والسابق منحها لهما بموجب قرار النائب العام المشار إليه أعلاه وهما:\nم\nالاسم\nالمسمى الوظيفي\n1\nحمد علي جابر المخضوبيه المري\nباحث قانوني ثاني\n2\nمفلح حزام مقعد ال شطفان القحطاني\nمفتش وساطة عقارية ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

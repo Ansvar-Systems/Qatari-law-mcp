@@ -4,8 +4,27 @@
   "title": "قرار وزير الاعمال والتجارة رقم (60) لسنة 2011 بتأسيس شركة مساهمة قطرية خاصة باسم/ شركة قطر للميلامين",
   "short_name": "قرار وزير الاعمال والتجارة رقم (60) لسنة 2011 بتأسيس شركة مساهمة قطرية خاصة باسم/ شركة قطر للميلامين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4494&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4494&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص للسادة الواردة أسمائهم في عقد التأسيس و النظام الاساسي المرفقين أن يؤسسوا فيما بينهم (شركة مساهمة قطرية خاصة) تسمي \"شركة قطر للميلامين\"، براس مال مصرح به قدرة (2.190.000.000) ريال قطري والمدفوع منه (1.300.000.000) ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الإلتزام لأحكام عقد التأسيس و النظام الاساسي المرفق نصهما بهذا القرار، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها فيما لم يرد بشأنه نص في عقد التأسيس و النظام الاساسي ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

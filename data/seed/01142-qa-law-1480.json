@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (18) لسنة 2005 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1996 بشأن تنظيم لجنة المطالبات والتعويضات بوزارة المالية",
   "short_name": "قرار مجلس الوزراء رقم (18) لسنة 2005 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1996 بشأن تنظيم لجنة المطالبات و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1480&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1480&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستبدل بعبارتي «وكيل الوزارة المساعد بوزارة المالية»، «مدير إدارة شؤون المالية العامة بوزارة المالية» عبارة «وكيل وزارة المالية» في المادتين (1) ، (7) على التوالي من قرار مجلس الوزراء رقم (9) لسنة 1996 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة ( 8 ) من قرار مجلس الوزراء رقم (9) لسنة 1996 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "«تحدد مكافأة اللجنة بمبلغ مقداره (4,000) أربعة آلاف ريال شهرياً»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من 29/6/2005. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

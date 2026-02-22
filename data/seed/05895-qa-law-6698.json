@@ -4,8 +4,21 @@
   "title": "قرار وزير الشباب والرياضة رقم (146) لسنة 2015 باعتماد النظام الأساسي لمركز شباب الدوحة",
   "short_name": "قرار وزير الشباب والرياضة رقم (146) لسنة 2015 باعتماد النظام الأساسي لمركز شباب الدوحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6698&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6698&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعتمد النظام الأساسي للمركز المرفق مع هذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويلغى كل حكم يخالف أحكامه، ويعمل به اعتباراً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

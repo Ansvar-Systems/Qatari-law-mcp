@@ -4,8 +4,21 @@
   "title": "قرار رقم (38) لسنة 2006 بتخويل بعض موظفي المجلس الأعلى لشؤون الأسرة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (38) لسنة 2006 بتخويل بعض موظفي المجلس الأعلى لشؤون الأسرة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3740&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3740&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي المجلس الأعلى لشؤون الأسرة، التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وأثبات الجرائم المنصوص عليها بالقوانين والتشريعات الخاصة بالمرأة والأسرة والطفل المعمول بها بالدولة، والقرارات المنفذة لها وهم:\n1- د/ هدى عبد الرحمن السبيعي\nاستشارية نفسية\n2- نورة حمد عيسى المناعي\nاستشارية أسرية\n3- هيا علي غانم ال غ انم\nاستشارية أسرية\n4- سالم حمد بوشهاب\nمشرف إ د اري\n6- نورة عبد العزيز العطية\nاستشارية اجتماعية\n7- لولوه عبد الله العبيدلي\nأخصائية اجتماعية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

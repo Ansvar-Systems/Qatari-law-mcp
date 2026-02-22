@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (2) لسنة 2022 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (2) لسنة 2022 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8821&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8821&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن كل من الآتية أسماؤهم في الوظيفة المُبينة قرين اسم كل منهم:\n1 - السيّد/ ياسر أحمد محمد يوسف قاض بمحكمة التمييز.\n2 - السيّد/ مصطفى عبدالمجيد البدويهي نائب رئيس بمحكمة الاستئناف.\n3 - الدكتور/ محمد حسن زينهم نائب رئيس بمحكمة الاستئاف.\n4 - السيّد/ محمد عبدالمنعم الشرقاوي نائب رئيس بمحكمة الاستئاف.\n5 - السيّد/ أحمد بن حسن غالي قاض بمحكمة الاستئناف.\n6 - السيّد/ محمد بن بلقاسم المسعي قاض بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يَخُصّه، تنفيذ هذا المرسوم.ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

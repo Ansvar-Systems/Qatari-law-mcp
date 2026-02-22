@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (56) لسنة 2021 بتعيين أعضاء في مجلس الشورى",
   "short_name": "قرار أميري رقم (56) لسنة 2021 بتعيين أعضاء في مجلس الشورى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8765&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8765&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السادة الآتية أسماؤهم أعضاءً في مجلس الشورى:\n1 - يوسف بن أحمد بن علي بن عمران الكواري.\n2 - سعد بن أحمد بن محمد الإبراهيم المهندي.\n3 - بادي بن علي بن محمد البادي.\n4 - محمد بن فهد بن محمد المسلم.\n5 - محمد بن مهدي بن عجيان الاحبـابي.\n6 - شيخة بنت يوسف الجفيري.\n7 - أحمد بن إبراهيم بن راشد المالكي.\n8 - سعود بن جاسم بن محمد البوعينين.\n9 - سعد بن أحمد بن عبدالله المسند.\n10 - محمد بن منصور بن خليل آل خليل الشهواني.\n11 - حمدة بنت حسن بن عبدالرحمن أبوظاعن السليطي.\n12 - أحمد بن سلطان بن محمد بن صباح العسيري.\n13 - عبدالله بن جابر بن محمد لبده.\n14 - عبـدالله بن نـاصر بن تركي السبيعي.\n15 - عمير بن عبـدالله بن خالد الجبر النعيمي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يَخُصّه، تنفيذ هذا القرار.\nويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (24) لسنة 2008 بالتصديق على اتفاقية الاستكشاف ومشاركة الإنتاج للمنطقة (3) بين حكومة دولة قطر وشركة ونترشال القابضة وشركة كوزمو للطاقة والاستكشاف وشركة برتامينا بيرسيرو",
   "short_name": "مرسوم رقم (24) لسنة 2008 بالتصديق على اتفاقية الاستكشاف ومشاركة الإنتاج للمنطقة (3) بين حكومة دولة قطر وشركة ونترشال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2992&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2992&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية الاستكشاف ومشاركة الإنتاج للمنطقة (3) المشار إليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

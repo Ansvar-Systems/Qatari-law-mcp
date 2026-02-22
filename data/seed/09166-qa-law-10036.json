@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (58) لسنة 2025 بفض دور الانعقاد العادي الرابع من الفصل التشريعي الأول لمجلس الشورى",
   "short_name": "مرسوم رقم (58) لسنة 2025 بفض دور الانعقاد العادي الرابع من الفصل التشريعي الأول لمجلس الشورى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10036&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10036&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُـفـض دور الانـعـقـاد الـعـادي الـرابـع مـن الـفـصـل الـتـشـريـعـي الأول ، المـوافـق لـدور الانـعـقـاد الـسـنـوي الـثـالـث والخـمـسـين لمـجـلـس الـشـورى ، اعـتـبـاراً مـن يـوم الـثـلاثـاء الـسـادس مـن شـهـر المـحـرم 1447 هـجـريـة ، المـوافـق للأول مـن شـهـر يـولـيـو عـام 2025 مـيـلادي ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عـلـى جـمـيـع الجـهـات المـخـتـصـة ، كـل فـيـمـا يـخـصـه ، تـنـفـيـذ هـذا المـرســوم . ويُـعـمـل بـه مـن تـاريـخ صــدوره . ويُـنـشــر فـي الجـريــدة الـرسـمـيـة ."
+    }
+  ],
   "definitions": []
 }

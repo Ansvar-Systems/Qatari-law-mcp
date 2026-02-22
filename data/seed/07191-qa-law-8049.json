@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (15) لسنة 2019 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية",
   "short_name": "قرار مجلس الوزراء رقم (15) لسنة 2019 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8049&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8049&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية برئاسة سعادة وزير الثقافة والرياضة، وسعادة الدكتور/ إبراهيم بن صالح النعيمي، نائباً للرئيس، وعضوية كل من:\n1- سعادة السيد/ سعد بن محمد الرميحي.\n2- سعادة الشيخ/ عبدالرحمن بن حمد آل ثاني.\n3- الدكتور/ حسن راشد الدرهم.\n4- السيدة/ آمال عبداللطيف المناعي.\n5- السيد/ عمر حسين الفردان."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار مجلس الوزراء رقم (71) لسنة 2014 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

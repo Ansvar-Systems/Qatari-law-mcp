@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (1) لسنة 1996 بإعادة تشكيل لجنة قيد المحامين",
   "short_name": "قرار أميري رقم (1) لسنة 1996 بإعادة تشكيل لجنة قيد المحامين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=681&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=681&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل لجنة قيد المحامين المنصوص عليها في المادة (7) من القانون رقم (20) لسنة 1980 المشار إليه، على الوجه الآتي:\n1- الدكتور/نجيب بن محمد النعيمي\nوزير العدل\nرئيساً\n2- السيد/مبارك خليفة العسيري\nرئيس المحاكم العدلية\nنائباً للرئيس\n3- السيد/سلطان عبدالله السويدي\nنائب رئيس محكمة الاستئناف\nعضواً\n4- السيد/إبراهيم موسى الهتمي\nمدير إدارة الفتوى والتشريع بوزارة العدل\nعضواَ"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

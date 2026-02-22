@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (9) لسنة 1966 بتأسيس شركة قطر الوطنية لصيد الأسماك",
   "short_name": "مرسوم رقم (9) لسنة 1966 بتأسيس شركة قطر الوطنية لصيد الأسماك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1354&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1966.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1354&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لحكومة قطر ممثلة في وزير المالية، ولشركة روس جروب الدولية المحدودة ويمثلها السيد ج.م شيبتون. في أن يؤسسا في قطر شركة مساهمة قطرية تسمى \"شركة قطر الوطنية لصيد الأسماك\" برأس مال قدره (4.000.000) أربعة ملايين روبية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفقة صورة من كل منهما بهذا المرسوم، وعليهما كذلك الالتزام بأحكام القانون رقم (3) لسنة 1961 بتنظيم شركات المساهمة المعدل بالمرسوم بقانون رقم (12) لسنة 1966 والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على وزير المالية تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية. ويعمل به من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

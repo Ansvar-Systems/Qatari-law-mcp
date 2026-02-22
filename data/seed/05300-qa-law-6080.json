@@ -4,8 +4,39 @@
   "title": "قرار رئيس الهيئة رقم (17) لسنة 1992 بحل مجلس إدارة اتحاد كرة القدم وتعيين رئيس للاتحاد",
   "short_name": "قرار رئيس الهيئة رقم (17) لسنة 1992 بحل مجلس إدارة اتحاد كرة القدم وتعيين رئيس للاتحاد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6080&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1992.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6080&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "حل مجلس إدارة الاتحاد القطري لكرة القدم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين السيد/ محمد همام العبدالله رئيساً للاتحاد القطري لكرة القدم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتولى الرئيس الجديد ترشيح أعضاء مجس إدارة الاتحاد ويصدر بتعيينهم قرار من رئيس اللجنة الأولمبية الأهلية القطرية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

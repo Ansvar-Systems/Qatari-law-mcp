@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (11) لسنة 2017 بمد عقود إيجار بعض الأماكن وأجزاء الأماكن المؤجرة لغير أغراض السكنى",
   "short_name": "قرار مجلس الوزراء رقم (11) لسنة 2017 بمد عقود إيجار بعض الأماكن وأجزاء الأماكن المؤجرة لغير أغراض السكنى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7185&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7185&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمد عقود إيجار الأماكن وأجزاء الأماكن المؤجرة لغير أغراض السكنى، الخاضعة لأحكام القانون رقم (4) لسنة 2008 المشار إليه، والقائمة في 14/2/2017، لمدة سنة تبدأ من 15/2/2017، ما لم يتضمن العقد مدة أطول، أو رغب المستأجر في عدم التجديد، بشرط أن يكون المستأجر شاغلاً للعين المؤجرة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُستبعد من حكم الامتداد القانوني المقرر في المادة السابقة، عقود إيجار الأماكن وأجزاء الأماكن المؤجرة لغير أغراض السكنى التالية:\n1- المقار الإدارية للشركات التجارية وغيرها من الأشخاص المعنوية الخاصة المشتغلة بالتجارة.\n2- مكاتب المحامين والمحاسبين والمهندسين.\n3- عيادات الأطباء البيطريين، ومكاتب خبراء الزراعة والثروة الحيوانية والسمكية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ 15/2/2017. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

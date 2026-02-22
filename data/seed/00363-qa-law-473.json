@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (13) لسنة 1996 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن إبرام المؤسسة العامة القطرية للبترول لعقد قرض لتمويل الخط الثالث من مشروع شركة قطر للغاز المسال المحدودة (قطر للغاز)",
   "short_name": "مرسوم بقانون رقم (13) لسنة 1996 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن إبرام المؤسسة العامة القطرية للبتر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=473&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=473&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "توافق حكومة دولة قطر على ضمان الالتزامات المالية الناشئة عن إبرام المؤسسة العامة القطرية للبترول لعقد قرض بمبلغ (550) مليون دولار أمريكي لتمويل الخط الثالث من مشروع شركة قطر للغاز المسال المحدودة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية والاقتصاد والتجارة أو من ينوب عنه أو وكيل وزارة المالية والاقتصاد والتجارة في التوقيع على اتفاقية الضمان المزمع إبرامها بين الحكومة (كضامن) وبين شركة قطر لتمويل الخط الثالث المحدودة وبنك طوكيو ميتسوبيشي المحدود (البنوك التجارية اليابانية)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

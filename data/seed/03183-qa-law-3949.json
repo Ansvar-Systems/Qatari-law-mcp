@@ -4,8 +4,39 @@
   "title": "وثيقة تأسيس مركز التأهيل الاجتماعي مؤسسة خاصة ذات نفع عام",
   "short_name": "وثيقة تأسيس مركز التأهيل الاجتماعي مؤسسة خاصة ذات نفع عام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3949&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3949&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ مؤسسة خاصة ذات نفع عام طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 بشأن الجمعيات الخاصة ذات النفع العام باسم (مركز التأهيل الاجتماعي)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون مقر المركز مدينة الدوحة، ويجوز له إنشاء فروع أو مكاتب في الداخل والخارج."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يعمل المركز وفقاً للنظام الأساسي الصادر بقرار من المؤسس ويسري بشأنه أحكام القانون رقم (21) لسنة 2006 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يهدف المركز إلى التأهيل الاجتماعي للفئات المستهدفة والحفاظ على الشخصية السوية في المجتمع."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "رأس مال المركز 5,000,000 ريال قطري (خمسة ملايين ريالاً قطرياً فقط لا غير)."
+    }
+  ],
   "definitions": []
 }

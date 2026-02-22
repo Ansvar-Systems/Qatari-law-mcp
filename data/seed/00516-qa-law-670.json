@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (1) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للسياحة",
   "short_name": "قرار أميري رقم (1) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للسياحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=670&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=670&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة الهيئة العامة للسياحة، على النحو التالي:\n1- الشيخ/ سلطان بن جاسم بن محمد آل ثاني\nرئيساً\n2- السيد/ إبراهيم حسن إبراهيم الأصمخ\nنائباً للرئيس\n3- الشيخ/ محمد بن فهد بن محمد آل ثاني\nعضواً\n4- العميد/ محمد بن يوسف المانع\nعضواً\n5- الشيخ/ جبر بن يوسف آل ثاني\nعضواً\n6- الشيخ/ عبد الله بن أحمد آل ثاني\nعضواً\n7- السيد/ علي حسين الفردان\nعضواً\n8- الدكتور/ عيسى حسن التميمي\nعضواً\n9- السيد/ أكبر الباكر\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة المجلس ثلاث سنوات ميلادية تبدأ من تاريخ صدور هذا القرار، ويتولى أعضاء المجلس عملهم في المجلس بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

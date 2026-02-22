@@ -4,8 +4,21 @@
   "title": "قرار رقم (60) لسنة 2010 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (60) لسنة 2010 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3816&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3816&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لإحكام القوانين المُشار إليها، والقرارات المنفذة لها وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nالسيد/ حمد هادي علي البريدي\nمدير إدارة الشؤون القانونية\n2\nالمهندس/ جمال مطر النعيمي\nمدير بلدية الريان\n3\nالمهندس/ محمد أحمد السيد\nمدير بلدية الدوحة\n4\nالمهندس/ فهد محمد القحطاني\nمدير بلدية الظعاين\n5\nالسيد/ راشد سعيد النعيمي\nمدير بلدية الخور والذخيرة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

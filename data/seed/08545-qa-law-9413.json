@@ -4,8 +4,21 @@
   "title": "قرار لجنة شؤون مدققي الحسابات رقم (2) لسنة 2023 بتحديد المعايير المحاسبية المعتمدة بالدولة",
   "short_name": "قرار لجنة شؤون مدققي الحسابات رقم (2) لسنة 2023 بتحديد المعايير المحاسبية المعتمدة بالدولة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9413&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9413&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد المعايير المحاسبية المعتمدة بالدولة، على النحو التالي:\n1 - المعايير الدولية للتقارير المالية الصادرة عن مجلس معايير المحاسبة الدولية والتفسيرات الصادرة عن لجنة تفسيرات المعايير الدولية للتقارير المالية.\n2 - معايير المحاسبة المالية الصادرة عن هيئة المحاسبة والمراجعة للمؤسسات المالية الإسلامية.\n3 - المعايير الدولية للمراجعة والفحص والتأكيدات الأخرى والخدمات ذات العلاقة الصادرة عن الاتحاد الدولي للمحاسبين."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "علي جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من العام التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

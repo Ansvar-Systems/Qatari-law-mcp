@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (56) لسنة 2000 بإعادة تشكيل مجلس إدارة المؤسسة العامة القطرية للبترول",
   "short_name": "قرار أميري رقم (56) لسنة 2000 بإعادة تشكيل مجلس إدارة المؤسسة العامة القطرية للبترول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=780&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=780&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس إدارة المؤسسة العامة القطرية للبترول، على النحو التالي:-\n1- سعادة السيد/عبد الله بن حمد العطية\nرئيساً\n2- سعادة السيد/يوسف حسين كمال\nنائباً للرئيس\n3- السيد/عبد الله حسين صلات\nعضواً\n4- الدكتور/إبراهيم الإبراهيم\nعضواً\n5- السيد/فيصل محمد السويدي\nعضواً\n6- السيد/حمد راشد المهندي\nعضواً\n7- السيد/فهد حمد المهندي\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

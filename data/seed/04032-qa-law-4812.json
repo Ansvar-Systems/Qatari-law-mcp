@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (53) لسنة 2012 بشأن التعرفة الجمركية الموحدة",
   "short_name": "مرسوم رقم (53) لسنة 2012 بشأن التعرفة الجمركية الموحدة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4812&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4812&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعمل بالتعرفة الجمركية الموحدة المرفقة بهذا المرسوم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى المرسوم رقم (34) لسنة 2007 المشار إليه، كما يلغى كل حكم يخالف أحكام هذا المرسوم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به اعتباراً من 4/4/2012. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

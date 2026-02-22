@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (28) لسنة 1995 بتعديل بعض أحكام القانون رقم (6) لسنة 1992 بتنظيم وزارة الكهرباء والماء وتعيين اختصاصاتها",
   "short_name": "مرسوم بقانون رقم (28) لسنة 1995 بتعديل بعض أحكام القانون رقم (6) لسنة 1992 بتنظيم وزارة الكهرباء والماء وتعيين اختصاص...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=550&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=550&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يلغى البند (9) من المادة (2) والبند (3) من المادة (12) من القانون رقم (6) لسنة 1992 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

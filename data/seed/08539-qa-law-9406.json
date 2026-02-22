@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (42) لسنة 2023 بتعيين وكيل وزارة مساعد بوزارة الاتصالات وتكنولوجيا المعلومات",
   "short_name": "قرار رئيس مجلس الوزراء رقم (42) لسنة 2023 بتعيين وكيل وزارة مساعد بوزارة الاتصالات وتكنولوجيا المعلومات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9406&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9406&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن السيّد/ سامي محمد حسين الشمري، وكيل وزارة مساعد لشؤون البنية التحتية والعمليات، بوزارة الاتصالات وتكنولوجيا المعلومات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

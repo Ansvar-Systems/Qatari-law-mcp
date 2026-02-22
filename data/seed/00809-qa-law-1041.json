@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (31) لسنة 2001 بالموافقة على انضمام دولة قطر إلى اتفاقية باريس لحماية الملكية الصناعية",
   "short_name": "مرسوم رقم (31) لسنة 2001 بالموافقة على انضمام دولة قطر إلى اتفاقية باريس لحماية الملكية الصناعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1041&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1041&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى اتفاقية باريس لحماية الملكية الصناعية ، المبرمة في 20 مارس 1883، والمعدلة ببروكسل في 14 ديسمبر 1900، وواشنطن في 2 يونيو 1911، ولاهاي في 6 نوفمبر 1925، ولندن في 2 يونيو 1934، ولشبونه في 31 أكتوبر 1958، واستكهولم في 14 يوليو 1967، والمنقحة في 2 أكتوبر 1979، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (10) لسنة 1994 بالتصديق على الاتفاق بين حكومة دولة قطر ومنظمة الأمم المتحدة للتربية والعلوم والثقافة بشأن تنظيم أعمال مكتب اليونسكو الإقليمي للدول العربية في الخليج",
   "short_name": "مرسوم رقم (10) لسنة 1994 بالتصديق على الاتفاق بين حكومة دولة قطر ومنظمة الأمم المتحدة للتربية والعلوم والثقافة بشأن ت...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=851&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=851&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على الاتفاق بين حكومة دولة قطر ومنظمة الأمم المتحدة للتربية والعلوم والثقافة بشأن تنظيم أعمال مكتب اليونسكو الإقليمي للدول العربية في الخليج الموقع في مدينة باريس بتاريخ 3/11/1993، المرفق نصه بهذا المرسوم، ويكون له قوة القانون وفقاً للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

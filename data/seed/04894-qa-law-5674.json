@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (11) لسنة 2009 بشأن تعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (11) لسنة 2009 بشأن تعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5674&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5674&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين في وظيفة وكيل نيابة مساعد كل من:\n1- فهد راشد حمد ربيعه الكعبي.\n2- فهد حمد سالم بو شهاب آل سنيد.\n3- علي سعيد علي الإبراهيم المهندي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به اعتبارا من 10/10/2008. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (20) لسنة 1998 بتأسيس شركة قطر للكيماويات المحدودة «كيوكيم» (شركة مساهمة قطرية)",
   "short_name": "مرسوم رقم (20) لسنة 1998 بتأسيس شركة قطر للكيماويات المحدودة «كيوكيم» (شركة مساهمة قطرية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=964&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=964&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص لـ:\n1. المؤسسة العامة القطرية للبترول.\n2. شركة فيليبس للاستثمار.\nفي أن يؤسسا في قطر شركة مساهـمة قطرية تسمى (شركة قطر للكيماويات المحدودة) \"كيوكيم\" برأسمال قدره (-/900.000.000) تسعمائة مليون دولار أمريكي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفق صورة من كل منهما بهذا المرسوم، وبأحكام قانون الشركات التجارية رقم (11) لسنة 1981 المشار إليه، والقوانين الأخرى المعمول بها، فيما لم يرد بشأنه نص خاص في عقد التأسيس و النظام الأساسي المذكورين."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

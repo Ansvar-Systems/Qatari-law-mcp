@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (19) لسنة 1996 بتعديل بعض أحكام القانون رقم (2) لسنة 1962 بتنظيم السياسة المالية العامة في قطر",
   "short_name": "مرسوم بقانون رقم (19) لسنة 1996 بتعديل بعض أحكام القانون رقم (2) لسنة 1962 بتنظيم السياسة المالية العامة في قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=516&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=516&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى البند (2) من المادة (2) من القانون رقم (2) لسنة 1962 المشار إليه، الفقرة التالية:\n«واستثناء من ذلك يجوز للحكومة، لأسباب تقدرها، أن تقدم بموجب مرسوم ضمانات وتعهدات، وأن ترتبط بالتزامات قد يترتب عليها إنفاق مبالغ من خزانة الدولة في سنة أو سنوات مقبلة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ أحكام هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة 2017 بتعديل بعض أحكام القرار رقم (3) لسنة 2003 بإنشاء لجنة دائمة لإدارة منفذ أبوسمرة",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة 2017 بتعديل بعض أحكام القرار رقم (3) لسنة 2003 بإنشاء لجنة دائمة لإدارة منفذ أبوسمرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7205&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7205&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 2 ) من قرار مجلس الوزراء رقم (3) لسنة 2003 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "\"تُشكل اللجنة من ممثلين اثنين عن وزارة الداخلية يكون أحدهما رئيساً، والآخر نائباً للرئيس، وعضوية كل من:\n- ممثلين اثنين عن وزارة البلدية والبيئة.\n- ممثل عن وزارة الصحة العامة.\n- ممثل عن الهيئة العامة للجمارك.\n- ممثل عن جهاز أمن الدولة.\nوتختار كل جهة من يمثلها في عضوية اللجنة، ويصدر بتسمية رئيس ونائب رئيس وأعضاء اللجنة قرار من وزير الداخلية.\nويتولى أمانة سر اللجنة، موظف أو أكثر من موظفي وزارة الداخلية، يصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من وزير الداخلية.\""
+    }
+  ],
   "definitions": []
 }

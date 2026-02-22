@@ -4,8 +4,21 @@
   "title": "قرار رقم (45) لسنة 2021م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (45) لسنة 2021م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8613&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8613&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (15) لسنة 2010م المُشار إليه والقرارات المنفذة له وهم :\nم\nالإسم\nالمسمى الوظيفي\n1\nخلدون أحمد على عزازي\nمساح ثاني\n2\nعادل عبدالله راشد السليطي\nمشرف مراقبين رخص بناء رابع\n3\nخالد محمد سيف النعيمي\nمشرف مراقبين رخص بناء ثاني\n4\nخالد محمد جمعه القبيسي\nمفتش رخص بناء أول\n5\nهاني حسن فضلى حسن\nمهندس مدني ثالث\n6\nخميس عمران محمد العمران\nمراقب مزارع ثاني\n7\nمحمد عثمان اسماعيل مقفي\nمساح ثاني\n8\nغانم جابر علي الكواري\nرئيس قسم الرقابة الفنية\n9\nمحمد ثامر سالم الحميدي\nمعاون مدخل بيانات\n10\nبسام صبحي الجبر\nمهندس مدني أول\n11\nفرج محمد فرج النابت المري\nباحث قانوني\n12\nأحمد عبدالله ناصر المعاضيد\nباحث شؤون إدارية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير الأوقاف والشؤون الإسلامية رقم (73) لسنة 2017 بتحديد مبلغ ومدة خطاب الضمان اللازم لمنح تصريح بتسيير حملة الحج",
   "short_name": "قرار وزير الأوقاف والشؤون الإسلامية رقم (73) لسنة 2017 بتحديد مبلغ ومدة خطاب الضمان اللازم لمنح تصريح بتسيير حملة الحج",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7489&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7489&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد قيمة خطاب الضمان اللازم لمنح تصريح بتسيير حملة الحج، المنصوص عليه في المادة (11/بند3) من القانون رقم (3) لسنة 2015 المشار إليه، على النحو التالي:\n1- مبلغ (300.000) ثلاثمائة ألف ريال لفئة حملات الحج جواً.\n2- مبلغ (150.000) مائة وخمسون ألف ريال لفئة حملات الحج براً.\nعلى أن يكون خطاب الضمان صالحاً للأداء بأكمله حتى التاسع والعشرين من شهر المحرم التالي لموسم الحج."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

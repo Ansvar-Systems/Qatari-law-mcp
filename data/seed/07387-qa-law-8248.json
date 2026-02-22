@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (1) لسنة 2020 بتعديل بعض أحكام القرار رقم (19) لسنة 2019 بإعادة تسمية أعضاء اللجنة الوطنية لأمن المعلومات",
   "short_name": "قرار رئيس مجلس الوزراء رقم (1) لسنة 2020 بتعديل بعض أحكام القرار رقم (19) لسنة 2019 بإعادة تسمية أعضاء اللجنة الوطنية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8248&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8248&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيد/ عثمان سالم الحمود، محل السيد/ خالد نعم الله الهاشمي، ممثلا عن وزارة المواصلات والاتصالات، في عضوية اللجنة الوطنية لأمن المعلومات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

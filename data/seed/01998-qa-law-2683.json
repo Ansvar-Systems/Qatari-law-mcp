@@ -4,8 +4,39 @@
   "title": "مرسوم بقانون رقم (17) لسنة 1999 بإلغاء الجهاز المركزي للإحصاء",
   "short_name": "مرسوم بقانون رقم (17) لسنة 1999 بإلغاء الجهاز المركزي للإحصاء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2683&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2683&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يلغى الجهاز المركزي للإحصاء، وتؤول اختصاصاته المنصوص عليها في المرسوم بقانون رقم (12) لسنة 1980 المشار إليه إلى الأمانة العامة لمجلس التخطيط."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تؤول إلى مجلس التخطيط جميع موجودات وحقوق وإلتزامات الجهاز المركزي للإحصاء."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "ينقل إلى الأمانة العامة لمجلس التخطيط، من تاريخ العمل بأحكام هذا القانون، العاملون بالجهاز المركزي للإحصاء بذات درجاتهم وأوضاعهم المالية وقت النقل."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تظل سارية أحكام المرسوم بقانون رقم (12) لسنة 1980 المشار إليه، فيما لا يتعارض مع أحكام هذا القانون. ويلغى كل حكم يخالف أحكامه."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

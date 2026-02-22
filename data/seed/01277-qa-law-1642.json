@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (44) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (3) لعام 2004 في شأن الموافقة على تأسيس شركة باسم «قطر غاز للتشغيل المحدودة» (شركة مساهمة قطرية)",
   "short_name": "قرار مجلس الوزراء رقم (44) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (3) لعام 2004 في شأن الموافقة على تأسيس...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1642&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1642&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد قرار مجلس إدارة قطر للبترول رقم (3) لعام 2004، في شأن الموافقة على تأسيس قطر للبترول بالاشتراك مع شركة إكسون موبيل قطر غاز (2) المحدودة، شركة مساهمة قطرية باسم «قطر غاز للتشغيل المحدودة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,39 @@
   "title": "قرار وزير الرياضة والشباب رقم (18) لسنة 2025 بتشكيل مجلس إدارة نادي قطر للسباق والفروسية",
   "short_name": "قرار وزير الرياضة والشباب رقم (18) لسنة 2025 بتشكيل مجلس إدارة نادي قطر للسباق والفروسية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9971&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9971&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة نادي قطر للسباق والفروسية على النحو التالي :\n1- السيد/ حمد بن عبد الرحمن العطية رئيساً\n2- السيد / راشد بن ناصر الكعبي نائباً للرئيس\n3- السيد/ خليفة بن محمد العطية عضواً\n4- السيد / فالح بن محمد النصـــــــر عضواً\n5- السيد / عبد الرحمن بن منصور المنصور عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة مجلس الإدارة، وفقاً للتشكيل المحدد بالمادة (1) من هذا القرار، أربعة سنوات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يباشر مجلس الإدارة كافة الاختصاصات والصلاحيات المنصوص عليها في النظام الأساسي لنادي السباق والفروسية الصادر بقرار وزير الثقافة والرياضة رقم (223) لسنة 2018، المشار إليه أعلاه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

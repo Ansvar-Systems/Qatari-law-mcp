@@ -4,8 +4,21 @@
   "title": "قرار رقم (29) لسنة 2017 بتخويل بعض موظفي وزارة الصحة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (29) لسنة 2017 بتخويل بعض موظفي وزارة الصحة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7219&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7219&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة -قسم الأمراض غير الانتقالية- التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (10) لسنة 2016 م المُشار إليه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nجعفر محمد عباس الخياط.\nمُشرف تفتيش صحي\n2\nبدر سلطان سعد الرميحي.\nمُشرف تفتيش صحي\n3\nأحمد عبدالرحمن سعيد النعيمي.\nمُفتش صحي\n4\nخليفة يوسف الرميحي.\nمُفتش صحي\n5\nعقيل جاسم على الحداد.\nمُفتش صحي\n6\nسعد سالم محمد المري.\nمُفتش صحي\n7\nمحسن محمد سالم الخوار.\nمُفتش صحي\n8\nحسن طالب حسن عبدالله.\nمُفتش صحي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

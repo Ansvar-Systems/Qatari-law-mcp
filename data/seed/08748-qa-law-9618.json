@@ -4,8 +4,45 @@
   "title": "قرار وزير البلدية رقم ( 118 ) لسنة 2024 بشأن اعتماد مختبر المركز الطبي البيطري للخيل بالشقب",
   "short_name": "قرار وزير البلدية رقم ( 118 ) لسنة 2024 بشأن اعتماد مختبر المركز الطبي البيطري للخيل بالشقب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9618&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9618&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعتمد وزارة البلدية مختبر المركز الطبي البيطري للخيل بالشقب ، لإجراء الاختبارات المندرجة تحت نطاق اعتماد منظمة الأيزو (ISO17025) ، والمنصوص عليها في الملحق ( أ )."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعتبر المختبر المذكور في المادة (1) هو المختبر المعتمد لوزارة البلدية لفحص أمراض الخيل الوبائية لغرض التصدير والاستيراد ، ويقوم المختبر بتحليل العينات وارسال نتائجها للجهة المعنية بالوزارة ، ويجب على المختبر إبلاغها بالنتائج الإيجابية لأي من الأمراض الواجب التبليغ عنها بدولة قطر في أسرع وقت"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يقوم المختبر باستقبال العينات من خارج الدولة والحفاظ عليها بطريقة تمنع التلوث وانتشار الأمراض والتخلص منها بالطرق العلمية الصحيحة بعد انتهاء الفحص وإبلاغ النتائج للجهة المعنية بالوزارة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يلتزم المختبر بالبرتوكولات التي يتم توقيعها مع الجهة المعنية بالوزارة ، ويقدم التقارير الدورية لها عما ينتج عن هذه البرتوكولات."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تتولى الإدارة المعنية بالوزارة التنسيق مع الجهات المختصة لمراقبة تطبيق هذا القرار."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة ، كلاً فيما يخصه ، تنفيذ هذا القرار، ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

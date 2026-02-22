@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (79) لسنة 2003 بدعوة مجلس الشورى لعقد دور الإنعقاد العادي الثاني والثلاثين",
   "short_name": "مرسوم رقم (79) لسنة 2003 بدعوة مجلس الشورى لعقد دور الإنعقاد العادي الثاني والثلاثين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5957&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5957&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُدعى مجلس الشورى لعقد دور الإنعقاد العادي الثاني والثلاثين يوم الثلاثاء الثالث والعشرين من رمضان 1424هـ، الموافق للثامن عشر من نوفمبر 2003."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

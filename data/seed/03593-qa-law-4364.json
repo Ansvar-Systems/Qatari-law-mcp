@@ -4,8 +4,51 @@
   "title": "وثيقة تأسيس المركز الدولي للأمن الرياضي (مؤسسة خاصة ذات نفقع عام)",
   "short_name": "وثيقة تأسيس المركز الدولي للأمن الرياضي (مؤسسة خاصة ذات نفقع عام)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4364&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4364&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون اسم المؤسسة هو \"المركز الدولي للأمن الرياضي\"، (مؤسسة خاصة ذات نفع عام)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "المقر الرئيسي للمركز ومحله القانوني مدينة الدوحة، ويجوز للمركز إنشاء فروع أو مكاتب في الداخل والخارج."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يهدف المركز إلى تعزيز الأمن والسلامة في عالم الرياضة، والمعالجة الفعالة للمشكلات الحقيقية في مجال الرياضية بشكل استباقي، وتقديم الخدمات التدريبية والاستشارية للأمن الرياضي بكافة فعاليته، وأنشطته الرياضية، وتوفير الدراسات والأبحاث والنشرات الأمنية الرياضية، وتبادل المعرفة مع المراكز المتخصصة في هذا المجال."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "خُصص للمركز مبلغاً مقداره 500,000 ريال قطري (خمسمائة ألف ريال قطري)، لدى بنك قطر الوطني، لنفقات تشغيل المركز."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يتمتع المركز بالاستقلالية التامة في إدارة أنشطته."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يُسجل ويشهر المركز طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "تم تحرير هذه الوثيقة من نسختين متطابقتين تودع واحدة منها لدى الجهة المختصة بتوثيق المحررات، ويحتفظ المركز بالنسخة الأخرى في مقره."
+    }
+  ],
   "definitions": []
 }

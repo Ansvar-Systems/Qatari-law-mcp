@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل رقم (5) لسنة 1980 دولة قطر شهادة تسجيل (جمعية الريان التعاونية الاستهلاكية)",
   "short_name": "شهادة تسجيل رقم (5) لسنة 1980 دولة قطر شهادة تسجيل (جمعية الريان التعاونية الاستهلاكية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3806&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1980.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3806&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل رقم (5) لسنة 1980\nدولة قطر\nشهادة تسجيل (جمعية الريان التعاونية الاستهلاكية)\nشهادة تسجيل رقم (5) لسنة 1980\nدولة قطر\nشهادة تسجيل (جمعية الريان التعاونية الاستهلاكية) 5 / 1980\nأشهد أن جمعية الريان التعاونية الاستهلاكية - محدودة المسئولية قد سجلت تحت رقم 5 ‏بموجب قانون الجمعيات التعاونية رقم (12) لسنة 1973م في اليوم الحادي والعشرون من شهر رجب لسنة 1400هـ الموافق السابع من شهر يونيه لسنة 1980م."
+    }
+  ],
   "definitions": []
 }

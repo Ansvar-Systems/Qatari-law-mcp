@@ -4,8 +4,39 @@
   "title": "إعلان رقم (1) لسنة 1979 صادر عن مجلس النقد",
   "short_name": "إعلان رقم (1) لسنة 1979 صادر عن مجلس النقد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3637&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1979.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3637&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلتزم مؤسسات الصرافة العاملة في قطر بعدم استخدام كلمة \"بنك\" أو مشتقاتها أو أي عنوان يدل على مزاولة الأعمال المصرفية في أي من وثائقها أو مراسلاتها أو إعلاناتها إلا بموافقة خطية من مؤسسة النقد القطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تحدد أعمال مؤسسات الصرافة القائمة حاليا أو التي قد تنشأ في المستقبل كالتالي:-\nأ- المتاجرة بالعملات الأجنبية وإصدار حوالات على المراسلين في الخارج.\nب- المتاجرة بالشيكات السياحية.\nجـ- المتاجرة بالمجوهرات والمعادن النفيسة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تطبق أحكام المواد ( 36 )، ( 37 )، ( 38 )، ( 41 )، ( 47 )، ( 51 )، ( 54 ) من القانون رقم (7) لسنة 1973م على جميع مؤسسات الصرافة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تعطى مؤسسات الصرافة العاملة حالياُ مهلة مدتها ثلاثة أشهر لتغيير أوضاعها بما يتفق ومضمون هذا الإعلان."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "ينشر هذا الإعلان بالجريدة الرسمية ويعمل به من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

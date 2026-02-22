@@ -4,8 +4,39 @@
   "title": "أمر أميري رقم (5) لسنة 1995 بتنظيم العمل في الديوان الأميري الخاص",
   "short_name": "أمر أميري رقم (5) لسنة 1995 بتنظيم العمل في الديوان الأميري الخاص",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=615&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=615&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعهد إلى وزير الدولة لشئون مجلس الوزراء - إلى جانب عمله - الإشراف على الديوان الأميري الخاص، وإصدار القرارات اللازمة لإدارته وتسيير أعماله."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتولى المقدم/محمد بن زايد الخيارين - إلى جانب عمله - منصب (مدير الديوان الأميري الخاص)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتولى كل من السيد/محمد البادي، والرائد/عبدالله العيده - إلى جانب عمله - مسئولية الإشراف والإدارة للقصور الخاصة وملحقاتها وما يتبعها. ويتم توزيع العمل بينهما بقرار من الوزير المشرف على الديوان الأميري الخاص."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يلغى كل حكم أو قرار تنظيمي يخالف أحكام هذا الأمر الأميري."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يعمل بهذا الأمر الأميري من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

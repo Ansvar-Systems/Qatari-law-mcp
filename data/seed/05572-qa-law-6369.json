@@ -4,8 +4,27 @@
   "title": "قانون رقم (17) لسنة 2014 بإعفاء حصة المستثمرين غير القطريين في أرباح بعض الشركات وصناديق الاستثمار من الضريبة على الدخل",
   "short_name": "قانون رقم (17) لسنة 2014 بإعفاء حصة المستثمرين غير القطريين في أرباح بعض الشركات وصناديق الاستثمار من الضريبة على الدخل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6369&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6369&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعفى من الضريبة على الدخل ما يلي:\n1- حصة المستثمر غير القطري في أرباح الشركات المطروحة اسهمها للتداول في السوق المالي.\n2- حصة المستثمر غير القطري في أرباح صناديق الاستثمار المطروحة وحداتها للتداول في السوق المالي.\n3- حصة المستثمر غير القطري في الأرباح الناتجة من تداول جميع الأوراق المالية، بما في ذلك وحدات صناديق الاستثمار، المدرجة للتداول في السوق المالي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى القانون رقم (20) لسنة 2008 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

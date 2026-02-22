@@ -4,8 +4,21 @@
   "title": "قانون رقم (6) لسنة 1982 بتفسير بعض أحكام القانون رقم (14) لسنة 1963م بمنح امتياز النقل البحري وأعمال وكالات البواخر لشركة قطر الوطنية للملاحة والنقليات المحدودة",
   "short_name": "قانون رقم (6) لسنة 1982 بتفسير بعض أحكام القانون رقم (14) لسنة 1963م بمنح امتياز النقل البحري وأعمال وكالات البواخر ل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4092&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1982.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4092&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "في تطبيق أحكام القانون رقم (14) لسنة 1963 م المشار إليه، تسري على الأعمال المتعلقة بوكالات البواخر المنصوص عليها في المادة الثانية منه، باعتبارها وكالات تجارية، الأحكام العامة في عقد الوكالة.\nولا تسأل الشركة طبقاً لهذه الأحكام، قبل الشاحنين أو المرسل إليهم في مالها الخاص، إلا في حالة خطئها الشخصي، ما لم يتفق على خلاف ذلك."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من تاريخ العمل بالقانون رقم (14) لسنة 1963 م المشار إليه. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

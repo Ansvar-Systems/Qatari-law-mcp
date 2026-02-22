@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (6) لسنة 2003 بالترخيص لوزارة المالية بتقديم الضمانات المطلوبة لاتفاقيات إنترناشيونال سواب ديلرز أسوسييشن (أي إس دي إيه) التي ستبرمها شركة الخطوط الجوية القطرية بشأن قروض شراء الطائرات",
   "short_name": "مرسوم رقم (6) لسنة 2003 بالترخيص لوزارة المالية بتقديم الضمانات المطلوبة لاتفاقيات إنترناشيونال سواب ديلرز أسوسييشن (...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1264&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1264&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لوزارة المالية، أن تقوم باسم حكومة دولة قطر، بتوقيع الوثائق والمستندات الضرورية، لتقديم الضمانات المطلوبة لاتفاقيات إنترناشيونال سواب ديلرز أسوسييشن (أي إس دي إيه)، التي ستبرمها شركة الخطوط الجوية القطرية بشأن قروض شراء الطائرات، والتي تضمنها الدولة بموجب المرسومين رقمي (2) ، (30) لسنة 2001 المشار إليهما."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية أو من ينيبه، في التوقيع على الوثائق والمستندات المشار إليها في المادة السابقة، وفي تنفيذها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

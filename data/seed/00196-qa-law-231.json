@@ -4,8 +4,27 @@
   "title": "قانون رقم (29) لسنة 2004 بتعديل بعض أحكام قانون المحاماة الصادر بالقانون رقم (10) لسنة 1996",
   "short_name": "قانون رقم (29) لسنة 2004 بتعديل بعض أحكام قانون المحاماة الصادر بالقانون رقم (10) لسنة 1996",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=231&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=231&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى قانون المحاماة المشار إليه، مادة برقم (7 مكرراً «1») نصها الآتي:"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "مكرراً «1»):\n«استثناءً من الشرطين المنصوص عليهما في البندين (1)، (5) من المادة (11) من هذا القانون، يقيد في جدول المحامين المشتغلين، المحامون الذين كانوا مقيدين في الجدول المؤقت المشار إليه في المادة (3) من القانون رقم (10) لسنة 1996 بإصدار هذا القانون، وذلك لمدة سنة تبدأ من 31/10/2003."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

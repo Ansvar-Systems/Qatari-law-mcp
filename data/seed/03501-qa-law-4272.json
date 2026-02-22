@@ -4,8 +4,39 @@
   "title": "قرار مجلس الوزراء رقم (11) لسنة 2002 بتشكيل المجلس الدائم للتأديب",
   "short_name": "قرار مجلس الوزراء رقم (11) لسنة 2002 بتشكيل المجلس الدائم للتأديب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4272&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4272&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل المجلس الدائم للتأديب برئاسة وزير الخدمة المدنية والإسكان وعضوية كل من:\n1- السيد/حسين يوسف الملا، ممثلاً عن وزارة شؤون الخدمة المدنية والإسكان\n2- السيد/أحمد سلطان العسيري، ممثلاً عن المحاكم العدلية.\n3- السيد/عبد الرحمن ابراهيم السليطي، ممثلاً عن ديوان المحاسبة.\n4- ممثل عن الوزارة أو الجهة التي يتبعها الموظف المحال للتأديب يختاره الوزير المختص.\nويرأس المجلس ممثل وزارة شؤون الخدمة المدنية والإسكان عند غياب رئيس المجلس أو القيام ما يحول دون رئاسته للمجلس.\nويكون السيد/أحمد محمد السليطي أميناً لسر المجلس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُصدر المجلس قراراته بأغلبية الآراء، وعند التساوي يرجح الجانب الذي منه الرئيس، ويرفع المجلس قراراته إلى رئيس مجلس الوزراء لاعتمادها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يضع المجلس الدائم للتأديب نظاماً لعمله، على أن يتضمن مواعيد اجتماعاته والقواعد اللازمة لممارسة اختصاصاته."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يتقاضى رئيس وأعضاء المجلس الدائم للتأديب مكافأة شهرية قدرها ثلاثة آلاف ريال ويتقاضى أمين سر المجلس مكافأة شهرية قدرها ألفي ريال."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

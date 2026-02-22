@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (30) لسنة 2023 بالتصديق على اتفاق بين حكومة دولة قطر وحكومة جمهورية مصر العربية لتشجيع وحماية الاستثمارات المتبادلة",
   "short_name": "مرسوم رقم (30) لسنة 2023 بالتصديق على اتفاق بين حكومة دولة قطر وحكومة جمهورية مصر العربية لتشجيع وحماية الاستثمارات ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9236&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9236&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاق بـين حكومة دولة قطر وحكومة جمهورية مصر العربية لتشجيع وحماية الاستثمارات المتبادلة، الموقّع بمدينة الدوحة بتاريخ 02/12/1999، المُرفق نصه بهذا المرسوم، وتكون له قوة القانون، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم.\nويُعمل به من تاريخ صدوره. ويتشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

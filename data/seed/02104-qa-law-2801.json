@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (31) لسنة 2010 بإعادة تشكيل مجلس إدارة قطر للبترول",
   "short_name": "قرار أميري رقم (31) لسنة 2010 بإعادة تشكيل مجلس إدارة قطر للبترول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2801&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2801&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس إدارة قطر للبترول، على النحو التالي:\n1- سعادة السيد/ عبدالله بن حمد العطية\nرئيساً\n2- سعادة السيد/ يوسف حسين كمال\nنائباً للرئيس\n3- سعادة الدكتور/ محمد صالح السادة\nعضواً\n4- سعادة الدكتور/ إبراهيم الإبراهيم\nعضواً\n5- السيد/ عبدالله حسين صلات\nعضواً\n6- السيد/ حمد راشد المهندي\nعضواً\n7- السيد/ فهد حمد المهندي\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات، تبدأ من تاريخ العمل بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 20/8/2010. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

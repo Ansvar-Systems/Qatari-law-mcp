@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (28) لسنة 2007 بالتصديق على البروتوكول الخاص بتنقيح بعض أجزاء الاتفاق الإقليمي بشأن تخطيط الإذاعة التلفزيونية بالموجات المترية/الديسيمترية في المنطقة الإذاعية الأفريقية والبلدان المجاورة (جنيف 1989)",
   "short_name": "مرسوم رقم (28) لسنة 2007 بالتصديق على البروتوكول الخاص بتنقيح بعض أجزاء الاتفاق الإقليمي بشأن تخطيط الإذاعة التلفزيون...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4392&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4392&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على البروتوكول الخاص بتنقيح بعض أجزاء الإتفاق الإقليمي بشأن تخطيط الإذاعة التلفزيونية بالموجات المترية/ الديسيمترية في المنطقة الإذاعية الأفريقية والبلدان المجاورة (جنيف 1989)، المعتمد في المؤتمر الإقليمي للاتصالات الراديوية المنعقد في جنيف خلال الفترة من 15/5 إلى 16/6/2006، المرفق نصه بهذا المرسوم، وتكون له قوة القانون وفقاً للمادة ( 68 ) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

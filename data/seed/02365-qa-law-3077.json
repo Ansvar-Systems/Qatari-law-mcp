@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (4) لسنة 1974 بالمصادقة على اتفاقية إنشاء الشركة العربية لبناء وإصلاح السفن",
   "short_name": "مرسوم رقم (4) لسنة 1974 بالمصادقة على اتفاقية إنشاء الشركة العربية لبناء وإصلاح السفن",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3077&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3077&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يصادق على اتفاقية إنشاء الشركة العربية لبناء وإصلاح السفن الموقعة في مدينة الكويت في اليوم الرابع عشر من شهر ذي القعدة سنة 1393 هـ ، الموافق لليوم الثامن من شهر ديسمبر سنة 1973 م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه، تنفيذ هذا المرسوم ، ويعمل به من تاريخ صدوره ، وينشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

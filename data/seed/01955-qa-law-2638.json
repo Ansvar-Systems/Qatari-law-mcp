@@ -4,8 +4,27 @@
   "title": "قانون رقم (7) لسنة 2010 بتعديل بعض أحكام قانون التجارة الصادر بالقانون رقم (27) لسنة 2006",
   "short_name": "قانون رقم (7) لسنة 2010 بتعديل بعض أحكام قانون التجارة الصادر بالقانون رقم (27) لسنة 2006",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2638&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2638&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 580 ) من قانون التجارة المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art580",
+      "section": "580",
+      "title": "Article (580)",
+      "content": "«يكون الشيك مستحق الوفاء بمجرد الاطلاع عليه، وكل بيان مخالف لذلك يعتبر كأن لم يكن.\nوإذا ذكر في الشيك تاريخ لاحق لتاريخ السحب الحقيقي، وقدم للوفاء به قبل حلول التاريخ، كان للبنك أن يمتنع عن دفع قيمته حتى حلول اليوم المبين فيه كتاريخ لإصداره.\nفإذا قام البنك بالوفاء قبل ذلك التاريخ، كان مسؤولاً عن الأضرار التي تنشأ عن هذا الوفاء.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من 12/5/2010. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

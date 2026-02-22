@@ -4,8 +4,27 @@
   "title": "قـرار رقـم (51) لسنة 2021 م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "short_name": "قـرار رقـم (51) لسنة 2021 م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8619&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8619&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التجارة والصناعة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المُشار إليها والقرارات المنفذه لها وهم :\nم\nالإسم\nالمسمى الوظيفي\n1\nالجازي راشد علي محمد القاشوطي\nباحث قانوني ثالث\n2\nالشيخة/العنود خالد محمد حسن آل ثاني\nباحث قانوني ثالث\n3\nهيفا إبراهيم محمد غيث الكواري\nباحث قانوني ثالث\n4\nعائشة سالم احمد عبدالله العبيدلي\nباحث قانوني ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون للموظف/ أحمد غريب علي محمد الأحمد، مراقب أسواق رابع، وزارة التجارة والصناعة، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (12) لسنة 1972 و القانون (8) لسنة 2008 ، المُشار إليهما والقرارات المنفذه لهما ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

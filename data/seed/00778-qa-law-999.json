@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (24) لسنة 1997 بتأسيس شركة قطر للفينيل المحدودة (كي في سي) (شركة مساهمة قطرية)",
   "short_name": "مرسوم رقم (24) لسنة 1997 بتأسيس شركة قطر للفينيل المحدودة (كي في سي) (شركة مساهمة قطرية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=999&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=999&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لـ:\n1- المؤسسة العامة القطرية للبترول.\n2- شركة قطر للبتروكيماويات المحدودة (ش.م.ق).\n3- نورسك هايدرو إيه. إس. إيه.\n4- ألف اتوكيم إس.إيه.\nفي أن يؤسسوا في قطر شركة مساهمة قطرية تسمى \"شركة قطر للفينيل المحدودة\" (كيو في سي) برأسمال قدره (-/184,314,000) مائة وأربعة وثمانون مليون وثلاثمائة وأربعة عشر ألف دولار أمريكي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الإلتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفق صورة من كل منهما بهذا المرسوم، وبأحكام قانون الشركات التجارية رقم (11) لسنة 1981 المشار إليه، والقوانين الأخرى المعمول بها، فيما لم يرد بشأنه نص خاص في عقد التأسيس و النظام الأساسي المذكورين."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

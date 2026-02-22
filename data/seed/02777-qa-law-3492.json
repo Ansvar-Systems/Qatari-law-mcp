@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل رقم (10) لسنة 1984 دولة قطر شهادة تسجيل",
   "short_name": "شهادة تسجيل رقم (10) لسنة 1984 دولة قطر شهادة تسجيل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3492&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1984.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3492&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل رقم (10) لسنة 1984\nدولة قطر\nشهادة تسجيل\nشهادة تسجيل رقم (10) لسنة 1984\nدولة قطر\nشهادة تسجيل 10 / 1984\nأشهد أن جمعية الدوحة الحديثة التعاونية الاستهلاكية- محدودة المسئولية قد سجلت تحت رقم 10 بموجب قانون الجمعيات التعاونية رقم (12) لسنة 1973 في اليوم الثامن من شهر صفر لسنة 1405 ه الموافق أول نوفمبر 1984م."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (11) لسنة 1993 باستثناء وزارة الدفاع ووزارة الداخلية من إشراف إدارة الهندسة المدنية وإدارة هندسة المباني وإدارة الأعتدة الميكانيكية",
   "short_name": "قرار مجلس الوزراء رقم (11) لسنة 1993 باستثناء وزارة الدفاع ووزارة الداخلية من إشراف إدارة الهندسة المدنية وإدارة هندس...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3153&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1993.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3153&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستثنى وزارة الدفاع ووزارة الداخلية من إشراف إدارة الهندسة المدنية وإدارة هندسة المباني وإدارة الأعتدة الميكانيكية، وتتولى الوزارتان، كل في حدود إختصاصاتها وصلاحياتها، الاختصاصات المنصوص عليها في المواد (11)، ( 12 )، ( 17 ) من المرسوم بقانون رقم (20) لسنة 1993 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

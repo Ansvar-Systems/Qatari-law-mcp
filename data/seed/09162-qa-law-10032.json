@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (42) لسنة 2025 بالتصديق على اتفاقية بشأن الإعفاء المتبادل من متطلبات تأشيرة الدخول لحاملي الجوازات الدبلوماسية والخاصة والخدمة بين حكومة دولة قطر وحكومة جمهورية كوستاريكا",
   "short_name": "مرسوم رقم (42) لسنة 2025 بالتصديق على اتفاقية بشأن الإعفاء المتبادل من متطلبات تأشيرة الدخول لحاملي الجوازات الدبلوما...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10032&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10032&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُــودق عـلـى اتـفـاقـيـة بـشـأن الإعـفـاء الـمـتـبـادل مـن مـتـطـلـبـات تـأشـيـرة الـدخـول لـحـامـلـي الـجـوازات الـدبـلـومـاسـيـة والـخـاصـة والـخـدمـة بـيـن حـكـومـة دولـة قـطـر وحـكـومـة جـمـهـوريـة كـوسـتـاريـكـا ، المـوقـعـة بمــدينــة سـان خـوسـيـه بتــاريـخ 20/11/2024 ، المـرفـق نـصــهـا بـهـذا المـرسـوم ، وتــكــون لــهـا قــوة الـقـانـون ، وفـقـاً لـلـمـادة (68) مـن الدسـتـور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عـلـى جـمـيـع الجـهـات المـخـتـصـة ، كـل فـيـمـا يـخـصـه ، تـنـفـيـذ هـذا المـرســوم . ويُـعـمـل بـه مـن تـاريـخ صــدوره . ويُـنـشــر فـي الجـريــدة الـرسـمـيـة."
+    }
+  ],
   "definitions": []
 }

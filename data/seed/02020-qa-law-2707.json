@@ -4,8 +4,51 @@
   "title": "مرسوم بقانون رقم (27) لسنة 2008 بتنظيم استثمار فائض المخصصات والموارد المالية للأجهزة الحكومية والهيئات والمؤسسات العامة",
   "short_name": "مرسوم بقانون رقم (27) لسنة 2008 بتنظيم استثمار فائض المخصصات والموارد المالية للأجهزة الحكومية والهيئات والمؤسسات العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2707&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2707&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تسري أحكام هذا القانون على الأجهزة الحكومية والهيئات والمؤسسات العامة باستثناء قطر للبترول."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون استثمار فائض المخصصات والموارد المالية للجهات المشار إليها، بعد موافقة مجلس الوزراء، وبناء على اقتراح وزير الاقتصاد والمالية.\nويستثنى من حكم الفقرة السابقة، التبرعات والمنح والهبات والوصايا التي تتلقاها تلك الجهات من الغير للصرف منها على بعض أغراضها الخاصة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "مع مراعاة أحكام المادة السابقة، يجب على الجهات المشار إليها، تحويل الأرصدة والعوائد المتراكمة في حساباتها المصرفية إلى حساب الدولة الموحد.\nكما تلتزم تلك الجهات، بموافاة وزارة الاقتصاد والمالية، كل ثلاثة أشهر، بتقرير عن حركة هذه الحسابات والأرصدة والعوائد."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "مع مراعاة أحكام قانون الموازنة العامة للدولة، لا يجوز للجهات المشار إليها، فتح حسابات مصرفية لها إلا بموافقة وزارة الاقتصاد والمالية."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يصدر وزير الاقتصاد والمالية القرارات اللازمة لتنفيذ أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

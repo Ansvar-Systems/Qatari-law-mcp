@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (4) لسنة 2016 بالترخيص لشركة المناطق الاقتصادية بالانتفاع بأراضي مشروع المخازن منخفضة التكاليف",
   "short_name": "مرسوم رقم (4) لسنة 2016 بالترخيص لشركة المناطق الاقتصادية بالانتفاع بأراضي مشروع المخازن منخفضة التكاليف",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6867&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6867&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص لشركة المناطق الاقتصادية بالانتفاع بالأراضي الموضحة تفاصيلها وإحداثياتها بالرسم التخطيطي المرفق بهذا المرسوم، وذلك لإقامة مشروع المخازن منخفضة التكاليف عليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة انتفاع شركة المناطق الاقتصادية بالأراضي المشار إليها في المادة السابقة (99) تسعة وتسعون سنة قابلة للتجديد لمدة أو مدد أخرى مماثلة.\nويحدد المقابل السنوي للانتفاع وفقاً للجدول المرفق بهذا المرسوم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تلتزم شركة المناطق الاقتصادية بما يلي:\n1- استعمال واستغلال وإدارة الأراضي المرخص بالانتفاع بها بموجب هذا المرسوم، وفقاً لأحكام القوانين واللوائح والنظم المعمول بها في الجهات ذات العلاقة.\n2- عدم استعمال الأراضي المرخص بالانتفاع بها في غير الغرض المحدد بهذا المرسوم.\n3- عدم نقل ملكية الأراضي للغير، أو رهنها، أو ترتيب أي حق عيني آخر عليها.\n4- عدم التنازل عن حق الانتفاع للغير."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

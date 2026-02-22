@@ -4,8 +4,21 @@
   "title": "قرار رقم (147) لسنة 2022 بتخويل بعض موظفي وزارة البيئة والتغير المناخي صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (147) لسنة 2022 بتخويل بعض موظفي وزارة البيئة والتغير المناخي صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9061&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9061&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البيئة والتغير المناخي التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام المرسوم بقانون رقم (30) لسنة 2002 المشار إليه أعلاه، والقرارات المنفذة له، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nأحمد سر الختم بابكر\nمهندس كيميائي ثاني\n2\nعبدالرحمن محمد موسى\nمهندس كيميائي ثالث\n3\nزكريا أزهر عثمان\nمهندس كيميائي أول\n4\nأراب سيف الدولة\nمهندس كيميائي ثالث\n5\nأحمد يوسف عبد جرادات\nباحث فيزيائي ثالث\n6\nنايف نافع جميعان الشمري\nمنسق متابعة ثالث\n7\nأحمد علي جديع\nمهندس كيميائي ثالث\n8\nملاذ جمال عبدون عبدالرحمن\nباحث كيميائي ثالث\n9\nمحمد عادل محمد علي حسين\nمهندس كيميائي ثالث\n10\nحمد محمد عبدالله حسن\nكاتب متابعة ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

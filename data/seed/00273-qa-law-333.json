@@ -4,8 +4,21 @@
   "title": "قانون رقم (4) لسنة 1973 بمنح شركة قطر الوطنية لصناعة الأسمنت امتياز استغلال التربة والجبس والجير اللازم لصناعة الأسمنت",
   "short_name": "قانون رقم (4) لسنة 1973 بمنح شركة قطر الوطنية لصناعة الأسمنت امتياز استغلال التربة والجبس والجير اللازم لصناعة الأسمنت",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=333&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1973.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=333&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمنح شركة قطر الوطنية لصناعة الأسمنت \"شركة مساهمة قطرية\" امتياز استغلال التربة والجبس والجير اللازم لصناعة الأسمنت طبقاً لشروط الامتياز المرافقة لهذا القانون."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهـات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به بأثر رجعي اعتباراً من 9/10/1965. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

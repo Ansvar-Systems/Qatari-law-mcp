@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (24) لسنة 2011 بتعديل بعض أحكام القرار رقم (43) لسنة 2007 بتعيين رئيس ونائب رئيس وأعضاء لجنة التقاعد العسكري",
   "short_name": "قرار مجلس الوزراء رقم (24) لسنة 2011 بتعديل بعض أحكام القرار رقم (43) لسنة 2007 بتعيين رئيس ونائب رئيس وأعضاء لجنة ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5998&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5998&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 1 / فقرة أولى) من قرار مجلس الوزراء رقم (43) لسنة 2007 المشار إليه، النص التالي:\nمادة (1/ فقرة أولى) :\n\"يُعين رئيس ونائب رئيس وأعضاء لجنة التقاعد العسكري، على النحو التالي:\n- العميد الركن (جو)/ حمد جاسم سعيد المريزيق المري\nرئيساً\n- العميد/ حمد أحمد حسن الحسن المهندي\nنائباً للرئيس\n- العقيد الركن/ أحمد سعيد العثمان\nعضواً\n- العقيد/ أحمد عبدالله الجمال\nعضواً\n- العقيد/ عبدالله ظافر الهاجري\nعضواً\n- العقيد/ إبراهيم خليل المهندي\nعضواً\n- رائد/ علي ثلاب حمد الشهواني\nعضواً.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

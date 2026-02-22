@@ -4,8 +4,21 @@
   "title": "قانون رقم (6) لسنة 2015 بتعديل بعض أحكام القانون رقم (8) لسنة 1996 بشأن الوقف",
   "short_name": "قانون رقم (6) لسنة 2015 بتعديل بعض أحكام القانون رقم (8) لسنة 1996 بشأن الوقف",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6599&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6599&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارة وكلمة \"وزارة الأوقاف والشؤون الإسلامية\"، و\"الوزارة\" بعبارة وكلمة \"الهيئة القطرية للأوقاف\"، و\"الهيئة\"، على التوالي، أينما وردتا في القانون رقم (8) لسنة 1996 المشار إليه.\nوتُستبدل كلمة \"الوزير\" بعبارة \"مجلس إدارة الهيئة\" الواردة في المادة (26 مكرراً) من القانون رقم (8) لسنة 1996 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار رئيس المجلس الأعلى للبيئة والمحميات الطبيعية رقم (7) لسنة 2006 بتحديد موسم صيد الطيور والحيوانات البرية لعام 2006/2007",
   "short_name": "قرار رئيس المجلس الأعلى للبيئة والمحميات الطبيعية رقم (7) لسنة 2006 بتحديد موسم صيد الطيور والحيوانات البرية لعام 200...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3891&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3891&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحدد موسم صيد الطيور والحيوانات البرية لعام 2006/2007على النحو التالي:\n1- يبدأ موسم صيد الطيور المهاجرة (اللفو) من 1/9/2006 وينتهي في 1/5/2007، ويكون صيد طائر الحباري بواسطة الصقور فقط.\n2- يبدأ موسم صيد الأرنب البري من 15/11/2006 وينتهي في 30/1/2007، ويكون صيده بواسطة الصقور والكلاب."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يحظر صيد النعام والغزلان وأية حيوانات برية أخرى طوال العام."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (18) لسنة 2006 بتعديل بعض أحكام القرار رقم (34) لسنة 2001 بتشكيل لجنة التنسيق والمتابعة المنصوص عليها في قانون تنظيم المجلس البلدي المركزي",
   "short_name": "قرار مجلس الوزراء رقم (18) لسنة 2006 بتعديل بعض أحكام القرار رقم (34) لسنة 2001 بتشكيل لجنة التنسيق والمتابعة المنصوص...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3191&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3191&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى تشكيل لجنة التنسيق والمتابعة المنصوص عليها في القانون رقم (12) لسنة 1998 بتنظيم المجلس البلدي المركزي، الصادر بتشكيلها قرار مجلس الوزراء رقم (34) لسنة 2001 المشار إليه، عضو عن وزارة الداخلية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

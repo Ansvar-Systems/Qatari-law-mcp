@@ -4,8 +4,21 @@
   "title": "قرار رئيس المجلس الأعلى للتعليم رقم (1) لسنة 2007 بتشكيل مجلس إدارة المدرسة القطرية الفرنسية بالدوحة",
   "short_name": "قرار رئيس المجلس الأعلى للتعليم رقم (1) لسنة 2007 بتشكيل مجلس إدارة المدرسة القطرية الفرنسية بالدوحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3627&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3627&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة المدرسة القطرية الفرنسية بالدوحة على النحو التالي:\n1- سعادة الدكتور/ علي بن فطيس المري\nرئيساً\n2- سعادة/ سفير الجمهورية الفرنسية\nنائباً للرئيس\n3- سعادة السيد/ محمد جهام الكواري\nعضواً\n4- السيد/ جان بيير فيلان\nعضواً\n5- السيد/ علي شريف العمادي\nعضواً\n6- السيد/ فيليب كيس\nعضواً\n7- السيد/ أندريه جيل\nعضواً\n8- السيدة/ بثينة علي النعيمي\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

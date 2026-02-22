@@ -4,8 +4,33 @@
   "title": "قانون رقم (10) لسنة 2024 بتعديل بعض أحكام القانون رقم (9) لسنة 2017 بشأن تنظيم المدارس",
   "short_name": "قانون رقم (10) لسنة 2024 بتعديل بعض أحكام القانون رقم (9) لسنة 2017 بشأن تنظيم المدارس",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9684&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9684&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بتعريفي \" الوزارة \"، \" الوزير \" المنصوص عليهما في المادة (1) من القانون رقم (9) لسنة 2017 المشار إليه، التعريفان التاليان:\nالوزارة: وزارة التربية والتعليم والتعليم العالي.\nالوزير: وزير التربية والتعليم والتعليم العالي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة (6) من القانون رقم (9) لسنة 2017 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "\"يجوز للوزارة إنشاء فصول رياض أطفال قبل المرحلة الابتدائية، لقبول الأطفال من سن ثلاث سنوات، وفقاً للقواعد التي يصدر بها قرار من الوزير.\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

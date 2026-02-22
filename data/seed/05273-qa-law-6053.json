@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (36) لسنة 1998 بتعيين أمين عام وأمين عام مساعد للمجلس الوطني للثقافة والفنون والتراث",
   "short_name": "قرار رئيس مجلس الوزراء رقم (36) لسنة 1998 بتعيين أمين عام وأمين عام مساعد للمجلس الوطني للثقافة والفنون والتراث",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6053&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6053&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين كل من:\n1- الشيخ سعود بن محمد بن علي آل ثاني\nأميناً عاماً للمجلس الوطني\nللثقافة والفنون والتراث.\n2- السيد/ يوسف محمد درويش\nأميناً عاماً مساعداً\nللمجلس الوطني للثقافة والفنون والتراث."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

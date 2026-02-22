@@ -4,8 +4,21 @@
   "title": "قرار وزير العدل رقم (48) لسنة 2019 بمد فترة توفيق الأوضاع الخاصة بتطبيق أحكام القانون رقم (22) لسنة 2017 بشأن تنظيم أعمال الوساطة العقارية",
   "short_name": "قرار وزير العدل رقم (48) لسنة 2019 بمد فترة توفيق الأوضاع الخاصة بتطبيق أحكام القانون رقم (22) لسنة 2017 بشأن تنظيم أ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8070&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8070&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمد فترة توفيق الأوضاع للمخاطبين بأحكام القانون رقم (22) لسنة 2017 المشار إليه، الذين يزاولون نشاطهم في وقت العمل بهذا القانون، وذلك لمدة ستة أشهر اعتباراً من 27/7/2019."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

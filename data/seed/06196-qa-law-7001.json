@@ -4,8 +4,21 @@
   "title": "قانون رقم (5) لسنة 2016 بتعديل بعض أحكام القانون رقم (18) لسنة 1997 بشأن جمعية الكشافة والمرشدات القطرية",
   "short_name": "قانون رقم (5) لسنة 2016 بتعديل بعض أحكام القانون رقم (18) لسنة 1997 بشأن جمعية الكشافة والمرشدات القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7001&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7001&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"في تطبيق أحكام هذا القانون، تكون للكلمات والعبارة التالية، المعاني الموضحة قرين كل منها، ما لم يقتض السياق معنى آخر:\nالوزارة: وزارة التعليم والتعليم العالي.\nالوزير: وزير التعليم والتعليم العالي.\nالجمعية: جمعية الكشافة والمرشدات القطرية.\nالمجلس: مجلس إدارة الجمعية.\nحركة الكشف والإرشاد: الحركة الكشفية والإرشادية بجميع أنواعها.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

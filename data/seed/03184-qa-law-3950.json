@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل لسنة 1994 لجمعية الوكرة التعاونية الاستهلاكية",
   "short_name": "شهادة تسجيل لسنة 1994 لجمعية الوكرة التعاونية الاستهلاكية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3950&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3950&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل لسنة 1994 لجمعية الوكرة التعاونية الاستهلاكية\nشهادة تسجيل لسنة 1994 لجمعية الوكرة التعاونية الاستهلاكية 0 / 1994\nأشهد أن جمعية الوكرة التعاونية الاستهلاكية- محدودة المسؤولية قد سجلت تحت رقم 13 بموجب قانون الجمعيات التعاونية رقم (12) لسنة 1973 في اليوم الخامس والعشرين من يناير سنة 1994م الموافق الثالث عشر من شعبان سنة 1414هـ.\nوزير العمل والشؤون الاجتماعية والإسكان"
+    }
+  ],
   "definitions": []
 }

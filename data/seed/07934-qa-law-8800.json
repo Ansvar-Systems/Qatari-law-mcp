@@ -4,8 +4,45 @@
   "title": "قانون رقم (23) لسنة 2021 باعتماد الموازنة العامة للدولة للسنة المالية 2022",
   "short_name": "قانون رقم (23) لسنة 2021 باعتماد الموازنة العامة للدولة للسنة المالية 2022",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8800&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8800&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد الموازنة العامة للدولة للسنة المالية 2022."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُقدر الإيرادات العامة للدولة للسنة المالية 2022 بمبلغ مقداره (-/196,000,000,000)مائة وستة وتسعون مليار ريال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُقدر المصروفات العامة للدولة للسنة المالية 2022 بمبلغ مقداره (-/204,339,428,358) مائتان وأربعة مليارات وثلاثمائة وتسعة وثلاثون مليوناً وأربعمائة وثمانية وعشرون ألفا وثلاثمائة وثمانية وخمسون ريالاً."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تُقدر زيادة المصروفات عن الإيرادات للسنة المالية 2022 بمبلغ مقداره (-/ 8,339,428,358) ثمانية مليارات وثلاثمائة وتسعة وثلاثون مليوناً وأربعمائة وثمانية وعشرون ألفاً وثلاثمائة وثمانية وخمسون ريالاً."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تقوم وزارة المالية بتمويل العجز المشار إليه في المادة السابقة وفقاً للأحكام المنصوص عليها في المادة (36) من قانون النظام المالي للدولة المشار إليه."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كُل فيما يَخُصّه، تنفيذ هذا القانون.ويُعمل به اعتباراً من أول يناير 2022. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

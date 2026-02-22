@@ -4,8 +4,27 @@
   "title": "قرار وزير الصحة العامة رقم (61) لسنة 1996 بتعديل بعض أحكام اللائحة التنفيذية للقانون رقم (5) لسنة 1982 بشأن تنظيم قيد المواليد والوفيات الصادر بقرار وزير الصحة العام رقم (4) لسنة 1983",
   "short_name": "قرار وزير الصحة العامة رقم (61) لسنة 1996 بتعديل بعض أحكام اللائحة التنفيذية للقانون رقم (5) لسنة 1982 بشأن تنظيم قيد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4344&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4344&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 21 ) من اللائحة التنفيذية للقانون رقم (5) لسنة 1982 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article (21)",
+      "content": "«إذا لم تقدم معارضة خلال ثلاثة أيام من تاريخ إعلان البيان المشار إليه، يصبح القرار السابق بالقيد نهائياً. فإذا قدمت معارضة، أعيد عرض الطلب على اللجنة في جلستها التالية لفحص أسباب الاعتراض وإصدار قرارها في هذا الشأن. ويكون القرار مسبباً ونهائياً»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

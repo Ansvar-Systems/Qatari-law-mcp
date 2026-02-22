@@ -4,8 +4,21 @@
   "title": "قرار رقم ( 80 ) لسنة 2024 بتخويل بعض موظفي وزارة التنمية الاجتماعية والأسرة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم ( 80 ) لسنة 2024 بتخويل بعض موظفي وزارة التنمية الاجتماعية والأسرة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9655&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9655&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التنمية الاجتماعية والأسرة التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (21) لسنة 2020 المشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nجمال غلوم رضاء حاجي محمد الشرشني\nاستشاري تنظيم وتطوير عمل تطوعي\n2\nعائشه خالد عيسى جاسم المهيزع\nباحث تنظيم عمل تطوعي ثالث\n3\nمي محمد ناصر سويد العذبه\nباحث تنظيم عمل تطوعي ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

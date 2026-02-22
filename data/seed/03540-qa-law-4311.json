@@ -4,8 +4,33 @@
   "title": "قرار وزير التربية والتعليم رقم (12) لسنة 1994 بشأن الإجازة الدورية لموظفي وعمال المدارس والمعاهد",
   "short_name": "قرار وزير التربية والتعليم رقم (12) لسنة 1994 بشأن الإجازة الدورية لموظفي وعمال المدارس والمعاهد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4311&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4311&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تكون الإجازة الدورية لموظفي وعمال المدارس والمعاهد أثناء العطلة الصيفية وفقاً للقواعد التي تصدر سنوياً من وزير التربية والتعليم في هذا الشأن."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون الإجازة الدورية لموظفي وعمال المدارس والمعاهد أثناء عطلة منتصف العام الدراسي على الوجه الآتي:\n(أ) يمنح المدرسون والمدرسات والعاملون بالإدارات المدرسية إجازة لمدة أقصاها أسبوعان.\n(ب) يمنح العاملون بالوحدات التربوية الذين يرتبط عملهم بالدراسة ارتباطاً فنياً مباشراً ممن يعملون برئاسة التوجيه التربوي وموجهو المواد الدراسية، وإدارة تعليم البنات، ورئاسات التعليم، إجازة لمدة أقصاها أسبوع.\nويصدر وزير التربية والتعليم سنوياً القواعد اللازمة في هذا الشأن."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

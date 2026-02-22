@@ -4,8 +4,21 @@
   "title": "قرار رقم (155) لسنة 2008 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (155) لسنة 2008 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3591&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3591&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مـأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (3) لسنة 1975 المُشار إليه، والقرارات المنفذة له وهم:-\nم\nالاسم\nالإدارة/البلدية\n1-\nالسيد/جاسم مبارك جاسم المالكي\nمفتش رخص تجارية أول\n2-\nالسيد/يوسف علي المالكي\nمشرف مراقبين رخص بناء أول\n3-\nالسيد/خليفة غانم الرميحي\nمراقب أسواق\n4-\nالسيد/سعيد عبد الهادي آل فهيدة (ملغي)\nباحث شؤون إدارية\n5-\nالسيد/سالم محمد الدوسري\nمراقب أسواق\n6-\nالسيد/جابر محمد كشيش\nمفتش رخص تجارية أول\n7-\nالسيد/عبد الهادي راشد الدوسري\nمراقب رخص تجارية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (66) لسنة 2003 بتحديد مكافأة عضوية المجلس البلدي المركزي",
   "short_name": "مرسوم رقم (66) لسنة 2003 بتحديد مكافأة عضوية المجلس البلدي المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5934&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5934&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمنح أعضاء المجلس البلدي المركزي مكافأة شهرية بالفئات الآتية:\n- رئيس المجلس (9000) ريال.\n- نائب رئيس المجلس (8000) ريال.\n- عضو المجلس (7000) ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى المرسوم رقم (21) لسنة 1999 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

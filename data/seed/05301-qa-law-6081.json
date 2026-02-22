@@ -4,8 +4,51 @@
   "title": "قرار رئيس المجلس الأعلى للبيئة والمحميات الطبيعية رقم (1) لسنة 2008 بتشكيل لجنة لمعاينة الصقور",
   "short_name": "قرار رئيس المجلس الأعلى للبيئة والمحميات الطبيعية رقم (1) لسنة 2008 بتشكيل لجنة لمعاينة الصقور",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6081&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6081&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل لجنة لمعاينة الصقور برئاسة مدير إدارة حماية الحياة الفطرية بالمجلس الأعلى للبيئة والمحميات الطبيعية، وعدد من الأعضاء لا يقل عددهم عن خمسة ولا يزيد على ثمانية، من ذوي الخبرة في معرفة أنواع الصقور وتحديد أعمارها، ويصدر بتسميتهم قرار من أمين عام المجلس الأعلى للبيئة والمحميات الطبيعية.\nويكون للجنة أمين سر يصدر بتعيينه وتحديد مهامه قرار من رئيس اللجنة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص اللجنة بمعاينة الصقور وتحديد الأنواع والأعمار المسموح بدخولها إلى دولة قطر، طبقاً لقرار رئيس المجلس الأعلى للبيئة والمحميات الطبيعية رقم (7) لسنة 2007 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "مدة عضوية اللجنة ثلاث سنوات قابلة للتجديد لمدة أو لمدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تضع اللجنة نظاماً لعملها، يعتمده رئيس اللجنة، يحدد كيفية انعقادها وإصدار قراراتها ومتابعة تنفيذ هذه القرارات."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تدون محاضر اجتماعات اللجنة وقراراتها في سجل خاص مرقم الصفحات يوقعه رئيس اللجنة وأمين السر."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يتقاضى كل من رئيس وأعضاء اللجنة وأمين السر مكافأة سنوية مقدارها (-/ 25,000) خمسة وعشرون ألف ريال."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

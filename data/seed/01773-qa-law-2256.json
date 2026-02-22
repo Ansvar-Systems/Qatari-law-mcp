@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (97) لسنة 2001 باعتبار مشروع إقامة منشآت تعليمية واجتماعية بمنطقة غرافة الريان من أعمال المنفعة العامة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (97) لسنة 2001 باعتبار مشروع إقامة منشآت تعليمية واجتماعية بمنطقة غرافة الريان...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2256&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2256&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر من أعمال المنفعة العامة مشروع إقامة منشآت تعليمية واجتماعية بمنطقة غرافة الريان الموضح موقعه وتفاصيله بالمذكرة و الرسم التخطيطي المرفقين لهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسيا حدود المنطقة التي تشمل العقارات موضوع هذا القرار بالمضلع الهندسي ذي النقاط الركنية السبع المبينة إحداثياتها بالجدول التالي:\nم\nشرقاً\nشمالاً\n1\n222810\n396280\n2\n223390\n296280\n3\n223683\n395705\n4\n223295\n395655\n5\n223110\n395595\n6\n222880\n395545\n7\n222840\n395760"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر مع مرفقاته في ملحق الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (87) لسنة 1996 بضمان حكومة دولة قطر للإلتزامات المالية الناشئة عن ضمان المؤسسة العامة القطرية للبترول لتمويل مشروع رأس لفان للغاز الطبيعي المسال",
   "short_name": "مرسوم رقم (87) لسنة 1996 بضمان حكومة دولة قطر للإلتزامات المالية الناشئة عن ضمان المؤسسة العامة القطرية للبترول لتموي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1319&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1319&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "توافق حكومة دولة قطر على ضمان الإلتزامات المالية الناشئة عن ضمان المؤسسة العامة القطرية للبترول لتمويل مشروع رأس لفان للغاز الطبيعي المسال، والمبين في اتفاقية الضمان المزمع إبرامها بين حكومة دولة قطر وبين الحافظ الأمين لحساب مقرضي المشروع ذوي الأسبقية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية والاقتصاد والتجارة أو من ينيبه أو مدير مكتب استثمارات حكومة دولة قطر، في التوقيع على اتفاقية الضمان المشار إليها. كما يفوض وزير المالية والاقتصاد والتجارة أو من ينيبه أو مدير مكتب استثمارات حكومة دولة قطر، في الاتفاق على التعديلات التي يرى إدخالها على مشروع الاتفاقية المشار إليها، وفي التوقيع على تلك التعديلات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (26) لسنة 2001 بتعديل بعض أحكام القانون رقم (13) لسنة 1998 بشأن المرور",
   "short_name": "مرسوم بقانون رقم (26) لسنة 2001 بتعديل بعض أحكام القانون رقم (13) لسنة 1998 بشأن المرور",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=542&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=542&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص البند (8) من المادة ( 36 ) من القانون رقم (13) لسنة 1998 المشار إليه، النص التالي:-\nمادة (36/8) :\n«يجب على كل من سائق السيارة ومن يركب بجواره في مقعدها الأمامي، أن يستعمل حزام الأمان أثناء سيرها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

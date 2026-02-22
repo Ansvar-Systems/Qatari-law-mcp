@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (61) لسنة 2020 بضمان حكومة دولة قطر الإلتزامات المالية الناشئة عن إتفاقات القروض والتسهيلات المالية التي تبرمها شركة الخطوط الجوية القطرية",
   "short_name": "مرسوم رقم (61) لسنة 2020 بضمان حكومة دولة قطر الإلتزامات المالية الناشئة عن إتفاقات القروض والتسهيلات المالية التي تب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8410&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8410&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضمن حكومة دولة قطر الالتزامات المالية الناشئة عن اتفاقات القروض والتسهيلات المالية التي تبرمها شركة الخطوط الجوية القطرية مع البنوك والمؤسسات المالية ، وذلك في حدود مبلغ (2,000,000,000) ملياري دولار أمريكي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية ، أو من ينيبه ، في التوقيع على الوثائق والمستندات اللازمة لتقديم الضمان المشار إليه ، وفي تنفيذه ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

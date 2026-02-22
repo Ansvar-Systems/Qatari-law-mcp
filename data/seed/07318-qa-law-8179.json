@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (22) لسنة 2019 بتعديل بعض أحكام القرار رقم (32) لسنة 2013 بتسمية رئيس وأعضاء لجنة التظلمات بهيئة قطر للأسواق المالية",
   "short_name": "قرار مجلس الوزراء رقم (22) لسنة 2019 بتعديل بعض أحكام القرار رقم (32) لسنة 2013 بتسمية رئيس وأعضاء لجنة التظلمات بهيئ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8179&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8179&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يتولى السيد/ عبدالعزيز أحمد خليفة السليطي، الرئيس بمحكمة الاستئناف، رئاسة لجنة التظلمات بهيئة قطر للأسواق المالية، بدلاً من الدكتور/ إبراهيم هلال سعد المهندي، ويحل السيد/ فيصل راشد السحوتي، محل الدكتور/ خالد ناصر الخاطر، في عضوية اللجنة، وتكون مدة عضويتهما مكملة لمدة عضوية سلفيهما."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

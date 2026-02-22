@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (23) لسنة 2020 بتجديد إعفاء الشركة القطرية لادارة الموانئ من دفع رسم الامتياز الممنوح لها بموجب المرسوم بقانون رقم(17) لسنة 2009 بانشاء الشركة القطرية لادارة الموانئ",
   "short_name": "قرار مجلس الوزراء رقم (23) لسنة 2020 بتجديد إعفاء الشركة القطرية لادارة الموانئ من دفع رسم الامتياز الممنوح لها بموجب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8419&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8419&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُجدد إعفاء الشركة القطرية لإدارة الموانئ من دفع رسم الامتياز الممنوح لها بموجب المرسوم بقانون رقم (17) لسنة 2009 المشار إليه، لمدة أخرى، تبدأ من يناير 2020 وتنتهي في 13/7/2024."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من أول يناير 2020، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

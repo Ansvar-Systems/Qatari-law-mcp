@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (22) لسنة 2002 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
   "short_name": "قرار أميري رقم (22) لسنة 2002 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=695&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=695&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل اللجنة العليا للتنسيق والمتابعة برئاسة سمو ولي العهد وعضوية كل من:\n1- سمو الشيخ عبد الله بن خليفة آل ثاني\nرئيس مجلس الوزراء\n2- سعادة الشيخ/ حمد بن جاسم بن جبر آل ثاني\nوزير الخارجية\n3- سعادة السيد/ يوسف حسين كمال\nوزير المالية\n4- سعادة السيد/ علي بن سعد الكواري\nوزير الشئون البلدية والزراعة\n5- سعادة السيد/ محمد بن عيسى المهندي\nوزير الدولة لشئون مجلس الوزراء،\nعضو مجلس الوزراء"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

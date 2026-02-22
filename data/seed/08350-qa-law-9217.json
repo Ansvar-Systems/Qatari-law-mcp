@@ -4,8 +4,21 @@
   "title": "قرار رقم (35) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (35) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9217&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9217&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التى تقع بالمخالفة لأحكام القانون رقم (8) لسنة 1990 المشار إليه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nهبه عبدالحكيم محمد عزيز\nطبيب بيطري ثالث\n2\nرفعت عوض الجيد\nطبيب بيطري ثالث\n3\nسليم المحمد\nطبيب بيطري ثالث\n4\nخالد إبراهيم خالد الزغول\nطبيب بيطري ثالث\n5\nألاء عزالدين سيد أحمد\nطبيب بيطري ثالث\n6\nأمل محمد عبدالكريم اليزيدي\nاستشاري خدمات إدارية\n7\nمحمد حامد يومس التوم\nطبيب بيطري ثالث\n8\nصلاح الدين علي زعفوري\nطبيب بيطري ثالث\n9\nسارة عبدالمعطي عبدالتواب\nطبيب بيطري ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,51 @@
   "title": "قانون رقم (10) لسنة 1970 بتحديد السلطة التي تتولى التعيين والعزل في الوظائف العامة",
   "short_name": "قانون رقم (10) لسنة 1970 بتحديد السلطة التي تتولى التعيين والعزل في الوظائف العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4053&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1970.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4053&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين بمرسوم الفئات الآتي بيانها:\n1- الوزراء ومن في درجتهم.\n2- وكلاء الوزارات.\n3- رجال القضاء.\n4- ضباط الجيش والشرطة ابتداء من رتبة عقيد.\n5- الموظفون المنصوص على تعيينهم بمراسيم في قوانين خاصة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين بقرار من نائب الحاكم ورئيس مجلس الوزراء، بناء على عرض الوزير المختص، الموظفون الآتي بيانهم:\n1- كبار الخبراء الفنيين وكبار ذوي الاختصاص وموظفو الوظائف العالية المنتمون إلى الحلقتين الأولى والثانية ممن لا يعينون بمرسوم.\n2- موظفو الحلقة الثالثة.\n3- ضباط الجيش والشرطة ممن لا تزيد رتبهم على مقدم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتولى نائب الحاكم ورئيس مجلس الوزراء سلطة التعيين والعزل بالنسبة للعاملين في السكرتارية العامة لمجلس الوزراء."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يعين بقرار من الوزير المختص العاملون الذي تتضمنهم الحلقة الرابعة."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يعين بقرار من القائد العام جنود الجيش. ويعين بقرار من قائد الشرطة جنود الشرطة."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يكون العزل بنفس الأداة التشريعية اللازمة للتعيين."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

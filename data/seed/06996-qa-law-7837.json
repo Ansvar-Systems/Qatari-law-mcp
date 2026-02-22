@@ -4,8 +4,33 @@
   "title": "قرار وزير التجارة والصناعة رقم (331) لسنة 2018 بتعديل بعض أحكام القرار الوزاري رقم (2) لسنة 1980 بتحديد أسعار ووزن ومواصفات الخبز العربي والبلدي",
   "short_name": "قرار وزير التجارة والصناعة رقم (331) لسنة 2018 بتعديل بعض أحكام القرار الوزاري رقم (2) لسنة 1980 بتحديد أسعار ووزن وم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7837&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7837&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنصي المادتين ( 3 )، ( 7 ) من القرار الوزاري رقم (2) لسنة 1980 المشار إليه، النصان التاليان:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "\"يُحدد وزن الرغيف من الخبز العربي أو البلدي على النحو التالي:\nأ- الرغيف الصغير من الخبز بنوعيه بـ62,5 جراماً للرغيف، وكيلو جرام لكل ستة عشرة رغيفاً.\nب- الرغيف الكبير من الخبز بنوعيه بـ125 جراماً، وكيلو جرام لكل ثمانية أرغفة.\nويكون التسامح في الوزن بنسبة لا تجاوز 5% للخبز البارد بسبب الجفاف الطبيعي، ولا يتسامح في أي نسبة في الخبز الساخن.\"."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "\"يُحدد سعر بيع الخبز بنوعيه بعشرة دراهم للرغيف من الحجم الصغير، وبعشرين درهماً للرغيف من الحجم الكبير، وبريال وستين درهماً على الأكثر للكيلو الواحد.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

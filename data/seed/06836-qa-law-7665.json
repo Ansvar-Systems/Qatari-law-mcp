@@ -4,8 +4,21 @@
   "title": "قانون رقم (6) لسنة 1962 بتعديل بعض احكام القوانين رقم 3، 4، 5 لسنة 1962",
   "short_name": "قانون رقم (6) لسنة 1962 بتعديل بعض احكام القوانين رقم 3، 4، 5 لسنة 1962",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7665&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1962.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7665&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعدل المادة &laquo;76&raquo; من قانون العمل رقم 3 لسنة 1962 والمادة &laquo;39&raquo; من القانون رقم 4 لسنة 1962 بانشاء محكمة العمل والمادة &laquo;4&raquo; مع القانون رقم 5 لسنة 1962 باصدار قانون المرافعات امام محكمة العمل على الوجه الآتي:-\n&laquo;على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به اعتباراً من اول سبتمبر 1962&raquo;."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من تاريخ نشرة في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

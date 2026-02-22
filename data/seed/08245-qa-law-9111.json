@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (2) لسنة 2023 بالتصديق على البروتوكول المعدل لمحضر إنشاء مجلس التنسيق القطري السعودي",
   "short_name": "مرسوم رقم (2) لسنة 2023 بالتصديق على البروتوكول المعدل لمحضر إنشاء مجلس التنسيق القطري السعودي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9111&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9111&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على البروتوكول المعدل لمحضر إنشاء مجلس التنسيق القطري السعودي، الموقع بمدينة نيوم بتاريخ 25/08/2021، وعلى قرار مجلس التنسيق القطري السعودي الصادر في اجتماعه السادس الموقع بمدينة الدوحة بتاريخ 08/12/2021 المشار إليه، المرفق نصهما بهذا المرسوم، وتكون لهما قوة القانون، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم .ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

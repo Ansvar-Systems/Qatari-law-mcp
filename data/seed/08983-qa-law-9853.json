@@ -4,8 +4,21 @@
   "title": "قرار رقم (7) لسنة 2025 بإلغاء تخويل بعض موظفي وزارة التنمية الاجتماعية والاسرة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (7) لسنة 2025 بإلغاء تخويل بعض موظفي وزارة التنمية الاجتماعية والاسرة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9853&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9853&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة للسادة التالية أسماؤهم، والسابق منحها لهم بموجب قرارات النائب العام المشار إليها أعلاه ، وهم :\nم\nالإسـم\nالرقم الشخصي\n1\nريم أحمد أحمد محمد احمد المرزوقي\n28163402178\n2\nالشيخة / جواهر ثاني محمد ال ثاني\n27363402777\n3\nالعنود ناصر العذبة\n28463403014\n4\nالجازي غانم عيسى المنصوري\n29763400647\n5\nطلال عايض شبيب حياد العتيبي\n28063402580\n6\nسالم محمد سالم المري\n29063404053"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

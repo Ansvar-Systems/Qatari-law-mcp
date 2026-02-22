@@ -4,8 +4,21 @@
   "title": "قرار رقم (65) لسنة 2015 بتخويل بعض موظفي وزارة العمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (65) لسنة 2015 بتخويل بعض موظفي وزارة العمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6620&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6620&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العمل والشؤون الاجتماعية التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط و أثبات الجرائم التي تقع بالمخالفة لإحكام القانون المشار إليه أعلاه والقرارات المنفذة له، وهم:\nم\nالاسم\nالرقم الشخصي\n1.\nمحمد علي راشد المري.\n28663403929\n2.\nعبدالرحمن محمد الكوهجي.\n28363402745\n3.\nدرويش حاجي حسين العشار.\n26163400667\n4.\nعيسى محمد علي الشيباني.\n26963400802\n5.\nزايد سهل المزروعي.\n26963401157\n6.\nعبدالرحيم علي القايد.\n26663400576\n7.\nمتعب تويم المنخس.\n27463400486\n8.\nعبدالله أحمد الابراهيم.\n27463400486\n9.\nدرويش صالح العريمي.\n28351200029"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

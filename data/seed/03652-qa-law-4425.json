@@ -4,8 +4,21 @@
   "title": "قرار رقم (52) لسنة 2007 بتخويل بعض موظفي هيئة قطر للأسواق المالية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (52) لسنة 2007 بتخويل بعض موظفي هيئة قطر للأسواق المالية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4425&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4425&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "(عدلت بموجب 21/2007 ) ( عدلت بموجب قرار وزاري 104/2012 ) (عدلت بموجب قرار وزاري 147/2008 ) (عدلت بموجب قرار وزاري 9/2008 )\nيشكل مجلس إدارة الهيئة الوطنية للصحة، على النحو التالي:\n1- الشيخة الدكتورة/غالية بنت محمد بن حمد آل ثاني\nرئيساً\n2- الشيخ الدكتور/خالد بن جبر آل ثاني\nنائباً للرئيس\n3- الدكتور/محمد غانم العلي\nعضواً\n4- السيد/عبد الله خالد القحطاني\nعضواً\n5- السيد/أحمد مهدي الماجد\nعضواً\n6- الدكتور/محمد علي ناصر الحسيني\nعضواً\n7- السيد/توماس أونو\nعضواً\n8- السيدة/شان جريفيث\nسعادة الدكتور/إبراهيم الإبراهيم، المستشار الاقتصادي للديوان الأميري\nعضواً\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

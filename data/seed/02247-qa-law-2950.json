@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (130) لسنة 1990 بالموافقة على انضمام دولة قطر إلى اتفاقية الأمم المتحدة لمكافحة الاتجار غير المشروع في المخدرات والمؤثرات العقلية",
   "short_name": "مرسوم رقم (130) لسنة 1990 بالموافقة على انضمام دولة قطر إلى اتفاقية الأمم المتحدة لمكافحة الاتجار غير المشروع في المخ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2950&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1990.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2950&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى اتفاقية الأمم المتحدة لمكافحة الاتجار غير المشروع في المخدرات والمؤثرات العقلية، في فيينا بتاريخ 20/12/1988، المرفق نصها بهذا المرسوم، ويكون لها قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

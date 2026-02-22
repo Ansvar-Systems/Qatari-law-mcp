@@ -4,8 +4,21 @@
   "title": "قرار رقم (210) لسنة 2014م بتخويل بعض موظفي وزارة العمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (210) لسنة 2014م بتخويل بعض موظفي وزارة العمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6473&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6473&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العمل والشؤون الاجتماعية التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (14) لسنة 2004 م، المشار إليه والقرارات المنفذة له وهم:\nم\nالاسم\nالرقم الشخصي\n1\nطلال راجح شبيب حسين الدوسري\n28363400623\n2\nمبارك زايد جوهر الحسن المهندي\n28263403475\n3\nفيصل ظافر علي الحبابي القحطاني\n29163400542\n4\nسلطان محمد سلطان الجفالي النعيمي\n28963400038"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

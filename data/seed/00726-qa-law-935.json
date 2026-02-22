@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (17) لسنة 1984 بالتصديق على توصيات الاجتماع الأول للجنة القطرية العراقية المشتركة المنبثقة عن الاتفاق التجاري والاقتصادي المعقود بين البلدين",
   "short_name": "مرسوم رقم (17) لسنة 1984 بالتصديق على توصيات الاجتماع الأول للجنة القطرية العراقية المشتركة المنبثقة عن الاتفاق التجا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=935&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1984.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=935&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على توصيات اللجنة القطرية العراقية المشتركة المنبثقة عن الاتفاق التجاري والاقتصادي المعقود بين البلدين، التي اتخذتها في اجتماعها الأول في الدوحة خلال الفترة من 28 إلى 30/11/1981 المرفق نصها بهذا المرسوم، ويكون لها قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

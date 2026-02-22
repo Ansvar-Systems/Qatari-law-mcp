@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (22) لسنة 2010 بإلغاء لجنة تنظيم مهرجان الدوحة السينمائي",
   "short_name": "قرار أميري رقم (22) لسنة 2010 بإلغاء لجنة تنظيم مهرجان الدوحة السينمائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2774&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2774&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى لجنة تنظيم مهرجان الدوحة السينمائي، المنشأة بالقرار الأميري رقم (3) لسنة 2009 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتولى رئيس لجنة تنظيم مهرجان الدوحة السينمائي الإشراف على إجراءات إلغاء اللجنة وتصفية أعمالها، وتحصيل حقوقها والوفاء بالتزاماتها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ 1/7/2010. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار وزير العدل رقم (60) لسنة 2022 بالإذن بتقديم الخبرة موضوع فحص آثار التزييف والتزوير",
   "short_name": "قرار وزير العدل رقم (60) لسنة 2022 بالإذن بتقديم الخبرة موضوع فحص آثار التزييف والتزوير",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8914&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8914&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُؤذن بتقديم الخبرة في موضوع فحص آثار التزييف والتزوير لكل من:\nم\nالاسم\nالرقم الوظيفي\n1\nعميد/ حمد محمد المريخي\n1412\n2\nعقيد/ محمد حسن الكبيسي\n1454\n3\nمقدم / محمد علي المهندي\n1733\n4\nنقيب/ يوسف أحمد الملا\n3467\n5\nبدور صالح المهندي\n15083\n6\nسميرة أحمد الصديقي\n10230\n7\nزليخة سلطان النعمة\n10423\n8\nمريم جمال الباكر\n11036\n9\nصافيه ناصر المري\n17833\n10\nأيمن مصلح محمد مقابلة\n21055\n11\nالمعز لدين الله جاد الله\n21472"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُؤدي من صدر له الإذن اليمين المنصوص عليها في المادة (12) من القانون رقم (16) لسنة 2017 بتنظيم أعمال الخبرة، أمام الوزير أو من يُفوضه"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

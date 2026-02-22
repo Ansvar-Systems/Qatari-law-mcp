@@ -4,8 +4,21 @@
   "title": "قرار رقم (56) لسنة 2017 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (56) لسنة 2017 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7269&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7269&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية اسمائهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المشار إليها، والقرارات المنفذة لها، وهم:\nم\nالاسم\nالوظيفة\n1.\nمريم عبدالله العبيدلي\nفني مختبر اول\n2.\nعبدالله خميس السليطي\nفني مختبر اول\n3.\nمحمد عبد القوي اليافعي\nفني مختبر اول\n4.\nصابرين حسن الشيب\nباحث مختبر ثاني\n5.\nدلال سالم المزروعي\nاخصائي مختبر اول\n6.\nمنى سعد الكواري\nباحث مختبر اول\n7.\nمحمد راشد المري\nفني مختبر رابع\n8.\nيعقوب يوسف المنصوري\nفني مختبر ثاني\n9.\nمحمد ابراهيم المهندي\nفني مختبر اول\n10.\nناصر فرج المري\nفني مختبر ثالث\n11.\nريم سالم صالح الرميحي\nخبير تحاليل مختبرية\n12.\nحنان محمد المحمودي\nاخصائي مختبر"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

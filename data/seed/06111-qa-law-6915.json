@@ -4,8 +4,21 @@
   "title": "قرار رقم (30) لسنة 2016 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (30) لسنة 2016 بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6915&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6915&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الاقتصاد والتجارة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المُشار إليها والقرارات المُنفذه لها وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nيوسف محمد صالح مبارك المهيزع\nمراقب أسواق أول\n2\nمحمد عبدالله حصين الشريفي العامري\nمراقب أسواق ثان\n3\nمحمد عبده عوض السعدي اليافعي\nمراقب أسواق أول\n4\nمحمد عايد فرحان الربيعيه الشمري\nمراقب أسواق رابع\n5\nمحمد سعد السيد السعد الخوار\nمراقب أسواق خامس\n6\nمها محمد حسين الحلبدي اليافعي\nمراقب أسواق ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والمالية رقم (13) لسنة 2010 بإصدار لوائح ضرائب مركز قطر للمال",
   "short_name": "قرار وزير الاقتصاد والمالية رقم (13) لسنة 2010 بإصدار لوائح ضرائب مركز قطر للمال",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3555&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3555&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعمل بلوائح وضرائب مركز قطر للمال المرافقة لهذا القرار باللغتين العربية و الإنجليزية ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "في حالة الخلاف بين النص الإنجليزي والنص العربي لهذه اللوائح يُرجح النص الإنجليزي ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ أول يناير لسنة 2010، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

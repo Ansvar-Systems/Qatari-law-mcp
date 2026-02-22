@@ -4,8 +4,21 @@
   "title": "قرار رقم ( 58 ) لسنة 2024 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم ( 58 ) لسنة 2024 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9627&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9627&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (24) لسنة 2010 المشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nسلطان حس&#1740;ن شاهر الجحيش الشمري\nفني مخازن زراعية رابع\n2\nمحمد الحمادة\nمهندس زراعي ثالث\n3\nمحمد نزال\nمهندس زراعي ثالث\n4\nنواف ابراه&#1740;م جاسم الغريب المحمود\nخبير بيولوجي اول\n5\nعبدالكريم احمد المحمود\nمهندس زراعي ثالث\n6\nاسامه محمد الضاهر الخطيب\nمراقب مزارع رابع\n7\nبسام محمد الابرص\nمهندس زراعي ثالث\n8\nالمامون بكري السيد احمد\nمهندس زراعي اول\n9\nعبدالرحمن عبدالوهاب عبدالسلام محمد\nباحث نبات ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

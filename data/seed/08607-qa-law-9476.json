@@ -4,8 +4,51 @@
   "title": "قرار وزير الداخلية رقم (145) لسنة 2023 بتسمية رئيس وأعضاء لجنة الانتخاب للانتخاب التكميلي لعضو مجلس الشورى عن الدائرة الانتخابية الحادية والعشرين",
   "short_name": "قرار وزير الداخلية رقم (145) لسنة 2023 بتسمية رئيس وأعضاء لجنة الانتخاب للانتخاب التكميلي لعضو مجلس الشورى عن الدائرة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9476&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9476&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل لجنة الانتخاب للانتخاب التكميلي لعضو مجلس الشورى عن الدائرة الانتخابية الحادية والعشرين على النحو التالى:\n1 - القاضي فهد محمد المناعي رئيساً.\n2 - الرائد/ شاهين محمد النعيمي عضواً\n3 - السيّد/ محمد حسن الرميحي عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون السادة القضاة التالية أسماؤهم رؤساء احتياطيين للجنة الانتخاب:\n1 - القاضي/ مبارك سعيد الهاجري.\n2 - القاضي/ جاسم عبدالعزيز عبيدان"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون السادة الضُباط التالية أسماؤهم أعضاء احتياطيين للجنة الانتخاب:\n1 - الرائد/ حمد لحدان المهندي.\n2 - النقيب/ محمد ربيعة الكواري"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يكون السادة ممثلو وزارة العدل التالية أسماؤهم أعضاء احتياطيين للجنة الانتخاب:\n1 - السيّد/ طلال عبدالله المالكي.\n2 - السيّد/ حسين علي الحايكي"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يتولى مدير إدارة الانتخابات إحلال أي من المذكورين في المواد (2)، (3)، (4) محل رئيس وأعضاء لجنة الانتخاب، عند الاقتضاء"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "على جميع الجهات المختصة، كُلّ فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

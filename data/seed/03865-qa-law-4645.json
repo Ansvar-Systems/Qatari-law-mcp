@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (4) لسنة 2013 بإعادة تشكيل مجلس أمناء هيئة متاحف قطر",
   "short_name": "قرار أميري رقم (4) لسنة 2013 بإعادة تشكيل مجلس أمناء هيئة متاحف قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4645&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4645&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس أمناء هيئة متاحف قطر على النحو التالي:\n- سعادة الشيخة/ المياسة بنت حمد بن خليفة آل ثاني\nرئيساً.\n- سعادة الشيخ/ حسن بن محمد بن علي آل ثاني\nنائباً للرئيس.\n- سعادة السيد/ عبد الله بن حمد العطية\nعضواً.\n- سعادة السيد/ عبد الله بن خليفة العطية\nعضواً.\n- سعادة الشيخ/ عبد الرحمن بن سعود بن فهد آل ثاني\nعضواً.\n- سعادة السيد/ دومينينك دوفيلبان\nعضواً.\n- سعادة الدكتور/ محمد عبد الرحيم كافود\nعضواً.\n- السيدة/ ماري خوسيه كرافيس\nعضواً.\n- السيد/ منصور راشد الخاطر\nعضواً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة، ويتولى أعضاء المجلس عملهم بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 27/12/2012. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

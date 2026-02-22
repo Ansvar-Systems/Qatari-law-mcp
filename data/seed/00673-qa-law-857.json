@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (111) لسنة 2005 بالتصديق على اتفاقية التطوير والشروط المالية لمشروع قطر غاز (3)",
   "short_name": "مرسوم رقم (111) لسنة 2005 بالتصديق على اتفاقية التطوير والشروط المالية لمشروع قطر غاز (3)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=857&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=857&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية التطوير والشروط المالية لمشروع قطر غاز (3)، المبرمة بتاريخ 13/12/2005، بين كل من حكومة دولة قطر، وقطر للبترول، وشركة قطر للبترول قطر غاز (3) المحدودة، وشركة قطر للغاز المسال المحدودة (3)، وشركة كونكو فيليبس قطر المحدودة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

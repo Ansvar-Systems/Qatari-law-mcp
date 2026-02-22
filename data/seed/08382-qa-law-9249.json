@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (47) لسنة 2023 بتشكيل المجلس الأعلى للشؤون الاقتصادية والاستثمار",
   "short_name": "قرار أميري رقم (47) لسنة 2023 بتشكيل المجلس الأعلى للشؤون الاقتصادية والاستثمار",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9249&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9249&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل المجلس الأعلى للشؤون الاقتصادية والاستثمار برئاسة الأمير، ونائب الأمير نائباَ للرئيس، وعضوية كُل من:\n1 - رئيس مجلس الوزراء ووزير الخارجية.\n2 - محافظ مصرف قطر المركزي\n3 &ndash; وزير المالية.\n4 - وزير الدولة لشؤون الطاقة.\n5 - وزير التجارة والصناعة.\n6 - مستشار الأمير للشؤون الاقتصادية.\n7 &ndash; سكرتير الأمير لشؤون الاستثمار.\n8 &ndash; رئيس جهاز التخطيط والإحصاء.\n9 &ndash; ممثل عن جهاز قطر للاستثمار، يختاره رئيس مجلس إدارة جهاز قطر للاستثمار"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

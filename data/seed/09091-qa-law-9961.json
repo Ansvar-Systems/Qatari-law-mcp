@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (18) لسنة 2025 بالتصديق على مذكرة تفاهم للتعاون في مجال الحكومة الرقمية بين وزارة الاتصالات وتكنولوجيا المعلومات في دولة قطر وهيئة الحكومة الرقمية في المملكة العربية السعودية",
   "short_name": "مرسوم رقم (18) لسنة 2025 بالتصديق على مذكرة تفاهم للتعاون في مجال الحكومة الرقمية بين وزارة الاتصالات وتكنولوجيا المع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9961&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9961&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على مذكرة تفاهم للتعاون في مجال الحكومة الرقمية بين وزارة الاتصالات وتكنولوجيا المعلومات في دولة قطر وهيئة الحكـومــة الرقميـــــة في المملكة العربية السعودية الموقعة بمدينة الرياض بتاريخ 2024/03/04، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

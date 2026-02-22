@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (1) لسنة 1971 بشأن تنظيم حفر الآبار الارتوازية",
   "short_name": "قرار مجلس الوزراء رقم (1) لسنة 1971 بشأن تنظيم حفر الآبار الارتوازية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1508&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1971.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1508&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يوقف حفر الآبار الارتوازية في قطر إلى حين انتهاء بعثة الأمم المتحدة من مهمتها المتعلقة بمسح الأراضي القابلة للزراعة ومسح المياه الجوفية المتوافرة ومعرفة مصادرها وكمياتها، ووضع خطة تكفل استغلال هذه المياه على خير وجه يحقق الصالح العام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "بعد انتهاء بعثة الأمم المتحدة من مهمتها المشار إليها في المادة السابقة. تتشاور وزارتا الكهرباء والماء، والصناعة والزراعة قبل التصريح بحفر أي بئر ارتوازي جديد."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، وينشر في الجريدة الرسمية. ويعمل به اعتباراً من تاريخ نشره في الجريدة المذكورة."
+    }
+  ],
   "definitions": []
 }

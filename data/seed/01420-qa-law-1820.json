@@ -4,8 +4,27 @@
   "title": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (12) لسنة 2005 بتحديد المناطق البعيدة عن المدن",
   "short_name": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (12) لسنة 2005 بتحديد المناطق البعيدة عن المدن",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1820&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1820&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعتبر مناطق بعيدة عن المدن ولا تصل إليها وسائل الانتقال العادية، في تطبيق حكم المادة ( 106 ) من قانون العمل المشار إليه، ما يلي:\n1- منطقة دخان.\n2- منطقة أم باب.\n3- منطقة مسيعيد.\n4- منطقة الشمال.\n5- منطقة جزيرة حالول.\n6- أي منطقة عمل أخرى تبعد خمسة عشر كيلومتراً على الأقل من حدود أقرب مدينة أو قرية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على صاحب العمل الذي يستخدم عمالاً في المناطق المحددة في المادة السابقة أن يوفر لهم الخدمات التالية:\n1- وسائل الانتقال المناسبة، أو المسكن المناسب، أو كلاهما.\n2- المياه الصالحة للشرب.\n3- المواد الغذائية المناسبة، أو وسائل الحصول على هذه المواد.\n4- وسائل الإسعافات الطبية.\nوفيما عدا المواد الغذائية تكون الخدمات المشار إليها على نفقة صاحب العمل ولا يجوز تحميل العامل شيئاً منها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

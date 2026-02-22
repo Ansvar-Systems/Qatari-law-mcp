@@ -4,8 +4,21 @@
   "title": "مرسوم رقم ( 62 ) لسنة 1977 بالتصديق على اتفاقية إنشاء هيئة الخليج للتنمية بجمهورية مصر العربية ، والبرتوكول الملحق بها",
   "short_name": "مرسوم رقم ( 62 ) لسنة 1977 بالتصديق على اتفاقية إنشاء هيئة الخليج للتنمية بجمهورية مصر العربية ، والبرتوكول الملحق بها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3106&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1977.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3106&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية إنشاء هيئة الخليج للتنمية في جمهورية مصر العربية الموقعة في مدينة الرياض بتاريخ 2 ربيع الثاني سنة 1396 هـ الموافق أول إبريل سنة 1976م ، و البروتوكول الملحق بها، المرفق نصهما بهذا المرسوم ، ويكون لهما قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل المشار إليه ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه، تنفيذ هذا المرسوم ، وينشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

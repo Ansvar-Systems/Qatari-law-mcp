@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (84) لسنة 2020 بدعوة مجلس الشورى لعقد دور الانعقاد العادي التاسع والأربعين",
   "short_name": "مرسوم رقم (84) لسنة 2020 بدعوة مجلس الشورى لعقد دور الانعقاد العادي التاسع والأربعين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8491&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8491&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يدعى مجلس الشورى بعقد دور الانعقاد العادي التاسع والاربعين يوم الثلاثاء السابع عشر من رييع الاول عام 1443 ه الموافق للثالث من نوفمبر عام 2020 م"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (1) لسنة 2024 بتعديل بعض أحكام القرار رقم (33) لسنة 2006 بإنشاء اللجنة الوطنية لأمن الموانئ",
   "short_name": "قرار مجلس الوزراء رقم (1) لسنة 2024 بتعديل بعض أحكام القرار رقم (33) لسنة 2006 بإنشاء اللجنة الوطنية لأمن الموانئ",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9523&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9523&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُنشأ بوزارة المواصلات لجنة تُسمى \" اللجنة الوطنية لأمن الموانئ \" ، تشكل من ثلاثة ممثلين عن الوزارة ، يكون من بينهم رئيس اللجنة ونائبه ، وعضوية ممثل عن كل\nمن الجهات التالية:\n1- وزارة الدفاع.\n2- وزارة الداخلية.\n3- وزارة التجارة والصناعة.\n4- الهيئة العامة للجمارك.\n5- جهاز أمن الدولة.\n6- قطر للطاقة.\n7- الشركة القطرية لإدارة الموانئ.\nوتختار كل جهة من يمثلها في عضوية اللجنة، ويصدر بتسمية رئيس ونائب رئيس وأعضاء اللجنة قرار من وزير المواصلات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة (1) من قرار مجلس الوزراء رقم (33) لسنة 2006 المشار إليه النص التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

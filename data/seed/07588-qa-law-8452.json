@@ -4,8 +4,27 @@
   "title": "قانون رقم (20) لسنة 2020 بتعديل بعض أحكام المرسوم بقانون رقم (17) لسنة 2010 بتنظيم اللجنة الوطنية لحقوق الإنسان",
   "short_name": "قانون رقم (20) لسنة 2020 بتعديل بعض أحكام المرسوم بقانون رقم (17) لسنة 2010 بتنظيم اللجنة الوطنية لحقوق الإنسان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8452&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8452&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنصي المادتين ( 3/بند 10 )، ( 7 )، من المرسوم بقانون رقم (17) السنة 2010 المشار إليه، النصان التاليان:\nمادة (3/ بند 10) :\n10- إجراء الزيارات الميدانية للمؤسسات العقابية والإصلاحية وأماكن الاحتجاز والتجمعات العمالية والدور الصحية والتعليمية، ورصد أوضاع حقوق الإنسان بها."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "تكون مدة عضوية اللجنة خمس سنوات قابلة للتجديد لمدة أو لمدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

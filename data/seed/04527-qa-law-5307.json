@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (1) لسنة 2006 بإضافة عضوين إلي المجلس الوطني للثقافة والفنون والتراث",
   "short_name": "قرار أميري رقم (1) لسنة 2006 بإضافة عضوين إلي المجلس الوطني للثقافة والفنون والتراث",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5307&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5307&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل سعادة الشيخ/ جاسم بن سعود بن عبد الرحمن آل ثاني، محل سعادة الشيخ/ جاسم بن عبدالرحمن بن سعود آل ثاني، في عضوية المجلس الوطني للثقافة والفنون والتراث، وتكون مدة عضويته مكملة لمدة سلفه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تضاف الدكتورة/ نورة خليفة السبيعي، إلى عضوية المجلس الوطني للثقافة والفنون والتراث، وتكون مدة عضويتها إلى نهاية مدة المجلس."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

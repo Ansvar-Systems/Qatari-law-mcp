@@ -4,8 +4,21 @@
   "title": "قرار وزير الصحة العامة رقم (21) لسنة 1997 بتعديل بعض أحكام الجدول رقم (4) الملحق بالقانون رقم (7) لسنة 1996 بشأن تنظيم العلاج الطبي والخدمات الصحية في الداخل",
   "short_name": "قرار وزير الصحة العامة رقم (21) لسنة 1997 بتعديل بعض أحكام الجدول رقم (4) الملحق بالقانون رقم (7) لسنة 1996 بشأن تنظي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1944&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1944&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بالبند الثالث عشر (رسوم الأدوية) من الجدول رقم (4) الملحق بالقانون رقم (7) لسنة 1996 المشار إليه البند الآتي:\n(13): رسوم الأدوية:\nتحدد رسوم الأدوية للزائرين على أساس التكلفة الفعلية للدواء، مضافاً إليها 15% من هذه التكلفة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

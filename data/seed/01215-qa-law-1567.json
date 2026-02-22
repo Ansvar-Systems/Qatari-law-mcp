@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (28) لسنة 2001 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الثالث لعام 2001 بالموافقة على تأسيس شركة تسمى \"شركة رأس غاز المحدودة\" (شركة مساهمة قطرية)",
   "short_name": "قرار مجلس الوزراء رقم (28) لسنة 2001 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الثالث لعام 2001 ب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1567&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1567&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعتمد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الثالث لعام 2001، المنعقد بتاريخ 1/5/2001، بالموافقة على أن تؤسس قطر للبترول بالاشتراك مع موبيل كيوام للغاز إنك (شركة إكسون موبيل) شركة مساهمة قطرية تسمى «شركة رأس غاز المحدودة»، برأسمال مصرح به قدره (100,000) مائة ألف دولار أمريكي، موزع على أسهم اسمية عددها (10,000) عشرة آلاف سهم، قيمة كل سهم منها (10 عشرة دولارات أمريكية، لقطر للبترول 70%، ولإكسون موبيل 30% منه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

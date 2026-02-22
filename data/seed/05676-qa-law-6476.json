@@ -4,8 +4,21 @@
   "title": "قرار وزير العمل والشؤون الاجتماعية رقم (1) لسنة 2015 بشأن \"حل\" جمعية مركز قطر لثقافة الطفل",
   "short_name": "قرار وزير العمل والشؤون الاجتماعية رقم (1) لسنة 2015 بشأن \"حل\" جمعية مركز قطر لثقافة الطفل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6476&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6476&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "حل جمعية مركز قطر لثقافة الطفل وذلك لمخالفتها أحكام القانون رقم (12) لسنة 2004 بشأن الجمعيات والمؤسسات الخاصة وتعديلاته، ونظامها الأساسي. حلت جمعية مركز قطر لثقافة الطفل بموجب قرار وزير العمل والشؤون الاجتماعية رقم (1) لسنة 2015 وذلك لمخالفتها أحكام القانون رقم (12) لسنة 2004 بشأن الجمعيات والمؤسسات الخاصة وتعديلاته ونظامها الأساسي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

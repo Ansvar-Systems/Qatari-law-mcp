@@ -4,8 +4,21 @@
   "title": "قرار وزير البيئة رقم (151) لسنة 2015م بشأن تمديد حظر رعي الإبل",
   "short_name": "قرار وزير البيئة رقم (151) لسنة 2015م بشأن تمديد حظر رعي الإبل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6745&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6745&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يتم تمديد فترة حظر رعي الإبل في جميع مناطق الدولة لمدة سنتين تبدأ من تاريخ 24/8/2015م حتى 23/8/2017م"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات، كل فيما يخصه، تنفيذ هذا القرار، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

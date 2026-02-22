@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (36) لسنة 2019 بإعادة تشكيل لجنة مكافحة التستر",
   "short_name": "قرار مجلس الوزراء رقم (36) لسنة 2019 بإعادة تشكيل لجنة مكافحة التستر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8214&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8214&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل لجنة مكافحة التستر، المنشأة بموجب القانون رقم (25) لسنة 2004 المشار إليه، على النحو التالي:\n- ممثلين اثنين عن وزارة التجارة والصناعة يكون أحدهما رئيساً للجنة.\n- ممثل عن وزارة الداخلية.\n- ممثل عن جهاز أمن الدولة.\n- ممثل عن الهيئة العامة للضرائب.\n- ممثل عن مصرف قطر المركزي.\nوتختار كل جهة من يمثلها في اللجنة، ويصدر بتسمية رئيس وأعضاء اللجنة قرار من وزير التجارة والصناعة، وتختار اللجنة نائباً للرئيس من بين أعضائها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار مجلس الوزراء رقم (31) لسنة 2005 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

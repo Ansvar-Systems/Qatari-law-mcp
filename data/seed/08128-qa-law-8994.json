@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (15) لسنة 2022 بمنح بدل أمن سيبراني للموظفين القطريين العاملين في مجال الأمن السيبراني",
   "short_name": "قرار مجلس الوزراء رقم (15) لسنة 2022 بمنح بدل أمن سيبراني للموظفين القطريين العاملين في مجال الأمن السيبراني",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8994&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8994&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُمنح الموظفون القطريون العاملون في مجال الأمن السيبراني بالوكالـة الوطنيـة للأمن السيبراني، بدل أمن سيبراني بنسبة (50%) من الراتب الأساسي لكل منهم، بالإضافة إلى بدل طبيعة العمل المقرّر لهم بقرار مجلس الوزراء في اجتماعه العادي (12) لعام 2010 المشار إليه، وبذات الضوابط الواردة به."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

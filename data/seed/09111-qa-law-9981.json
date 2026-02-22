@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (27) لسنة 2025 بالموافقة على انضمام دولة قطر إلى الاتفاق التعاوني للدول العربية الواقعة في آسيا للـبـحـث والـتـنـمـيـة والـتـدريـب فـي مـجـال العلم والتكنولوجيا النوويين عراسيا (ARASIA)",
   "short_name": "مرسوم رقم (27) لسنة 2025 بالموافقة على انضمام دولة قطر إلى الاتفاق التعاوني للدول العربية الواقعة في آسيا للـبـحـث وا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9981&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9981&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "وُوفق على انضمام دولة قطر إلى الاتفاق التعاوني للدول العربية الواقعة في آسيا للبحث والتنمية والتدريب في مجال الـعـلـم والـتـكـنـولـوجـيـا الـنـوويـيـن عـراسـيـا (ARASIA)، المحرر بمدينة فيينا بتاريخ 2017/09/19، المرفق نصـه بـهـذا الـمـرسـوم، وتكون له قوة القانون، وفقاً للمادة (68) من الدستورية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تـنـفـيـذ هذا المرسوم. ويُعـمـل بـه من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

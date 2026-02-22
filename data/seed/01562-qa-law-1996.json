@@ -4,8 +4,21 @@
   "title": "قرار وزير المواصلات والنقل رقم (2) لسنة 1993 بشأن تحديد رسوم وأجور الخدمات البريدية",
   "short_name": "قرار وزير المواصلات والنقل رقم (2) لسنة 1993 بشأن تحديد رسوم وأجور الخدمات البريدية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1996&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1993.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1996&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد رسوم وأجور الخدمات البريدية وفقاً للجدول المرفق بهذا القرار، و تستوفى إدارة البريد هذه الرسوم والأجور بالطرق المقررة في القانون رقم (14) لسنة 1990 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

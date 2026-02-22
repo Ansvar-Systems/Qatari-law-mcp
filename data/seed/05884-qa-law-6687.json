@@ -4,8 +4,15 @@
   "title": "استدراك",
   "short_name": "استدراك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6687&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6687&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "استدراك\nاستدراك 0 / 2015\nتعديل العنوان للفصل الرابع في قانون النظام المالي للدولة الصادر بالقانون رقم (2) لسنة 2015 المنشور في العدد (12) لسنة 2015 على الوجه الآتي:\nالصحيح\nالخطأ\nحسابات الحكومة\nحساب الحكومات"
+    }
+  ],
   "definitions": []
 }

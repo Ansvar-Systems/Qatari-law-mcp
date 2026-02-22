@@ -4,8 +4,33 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (75) لسنة 2004 بإصدار شعار الهيئة العامة القطرية للمواصفات والمقاييس",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (75) لسنة 2004 بإصدار شعار الهيئة العامة القطرية للمواصفات والمقاييس",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3879&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3879&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون نموذج الشعار المرفق بهذا القرار شعاراً للهيئة العامة القطرية للمواصفات والمقاييس. ويحظر استخدامه في غير الأغراض المخصص لها. ولا يجوز لأي جهة أخرى استخدامه إلا بعد الحصول على موافقة الهيئة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يوضع الشعار، المشار إليه في المادة السابقة، على جميع مطبوعات الهيئة العامة القطرية للمواصفات والمقاييس، كما يستخدم في أية أغراض أخرى يعتمدها مجلس إدارة الهيئة ويصدر بها قرار من وزير الاقتصاد والتجارة.\nويكون استخدام الشعار دليلاً على مطابقة السلع والمنتجات القطرية أو المستوردة للمواصفات القياسية القطرية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى قرار وزير الاقتصاد والتجارة رقم (13) لسنة 1990 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به بعد ستة أشهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

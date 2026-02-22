@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (25) لسنة 2016 بمنح شركة المواصلات (شركة مساهمة قطرية) \"مواصلات\" دعماً مالياً",
   "short_name": "قرار مجلس الوزراء رقم (25) لسنة 2016 بمنح شركة المواصلات (شركة مساهمة قطرية) \"مواصلات\" دعماً مالياً",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7059&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7059&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمنح شركة المواصلات (شركة مساهمة قطرية) \"مواصلات\" دعماً مالياً مقداره (48,200,000) ثمانية وأربعون مليوناً ومائتا ألف ريال، لتغطية خسائرها خلال العام 2014، الناتجة عن الفرق بين التكلفة الفعلية التي تتحملها الشركة لخدمة النقل وما يدفعه الجمهور مقابل هذه الخدمة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُصرف مبلغ الدعم المشار إليه في المادة السابقة دفعة واحدة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

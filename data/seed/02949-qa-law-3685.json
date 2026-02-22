@@ -4,8 +4,21 @@
   "title": "قرار وزير الأعمال والتجارة رقم (260) لسنة 2008 بتعديل بعض أحكام القرار رقم (2) لسنة 1988 بشأن تعيين الحد الأقصى لأسعار بيع لحوم الضأن الاسترالي من إنتاج المقصب الآلي وتنظيم تداولها",
   "short_name": "قرار وزير الأعمال والتجارة رقم (260) لسنة 2008 بتعديل بعض أحكام القرار رقم (2) لسنة 1988 بشأن تعيين الحد الأقصى لأسعا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3685&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3685&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "«يكون الحد الأقصى لسعر بيع لحوم الضأن الاسترالي من إنتاج المقصب الآلي وفقاً لما يلي:\nالصنف\nالوحدة\nسعر البيع لتاجر التجزئة\nسعر البيع للمستهلك\nذبيحة كاملة أو مقطعة بالعظام\nكيلو جرام\n14 ريال لكل كيلو جرام\n14.50 ريال لكل كيلو جرام"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

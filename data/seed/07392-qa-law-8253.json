@@ -4,8 +4,21 @@
   "title": "قرار رقم (18) لسنة 2020 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (18) لسنة 2020 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8253&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8253&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون المشار إليه، والقرارات المنفذة له وهم:-\nم\nالإسم\nالمسمى الوظيفي\n1\nابتسام طارش عيد الشمري\nكاتب استقبال ثالث\n2\nفرج محمد اكبر\nرسام هندسي ثالث\n3\nناصر راشد فرهود الهاجري\nمعاون سكرتير اول\n4\nعيسى منصور راشد الخاطر\nباحث شؤون إدارية ثالث\n5\nحسن علي محمد المال\nاستشاري خدمات إدارية\n6\nنواف علي احمد المحمود\nخبير عقود ولوائح\n7\nعامر محمد عامر الهاجري\nمعاون مدخل بيانات\n8\nغانم مبارك سعيد الشهواني\nمراقب رخص بناء ثاني\n9\nعبدالرحمن عيسى محمد\nمساح ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية رقم (6) لسنة 1970 ببدء سريان الامتياز الممنوح لشركة قطر الوطنية للسينما وتوزيع الأفلام الصادر بمقتضى المرسوم بقانون رقم (3) لسنة 1970 في شأن إنشاء شركة قطر الوطنية للسينما توزيع الأفلام ومنحها امتيازاً",
   "short_name": "قرار وزير المالية رقم (6) لسنة 1970 ببدء سريان الامتياز الممنوح لشركة قطر الوطنية للسينما وتوزيع الأفلام الصادر بمقتض...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2174&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1970.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2174&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يبدأ سريان الامتياز الممنوح لشركة قطر الوطنية للسينما وتوزيع الأفلام بمقتضى المرسوم بقانون رقم (3) لسنة 1970 اعتباراً من يوم 15/3/1390 هـ الموافق 20/5/1970 م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به بعد ثلاثين يوماً من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

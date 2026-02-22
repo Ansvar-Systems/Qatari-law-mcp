@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (1) لسنة 2022 بتجديد مدة مجلس إدارة بنك قطر للتنمية",
   "short_name": "قرار أميري رقم (1) لسنة 2022 بتجديد مدة مجلس إدارة بنك قطر للتنمية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8814&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8814&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُجدد مدة مجلس إدارة بنك قطر للتنمية، لمدة ثلاث سنوات، على النحو التالي:\n1 - سعادة السيّد/ علي بن أحمد الكواري رئيساً.\n2 - سعادة الشيخ/ محمد بن حمد بن قـاسم آل ثاني نائباً للرئيس\n3 - سعادة السيّد/ أحمد بن محمد السيّد عضواً.\n4 - السيّد/ سعود بن عبدالله بن حمد العطية عضواً.\n5 - السيّد/ سلمان كلداري عضواً.\n6 - السيّد/ محمد بدر السادة عضواً.\n7 - السيّد/ عبدالعزيز إسماعيل فرج الأنصاري عضواً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يَخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

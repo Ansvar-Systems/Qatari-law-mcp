@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (19) لسنة 1993 بتحديد علاوة بدل التمثيل لضباط وشاغلي الرتب الأخرى بوزارتي الدفاع والداخلية",
   "short_name": "قرار مجلس الوزراء رقم (19) لسنة 1993 بتحديد علاوة بدل التمثيل لضباط وشاغلي الرتب الأخرى بوزارتي الدفاع والداخلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1492&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1993.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1492&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستحق ضباط وشاغلو الرتب الأخرى بوزارتي الدفاع والداخلية علاوة بدل تمثيل على النحو التالي:\n1-\n1500\nريال\n2-\n1200\nريال\n3-\n1000\nريال\n4-\n800\nريال"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يصدر الوزير المختص القرارات اللازمة بتحديد فئات المستحقين لعلاوة بدل التمثيل وتنظيم قواعد وشروط صرفها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

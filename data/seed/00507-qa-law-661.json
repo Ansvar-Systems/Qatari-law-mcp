@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (18) لسنة 2002 بتعديل بعض أحكام القرار الأميري رقم (1) لسنة 1998 بإنشاء مجلس التخطيط",
   "short_name": "قرار أميري رقم (18) لسنة 2002 بتعديل بعض أحكام القرار الأميري رقم (1) لسنة 1998 بإنشاء مجلس التخطيط",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=661&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=661&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينشأ مجلس يسمى «مجلس التخطيط» تكون له شخصية اعتبارية، وميزانية مستقلة تلحق بالموازنة العامة للدولة.\nويتبع المجلس الأمير مباشرة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "«الغرض من إنشاء هذا المجلس هو إعداد السياسات والخطط الاقتصادية والاجتماعية للدولة وفقا للمبادئ الجوهرية الموجهة لسياستها المبينة في النظام الأساسي للحكم فيها، ومتابعة تنفيذ هذه السياسات والخطط بعد إقرارها من الأمير»."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "«يعبر المجلس عن رأيه في صورة توصيات يرفعها إلى الأمير لإقرارها»."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "«يكون للمجلس أمانة عامة يرأسها أمين عام يصدر بتعيينه قرار أميري بناء على ترشيح رئيس المجلس.\nوتتولى الأمانة العامة جميع الأعمال الفنية والإدارية والمالية التي تتطلبها أعمال المجلس.\nويسري على موظفي المجلس وأمانته العامة أحكام قانون الخدمة المدنية المشار إليه»."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (23) لسنة 2025 بتعديل بعض أحكام النظام الوظيفي لموظفي المدارس الصادر بقرار مجلس الوزراء رقم (32) لسنة 2019",
   "short_name": "قرار مجلس الوزراء رقم (23) لسنة 2025 بتعديل بعض أحكام النظام الوظيفي لموظفي المدارس الصادر بقرار مجلس الوزراء رقم (32...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10065&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10065&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارتا &laquo; وزارة التربية والتعليم والتعليم العالي&raquo; ، و &laquo; وزير التربية والتعليم والتعليم العالي&raquo; بعبارتي &laquo; وزارة التعليم والتعليم العالي&raquo; ، و&laquo;وزير التعليم والتعليم العالي&raquo; ، الواردتين على التوالي في المادة (1) من النظام الوظيفي لموظفي المدارس المشار إليه ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُلغى المادة (14) من النظام الوظيفي لموظفي المدارس المشار إليه ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

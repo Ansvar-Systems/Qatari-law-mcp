@@ -4,8 +4,39 @@
   "title": "مرسوم رقم (9) لسنة 2022 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (9) لسنة 2022 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8839&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8839&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة التالية أسماؤهم في وظيفة رئيس بمحكمة الاستئناف، وتُحدد أقدمية كل منهم فيها اعتباراً من 15/03/2021:\n1- السيّد/ عبد الله عبدالعزيز آل خليفة.\n2 - السيّد/ محمد عمران الكواري.\nالسيّد/ عبدالله علي العمادي.\nالسيّد/ صالح جاسم المهندي.\n5- السيّد/ محسن محمود القاضي.\n6 - السيّد/ ناصر محمد شبيب الدوسري.\n7 - السيّد/ عبد الله محمود سالم آل عمر"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من السادة التالية أسماؤهم في وظيفة نائب رئيس بمحكمة الاستئناف، وتُحدد أقدمية كل منهم فيها اعتباراً من التاريخ المُبين قرين اسمه:\n1 - السيّد/ محمد طايس الجميلي 30/07/2020.\n2 - السيّد/ إبراهيم غصاب العدوي 16/12/2020.\n3 - السيّد/ محمد أحمد صالح آل إبراهيم 16/12/2020.\n4 - الدكتور/ حمد وديع الطويل 16/12/2020."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُعين الدكتورة/ حصة أحمد السليطي، في وظيفة قاضٍ بمحكمة الاستئناف، وتُحدد أقدميتها فيها اعتباراً من 08/06/2021."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تُعين السيّدة/ فاطمة عبدالعزيز بـلال، في وظيفة قاضٍ بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

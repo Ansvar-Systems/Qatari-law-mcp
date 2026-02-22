@@ -4,8 +4,21 @@
   "title": "قرار وزير البلدية والبيئة رقم (114) لسنة 2017 باعتماد مواصفات قياسية خليجية لوائح فنية قطرية",
   "short_name": "قرار وزير البلدية والبيئة رقم (114) لسنة 2017 باعتماد مواصفات قياسية خليجية لوائح فنية قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7258&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7258&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد المواصفات القياسية الخليجية، المبين رقم وعنوان كل منها بالجدول المرفق بهذا القرار، لوائح فنية قطرية، وفقاً للبيانات المحددة قرين كل منها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

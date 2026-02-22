@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (16) لسنة 2021 بنقل سفراء فوق العادة مُفوضين إلى ديوان عام وزارة الخارجية",
   "short_name": "قرار أميري رقم (16) لسنة 2021 بنقل سفراء فوق العادة مُفوضين إلى ديوان عام وزارة الخارجية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8684&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8684&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُنقل سفيراً بديوان عام وزارة الخارجية، كل من:\n1 - سعادة السيّد/ محمد بن حمد بن مبارك آل خليفة، السفير فوق العادة المُفوض لدى هنغاريا.\n2 - السيّد/ محمد حسن جابر الجابر، السفير فوق العادة المُفوض لدى الجمهورية اللبنانية.\n3 - السيّد/ سعود عبدالله زيد آل محمود، السفير فوق العادة المُفوض لدى كندا.\n4 - السيّد/ مبارك عبدالرحمن مبارك النصر، السفير فوق العادة المُفوض لدى جمهورية تركمانستان."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخُصّه، تنفيذ هذا القرار.ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

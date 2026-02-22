@@ -4,8 +4,27 @@
   "title": "قرار أمير دولة قطر رقم (3) لسنة 1995 بتعديل بعض أحكام النظام الأساسي المؤقت المعدل للحكم في دولة قطر",
   "short_name": "قرار أمير دولة قطر رقم (3) لسنة 1995 بتعديل بعض أحكام النظام الأساسي المؤقت المعدل للحكم في دولة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=745&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=745&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 21 ) من النظام الأساسي المؤقت المعدل المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article (21)",
+      "content": "حكم الدولة وراثي في أسرة آل ثاني\nوينتقل من الأب إلى أحد أبنائه، فإن لم يوجد فإلى من يختاره الأمير من أسرة آل ثاني.\nويعين الأمير ولي العهد بأمر أميري، بعد التشاور مع أهل الحل والعقد في البلاد، وموافقة أغلبيتهم على هذا التعيين.\nوينظم سائر الأحكام الخاصة بتوارث الحكم في الدولة قرار أميري يصدر لهذا الغرض."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا الأمر الأميري من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

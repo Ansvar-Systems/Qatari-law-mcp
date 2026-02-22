@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (26) لسنة 1996 في شأن علاوة بدل السكن وعلاوة بدل خدم للعسكريين القطريين المحالين إلى قوة الإحتياط بوزارتي الدفاع والداخلية",
   "short_name": "قرار أميري رقم (26) لسنة 1996 في شأن علاوة بدل السكن وعلاوة بدل خدم للعسكريين القطريين المحالين إلى قوة الإحتياط بوزا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=708&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=708&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعدل علاوة بدل السكن المقررة للعسكريين القطريين ومن في حكمهم من الفنيين بوزارتي الدفاع والداخلية المحالين إلى قوة الاحتياط قبل تاريخ العمل بالقرار الأميري رقم (8) لسنة 1996 المشار إليه، لتصبح على النحو التالي:\nأولاً: الضباط 1500 ريال شهرياً للمتزوج و 750 ريال شهرياً للأعزب.\nثانياً: ضباط الصف والجنود والأفراد 1500 ريال شهرياً للمتزوج و 600 ريال شهرياً للأعزب."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تعدل علاوة بدل الخدم للضباط القطريين ومن في حكمهم من الفنيين بوزارتي الدفاع والداخلية المحالين إلى قوة الاحتياط قبل تاريخ العمل بالقرار الأميري رقم (8) لسنة 1996 المشار إليه لتصبح على النحو التالي:\nمقدم فأعلى: 2400 ريال شهرياً.\nرائد فأدني: 1600 ريال شهرياً."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

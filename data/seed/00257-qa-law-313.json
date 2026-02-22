@@ -4,8 +4,33 @@
   "title": "قانون رقم (4) لسنة 1971 بزيادة العلاوات الاجتماعية الشهرية الخاصة بالموظفين والعمال القطريين",
   "short_name": "قانون رقم (4) لسنة 1971 بزيادة العلاوات الاجتماعية الشهرية الخاصة بالموظفين والعمال القطريين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=313&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1971.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=313&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ترفع العلاوات الاجتماعية الشهرية للموظفين والعمال القطريين. ويفوض مجلس الوزراء في تحديد مقدار الزيادة الذي يراه مناسباً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تعدل المادة (24) من قانون الوظائف العامة المدنية بإضافة الفقرة التالية:\n(ج - استثناء من حكم الفقرة (ب) من هذه المادة، تعتبر العلاوة الاجتماعية جزءاً من الراتب عند حساب مكافأة نهاية الخدمة لمن يستحقها من الموظفين والعمال القطريين المعينين في الحلقتين الثالثة والرابعة)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تواجه المصروفات اللازمة لتنفيذ هذا القانون من الاحتياطي العام للدولة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بأثر رجعي اعتباراًً من أول محرم 1391هـ. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

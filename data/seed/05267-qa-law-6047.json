@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (2) لسنة 2009 بتسمية أعضاء لجنة تطوير الاستثمار في قطاع السيارات",
   "short_name": "قرار رئيس مجلس الوزراء رقم (2) لسنة 2009 بتسمية أعضاء لجنة تطوير الاستثمار في قطاع السيارات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6047&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6047&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة تطوير الاستثمار في قطاع السيارات على النحو التالي:\n1-\nالسيد/ منصور بن إبراهيم آل محمود\nممثل عن جهاز قطر للاستثمار\nرئيساً\n2-\nسعادة الشيخ/ خالد بن حمد بن خليفة آل ثاني\nممثل عن نادي قطر للسيارات والدراجات النارية\nنائباً للرئيس\n3-\nسعادة السيد/ عبدالله بن خالد القحطاني\nممثل عن وزارة الأعمال والتجارة\nعضواً\n4-\nالسيد/ غانم بن سعد آل سعد\nممثل عن شركة الديار القطرية للاستثمار العقاري\nعضواً\n5-\nالسيد/ رضا نظيم آغا\nممثل عن وزارة الطاقة والصناعة\nعضواً\n6-\nالسيد/ ناصر مطر الكواري\nممثل عن بنك قطر للتنمية\nعضواً\n7-\nالسيد/ عبدالرحمن جابر سرور\nممثل عن وزارة البلدية والتخطيط العمراني\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

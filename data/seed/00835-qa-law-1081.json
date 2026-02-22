@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (36) لسنة 2001 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن اتفاقية شراء الطاقة المبرمة بين المؤسسة العامة القطرية للكهرباء والماء وشركة الكهرباء والماء القطرية",
   "short_name": "مرسوم رقم (36) لسنة 2001 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن اتفاقية شراء الطاقة المبرمة بين المؤسسة ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1081&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1081&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "توافق حكومة دولة قطر على ضمان الالتزامات المالية الناشئة عن إبرام المؤسسة العامة القطرية للكهرباء والماء لاتفاقية شراء الطاقة من شركة الكهرباء والماء القطرية في حدود مبلغ (214) مائتين وأربعة عشر مليون دولار، وفقاً لشروط وأحكام اتفاقية الضمان المزمع إبرامها بين حكومة دولة قطر، والمؤسسة العامة القطرية للكهرباء والماء، وشركة الكهرباء والماء القطرية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية والاقتصاد والتجارة، أو من ينيبه، في التوقيع على مشروع اتفاقية الضمان المشار إليها، وفي إدخال التعديلات التي يرى إدخالها عليها، وفي التوقيع على تلك التعديلات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

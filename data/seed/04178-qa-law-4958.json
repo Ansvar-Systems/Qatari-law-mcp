@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (72) لسنة 2013 بتعديل بعض أحكام القرار الأميري رقم (37) لسنة 2001 بإنشاء المجلس الأعلى للشؤون الاقتصادية والاستثمار",
   "short_name": "قرار أميري رقم (72) لسنة 2013 بتعديل بعض أحكام القرار الأميري رقم (37) لسنة 2001 بإنشاء المجلس الأعلى للشؤون الاقتصاد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4958&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4958&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 6 ) من القرار الأميري رقم (37) لسنة 2001 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "«يُشكل المجلس من الأمير رئيساً، وعضوية كل من:\n1 - رئيس مجلس الوزراء ووزير الداخلية\nنائباً للرئيس.\n2- وزير الطاقة والصناعة\nعضواً.\n3- وزير المالية\nعضواً.\n4- وزير الاقتصاد والتجارة\nعضواً.\n5 - محافظ مصرف قطر المركزي\nعضواً.\n6 - المستشار الاقتصادي للديوان الأميري\nعضواً.\n7 - ممثل عن جهاز قطر للاستثمار\nعضواً.\n8 - ممثل عن بنك قطر للتنمية\nعضواً.\nوتختار الجهتان المنصوص عليهما في البندين (7)، (8) من يمثلهما في عضوية المجلس.\nويجوز تعديل تشكيل المجلس أو إضافة أعضاء جدد بقرار من الأمير.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

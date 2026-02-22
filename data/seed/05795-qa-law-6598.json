@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (20) لسنة 2015 بالموافقة على الانضمام إلى الاتفاقية العربية لحماية حقوق المؤلف والحقوق المجاورة (الصيغة المعدلة للاتفاقية العربية لحماية حقوق المؤلف - بغداد 1981)",
   "short_name": "مرسوم رقم (20) لسنة 2015 بالموافقة على الانضمام إلى الاتفاقية العربية لحماية حقوق المؤلف والحقوق المجاورة (الصيغة الم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6598&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6598&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووُفق على انضمام دولة قطر إلى الاتفاقية العربية لحماية حقوق المؤلف والحقوق المجاورة (الصيغة المعدلة للاتفاقية العربية لحماية حقوق المؤلف - بغداد 1981)، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة ( 68 ) من الدستور، مع مراعاة عدم الأخذ بالمادة (7) من الاتفاقية، والأخذ بالخيار الثاني في المادة (21) من الاتفاقية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

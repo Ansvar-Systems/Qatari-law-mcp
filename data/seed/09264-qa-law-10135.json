@@ -4,8 +4,39 @@
   "title": "قرار مجلس الوزراء رقم (26) لسنة 2025 بتشكيل لجان فض منازعات التطوير العقاري",
   "short_name": "قرار مجلس الوزراء رقم (26) لسنة 2025 بتشكيل لجان فض منازعات التطوير العقاري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10135&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10135&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل بوزارة البلدية ثلاث لجان لفض منازعات التطوير العقاري ، يترأس كلاً منها قاضٍ يختاره المجلس الأعلى للقضاء ، وعضوية ممثلين إثنين ، أحدهما من وزارة البلدية والآخر من وزارة العدل .\nويصدر بتسمية رؤساء وأعضاء اللجان قرار من وزير البلدية ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية اللجنة ثلاث سنوات قابلة للتجديد لمدة أو لمدد أخرى مماثلة ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "ترفع كل لجنة إلى وزير البلدية تقريراً سنوياً بنتائج أعمالها ، يتضمن عدد المنازعات التي عرضت عليها وأنواعها وأسبابها ، مشفوعاً باقتراحاتها وتوصياتها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تسري في شأن مكافآت رؤساء وأعضاء لجان فض منازعات التطوير العقاري أحكام قرار مجلس الوزراء رقم (9) لسنة 1993 المشار إليه ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

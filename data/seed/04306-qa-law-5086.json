@@ -4,8 +4,33 @@
   "title": "وثيقة تأسيس مؤسسة الشيخ ثاني بن عبدالله آل ثاني لدعم المشاريع المتكاملة مؤسسة خاصة ذات نفع عام طبقاً لأحكام القانون رقم (21) لسنة 2006 بشأن المؤسسات الخاصة ذات النفع العام والمعدل بالمرسوم رقم 16 لسنة 2007",
   "short_name": "وثيقة تأسيس مؤسسة الشيخ ثاني بن عبدالله آل ثاني لدعم المشاريع المتكاملة مؤسسة خاصة ذات نفع عام طبقاً لأحكام القانون ر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5086&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5086&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ مؤسس خاصة ذات نفع عام طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 ، بشأن المؤسسات الخاصة ذات النفع العام، باسم \"مؤسسة الشيخ ثاني بن عبدالله آل ثاني لدعم المشاريع المتكاملة\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون المقر الرئيسي للمؤسسة مدينة الدوحة، منطقة الخليج الغربي، أبراج إزدان-4، الطابق التاسع. ويجوز لها إنشاء فروع أو مكاتب أخرى في الحالات التي تراها المؤسسة ضرورية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "الأموال المخصصة للمؤسسة مبلغ وقدره مائة مليون (100,000,000) ريال قطري."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تعمل المؤسسة وفقاُ للنظام الأساسي الصادر من المؤسس، والمرفق بوثيقة التأسيس هذه، وتسري بشأنها أحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه وتعديلاته."
+    }
+  ],
   "definitions": []
 }

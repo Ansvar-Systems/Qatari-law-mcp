@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (15) لسنة 1996 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (16) الصادر في اجتماعه الثالث لعام 1996 بالموافقة على إبرام اتفاقية قرض لتمويل حصة المؤسسة في التمويل الذاتي لمشروع شركة رأس لفان للغاز الطبيعي المسال المحدودة",
   "short_name": "قرار مجلس الوزراء رقم (15) لسنة 1996 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (16) الصادر في اجتماع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1440&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1440&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (16) الصادر في اجتماعه الثالث لعام 1996 المنعقدة بتاريخ 9/11/1996 بالموافقة على إبرام اتفاقية قرض بمبلغ (864) مليون دولار أمريكي مع مؤسستي إتوشو ونيشيواي اليابانيتين لتمويل حصة المؤسسة في التمويل الذاتي لمشروع شركة رأس لفان للغاز الطبيعي المسال المحدودة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

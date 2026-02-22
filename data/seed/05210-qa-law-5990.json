@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (13) لسنة 2002 بمنح مكافأة لرئيس وأعضاء لجنة قبول المهندسين وتصنيفهم",
   "short_name": "قرار مجلس الوزراء رقم (13) لسنة 2002 بمنح مكافأة لرئيس وأعضاء لجنة قبول المهندسين وتصنيفهم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5990&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5990&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمنح كل من رئيس وأعضاء لجنة قبول المهندسين وتصنيفهم، المنشأة وفقاً للقانون رقم (11) لسنة 2001 المشار إليه، مكافأة مالية قدرها (2000) ألفا ريال شهرياً، ويسرى في شأن تلك المكافأة أحكام قرار مجلس الوزراء رقم (9) لسنة 1993 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به إعتباراً من 18/11/2001. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

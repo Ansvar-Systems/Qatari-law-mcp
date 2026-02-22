@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (45) لسنة 2012 بمد مدة ضمان حكومة دولة قطر لبعض التزامات شركة الخطوط الجوية القطرية وجهاز الطيران الأميري وشركة هليوكوبتر الخليج",
   "short_name": "مرسوم رقم (45) لسنة 2012 بمد مدة ضمان حكومة دولة قطر لبعض التزامات شركة الخطوط الجوية القطرية وجهاز الطيران الأميري و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4804&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4804&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمد مدة ضمان تأمين مسئوليات شركة الخطوط الجوية القطرية، وجهاز الطيران الأميري، وشركة هليوكوبتر الخليج، الصادر بتاريخ 24/9/2001 لتغطية المسئولية عن الأضرار الناشئة عن مخاطر الحرب والإرهاب لصالح الطرف الثالث، في حدود مبلغ (2,000,000,000) ألفي مليون دولار أمريكي، لمدة ستة أشهر تنتهي في 30/9/2012."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُفوض وزير الاقتصاد والمالية في إصدار الضمان المشار إليه، وفي مد مدته لمدة أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من 1/4/2012. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

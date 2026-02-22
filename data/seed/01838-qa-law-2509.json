@@ -4,8 +4,21 @@
   "title": "قانون رقم (15) لسنة 2008 بتعديل بعض أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات",
   "short_name": "قانون رقم (15) لسنة 2008 بتعديل بعض أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2509&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2509&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 6 /بند 5) من القانون رقم (24) لسنة 2002 المشار إليه ، النص التالي:\nمادة (6/بند 5) :\n«5- إلغاء الوظيفة أو إنهاء الخدمة بغير الطريق التأديبي للموظفين أو العاملين في الوزارات والأجهزة الحكومية الأخرى والهيئات والمؤسسات العامة ، وكانت مدة الخدمة لا تقل عن خمس سنوات.\nويجوز للشركات الخاضعة لأحكام هذا القانون والجهات الأخرى التي يقرر مجلس الوزراء سريان أحكامه عليها، تطبيق هذا الحكم بشرط أن تتحمل جميع الالتزامات المالية المترتبة على ذلك، بعد موافقة مجلس الوزراء»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه ، تنفيذ هذا القانون . ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

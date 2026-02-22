@@ -4,8 +4,33 @@
   "title": "قرار رئيس مجلس الوزراء رقم (2) لسنة 2002 بتعيين أمين عام وأمين عام مساعد للمجلس الوطني للثقافة والفنون والتراث",
   "short_name": "قرار رئيس مجلس الوزراء رقم (2) لسنة 2002 بتعيين أمين عام وأمين عام مساعد للمجلس الوطني للثقافة والفنون والتراث",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6049&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6049&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين السيد/ يوسف محمد درويش، أميناً عاماً للمجلس الوطني للثقافة والفنون والتراث. ويمارس مهام وظيفته واختصاصاته تحت اشراف رئيس المجلس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين السيد/ سعد عبد الله الدهيمي، أميناً عاماً مساعداً للمجلس الوطني للثقافة والفنون والتراث. ويعاون الأمين العام في أداء واجباته، ويحل محله عند غيابه، أو خلو منصبه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى قرار رئيس مجلس الوزراء رقم (36) لسنة 1998 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

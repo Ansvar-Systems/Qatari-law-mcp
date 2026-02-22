@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (16) لسنة 2004 بتعيين رئيس للهيئة العامة للتخطيط والتطوير العمراني",
   "short_name": "قرار أميري رقم (16) لسنة 2004 بتعيين رئيس للهيئة العامة للتخطيط والتطوير العمراني",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5285&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5285&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين السيد/ ابراهيم راشد ابراهيم المسند المهندي، رئيساً للهيئة العامة للتخطيط والتطوير العمراني."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتولى رئيس الهيئة إعتبارا من تاريخ العمل بهذا القرار اتخاذ الإجراءات اللازمة لقيام الهيئة بممارسة اختصاصاتها المقررة في قانون إنشائها، عند العمل بأحكامه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغي كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

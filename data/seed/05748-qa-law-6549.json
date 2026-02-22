@@ -4,8 +4,39 @@
   "title": "قرار أميري رقم (8) لسنة 2015 بتعديل بعض أحكام القرار الأميري رقم (48) لسنة 2014 بالهيكل التنظيمي لوزارة الداخلية",
   "short_name": "قرار أميري رقم (8) لسنة 2015 بتعديل بعض أحكام القرار الأميري رقم (48) لسنة 2014 بالهيكل التنظيمي لوزارة الداخلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6549&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6549&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف إلى الوحدات الإدارية التي تتألف منها وزارة الداخلية، والمبينة بالخريطة التنظيمية المرفقة بالقرار الأميري رقم (48) لسنة 2014 المشار إليه، وحدة إدارية تُسمى \"الإدارة العامة للأمن الصناعي\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُنقل العاملون بإدارة شؤون الأمن الصناعي بقطر للبترول إلى الإدارة العامة للأمن الصناعي بوزارة الداخلية، بذات مخصصاتهم المالية التي يتقاضونها وقت نقلهم، ويسري في شأنهم نظام وظيفي يصدر به قرار من مجلس الوزراء بناءً على اقتراح وزير الداخلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُنقل موجودات إدارة شؤون الأمن الصناعي بقطر للبترول إلى الإدارة العامة للأمن الصناعي بوزارة الداخلية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

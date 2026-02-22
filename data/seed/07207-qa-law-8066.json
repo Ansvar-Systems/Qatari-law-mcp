@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (32) لسنة 2019 بتعيين عضوين في النيابة العامة",
   "short_name": "مرسوم رقم (32) لسنة 2019 بتعيين عضوين في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8066&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8066&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين في وظيفة وكيل نيابة مساعد بالنيابة العامة كل من:\n1- السيد/ راشد محمد راشد آل خليفة، وتحدد أقدميته في هذه الوظيفة اعتباراً من 8/10/2017.\n2- السيد/ خليفة أحمد خليفة العسيري، وتحدد أقدميته في هذه الوظيفة اعتباراً من 17/10/2017."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

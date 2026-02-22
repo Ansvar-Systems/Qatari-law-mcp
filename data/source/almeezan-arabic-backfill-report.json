@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-02-22T07:28:28.442Z",
+  "options": {
+    "skipFetch": false,
+    "refresh": false,
+    "limit": null,
+    "fromLawId": null,
+    "workers": 1
+  },
+  "summary": {
+    "candidates_total": 1,
+    "processed": 1,
+    "upgraded": 1,
+    "still_textless": 0,
+    "fetch_failed": 0
+  },
+  "failures": []
+}

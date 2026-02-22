@@ -4,8 +4,33 @@
   "title": "قرار وزير الأوقاف والشئون الإسلامية رقم (8) لسنة 2001 بتعديل بعض أحكام القرار الوزاري رقم (37) لسنة 1995 بلائحة نظام العمل بلجنة شئون الحج",
   "short_name": "قرار وزير الأوقاف والشئون الإسلامية رقم (8) لسنة 2001 بتعديل بعض أحكام القرار الوزاري رقم (37) لسنة 1995 بلائحة نظام...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2232&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2232&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 15 )، ( 34 ) من القرار الوزاري رقم (37) لسنة 1995 المشار إليه، النصان التاليان:"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article (15)",
+      "content": "«تقوم اللجنة، كلما دعت الحاجة، بالاعلان في وسائل الإعلام المحلية عن موعد تقديم طلبات مزاولة مهنة مقاول حج.\nويتضمن الإعلان الشروط المنصوص عليها في المادة (6) من القانون رقم (6) لسنة 1993 المشار إليه، والواجب توافرها فيمن يتقدم لمزاولة هذه المهنة، وأي شروط أخرى يعتمدها الوزير بناء على توصية اللجنة»."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Article (34)",
+      "content": "«تحدد اللجنة، قبل بدء التسجيل بوقت كاف، تكلفة الحج بالتفصيل وتعلن عنها بالوسيلة المناسبة، كما تحدد اللجنة عدد حملات الحجاج سنوياً بالاضافة إلى الحدين الأدنى والأعلى لعدد الأفراد المسجلين في كل حملة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

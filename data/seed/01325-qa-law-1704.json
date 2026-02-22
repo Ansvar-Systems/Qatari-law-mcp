@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (6) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (25) لسنة 2003 بتشكيل المجلس الدائم للتأديب",
   "short_name": "قرار مجلس الوزراء رقم (6) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (25) لسنة 2003 بتشكيل المجلس الدائم للتأديب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1704&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1704&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "فقرة أخيرة) :\n«يتولى أمانة سر المجلس موظف أو أكثر من موظفي وزارة شؤون الخدمة المدنية والإسكان يصدر بندبهم قرار من الوزير»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "«يتقاضى كل من رئيس وأعضاء المجلس الدائم للتأديب مكافأة شهرية مقدارها ثلاثة آلاف ريال.\nويتقاضى السيد/حسين يوسف الملا مكافأة تحدد بنسبة من المكافأة المشار إليها بحسب عدد الجلسات التي يرأسها كل شهر.\nويتقاضى كل من يتولى أمانة سر المجلس مكافأة شهرية مقدارها ألفا ريال.»"
+    }
+  ],
   "definitions": []
 }

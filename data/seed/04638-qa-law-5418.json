@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (34) لسنة 2000 بتعيين أمين عام وأعضاء مجلس العائلة",
   "short_name": "قرار أميري رقم (34) لسنة 2000 بتعيين أمين عام وأعضاء مجلس العائلة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5418&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5418&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين سعادة الشيخ الدكتور/ محمد بن عيد بن محمد آل ثاني &shy; أميناً عاماً لمجلس العائلة وعضواً بالمجلس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين عضواً بمجلس العائلة كل من:\n1- سعادة الشيخ حمد بن سحيم بن حمد آل ثاني\n2- سعادة الشيخ حمد بن جاسم بن جبر آل ثاني\n3- سعادة الشيخ عبد الله بن خالد بن حمد آل ثاني\n4- سعادة الشيخ عبد الله بن محمد بن جبر آل ثاني\n5- سعادة الشيخ علي بن أحمد بن خليفة آل ثاني\n6- سعادة الشيخ علي بن عبد الله بن ثاني آل ثاني\n7- سعادة الشيخ عبد الله بن سعود بن عبد العزيز آل ثاني\n8- سعادة الشيخ حسن بن خالد بن حسن آل ثاني\n9- سعادة الشيخ عبد الرحمن بن سعود بن فهد آل ثاني\n10- سعادة الشيخ فيصل بن جاسم بن محمد آل ثاني\n11- سعادة الشيخ عبد العزيز بن عبد الرحمن بن حسن آل ثاني\n12- سعادة الشيخ فهد بن جاسم بن محمد آل ثاني"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "مدة عضوية المجلس خمس سنوات، يجوز تجديدها لمدة أو لمدد مماثلة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع المختصين، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (61) لسنة 2006 بتخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (61) لسنة 2006 بتخويل بعض موظفي وزارة الشؤون البلدية والزراعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3817&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3817&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفات وزارة الشؤون البلدية والزراعة التالية أسمائهن، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المُشار إليها، والقرارات المُنفذة لها. وهن:-\nم\nالاسم\nمكان العمل\n1.\nنوره زايد مبارك الخيارين\nبلدية الريان\n2.\nلطيفة عبد الله راشد معيوف\nبلدية الريان\n3.\nمنى إبراهيم عبد الله النصف\nبلدية الريان\n4.\nعليا حسن أحمد المالكي\nبلدية الريان\n5.\nجواهر سعيد مبارك الخيارين\nبلدية الريان\n6.\nنوره سعد زيد القريني\nبلدية الدوحة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كلٍ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

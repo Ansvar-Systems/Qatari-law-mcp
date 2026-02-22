@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (46) لسنة 2022 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (46) لسنة 2022 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9036&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9036&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة التالية أسماؤهم في وظيفة رئيس بالمحكمة الابتدائية، وتُحدد أقدمية كل منهم فيها اعتباراً من 28/08/2022.\n1 - عائشة حسن إبراهيم العمادي.\n2 - سالم يوسف أحمد الكواري.\n3 - محمد أحسد عبـدالله المالكي.\n4 - فهد عبدالله محمد المنصوري.\n5- أحمد محمد سعيد السليطي.\n6 - عيسى علي عيسى الخليفي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

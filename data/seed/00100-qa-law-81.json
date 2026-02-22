@@ -4,8 +4,27 @@
   "title": "قانون رقم (14) لسنة 1987 بشأن فرض رسم على استخراج الشهادات التي تصدرها وزارة التربية والتعليم",
   "short_name": "قانون رقم (14) لسنة 1987 بشأن فرض رسم على استخراج الشهادات التي تصدرها وزارة التربية والتعليم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=81&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1987.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=81&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يفرض رسم قدره خمسة ريالات مقابل الحصول على الشهادات التي تصدرها وزارة التربية والتعليم، والتي يصدر بتحديدها قرار من وزير التربية والتعليم.\nويجوز بقرار من مجلس الوزراء، تعديل قيمة الرسم المستحق وفقاً للفقرة السابقة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتم استيفاء الرسم، الموضح بالمادة السابقة، باستعمال طابع مالي يتم لصقه على الشهادة قبل ختمها بخاتم الوزارة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به بعد شهر من نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

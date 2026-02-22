@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (33) لسنة 2002 بتعديل بعض أحكام قانون المحاماة الصادر بالقانون رقم (10) لسنة 1996",
   "short_name": "مرسوم بقانون رقم (33) لسنة 2002 بتعديل بعض أحكام قانون المحاماة الصادر بالقانون رقم (10) لسنة 1996",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=562&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=562&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى قانون المحاماة مادة جديدة برقم ( 7 مكرراً ) نصها الآتي:"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "مكرراً) :\nيجوز بقرار من الوزير الترخيص لعدد محدود من مكاتب المحاماة الأجنبية، ذات الخبرات العالمية المتخصصة التي تحتاج إليها البلاد، بالعمل في قطر في المجالات القانونية التي يحددها الترخيص، ويكون الترخيص لمدة خمس سنوات قابلة للتجديد، وتقيد هذه المكاتب في جدول خاص يعد لهذا الغرض.\nويحدد القرار الصادر بمنح الترخيص إلتزامات المكتب المرخص له.\nويقيد المحامون العاملون في المكاتب المشار إليها في جدول المحامين المشتغلين وفقاً للشروط والأحكام المنصوص عليها في هذا القانون، وتسري في شأنهم أحكامه عدا البند (1) من المادة ( 11 ) والباب الثالث منه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

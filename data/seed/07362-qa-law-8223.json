@@ -4,8 +4,27 @@
   "title": "قرار وزير الداخلية رقم (99) لسنة 2019 بتحديد أماكن وقوف سيارات النقل (الشاحنات) والجرارات والمقطورات وشبه المقطورات",
   "short_name": "قرار وزير الداخلية رقم (99) لسنة 2019 بتحديد أماكن وقوف سيارات النقل (الشاحنات) والجرارات والمقطورات وشبه المقطورات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8223&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8223&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تسري أحكام هذا القرار على سيارات النقل (الشاحنات) التي يزيد وزنها الفارغ على (5) طن، وجميع أنواع الجرارات والمقطورات وشبه المقطورات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُحَدّدُ الأماكن التي يُسْمَحُ فيها بوقوف سيارات النقل (الشاحنات) والجرارات والمقطورات وشبه المقطورات، وفقاً للخرائط المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

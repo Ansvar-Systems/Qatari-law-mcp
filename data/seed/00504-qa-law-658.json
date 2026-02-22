@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (18) لسنة 2003 بتعديل بعض أحكام القرار الأميري رقم (37) لسنة 2001 بإنشاء المجلس الأعلى للشئون الاقتصادية والاستثمار",
   "short_name": "قرار أميري رقم (18) لسنة 2003 بتعديل بعض أحكام القرار الأميري رقم (37) لسنة 2001 بإنشاء المجلس الأعلى للشئون الاقتصاد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=658&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=658&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 10 ) من القرار الأميري رقم (37) لسنة 2001 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article (10)",
+      "content": "«يكون للمجلس الأعلى أمانة عامة، يرأسها أمين عام، يعاونه في مباشرة اختصاصاته نائبان، أحدهما للشئون الاقتصادية والآخر لشئون الاستثمار، ويصدر بتعيين الأمين العام ونائبيه قرار من رئيس المجلس.\nوتتألف الأمانة العامة من الوحدات الإدارية التالية:\n1- إدارة الاستثمارات المالية.\n2- إدارة الاستثمارات المباشرة.\n3- إدارة محاسبة الاستثمار.\n4- إدارة السياسات العامة للإقتصاد.\n5- إدارة السياسات العامة للطاقة.\n6- إدارة الشئون الإدارية والمالية.\nوتحدد اختصاصات نائبي الأمين العام والوحدات الإدارية السابقة بقرار من الأمين العام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

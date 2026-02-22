@@ -4,8 +4,21 @@
   "title": "قرار رقم (78) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (78) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8964&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8964&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي بالمخالفة لأحكام القانون رقم (4) لسنة 1983 المُشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nعبدالله حمد حسن حمد النعيمي\nباحث ثروة سمكية ثالث\n2\nمبارك سالم مبارك العبدالله\nباحث شؤون مالية ثاني\n3\nعلي راشد فهيد الفهيدي\nمراقب شواطئ وجزر ثاني\n4\nحسن أحمد حسن الغريب المحمود\nباحث شؤون إدارية أول\n5\nراشد محمد راشد علي الشهواني\nأخصائي متابعة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

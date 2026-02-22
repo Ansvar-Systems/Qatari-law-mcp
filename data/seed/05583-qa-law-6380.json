@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (67) لسنة 2014 بإعادة تشكيل مجلس أمناء جامعة قطر",
   "short_name": "قرار أميري رقم (67) لسنة 2014 بإعادة تشكيل مجلس أمناء جامعة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6380&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6380&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس أمناء جامعة قطر برئاسة سمو الشيخ/ عبد الله بن حمد آل ثاني، وسعادة الشيخ الدكتور/ عبد الله بن علي بن سعود آل ثاني، رئيس جامعة حمد بن خليفة، نائباً للرئيس، وعضوية كل من:\n1. سعادة الشيخ/ أحمد بن جاسم بن محمد آل ثاني، وزير الاقتصاد والتجارة.\n2. سعادة الدكتور/ محمد عبدالواحد الحمادي، وزير التعليم والتعليم العالي.\n3. سعادة الدكتورة/ حصة سلطان الجابر، وزير الاتصالات وتكنولوجيا المعلومات.\n4. سعادة الدكتور/ صالح محمد النابت، وزير التخطيط التنموي والإحصاء.\n5. سعادة الشيخ/ فيصل بن قاسم آل ثاني، رئيس رابطة رجال الأعمال القطريين.\n6. سعادة الشيخ الدكتور/ خالد بن ثاني بن عبد الله آل ثاني.\n7. عدد من ذوي الكفاءة والخبرة والمكانة العلمية، لا يقل عن ثلاثة ولا يزيد على سبعة، يختارهم رئيس المجلس من داخل الدولة أو خارجها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات، قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى القرار الأميري رقم (95) لسنة 2013 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

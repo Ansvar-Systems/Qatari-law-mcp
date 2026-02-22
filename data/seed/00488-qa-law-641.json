@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (14) لسنة 2005 بتشكيل مجلس إدارة الهيئة الوطنية للصحة",
   "short_name": "قرار أميري رقم (14) لسنة 2005 بتشكيل مجلس إدارة الهيئة الوطنية للصحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=641&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=641&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة الهيئة الوطنية للصحة، على النحو التالي:\n1- الشيخة الدكتورة/غالية بنت محمد بن حمد آل ثاني\nرئيساً\n2- الشيخ الدكتور/خالد بن جبر آل ثاني\nنائباً للرئيس\n3- الدكتور/محمد غانم العلي\nعضواً\n4- السيد/عبد الله خالد القحطاني\nعضواً\n5- السيد/أحمد مهدي الماجد\nعضواً\n6- الدكتور/محمد علي ناصر الحسيني\nعضواً\n7- السيد/توماس أونو\nعضواً\n8- السيدة/شان جريفيث\nالبروفسور هانس ويزل\nعضواً\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات ميلادية، ويتولى أعضاء المجلس عملهم فيه بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

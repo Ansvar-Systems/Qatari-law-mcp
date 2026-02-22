@@ -4,8 +4,27 @@
   "title": "قرار وزير الثقافة والرياضة رقم (124) لسنة 2017 بتأسيس المركز الوطني للحرف والصناعات التقليدية واعتماد وثيقة تأسيسه ونظامه الأساسي",
   "short_name": "قرار وزير الثقافة والرياضة رقم (124) لسنة 2017 بتأسيس المركز الوطني للحرف والصناعات التقليدية واعتماد وثيقة تأسيسه ون...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8304&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8304&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُؤسس هيئة ثقافية تتبع وزارة الثقافة والرياضة، تسمى \"المركز الوطني للحرف والصناعات التقليدية\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُعتمد وثيقة التأسيس و النظام الأساسي للمركز الوطني للحرف والصناعات التقليدية المرفقين بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كلٌ فيما يخصه، تنفيذ هذا القرار، ويعمل به اعتباراً من اليوم التالي لتاريخ نشره في الجريدة الرسمية، ويلغى كل حكم يخالف أحكامه."
+    }
+  ],
   "definitions": []
 }

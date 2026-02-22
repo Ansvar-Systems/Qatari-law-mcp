@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (1) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (8) لسنة 2000 باستثناء وزارة الداخلية من بعض أحكام القانون رقم (8) لسنة 1976 بشأن تنظيم المناقصات والمزايدات وإنشاء لجنة للمناقصات والمزايدات بالوزارة",
   "short_name": "قرار مجلس الوزراء رقم (1) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (8) لسنة 2000 باستثناء وزارة الداخلية من ب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1499&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1499&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 2 )، ( 3 ) من قرار مجلس الوزراء رقم (8) لسنة 2000 المشار إليه، النصان التاليان:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "«تنشأ بوزارة الداخلية لجنة للمناقصات والمزايدات، تشكل على النحو التالي:\n1- ثلاثة أعضاء عن وزارة الداخلية يكون من بينهم الرئيس ونائبه.\n2- عضو عن وزارة المالية.\n3- عضو عن ديوان المحاسبة.\nوتختار كل جهة من يمثلها في عضوية اللجنة، ويصدر بتسمية رئيس ونائب رئيس وأعضاء اللجنة قرار من وزير الداخلية.\nويكون للجنة أمين سر يصدر بندبه وتحديد اختصاصاته ومكافآته قرار من وزير الداخلية»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "«لا يشارك ممثلا وزارة المالية، وديوان المحاسبة في الاجتماعات الخاصة بالشراء وتوريد المهمات والأعمال ذات الصفة السرية، الواردة في الجدول المرفق بالقرار الأميري رقم (11) لسنة 1979 المشار إليه»."
+    }
+  ],
   "definitions": []
 }

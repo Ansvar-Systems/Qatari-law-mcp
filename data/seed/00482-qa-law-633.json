@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (13) لسنة 1998 بتشكيل مجلس إدارة المؤسسة العامة لمطار الدوحة الدولي",
   "short_name": "قرار أميري رقم (13) لسنة 1998 بتشكيل مجلس إدارة المؤسسة العامة لمطار الدوحة الدولي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=633&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=633&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة المؤسسة العامة لمطار الدوحة الدولي، برئاسة سعادة الشيخ أحمد بن ناصر بن فالح آل ثاني، وزير المواصلات والنقل، وعضوية كل من:\n1- السيد / سالم بن بطي النعيمي\nوكيل وزارة المواصلات والنقل\nنائباً للرئيس\n2- الشيخ / عبد الله بن أحمد بن عبد الله آل ثاني\nمدير عام المؤسسة العامة لمطار الدوحة الدولي\nعضواً\n3- السيد / عبد العزيز محمد النعيمي\nمدير إدارة الطيران المدني والأرصاد الجوية\nعضواً\n4- السيد / غانم عبد الله الخيارين\nبوزارة المالية والاقتصاد والتجارة\nعضواً\n5- المقدم طيار / ناصر عبد الله السليطي\nبالقوات المسلحة القطرية\nعضواً\n6- الرائد / عبد الله علي الجابر الحنزاب المري\nبوزارة الداخلية\nعضواً\n7- السيد / أحمد الباكر\nالرئيس التنفيذي لشركة الخطوط الجوية القطرية\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة المجلس ثلاث سنوات تبدأ من تاريخ صدور هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

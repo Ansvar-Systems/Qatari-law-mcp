@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (21) لسنة 2009 بتعيين رئيس ونائب رئيس وأعضاء المجلس الأعلى للتعليم",
   "short_name": "قرار أميري رقم (21) لسنة 2009 بتعيين رئيس ونائب رئيس وأعضاء المجلس الأعلى للتعليم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5321&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5321&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل المجلس الأعلى للتعليم من سمو ولي العهد رئيساً، وصاحبة السمو الشيخة/ موزة بنت ناصر المسند نائباً للرئيس، وعضوية كل من:\n1- سعادة الدكتور/ محمد صالح السادة.\n2- سعادة الدكتورة/ شيخة عبدالله المسند.\n3- سعادة الشيخ/ عبدالله بن علي بن سعود آل ثاني.\n4- الشيخة/ عائشة بنت فالح آل ثاني.\n5- الدكتور/ مازن جاسم الجيدة.\n6- الدكتور/ دوجلاس بالمر.\n7- الدكتور/ سيغبرت فرانك."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

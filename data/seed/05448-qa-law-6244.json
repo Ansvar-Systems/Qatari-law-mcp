@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (24) لسنة 2014 بتعديل بعض أحكام القرار رقم (69) لسنة 2012 بتحديد البدلات التي تُصرف للمرضى الذين يتم علاجهم بالخارج ومرافقيهم",
   "short_name": "قرار مجلس الوزراء رقم (24) لسنة 2014 بتعديل بعض أحكام القرار رقم (69) لسنة 2012 بتحديد البدلات التي تُصرف للمرضى الذي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6244&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6244&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين (3) ، (5) من قرار مجلس الوزراء رقم (69) لسنة 2012 المشار إليه، النصان التاليان:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "\"لا يجوز صرف البدلات اليومية المنصوص عليها في المادة السابقة إلا لمن تقرر إيفاده، وتُصرف هذه البدلات مقدماً عن الأسبوعين الأولين، على أن تُصرف بعد ذلك في نهاية كل أسبوع.\""
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "\"تتحمل الدولة تكاليف سفر المرضى ومرافقيهم جواً، ذهاباً وإياباً، بالدرجة السياحية بأقصر الطرق، ويُستثنى من ذلك ما يلي:\n1- المرضى الذين تستدعي حالتهم السفر بدرجة أعلى، وفقاً للقائمة التي تحددها اللجنة لهذه الحالات، فتتحمل الدولة تكاليف سفرهم ومرافقيهم بالدرجة الأعلى.\n2- المرضى الذين تستغرق رحلة سفرهم عشر ساعات أو أكثر، فتتحمل الدولة تكاليف سفرهم ومرافقيهم بدرجة رجال الأعمال.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

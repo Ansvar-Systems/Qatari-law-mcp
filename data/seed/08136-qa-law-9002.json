@@ -4,8 +4,21 @@
   "title": "قرار وزير التجارة والصناعة رقم (70) لسنة 2022 بتعديل بعض أحكام القرار الوزاري رقم (161) لسنة 2017 بشأن الاشتراطات العامة والخاصة الواجب توافرها في المحال التجارية والصناعية والعامة المماثلة",
   "short_name": "قرار وزير التجارة والصناعة رقم (70) لسنة 2022 بتعديل بعض أحكام القرار الوزاري رقم (161) لسنة 2017 بشأن الاشتراطات الع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9002&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9002&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى نص المادة (2) من قرار وزير الاقتصاد والتجارة رقم (161) لسنة 2017 المشار إليه، بند برقم (11)، نصه التالي:\n\"11- توفر خدمة الدفع الإلكتروني للمستهلكين بالمحل، وفقاً لما تُحدده الجهة المختصة.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُلّ فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

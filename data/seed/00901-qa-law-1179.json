@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (51) لسنة 1979 بتأسيس شركة مساهمة قطرية باسم «بنك الدوحة المحدود»",
   "short_name": "مرسوم رقم (51) لسنة 1979 بتأسيس شركة مساهمة قطرية باسم «بنك الدوحة المحدود»",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1179&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1979.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1179&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لـ :\n1- خليفة بن عبد الله الأحمد آل ثاني\n2- ناصر بن عبد الله الأحمد آل ثاني\n3- علي بن سعود بن عبد العزيز آل ثاني\n4- جبر بن محمد بن جبر آل ثاني\n5- عبد الرحمن بن محمد بن جبر آل ثاني\n6- عبد الرحمن المناعي\n7- علي بن ناصر العطية\n8- جبر بن سلطان اطوار\n9- عبد الله عيسى المريخي\n10- أحمد عبد الرحمن عبيدان\nفي أن يؤسسوا في قطر شركة مساهمة قطرية تسمى \"بنك الدوحة المحدود\" برأس مال قدره (15.000.000 ريال) خمسة عشر مليون ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفقة صورة من كل منهما بهذا المرسوم، وعليهم الالتزام كذلك بأحكام القانون رقم (3) لسنة 1961 بتنظيم شركات المساهمة وتعديلاته، وبأحكام القانون رقم (7) لسنة 1973 بإنشاء مؤسسة النقد القطري والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على وزير المالية والبترول تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

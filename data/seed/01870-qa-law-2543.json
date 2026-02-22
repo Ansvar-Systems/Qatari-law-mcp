@@ -4,8 +4,27 @@
   "title": "قانون رقم (20) لسنة 1971 باعتبار يوم الاستقلال إجازة رسمية",
   "short_name": "قانون رقم (20) لسنة 1971 باعتبار يوم الاستقلال إجازة رسمية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2543&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1971.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2543&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "بمناسبة إعلان استقلال دولة قطر، يعتبر يوم الاستقلال 3 سبتمبر من كل عام إجازة رسمية تعطل فيها الوزارات والأجهزة الحكومية الأخرى."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعتبر يوم الاستقلال إجازة رسمية براتب كامل وفقاً للفقرة (ب) من المادة (46) من قانون العمل المشار إليه.\nويعتبر هذا اليوم إجازة رسمية براتب كامل بالنسبة للعمال غير القطريين، ويضاف إلى الإجازات الواردة في المادة (10) من المرسوم بقانون رقم (6) لسنة 1968 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

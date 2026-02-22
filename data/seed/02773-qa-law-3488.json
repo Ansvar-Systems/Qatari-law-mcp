@@ -4,8 +4,21 @@
   "title": "قرار رقم (105) لسنة 2006 بالغاء صفة الضبطية القضائية لموظف بوزارة الاقتصاد والتجارة",
   "short_name": "قرار رقم (105) لسنة 2006 بالغاء صفة الضبطية القضائية لموظف بوزارة الاقتصاد والتجارة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3488&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3488&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلغى صفة الضبطية القضائية التي خولت للسيد/ عبد الرحمن محمد بن الشيخ المطاوعة - الموظف بوزارة الاقتصاد والتجارة بالقرار رقم: (20 لسنة 2005) بسبب تركه العمل في وزارة الاقتصاد والتجارة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدروه ، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

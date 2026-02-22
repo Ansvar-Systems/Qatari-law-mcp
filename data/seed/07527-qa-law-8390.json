@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (53) لسنة 2020 بالموافقة على اتفاقية ضمان حكومة دولة قطر لمشروع محطة الطاقة الشمسية بالخرسعة",
   "short_name": "مرسوم رقم (53) لسنة 2020 بالموافقة على اتفاقية ضمان حكومة دولة قطر لمشروع محطة الطاقة الشمسية بالخرسعة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8390&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8390&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُوافق الحكومة على اتفاقية ضمان حكومة دولة قطر لمشروع محطة الطاقة الشمسية بالخرسعة المشار إليها ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُفوّض وزير المالية، أو من ينيبه، في التوقيع على اتفاقية الضمان المشار إليها، وعلى أي من الاتفاقيات أو المستندات المتفرعة عنها، وفي إدخال التعديلات التي يرى إدخالها على أي منها، وفي التوقيع على تلك التعديلات ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كلّ فيما يخصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

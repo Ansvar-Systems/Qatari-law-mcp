@@ -4,8 +4,21 @@
   "title": "قرار وزير الأوقاف والشؤون الإسلامية رقم (78) لسنة 2017 بتحديد مواصفات مقر حملة الحج والعمرة",
   "short_name": "قرار وزير الأوقاف والشؤون الإسلامية رقم (78) لسنة 2017 بتحديد مواصفات مقر حملة الحج والعمرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7494&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7494&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجب أن تتوافر في مقر حملة الحج أو العمرة المواصفات التالية:\n1- أن يكون مرخصاً كمقر لنشاط تجاري من وزارة الاقتصاد والتجارة.\n2- أن يكون مخصصاً لمزاولة مهنة الحج أو العمرة دون أي نشاط آخر لذات المرخص له أو لغيره، ويجوز في الأحوال التي يقدرها وزير الأوقاف والشؤون الإسلامية بناءً على اقتراح إدارة شؤون الحج والعمرة الاستثناء من حكم هذا البند.\n3- أن يكون دائماً طيلة مدة سريان الترخيص.\n4- أن يكون مُهيئاً لمزاولة مهنة الحج أو العمرة ومزوداً بوسائل الاتصال الحديثة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

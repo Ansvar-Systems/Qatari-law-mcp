@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (62) لسنة 2024 بإلغاء القرار الأميري رقم (39) لسنة 2011 بإنشاء لجنة تسيير مشروع إنشاء شبكات السكك الحديدية القطرية \" الريل \"",
   "short_name": "قرار أميري رقم (62) لسنة 2024 بإلغاء القرار الأميري رقم (39) لسنة 2011 بإنشاء لجنة تسيير مشروع إنشاء شبكات السكك الحد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9695&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9695&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُلغى القرار الأميري رقم (39) لسنة 2011 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تؤول إلى وزارة المواصلات، جميع الأموال الثابتة والمنقولة للجنة تسيير مشروع إنشاء شبكات السكك الحديدية القطرية \"الريل\"، وجميع الحقوق والالتزامات المقررة لها أو عليها.\nوتتولى شركة سكك الحديد القطرية \"الريل\" مسؤولية إدارة وتشغيل وصيانة هذه الأموال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتولى وزير المواصلات الإشراف على إجراءات إلغاء اللجنة وتصفية أعمالها وتحصيل حقوقها والوفاء بالتزاماتها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

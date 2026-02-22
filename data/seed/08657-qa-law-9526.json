@@ -4,8 +4,21 @@
   "title": "قرار رقم (131) لسنة 2016 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (131) لسنة 2016 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9526&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9526&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي,وزارة البلدية والبيئة، التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المشار إليها أعلاه، والقرارات المنفذة له وهم:\nالمسمى الوظيفي\nالاسم\nم\nطبيب بيطري\nمها عبد الفضيل عبد الرحمن\n1\nفني مختبرات ثاني\nنورة عبد الله محمد الكواري\n2\nكاتب استقبال رابع\nلطيفة خالد محمد الكبيسي\n3\nطبيب بيطري ثالث\nسليم النصف شهيدة\n4\nفني مختبرات ثاني\nمزمل الشيخ وقيع الله محمد\n5\nطبيب بيطري\nعمرو محمد عبده محمد\n6\nطبيب بيطري ثالث\nعماد بو بكر خزري\n7\nطبيب بيطري ثالث\nعهد الحمروني زكراوي\n8\nطبيب بيطري\nاحمد ثابت راشد هبد العليم\n9\nمشرف مراقبين اسكان رابع\nعبدالله سلطان ناصر النعيمي\n10\nمراقب عمليات بيئة رابع\nحمد باطح خلف العنزي\n11\nطبيب بيطري ثالث\nعماد يوسف وناس\n12"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

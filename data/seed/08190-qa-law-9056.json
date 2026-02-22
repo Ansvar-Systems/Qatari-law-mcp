@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (18) لسنة 2022 بتعديل بعض أحكام القرار رقم (26) لسنة 2004 بإنشاء اللجنة الوطنية لحظر الأسلحة",
   "short_name": "قرار مجلس الوزراء رقم (18) لسنة 2022 بتعديل بعض أحكام القرار رقم (26) لسنة 2004 بإنشاء اللجنة الوطنية لحظر الأسلحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9056&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9056&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"تنشأ بوزارة الدفاع لجنة دائمة تُسمى \"اللجنة الوطنية لحظر الأسلحة\"، تُشكل من ممثلين اثنين عن وزارة الدفاع، يكون أحدهما رئيساً والآخر نائباً للرئيس، وعضوية ممثل عن كل من الجهات التالية:\n1- وزارة الداخلية.\n2- وزارة الخارجية.\n3- وزارة الصحة العامة.\n4- وزارة التجارة والصناعة.\n5- وزارة البيئة والتغير المناخي.\n6- الأمانة العامة لمجلس الوزراء.\n7- مؤسسة حمد الطبية.\n8- الهيئة العامة للجمارك.\n9- جامعة قطر.\nوتختار كل جهة من يمثلها في عضوية اللجنة، ويصدر بتسمية رئيس ونائب رئيس وأعضاء اللجنة قرار من رئيس أركان القوات المسلحة.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل بـه مـن تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

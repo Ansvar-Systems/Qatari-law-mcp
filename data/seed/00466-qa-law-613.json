@@ -4,8 +4,21 @@
   "title": "أمر أميري رقم (3) لسنة 2000 بتعديل بعض أحكام الأمر الأميري رقم (1) لسنة 2000 بإنشاء مجلس للعائلة الحاكمة",
   "short_name": "أمر أميري رقم (3) لسنة 2000 بتعديل بعض أحكام الأمر الأميري رقم (1) لسنة 2000 بإنشاء مجلس للعائلة الحاكمة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=613&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=613&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (2) من الأمر الأميري رقم (1) لسنة 2000 المشار إليه، النص التالي:\n(يكون للمجلس شخصية إعتبارية. ويختص بجميع الأمور المتعلقة بشئون العائلة الحاكمة، ويبحث ما يحيله إليه رئيس المجلس من مسائل مرتبطة بها)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، تنفيذ هذا الأمر. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

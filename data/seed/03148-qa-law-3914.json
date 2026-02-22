@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية رقم (8) لسنة 2006 بتعديل بعض أحكام القرار رقم (3) لسنة 1995 باللائحة التنفيذية للمرسوم بقانون رقم (11) لسنة 1993 بشأن ضريبة الدخل",
   "short_name": "قرار وزير المالية رقم (8) لسنة 2006 بتعديل بعض أحكام القرار رقم (3) لسنة 1995 باللائحة التنفيذية للمرسوم بقانون رقم (...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3914&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3914&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف إلى المادة ( 11 ) من قرار وزير المالية والاقتصاد والتجارة رقم (3) لسنة 1995 المشار إليه، فقرة أخيرة نصها التالي:\n( مادة «11» فقرة أخيرة ):\n«ويجوز بقرار من وزير المالية، بناءً على موافقة مجلس الوزراء، الاستثناء من نسب الاستهلاك المشار إليها، وذلك بمراعاة ما يلي:\n1- طبيعة المشروع ومدته.\n2- حجم الأصول الرئيسية وعمرها الافتراضي.\n3- المعالجة الضريبية الخاصة بالمشروع.\n4- الاتفاق المبرم بين الحكومة والجهة المعنية.\n5- ربحية المشروع وتدفقاته النقدية.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

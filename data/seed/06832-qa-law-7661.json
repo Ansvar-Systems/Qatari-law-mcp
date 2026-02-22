@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (1) لسنة 1962 بتعيين المستشار القانوني للحكومة",
   "short_name": "مرسوم رقم (1) لسنة 1962 بتعيين المستشار القانوني للحكومة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7661&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1962.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7661&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يتولى السيد الدكتور حسن كامل المستشار القانوني للحكومة ادارة الشؤون القانونية بها"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا المرسوم اعتباراً من تاريخ صدوره."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على نائب الحاكم تنفيذ هذا المرسوم، وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (34) لسنة 1988 بالموافقة على انضمام دولة قطر إلى البروتوكول الاضافي الأول لعام 1977 بشأن حماية ضحايا المنازعات المسلحة الدولية",
   "short_name": "مرسوم رقم (34) لسنة 1988 بالموافقة على انضمام دولة قطر إلى البروتوكول الاضافي الأول لعام 1977 بشأن حماية ضحايا المناز...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3027&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1988.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3027&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى البروتوكول الإضافي الأول لعام 1977 بشأن حماية ضحايا المنازعات المسلحة الدولية وملحقيه المرفق نصوصها بهذا المرسوم، مع إثبات أن انضمام دولة قطر إلى هذا البروتوكول يقترن بالتحفظ المشار إليه.\nومع مراعاة هذا التحفظ يكون للبروتوكول المذكور وملحقيه قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

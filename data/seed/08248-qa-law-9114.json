@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (5) لسنة 2023 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (5) لسنة 2023 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9114&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9114&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من الآتية أسماؤهم في وظيفة نائب رئيس بمحكمة الاستئناف، وتحدد أقدمية كل منهم فيها اعتباراً من التاريخ المبين قرين اسمه :\n-1 الدكتور/ خليفة عبداللطيف محمد المسلماني 01/06/2022.\n2 - الدكتور/ غانم ثامر ناصر مترف الحميدي 21/07/2022.\n-3 السيد/ خالد محمد السيد المنصوري 22/09/2022."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من الآتية أسماؤهم في وظيفة قاض بمحكمة الاستئناف، وتحدد أقدمية كل منهم فيها اعتباراً من 16/08/2022:\n-1 السيد/ أحمد محمد أحمد محمد الغانم .\n-2 السيد/ عبدالله أحمد عبدالله المالكي .\n-3 السيد/ سالم شاهين فهد آل مرشد الكواري .\n-4 السيد/ علي صالح علي صالح الشرقي .\n-5 السيد/ سالم محمد حميد العرابيد الشهواني .\n-6 السيد/ نايف محمد سعيد الربيعة الكواري ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم .ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

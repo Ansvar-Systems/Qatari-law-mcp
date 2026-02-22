@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (72) لسنة 1974م بتعيين سعر التعادل للريال القطري",
   "short_name": "مرسوم رقم (72) لسنة 1974م بتعيين سعر التعادل للريال القطري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5943&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5943&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون سعر التعادل للريال القطري 0.186621 جراماً من الذهب الخالص ويساوي 0.210000 وحدة من حقوق السحب الخاصة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ 19/5/1973م، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

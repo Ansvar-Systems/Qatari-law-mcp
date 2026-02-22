@@ -4,8 +4,45 @@
   "title": "قرار رئيس اللجنة الأولمبية القطرية رقم (495) لسنة 2021 بشأن تشكيل الاتحاد القطري للرياضات الإلكترونية \"Qatar eSport Association QeSA\"",
   "short_name": "قرار رئيس اللجنة الأولمبية القطرية رقم (495) لسنة 2021 بشأن تشكيل الاتحاد القطري للرياضات الإلكترونية \"Qatar eSport A...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8930&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8930&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس الإدارة الأول للاتحاد القطري للرياضات الإلكترونية، برئاسة وعضوية كلاً من\nم\nالاسم\nالصفة\n1\nالشيخ/ عبدالله بن فالح بن محمد ال ثاني\nرئيساً\n2\nالشيخة / عبير بنت نوح آل ثاني\nعضواً\n3\nالشيخ / ناصر بن خالد آل ثاني\nعضواً\n4\nالسيّدة/ موزه خالد المهندي\nعضواً\n5\nالسيّد/ ناصر عبدالله عويضة الهاجري\nعضواً\n6\nالسيّد/ خليفه هارون\nعضواً\n7\nالسيّد/ فيصل عبدالرحمن خالد\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يقوم مجلس الإدارة المُشكّل بإعداد النظام الأساسي للاتحاد واعتماده"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يقوم مجلس الإدارة المُشكّل بموافاة اللجنة الأولمبية القطرية بالنظام الأساسي بعد اعتماده وذلك لاستكمال إجراءات إشهار الاتحاد"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تكون مدة مجلس الإدارة المُشكّل لمدة أربع سنوات اعتباراً من تاريخ صدور هذا القرار"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يُلغى كل حكم مخالف لأحكام هذا القرار"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصّة، كل فيما يخُصّه تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره."
+    }
+  ],
   "definitions": []
 }

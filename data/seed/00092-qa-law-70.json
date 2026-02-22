@@ -4,8 +4,33 @@
   "title": "قانون رقم (13) لسنة 1992 بتعديل بعض أحكام القانون رقم (13) لسنة 1971 بنظام المحاكم العدلية",
   "short_name": "قانون رقم (13) لسنة 1992 بتعديل بعض أحكام القانون رقم (13) لسنة 1971 بنظام المحاكم العدلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=70&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1992.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=70&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادتين ( 8 )، ( 11 ) من القانون رقم (13) لسنة 1971 المشار إليه، النصان الآتيان:"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "يمارس الاختصاصات المنصوص عليها في المادة ( 4 ) من هذا القانون محكمة تشكل من ثلاثة قضاة، وتعقد رئاستها لأقدمهم ويسمى رئيس المحكمة الجزائية الكبرى ويسمى كل من القاضيين الآخرين قاضي المحكمة الجزائية الكبرى."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article (11)",
+      "content": "استثناء من أحكام المادة ( 8 ) من هذا القانون يجوز لكل من رئيس وعضوي المحكمة الجزائية الكبرى أن يجلس منفرداً للفصل في أي جناية لا تجاوز عقوبة الحبس المقرر لها خمس سنوات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

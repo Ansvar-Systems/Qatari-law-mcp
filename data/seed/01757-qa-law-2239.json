@@ -4,8 +4,21 @@
   "title": "قرار وزير الشئون البلدية رقم (8) لسنة 1979 بتحديد أنواع المحال الخاضعة لأحكام الثانون رقم (3) لسنة 1975م بشأن المحال التجارية والصناعية والعامة المماثلة",
   "short_name": "قرار وزير الشئون البلدية رقم (8) لسنة 1979 بتحديد أنواع المحال الخاضعة لأحكام الثانون رقم (3) لسنة 1975م بشأن المحال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2239&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1979.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2239&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد أنواع المحال التجارية والصناعية والعامة المماثلة المنصوص عليها في المادة (1) من القانون رقم (3) لسنة 1975م المشار إليه، وفقاً للجداول الملحقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا القرار من تاريخ صدوره، وينشر في الجريدة الرسمية،"
+    }
+  ],
   "definitions": []
 }

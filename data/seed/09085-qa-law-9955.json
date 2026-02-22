@@ -4,8 +4,21 @@
   "title": "قرار رئيس هيئة تنظيم الاتصالات رقم (17) لسنة 2025 بإصدار اللائحة التنظيمية لالتزامات جودة الخدمة البريدية",
   "short_name": "قرار رئيس هيئة تنظيم الاتصالات رقم (17) لسنة 2025 بإصدار اللائحة التنظيمية لالتزامات جودة الخدمة البريدية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9955&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9955&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "بإصدار اللائحة التنظيمية لحماية لالتزامات جودة الخدمة البريدية بهذا القرار والتي تطبق على القطاع البريدي CRACA2025/03/05 ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه تنفيذ هذا القرار ويعمل به من تار&#1740;خ صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

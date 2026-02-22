@@ -4,8 +4,21 @@
   "title": "مرسوم رقم ( 16 ) لسنة 1981 بالتصديق على نظام المنظمة العربية للثروة المعدنية",
   "short_name": "مرسوم رقم ( 16 ) لسنة 1981 بالتصديق على نظام المنظمة العربية للثروة المعدنية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2969&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1981.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2969&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على نظام المنظمة العربية للثروة المعدنية الموقع عليه في مدينة الرباط بتاريخ 15 يوليو 1977م،"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه، تنفيذ هذا المرسوم، وينشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

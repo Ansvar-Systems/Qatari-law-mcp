@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (14) لسنة 2008 بتعديل بعض أحكام القرار رقم (10) لسنة 2005 بتسمية أعضاء لجنة سوق قطر للأوراق المالية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (14) لسنة 2008 بتعديل بعض أحكام القرار رقم (10) لسنة 2005 بتسمية أعضاء لجنة سوق قطر للأورا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3449&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3449&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيد/ محمد أحمد طوار الكواري، محل السيد/ إبراهيم يوسف فخرو، في عضوية لجنة سوق قطر للأوراق المالية، ممثلاً عن غرفة تجارة وصناعة قطر، وتكون مدة عضويته مكملة لمدة عضوية سلفه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

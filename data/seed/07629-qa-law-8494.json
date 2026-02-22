@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (13) لسنة 2020 بتعيين مساعدي نيابة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (13) لسنة 2020 بتعيين مساعدي نيابة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8494&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8494&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن السيد /عبدالله محمد حسن الحيي السليطي ، في وظيفة مساعد نيابة ، وتحدد أقدميته فيها لثلاث سنوات سابقة على تاريخ صدور هذا القرار ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعيّن في وظيفة مساعد ن&#1740;اية ، كل ، من :\nالسيد / غانم أحمد غانم العبدالرحمن آل ثاني .\nالسيد خالد دحلان جمعان بشير الحمد .\nالسيد/ فهد محمد عبدالله ثنيان الدوسري .\nالسيد / عبدالرحمن عبد الله يوسف صالح السادة .\nالسيد / نايف محمد حمد جار الله المري .\nالسيد/ محمد جاسم محمد أحمد النعمة .\nالسيد / فواز نهار هيشان الويبار الشمري .\nالسيد/ عايض عوض عايض س&#1740;ف القحطاني .\nالسيد/ عبدالله راشد علي محمد الكبيسي .\nالسيد/ حسان محمد نور محمد المراغي .\nالسيد/ أحمد عبدالعزيز أحمد الفراهيد المالكي.\nالسيد / نواف زا&#1740;د عبدالله الجفالي النعيمي .\nالسيد/ إبراهيم عبدالعزيز إبراهيم محمد القايد ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره ، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

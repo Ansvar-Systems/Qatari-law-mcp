@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (9) لسنة 2023 باستثناء بعض الفئات من الخضوع لنظام التأمين الصحي الإلزامي",
   "short_name": "قرار مجلس الوزراء رقم (9) لسنة 2023 باستثناء بعض الفئات من الخضوع لنظام التأمين الصحي الإلزامي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9298&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9298&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستثنى من الخضوع لنظام التأمين الصحي الإلزامي المنصوص عليه في القانون رقم (22) لسنة 2021 المشار إليه، الفئات التالية:\n1 - غير القطرية المتزوجة من قطري.\n2 - أبناء القطرية المتزوجة من غير قطري.\n3 - أرملة أو مُطلّقة القطري غير القطرية، ما لم تتزوج من غير قطري.\n4 - حاملو تصاريح الإقامة المؤقتة.\n5 - أربعة من المستخدمين في منازل كل من المواطنين القطريين.\n6 - المحبوسون احتياطياً والسجناء.\n7 - الأيتام المقيّدون بدُور الرعاية.\n8 - اللقطاء ومجهولو الأب.\n9 - الدبلوماسيون وأفراد عائلاتهم (الزوج والأبناء الذين تقل أعمارهم عن ستة عشر عاماً).\n10 - جميع فئات ركاب العبور (الترانزيت).\n11 - مسافرو الدخول المؤقت.\n12 - الزائرون (سمة فورية) لمدة (30) يوماً من دخولهم الدولة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

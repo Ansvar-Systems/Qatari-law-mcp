@@ -4,8 +4,21 @@
   "title": "قرار وزير الداخلية رقم (15) لسنة 2025م بتحديد المنشآت التي تتولى قطر للطاقة تنفيذ بعض أحكام القانون رقم (25) لسنة 2015 بشأن الدفاع المدني عليها",
   "short_name": "قرار وزير الداخلية رقم (15) لسنة 2025م بتحديد المنشآت التي تتولى قطر للطاقة تنفيذ بعض أحكام القانون رقم (25) لسنة 201...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9914&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9914&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد المنشآت الكائنة في مناطق الامتياز والانتفاع التابعة لقطر للطاقة، التي تتولى بشأنها قطر للطاقة مهام الجهة المختصة المنصوص عليها في المواد (3) ، (4) ، (5) من القانون رقم (25) لسنة 2015 المشار إليه، ومراقبة الالتزام بتدابير واشتراطات الأمن والسلامة المنصوص عليها فيه، وذلك وفقًا للخرائط والإحداثيات المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل بـه مـن اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

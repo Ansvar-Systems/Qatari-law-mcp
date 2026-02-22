@@ -4,8 +4,21 @@
   "title": "قرار رقم (33) لسنة 2020م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (33) لسنة 2020م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8270&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8270&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التجارة والصناعة التالية أسمائهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون، المُشار إليه والقرارات المُنفذة له وهم:\nم\nالاسم\nالرقم الشخصي\n1\nاحمد جاسم محمد البوحسين البو عينين\n26968200153\n2\nحويزي ناصر حويزي سعيد الدوسري\n28263402803\n3\nصالح محمد ساير السبيعي العنزي\n28963400134\n4\nمحمد صلاح إبراهيم عبدالعزيز الرميحي\n28063402575\n5\nعبدالرحمن حمود نواف حميد الشمري\n29263400154"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

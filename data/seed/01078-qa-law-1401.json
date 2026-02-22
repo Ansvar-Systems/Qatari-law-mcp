@@ -4,8 +4,45 @@
   "title": "قرار مجلس الوزراء رقم (12) لسنة 1982 بنظام معادلة الشهادات الدراسية",
   "short_name": "قرار مجلس الوزراء رقم (12) لسنة 1982 بنظام معادلة الشهادات الدراسية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1401&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1982.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1401&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستمر لجنة معادلة الشهادات المشكلة بوزارة التربية والتعليم في القيام بمعادلة الشهادات العامة حتى الدرجة الجامعية الأولى (البكالوريوس أو الليسانس) أو ما يعادلها، وفقاً للنظام المقرر حالياً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتولى المجلس الأعلى للتربية مهمة معادلة الشهادات التي تعلو الدرجة الجامعية الأولى."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تتولى لجنة معادلة الشهادات بوزارة التربية والتعليم مهمة الأمانة العامة للمجلس الأعلى للتربية في شأن معادلة الشهادات المشار إليها في المادة السابقة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تقدم طلبات معادلة الشهادات المشار إليها في المادة ( 2 ) من هذا القرار إلى الأمانة العامة لدراستها، ثم ترفعها- مشفوعة بتقرير تبين فيه رأيها- إلى المجلس الأعلى للتربية للبت فيها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تصبح قرارات المجلس الأعلى للتربية في شأن معادلة الشهادات نهائية، بعد اعتمادها من وزير التربية والتعليم.\nوتحال القرارات المعتمدة وفقاً للفقرة السابقة، إلى الأمانة العامة للتنفيذ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

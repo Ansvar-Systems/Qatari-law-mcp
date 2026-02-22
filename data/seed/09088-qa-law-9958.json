@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (11) لسنة 2025 بتعيين مجلس إدارة هيئة قطر للأسواق المالية",
   "short_name": "قرار أميري رقم (11) لسنة 2025 بتعيين مجلس إدارة هيئة قطر للأسواق المالية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9958&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9958&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين مجلس إدارة هيئة قطر للأسواق المالية، برئاسة سعادة الشيخ/ بندر بن محمد بن سعود آل ثاني، وسعادة الشيخ/ أحمد بن خالد بن أحمد بن سلطان آل ثاني، نائباً للرئيس، وعضوية كل من :\n1- الدكتور / يحيى سعيد الجفالي النعيمي\n2- الشيخ/ خالد بن سعود بن فهد آل ثاني.\n3- السيد/ مايکل رايان\n4- الدكتور/ خالد ناصر الخاطر.\n5- السيد/ أحمد محمد عيسى الحـسـن الـمـهـنـدي.\nويكون للمجلس أمين سر يختاره المجلس، ويُحدد اختصاصاته ومكافأته المالية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات، قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعـمـل بـه من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

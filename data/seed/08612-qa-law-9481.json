@@ -4,8 +4,21 @@
   "title": "قرار رقم (124) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (124) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9481&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9481&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانوانين رقمي (4) لسنة 1985 و (29) لسنة 2006 المشار إليهما أعلاه، والقرارات المنفذة لهما وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nحمد سعيد حمد العذبه المري\nمنسق متابعة أول\n2\nعبد الله محمد طالب تويم المري\nمفتش رخص بناء ثاني\n3\nمشعل جمال على محمد البوعينين\nكاتب متابعة رابع\n4\nحمد عتيق حمد عتيق البريدي\nمنسق متابعة ثالث\n5\nدخيل محمد سعيد على أبوصلعه\nمنسق متابعة ثالث\n6\nعلي ناصر على البوعفره الكواري\nرئيس قسم الرقابة الفنية\n7\nمحمد محجوب عبدالوهاب عبدالرحيم\nفني أنظمة تشغيل رابع\n8\nحمد ناصر حمد البريد المري\nمنسق متابعة ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصّة كُل فيما يخُصّه، تنفيذ هذا القرار، ونعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

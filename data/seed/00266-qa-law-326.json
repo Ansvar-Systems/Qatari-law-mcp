@@ -4,8 +4,21 @@
   "title": "قانون رقم (4) لسنة 1999 بتعديل بعض أحكام القانون رقم (4) لسنة 1976 بشأن تنظيم نقل بضائع الترانزيت",
   "short_name": "قانون رقم (4) لسنة 1999 بتعديل بعض أحكام القانون رقم (4) لسنة 1976 بشأن تنظيم نقل بضائع الترانزيت",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=326&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=326&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 26 ) من القانون رقم (4) لسنة 1976 المشار إليه، النص التالي:\n( مادة 26 ):\n«تأخذ حكم بضاعة الترانزيت أية بضاعة كانت مرسلة في الأصل إلى قطر ورغب صاحبها في تحويلها من بضاعة مستوردة إلى بضاعة ترانزيت بغرض إعادة تصديرها إلى أي بلد»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

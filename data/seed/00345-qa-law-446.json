@@ -4,8 +4,27 @@
   "title": "قانون رقم (9) لسنة 1999 بشأن السماح لمواطني دول مجلس التعاون لدول الخليج العربية بممارسة بعض الأنشطة الاقتصادية في المجالات الصحية في دولة قطر",
   "short_name": "قانون رقم (9) لسنة 1999 بشأن السماح لمواطني دول مجلس التعاون لدول الخليج العربية بممارسة بعض الأنشطة الاقتصادية في ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=446&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=446&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يسمح لمواطني دول مجلس التعاون لدول الخليج العربية بممارسة الأنشطة الاقتصادية التالية في المجالات الصحية، وفقاً للضوابط المنصوص عليها في القانون رقم (6) لسنة 1988 المشار إليه:\nأ- المستشفيات الخاصة.\nب- المستوصفات الخاصة.\nجـ- علاج المعاقين.\nد- الطب الرياضي.\nهـ- الطب النفسي.\nو- المختبرات الطبية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يشترط لممارسة الاشخاص الطبيعيين للأنشطة المشار إليها في المادة السابقة أن يكونوا مقيمين في دولة قطر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهـات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به اعتباراً من 7/12/1994. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

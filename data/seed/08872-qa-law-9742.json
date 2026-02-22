@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (71) لسنة 2024 بدعوة مجلس الشورى لدور الانعقاد العادي الرابع من الفصل التشريعي الأول",
   "short_name": "مرسوم رقم (71) لسنة 2024 بدعوة مجلس الشورى لدور الانعقاد العادي الرابع من الفصل التشريعي الأول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9742&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9742&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُدعى مجلس الشورى لدور الانعقاد العادي الرابع من الفصل التشريعي الأول، الموافق لدور الانعقاد السنوي الثالث والخمسين، وذلك في يوم الثلاثاء الثاني عشر من شهر ربيع الآخر عام 1446 هجرية، الموافق للخامس عشر من شهر أكتوبر عام 2024 ميلادية ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

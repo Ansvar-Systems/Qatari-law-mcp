@@ -4,8 +4,21 @@
   "title": "قرار وزاري رقم (211) لسنة 2019 بتحديد رسوم الخدمات التي تقدمها هيئة الاشغال العامة",
   "short_name": "قرار وزاري رقم (211) لسنة 2019 بتحديد رسوم الخدمات التي تقدمها هيئة الاشغال العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8138&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8138&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد رسوم الخدمات التي تقدمها هيئة الأشغال العامة، وفقاً للفئات المبينة بالجداول المرفقة بهذا القرار.\nويجوز لرئيس هيئة الأشغال العامة تقسيط الرسوم المشار اليها، وفقاً لما يراه مناسباً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به بعد ثلاثة أشهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

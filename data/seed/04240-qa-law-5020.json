@@ -4,8 +4,21 @@
   "title": "قرار رقم (127) لسنة 2013 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (127) لسنة 2013 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5020&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5020&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (3) لسنة 1975م ، المُشار إليه والقرارات المُنفذه له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nأميرة سعود ناصر الكواري\nمفتش صالون ثالث\n2\nهيا راشد شاهين الكواري\nباحث شؤون إدارية ثالث\n3\nأسماء جاسم سلطان المهندي\nكاتب شؤون إدارية رابع\n4\nمشاعل رمثان زايد حميدي\nباحث إداري ثاني\n5\nنوره سعد إبراهيم المهندي\nكاتب شؤون إدارية ثالث\n6\nمريم خميس إبراهيم المهندي\nكاتب شؤون إدارية رابع\n7\nحصة محمد علي المهندي\nباحث شؤون إدارية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

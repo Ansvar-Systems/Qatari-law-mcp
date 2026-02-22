@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (94) لسنة 1975 بإنشاء وكالة الأنباء القطرية",
   "short_name": "مرسوم رقم (94) لسنة 1975 بإنشاء وكالة الأنباء القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4268&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1975.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4268&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ وكالة قطرية للأنباء تسمى (وكالة الأنباء القطرية) وتلحق بوزارة الإعلام.\nويكون رئيس تحرير الوكالة مسئولاً مباشرة أمام وزير الإعلام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يصدر وزير الإعلام القرارات اللازمة لتنظيم الوكالة وممارستها اختصاصاتها وسير العمل بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "اعتباراً من السنة المالية 1396هـ ترصد المبالغ اللازمة لتشغيل وكالة الأنباء القطرية في القسم الخاص بوزارة الإعلام في الميزانية العامة للدولة.\nوتواجه المصروفات اللازمة للتشغيل في السنة المالية الحالية من الاحتياطي العام للدولة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به اعتباراً من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

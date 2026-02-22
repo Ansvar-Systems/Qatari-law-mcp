@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (1) لسنة 1978 بإنشاء قلم للتنفيذ يتبع المحاكم الشرعية",
   "short_name": "قرار مجلس الوزراء رقم (1) لسنة 1978 بإنشاء قلم للتنفيذ يتبع المحاكم الشرعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1512&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1978.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1512&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يلغى مكتب المحكمة العدلية، وينشأ قلم للتنفيذ يكون تابعا لرئاسة المحاكم الشرعية والشئون الدينية، تنقل إليه ميزانية المكتب ويزود بالعدد الكافي من الموظفين حسب حاجة العمل، بما في ذلك من يختارهم رئيس المحاكم الشرعية والشئون الدينية من موظفي المكتب."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يختص قلم التنفيذ بما يأتي:\n(1) تسلم القضايا الواردة من الشرطة، وتوزيعها على المحاكم الشرعية لنظرها.\n(2) إجراء الاتصالات اللازمة لتنفيذ الأوامر الصادرة من المحاكم الشرعية باستدعاء الشهود، وإحضار المتهمين والقبض عليهم والإفراج عنهم.\n(3) اتخاذ جميع الإجراءات اللازمة لتنفيذ أوامر المحاكم الشرعية وقراراتها وأحكامها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يباشر قلم التنفيذ اختصاصاته الموضحة في المادة السابقة، وفقا للنظم والقواعد والتعليمات التي يضعها رئيس المحاكم الشرعية والشئون الدينية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

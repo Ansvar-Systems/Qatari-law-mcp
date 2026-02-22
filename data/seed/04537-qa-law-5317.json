@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (21) لسنة 2003 بتعيين أعضاء وأمين عام مجلس شئون العائلة",
   "short_name": "قرار أميري رقم (21) لسنة 2003 بتعيين أعضاء وأمين عام مجلس شئون العائلة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5317&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5317&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين عضواً بمجلس شئون العائلة كل من:\n1- سعادة الشيخ حمد بن سحيم آل ثاني.\n2- سعادة الشيخ حمد بن جاسم بن جبر آل ثاني.\n3- سعادة الشيخ عبد الله بن محمد بن جبر آل ثاني.\n4- سعادة الشيخ علي بن أحمد بن خليفة آل ثاني.\n5- سعادة الشيخ عبد الله بن سعود بن عبد العزيز آل ثاني.\n6- سعادة الشيخ حسن بن خالد بن حسن آل ثاني.\n7- سعادة الشيخ عبد الرحمن بن سعود آل ثاني.\n8- سعادة الشيخ خالد بن ناصر بن حمد آل ثاني.\n9- سعادة الشيخ خالد بن ثاني بن عبد الله بن ثاني آل ثاني.\n10- سعادة الشيخ/ حمد بن ناصر بن جاسم آل ثاني، وزير الدولة (أميناً عاماً).\n11- سعادة الشيخ فيصل بن جاسم بن محمد آل ثاني.\n12- سعادة الشيخ فهد بن جاسم بن محمد آل ثاني."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة عضوية المجلس خمس سنوات ميلادية تبدأ من 7/6/2008، يجوز تجديدها لمدة أو لمدد أخر مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى القرار الأميري رقم (34) لسنة 2000 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع المختصين، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

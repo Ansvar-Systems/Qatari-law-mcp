@@ -4,8 +4,21 @@
   "title": "قانون رقم (41) لسنة 2004 بتعديل بعض أحكام القانون رقم (5) لسنة 1970 بتحديد صلاحيات الوزراء وتعيين اختصاصات الوزارات والأجهزة الحكومية الأخرى",
   "short_name": "قانون رقم (41) لسنة 2004 بتعديل بعض أحكام القانون رقم (5) لسنة 1970 بتحديد صلاحيات الوزراء وتعيين اختصاصات الوزارات و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=312&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=312&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف بند برقم (3) إلى المادة (2) من القانون رقم (5) لسنة 1970 المشار إليه، يكون نصه التالي:\n«3- يصدر قرارات تحديد رسوم الخدمات التي تؤديها الوزارة أو تعديلها أو إلغائها بعد اعتمادها من مجلس الوزراء.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

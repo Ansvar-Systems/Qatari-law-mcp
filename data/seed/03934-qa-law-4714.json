@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (16) لسنة 2013 بإضافة الهيئة العامة للسياحة إلى الجهات المستثناة من بعض أحكام القانون رقم (1) لسنة 2012 بتنظيم ومراقبة وضع الإعلانات",
   "short_name": "قرار مجلس الوزراء رقم (16) لسنة 2013 بإضافة الهيئة العامة للسياحة إلى الجهات المستثناة من بعض أحكام القانون رقم (1) ل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4714&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4714&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف إلى الجهات المنصوص عليها في المادة (16) من القانون رقم (1) لسنة 2012 المشار إليه، الهيئة العامة للسياحة، بالنسبة للإعلانات التي توضع أو تباشر بالمنشآت الفندقية والسياحية وبقاعات المعارض والمرافق الخاصة بكل منها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

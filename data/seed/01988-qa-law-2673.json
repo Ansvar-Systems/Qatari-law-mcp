@@ -4,8 +4,33 @@
   "title": "مرسوم بقانون رقم (15) لسنة 1972 بإعفاء الموظفين القطريين من سداد جزء من قروض بناء المساكن",
   "short_name": "مرسوم بقانون رقم (15) لسنة 1972 بإعفاء الموظفين القطريين من سداد جزء من قروض بناء المساكن",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2673&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1972.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2673&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعفى الموظف القطري الذي منح قرضاً لبناء سكن خاص في أو قبل يوم 8/ 1/ 1392 هـ والذي لا يقل راتبه عن 1800 ريال من سداد ما نسبته 40% من جملة القرض إذا كان ما تبقى عليه يزيد على هذه النسبة، ومن سداد المبلغ المتبقي إذا كان المتبقي أقل من ذلك."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعفى الموظف القطري المعين في إحدى وظائف الحلقتين الثالثة والرابعة من الجدول الملحق بقانون الوظائف العامة المدنية والذي منح قرضاً لبناء سكن خاص في أو قبل 8/ 1/ 1392هـ. من سداد ما تبقى عليه من القرض، وترد له جميع المبالغ التي سددها وفاء للقرض بعد هذا التاريخ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يستفيد من الإعفاء الوارد في المادة الأولى وبذات النسبة كل موظف قطري كان يشغل وظيفة حكومية في أو قبل يوم الثامن من محرم سنة 1392هـ. وظل شاغلاً لها حتى تاريخ منحه قرض البناء."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (22) لسنة 2018 بتعديل بعض أحكام القانون رقم (8) لسنة 2012 بشأن هيئة قطر للأسواق المالية",
   "short_name": "مرسوم بقانون رقم (22) لسنة 2018 بتعديل بعض أحكام القانون رقم (8) لسنة 2012 بشأن هيئة قطر للأسواق المالية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7819&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7819&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 6 ) من القانون رقم (8) لسنة 2012 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "\"يتولى إدارة الهيئة مجلس إدارة يُشكل من رئيس ونائب للرئيس وعدد من الأعضاء لا يقل عن خمسة من ذوي الخبرة في مجالات عمل الهيئة. ويصدر بتعيين المجلس وتحديد مكافآت الرئيس ونائبه والأعضاء، قرار أميري.\nويحل نائب الرئيس محل الرئيس في حالة غيابه أو خلو منصبه.\nويكون للمجلس أمين سر يختاره المجلس، ويحدد اختصاصاته ومكافأته المالية.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

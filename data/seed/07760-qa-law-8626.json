@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (25) لسنة 2021 بالتصديق على مذكرة تفاهم للتعاون في مجال إدارة المياه بين حكومة دولة قطر وحكومة الجمهورية التركية",
   "short_name": "مرسوم رقم (25) لسنة 2021 بالتصديق على مذكرة تفاهم للتعاون في مجال إدارة المياه بين حكومة دولة قطر وحكومة الجمهورية ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8626&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8626&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على مذكرة تفاهم للتعاون في مجال إدارة المياه بين حكومة دولة قطر وحكومة الجمهورية التركية الموقعة بمدينة انقرة بتاريخ 26/11/2020 المرفق نصها بهذا المرسوم، وتكون لها قوة القانون وفقا للمادة 68 من الدستور"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية\nعلى جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

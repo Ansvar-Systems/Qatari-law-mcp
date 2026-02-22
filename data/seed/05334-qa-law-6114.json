@@ -4,8 +4,51 @@
   "title": "نموذج محضر عقد تأسيس الأندية الرياضية",
   "short_name": "نموذج محضر عقد تأسيس الأندية الرياضية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6114&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6114&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تأسيس ناد طبقا لأحكام القانون رقم (11) لسنة 2011 م بتنظيم الأندية الرياضية وتحت إشراف اللجنة الأولمبية القطرية ووفقا لأحكام النظام المرفق بهذا العقد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "أسم النادي هو نادي لخويا الرياضي ومدته غير محدودة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "مقر النادي هو منطقة الدحيل ويجوز لمجلس الإدارة بعد الحصول على موافقة اللجنة الاولمبية القطرية أن ينشئ للنادي فروعا في دولة قطر"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يهدف النادي الى ممارسة ونشر الرياضة وتهيئة الوسائل والخدمات اللازمة لتحقيق، بما يعود بالنفع على جميع الأعضاء من جميع النواحي الاجتماعية والترويجية والبدنية والصحية بالتعاون مع الهيئات المعنية بالشؤون الرياضية والاجتماعية المرتبطة بالنشاط الرياضي وذلك في إطار السياسة العامة للجنة الأولمبية القطرية ووفقا للقانون واللوائح والقرارات التي تضعها اللجنة وينظم نشاطه الرياضي الرسمي وفقا للوائح الاتحادات الرياضية المعنية."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يتعهد الموقعون على هذا العقد باتخاذ جميع الإجراءات اللازمة لتأسيس النادي."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يعتبر النظام الأساسي المرفق بهذا العقد مكملا له وجزء لا يتجزأ منه."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "حرر هذا العقد من ثلاث نسخ تودع إحداها بمقر النادي، وتقدم ثلاث نسخ مع طلب الموافقة على تأسيس النادي إلى اللجنة الاولمبية القطرية."
+    }
+  ],
   "definitions": []
 }

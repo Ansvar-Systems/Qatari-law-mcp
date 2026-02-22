@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (33) لسنة 2003 بشأن تأسيس شركة «الصناعات القطرية» شركة مساهمة قطرية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (33) لسنة 2003 بشأن تأسيس شركة «الصناعات القطرية» شركة مساهمة قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2032&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2032&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص لقطر للبترول بتأسيس شركة الصناعات القطرية (شركة مساهمة قطرية) برأس مال مصرح خمسة مليارات ريال قطري موزعة على خمسمائة مليون سهم القيمة الأسمية لكل سهم عشرة ريالات، تدفع القيمة الكاملة لكافة الأسهم عند إصدارها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسس الالتزام بأحكام وثيقة التأسيس و النظام الأساسي المرفقين، وبأحكام قانون الشركات التجارية الصادر بالقانون رقم (5) لسنة 2002 بشأن الشركات التجارية، والقوانين الأخرى المعمول بها، فيما لم يرد بشأنه نص خاص في وثيقة التأسيس و النظام الأساسي وبما لا يتعارض معهما."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

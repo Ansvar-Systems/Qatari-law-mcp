@@ -4,8 +4,21 @@
   "title": "قرار رقم (44) لسنة 2021م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأمورى الضبط القضائي",
   "short_name": "قرار رقم (44) لسنة 2021م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأمورى الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8612&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8612&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (30) لسنة 2002 والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nعبدالله عيسى يعقوب اليعقوب\nمهندس صناعي ثالث\n2\nمحمد عبد الرحمن النجومي الحسين\nمهندس كيميائي ثالث\n3\nاسماعيل جاسم محمد رضواني\nمهندس كيميائي ثالث\n4\nأحمد اسماعيل بخيت العبدالله\nمشرف مراقبين امن وسلامة ثالث\n5\nعلي إبراهيم جابر جاسم الجابر\nمراقب وقاية إشعاعية ثالث\n6\nجارالله جابر محمد حسين البريدي\nكاتب شؤون إدارية رابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

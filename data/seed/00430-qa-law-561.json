@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (32) لسنة 2002 بتعديل بعض أحكام القانون رقم (1) لسنة 1993 بشأن منع تجريف الأراضي الزراعية ورمال الشواطئ",
   "short_name": "مرسوم بقانون رقم (32) لسنة 2002 بتعديل بعض أحكام القانون رقم (1) لسنة 1993 بشأن منع تجريف الأراضي الزراعية ورمال الشواطئ",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=561&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=561&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 2 ) من القانون رقم (1) لسنة 1993 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "«إستثناء من أحكام المادتين ( 1 ) و(1) مكرر، يجوز لوزارة الشؤون البلدية والزراعة، بعد التنسيق مع المجلس الأعلى للبيئة والمحميات الطبيعية، الترخيص بتجريف الأراضي الزراعية أو رمال الشواطئ، أو نقل الأتربة والرمال منها، بغرض تحسين الأراضي الزراعية أو المحافظة على خصوبتها، أو بهدف تحقيق المصلحة العامة.\nويصدر بالضوابط والإجراءات الخاصة بالترخيص قرار من وزير الشؤون البلدية والزراعة»."
+    }
+  ],
   "definitions": []
 }

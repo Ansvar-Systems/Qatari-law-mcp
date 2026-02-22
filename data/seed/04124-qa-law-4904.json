@@ -4,8 +4,21 @@
   "title": "قرار رقم (73) لسنة 2012 بشأن تخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (73) لسنة 2012 بشأن تخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4904&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4904&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لإحكام القانون (8) المُشار إليه والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nمحمد أمين محمد منير لطفي\nطبيب بيطري\n2\nأحمد شوقي عبد الهادي أحمد\nطبيب بيطري\n3\nحسام الدين مصطفى أبو زيد\nطبيب بيطري\n4\nطاهر محمد حنفي أبوطالب\nطبيب بيطري\n5\nأحمد فاروق الشهاب\nطبيب بيطري\n6\nأيمن وجيه علي\nطبيب بيطري\n7\nمحمد يحيى زكريا مكارم\nطبيب بيطري\n8\nماهر أكرم كردي\nطبيب بيطري\n9\nأيمن السيد السيد الدواس\nطبيب بيطري\n10\nغزوان عدنان عبد الجبار\nطبيب بيطري\n11\nطلال حواس فرحان الشمري\nطبيب بيطري"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

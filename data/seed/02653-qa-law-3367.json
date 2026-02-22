@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (43) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
   "short_name": "قرار مجلس الوزراء رقم (43) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3367&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3367&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُنزع للمنفعة العامة ملكية العقارات اللازمة لتنفيذ مشروع «تطوير العقار رقم (106859) بمنطقة معيذر/جنوباً» المبين في قرار مدير عام الهيئة العامة للتخطيط والتطوير العمراني رقم (91) لسنة 2006 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتخذ الإجراءات المنصوص عليها في القانون رقم (13) لسنة 1988 المشار إليه، لتعويض ملاك العقارات المنزوعة ملكيتها بموجب هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

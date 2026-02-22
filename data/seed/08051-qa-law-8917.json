@@ -4,8 +4,27 @@
   "title": "قرار وزير العدل رقم (63) لسنة 2022 بالإذن بتقديم الخبرة موضوع فحص آثار الحرائق والمتفجرات",
   "short_name": "قرار وزير العدل رقم (63) لسنة 2022 بالإذن بتقديم الخبرة موضوع فحص آثار الحرائق والمتفجرات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8917&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8917&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُؤذن بتقديم الخبرة في موضوع فحص آثار الحرائق والمتفجرات لكل من:\nم\nالاسم\nالرقم الوظيفي\n1\nعميد/ عادل عبد الحميد عبد الرحيم العمادي\n1231\n2\nعميد/ علي جاسم محمد المفتاح\n1270\n3\nعميد/ مرشد سالم مرشد الكواري\n1364\n4\nعقيد/ سعد صالح محمد القمرا\n1534\n5\nرائد/ ناصر حمد ناصر النعيمي\n2272\n6\nنقيب/ عبدالعزيز زايد خليف الشمري\n2967\n7\nنقيب/ عبدالله محمد علي العذبه\n3377\n8\nملازم 1/ سعود عبدالله عيد المنصوري\n4780\n9\nملازم 1 / صالح طالب حمد المري\n4947\n10\nملازم 1/ علي عبدالهادي علي السهلي\n6238\n11\n7 فواز سلمان يوسف المؤمن\n76964\n12\nخلود محمد علي اليافعي\n11341\n13\nنور إبراهيم محمد العمادي\n19341"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُؤدي من صدر له الإذن اليمين المنصوص عليها في المادة (12) من القانون رقم (16) لسنة 2017 بتنظيم أعمال الخبرة، أمام الوزير أو من يُفوضه"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

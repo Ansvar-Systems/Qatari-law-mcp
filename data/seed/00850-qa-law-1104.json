@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (39) لسنة 1974 بالتصديق على اتفاق المشاركة بين حكومة قطر وشركة شل لقطر المحدودة الموقع بتاريخ 20/2/1974",
   "short_name": "مرسوم رقم (39) لسنة 1974 بالتصديق على اتفاق المشاركة بين حكومة قطر وشركة شل لقطر المحدودة الموقع بتاريخ 20/2/1974",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1104&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1104&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يصادق على اتفاق المشاركة بين حكومة قطر وشركة شل لقطر المحدودة الموقع بتاريخ 20/2/1974 ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينشر هذا المرسوم في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار النائب العام رقم (169) لسنة 2025 بتخويل وإلغاء تخويل بعض موظفي هيئة قطر للأسواق المالية صفة مأموري الضبط القضائي",
   "short_name": "قرار النائب العام رقم (169) لسنة 2025 بتخويل وإلغاء تخويل بعض موظفي هيئة قطر للأسواق المالية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10189&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10189&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي هيئة قطر للأسواق المالية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (8) لسنة 2012 المشار إليه أعلاه والقرارات المنفذة له، وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nناصر عبدالله عبدالعزيز محمد بن عابدين\nرئيس قسم الشكاوى\n2\nشوق محمد إبراهيم محمد البوعينين\nرئيس قسم التحقيقات\n3\nفاطمة أحمد عبدالرحمن عبدالله السيد\nرئيس قسم شركات الخدمات المالية\n4\nأحلام عبدالرحمن حسين أحمد\nمفتش رقابة أول\n5\nفهد عبدالله محمد أحمد المفتاح\nمفتش رقابة ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُلغى صفة مأمور الضبط القضائي الممنوحة للسيد/ عدنان مطلق السعايدة، والسابق منحها له بموجب القرار رقم (52) لسنة 2007 المشار إليه أعلاه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

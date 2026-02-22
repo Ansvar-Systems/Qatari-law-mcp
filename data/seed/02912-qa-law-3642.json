@@ -4,8 +4,39 @@
   "title": "إعلان رقم (1) لسنة 1980 مؤسسة النقد القطري صادر عن مؤسسة النقد القطري",
   "short_name": "إعلان رقم (1) لسنة 1980 مؤسسة النقد القطري صادر عن مؤسسة النقد القطري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3642&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1980.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3642&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلتزم كافة البنوك العاملة في دولة قطر بتطبيق أحكام المواد ( 457 )، ( 458 )، ( 460 ) من القانون رقم (16) لسنة 1971م والتي تنظم عمليتي وفاء قيمة الشيك وموعد تقديم الشيك للوفاء."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون الشيك مستحق الوفاء بمجرد الاطلاع عليه، وكل بيان مخالف يعتبر كأن لم يكن.\nوإذا قدم الشيك للوفاء قبل اليوم المبين فيه كتاريخ لإصداره، وجب وفاؤه في يوم تقديمه. (نص المادة 457 )."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "الشبك المسحوب في قطر والمستحق الوفاء فيها، يجب تقديمه للوفاء خلال شهر فإذا كان مسحوبا خارج قطر ومستحق الوفاء فيها، وجب تقديمه خلال ثلاثة أشهر.\nوتبدأ المواعيد السالف ذكرها من التاريخ المبين في الشيك أنه تاريخ إصداره. (نص المادة 458 )."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "للمسحوب عليه أن يوفي قيمة الشيك ولو بعد انقضاء ميعاد تقديمه ولا تقبل المعارضة من الساحب في وفاء الشيك إلا في حالة ضياعه أو إفلاس حامله (نص المادة 460 ).\nويستفاد من نص المادتين ( 465 )، ( 470 ) أن المدة التي أجازها القانون المسحوب عليه لوفاء قيمة الشيك هي ستة شهور من تاريخ انقضاء موعد تقديم الشيك للوفاء."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "ينشر هذا الإعلان في الجريدة الرسمية، ويعمل به اعتبارا من تاريخ 16/5/1400هـ الموافق 1/4/1980م."
+    }
+  ],
   "definitions": []
 }

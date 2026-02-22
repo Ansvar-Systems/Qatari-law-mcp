@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (53) لسنة 2013 بتعديل بعض أحكام القرار رقم (14) لسنة 2010 بتشكيل لجنة للمناقصات والمزايدات بالمؤسسة القطرية للإعلام",
   "short_name": "قرار مجلس الوزراء رقم (53) لسنة 2013 بتعديل بعض أحكام القرار رقم (14) لسنة 2010 بتشكيل لجنة للمناقصات والمزايدات بالم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5171&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5171&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف إلى قرار مجلس الوزراء رقم (14) لسنة 2010 المشار إليه، مادة برقم (4 مكرراً)، نصها التالي:"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "مكرراً):\n\"ترفع اللجنة توصياتها إلى رئيس المؤسسة القطرية للإعلام لاعتمادها.\""
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

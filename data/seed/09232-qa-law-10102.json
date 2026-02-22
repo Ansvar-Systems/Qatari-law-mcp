@@ -4,8 +4,27 @@
   "title": "قــرار وزاري رقـم (137) لسنة 2025 بتسمية رئيس لجنة فض المنازعات الإيجاريـة \"الرابعة\"",
   "short_name": "قــرار وزاري رقـم (137) لسنة 2025 بتسمية رئيس لجنة فض المنازعات الإيجاريـة \"الرابعة\"",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10102&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10102&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُسمى القاضي/ د. محمـد حسـن جاســم الهيــل ، رئيساً للجنة فض المنازعات الإيجارية الرابعة لمدة سنة اعتباراً من 1/10/2025."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُـلغـى كـل حكــم يخـالف أحكــام هــذا القـــرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة ، كلاً فيما يخصه ، تنفيذ هذا القرار، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

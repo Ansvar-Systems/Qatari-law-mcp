@@ -4,8 +4,21 @@
   "title": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (1) لسنة 2013 بتعديل المادة (22) من نظام طرح وإدراج الأوراق المالية الصادر عن هيئة قطر للأسواق المالية",
   "short_name": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (1) لسنة 2013 بتعديل المادة (22) من نظام طرح وإدراج الأوراق المالية الصا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6399&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6399&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة رقم (22) من نظام طرح وإدراج الأوراق المالية المشار إليه أعلاه، بالنص المرفق في هذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

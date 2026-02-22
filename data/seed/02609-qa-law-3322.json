@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (37) لسنة 2007 بتعديل بعض أحكام القرار رقم (26) لسنة 2003 بشأن اللجنة الدائمة للاستقدام",
   "short_name": "قرار مجلس الوزراء رقم (37) لسنة 2007 بتعديل بعض أحكام القرار رقم (26) لسنة 2003 بشأن اللجنة الدائمة للاستقدام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3322&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3322&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل بعبارتي «وزارة شؤون الخدمة المدنية والإسكان» و«وزير شؤون الخدمة المدنية والإسكان» عبارتا «وزارة العمل والشؤون الاجتماعية» و«وزير العمل والشؤون الاجتماعية» على التوالي، أينما وردتا في قرار مجلس الوزراء رقم (26) لسنة 2003 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من الأول من أكتوبر 2007. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

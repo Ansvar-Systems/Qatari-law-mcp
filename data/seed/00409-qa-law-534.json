@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (23) لسنة 2003 بتعديل بعض أحكام القانون رقم (11) لسنة 2001 بتنظيم مزاولة المهن الهندسية",
   "short_name": "مرسوم بقانون رقم (23) لسنة 2003 بتعديل بعض أحكام القانون رقم (11) لسنة 2001 بتنظيم مزاولة المهن الهندسية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=534&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=534&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمد المدة المنصوص عليها في المادة ( 46 ) من القانون رقم (11) لسنة 2001 المشار إليه، لمدة ثلاثة أشهر تبدأ من 29/10/2003.\nويحظر على المهندس المرخص له الموظف بالحكومة أو الهيئات أو المؤسسات العامة خلال تلك المدة مزاولة أي عمل هندسي خارج نطاق وظيفته مما يتصل بالجهة التي يعمل بها بصورة مباشرة أو غير مباشرة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

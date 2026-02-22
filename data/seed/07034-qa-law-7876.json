@@ -4,8 +4,27 @@
   "title": "قرار وزير الخارجية رقم (80) لسنة 2018 بتعديل بعض أحكام القرار رقم (28) لسنة 2016 بتحديد رسوم بعض الخدمات التي تؤديها وزارة الخارجية",
   "short_name": "قرار وزير الخارجية رقم (80) لسنة 2018 بتعديل بعض أحكام القرار رقم (28) لسنة 2016 بتحديد رسوم بعض الخدمات التي تؤديها...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7876&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7876&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 2 ) من قرار وزير الخارجية رقم (28) لسنة 2016 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "\"تحدد رسوم إصدار أو تجديد أو تعديل جوازات السفر الدبلوماسية والخاصة ولمهمة أو إصدار بدل فاقد عنها، على النحو الوارد بالجدول رقم (2) المرفق بهذا القرار.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

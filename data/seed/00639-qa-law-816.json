@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (7) لسنة 2001 بتعديل بعض أحكام القرار الأميري رقم (1) لسنة 2000 بتعديل تنظيم الوحدات الإدارية بالديوان الأميري",
   "short_name": "قرار أميري رقم (7) لسنة 2001 بتعديل بعض أحكام القرار الأميري رقم (1) لسنة 2000 بتعديل تنظيم الوحدات الإدارية بالديوان...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=816&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=816&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنصي البندين (2) من المادة (1) و(4) من المادة (4) من القرار الأميري رقم (1) لسنة 2000 المشار إليه، النصان التاليان:\nبند (2) مادة (1) :\n«حضور المقابلات التي يكلفه الأمير بحضورها، وتسجيل ما يشير بتسجيله منها».\nبند (4) مادة (4) :\n«تنظيم إستقبال كبار الزائرين للديوان، وتحديد مواعيد مقابلات الأمير، وإبلاغ رئيس الديوان الأميري والجهات المعنية الأخرى بها قبل وقت كاف»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

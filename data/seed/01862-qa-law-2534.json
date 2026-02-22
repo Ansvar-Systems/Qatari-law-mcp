@@ -4,8 +4,21 @@
   "title": "قانون رقم (1) لسنة 2008 بتعديل بعض أحكام المرسوم بقانون رقم (33) لسنة 2006 بشأن مصرف قطر المركزي",
   "short_name": "قانون رقم (1) لسنة 2008 بتعديل بعض أحكام المرسوم بقانون رقم (33) لسنة 2006 بشأن مصرف قطر المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2534&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2534&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 53/ بند1 ) من المرسوم بقانون رقم (33) لسنة 2006 المشار إليه، النص التالي:\nمادة (53/بند1) :\n«1- البنوك، على أن تأخذ شكل شركات المساهمة التي تطرح أسهمها للاكتتاب العام، أو شركات المساهمة الخاصة والشركات المنصوص عليها في البنود أرقام (5)، (6)، (7)، (8) من المادة (4) من قانون الشركات التجارية المشار إليه بشرط موافقة مجلس الوزراء، ويستثنى من ذلك فروع البنوك الأجنبية متى كانت فروعاً لبنوك مسجلة كشركات مساهمة في دولة المقر.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

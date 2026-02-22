@@ -4,8 +4,33 @@
   "title": "وثيقة لسنة 1995 وثيقة إنشاء مؤسسة قطر العلمية",
   "short_name": "وثيقة لسنة 1995 وثيقة إنشاء مؤسسة قطر العلمية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4139&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4139&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "أسسنا بمعرفتنا، وبموجب هذه الوثيقة، مؤسسة تسمى «مؤسسة قطر العلمية» تكون لها الشخصية الاعتبارية المستقلة وتتمتع بالأهلية الكاملة للتصرف، ويكون مقرها الرئيسي في مدينة الدوحة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "رأس مال المؤسسة (5.000.000) خمسة ملايين ريال قطري."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتولى إدارة المؤسسة مجلس إدارة، لا يقل عدد أعضائه عن خمسة ولا يزيد على سبعة أعضاء، من بينهم الرئيس ونائب الرئيس، ويصدر بتعيينهم قرار من المؤسس. وتعمل المؤسسة وفقاً للنظام الأساسي الذي يصدره مجلس الإدارة بعد اعتماده من المؤسس."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تشكل لجنة تحضيرية لإعداد مشروع النظام الأساسي للمؤسسة، واللوائح الداخلية اللازمة لإدارتها، وتنظيم أعمالها وتحقيق أغراضها.\nويصدر بتشكيل هذه اللجنة قرار من المؤسس."
+    }
+  ],
   "definitions": []
 }

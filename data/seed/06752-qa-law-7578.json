@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (10) لسنة 2018 بتشكيل لجنة قبول المحامين",
   "short_name": "قرار مجلس الوزراء رقم (10) لسنة 2018 بتشكيل لجنة قبول المحامين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7578&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7578&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل لجنة قبول المحامين برئاسة وزير العدل، ومدير إدارة شؤون المحاماة بوزارة العدل، نائباً للرئيس، وعضوية كل من:\n1- مدير إدارة قضايا الدولة بوزارة العدل.\n2- السيد/ إبراهيم صالح حسن النصف\nممثل عن المجلس الأعلى للقضاء.\n3- السيد/ عبدالله راشد عبدالله المهندي\nممثل عن المجلس الأعلى للقضاء.\n4- السيد/ عبدالله محمد المالكي\nممثل عن النيابة العامة.\n5- السيد/ راشد ناصر النعيمي\nمحام.\n6- السيد/ راشد سعد راشد الكواري\nمحام.\n7- السيد/ حواس مناور الشمري\nمحام.\nويتولى أمانة سر اللجنة موظف أو أكثر من موظفي وزارة العدل، يصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من وزير العدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

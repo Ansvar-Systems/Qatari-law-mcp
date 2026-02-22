@@ -4,8 +4,27 @@
   "title": "قرار وزير الطاقة والصناعة رقم (3) لسنة 2001 بتخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط القضائي",
   "short_name": "قرار وزير الطاقة والصناعة رقم (3) لسنة 2001 بتخويل بعض موظفي المؤسسة العامة القطرية للكهرباء والماء صفة مأموري الضبط...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2063&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2063&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون للمشرفين والمفتشين بإدارة خدمات المشتركين بالمؤسسة العامة القطرية للكهرباء والماء، كل في دائرة اختصاصه، صفة مأموري الضبط القضائي، لضبط وإثبات ما يقع من مخالفات لأحكام القانون رقم (7) لسنة 1963 المشار إليه واللوائح والقرارات المنفذة له، وذلك في الأماكن التي توجد بها تمديدات وعدادات للكهرباء والماء."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار وزير الكهرباء والماء رقم (4) لسنة 1993 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار مجلس إدارة جهاز قطر للاستثمار رقم (8) لسنة 2006 بتعديل تنظيم الإدارات التي يتألف منها الجهاز",
   "short_name": "قرار مجلس إدارة جهاز قطر للاستثمار رقم (8) لسنة 2006 بتعديل تنظيم الإدارات التي يتألف منها الجهاز",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3919&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3919&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعدل الإدارات التي يتألف منها الجهاز، والمنصوص عليها بالمادة (20) من القرار الأميري رقم (22) لسنة 2005 على النحو التالي:\n1- إدارة التدقيق الداخلي.\n2- إدارة الأصول.\n3- إدارة المساهمات الإستراتيجية وغير المدرجة.\n4- إدارة الاستثمارات العقارية.\n5- الإدارة القانونية.\n6- إدارة شؤون إستراتيجية الاستثمار.\n7- إدارة مخاطر الاستثمار.\n8- إدارة الشؤون الإدارية.\n9- إدارة الشؤون المالية.\n10- إدارة تكنولوجيا المعلومات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تستبدل بالخريطة التنظيمية للجهاز، الخريطة المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

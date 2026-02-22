@@ -4,8 +4,21 @@
   "title": "مـرسـوم رقـم (94) لـسـنـة 2025 بـالـتـصـديـق عـلـى مـذكـرة تـفـاهـم بـشـأن الاعـتـراف المـتـبادل بـشـهـادات الـبـحـارة بـين حـكـومـة دولـة قـطـر وحـكـومـة جـمـهـوريـة بـنـين",
   "short_name": "مـرسـوم رقـم (94) لـسـنـة 2025 بـالـتـصـديـق عـلـى مـذكـرة تـفـاهـم بـشـأن الاعـتـراف المـتـبادل بـشـهـادات الـبـحـار...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10205&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10205&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُـودق عـلـى مـذكـرة تـفـاهـم بـشـأن الاعـتـراف المـتـبادل بـشـهـادات الـبـحـارة بـين حـكـومـة دولـة قـطـر وحـكـومـة جـمـهـوريـة بـنـين ، المـوقـعـة بمـدينـة الـدوحـة بـتـاريـخ 20 /05/ 2025 ، المـرفـق نـصـهـا بـهـذا المـرسـوم ، وتـكـون لـهـا قـوة الـقـانـون ، وفـقـاً لـلـمـادة ( 68 ) مـن الـدسـتـور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عـلـى جـمـيـع الـجـهـات المـخـتـصـة ، كـل فـيـمـا يـخـصـه ، تـنـفـيـذ هـذا المـرسـوم . ويُـعـمـل بـه مـن تـاريـخ صـدوره . ويُـنـشـر فـي الـجـريـدة الـرسـمـيـة ."
+    }
+  ],
   "definitions": []
 }

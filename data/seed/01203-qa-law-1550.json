@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (25) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 1994 بتعيين مصرف قطر المركزي مصفيا لفرع بنك المشرق بالدوحة",
   "short_name": "قرار مجلس الوزراء رقم (25) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 1994 بتعيين مصرف قطر المركزي مصف...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1550&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1550&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مادة (1/الفقرة الأولى):\nيستبدل بنص الفقرة الأولى من المادة (1) من قرار مجلس الوزراء رقم (2) لسنة 1994 المشار إليه، النص التالي:\n«يعين مصرف قطر المركزي مصفيا لفرع بنك المشرق بالدوحة، ويكون مسؤولا أمام مجلس الوزراء عن جميع الأعمال التي تقتضيها التصفية»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

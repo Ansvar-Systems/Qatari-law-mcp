@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (5) لسنة 2011 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية",
   "short_name": "قرار مجلس الوزراء رقم (5) لسنة 2011 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3416&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3416&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية برئاسة وزير الثقافة والفنون والتراث، وعضوية كل من:\n1- السيد/ مبارك بن ناصر آل خليفة\nنائباً للرئيس\n2- الدكتورة/ عائشة يوسف المناعي\nعضواً\n3- الدكتور/ إبراهيم صالح النعيمي\nعضواً\n4- الدكتورة/ فاطمة محمد السويدي\nعضواً\n5- الدكتورة/ لولوة عبدالله المسند\nعضواً\n6- الدكتور/ الحارث محمد الخاطر\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

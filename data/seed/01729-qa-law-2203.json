@@ -4,8 +4,27 @@
   "title": "قرار وزاري رقم (7) لسنة 1983 بأنموذج عقد تأسيس شركات المساهمة ونظامها الأساسي",
   "short_name": "قرار وزاري رقم (7) لسنة 1983 بأنموذج عقد تأسيس شركات المساهمة ونظامها الأساسي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2203&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1983.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2203&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون عقد تأسيس شركات المساهمة ونظامها الأساسي وفقاً للأنموذجين المرافقين لهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على شركات المساهمة أن تحتذي هذين الأنموذجين ، ولا يجوز مخالفتهما إلا لأسباب ضرورية يقرها وزير الاقتصاد والتجارة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "ينشر هذا القرار في الجريدة الرسمية، ويعمل به من تاريخ نشره."
+    }
+  ],
   "definitions": []
 }

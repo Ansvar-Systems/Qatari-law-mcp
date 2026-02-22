@@ -4,8 +4,21 @@
   "title": "قرار رقم (93) لسنة 2020 بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (93) لسنة 2020 بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8527&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8527&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التجارة والصناعة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط الجرائم التي تقع بالمخالفة لأحكام القوانين المشار إليها أعلاه والقرارات المنفذة لها و هم:\nم\nالإسم\nالمسمى الوظيفي\n1\nأحمد جاسم على الجهام الكواري\nمشرف مراقبي تسجيل وتراخيص\nتجارية ثالث\n2\nحمد راجح حمد حنظل الفهيده\nباحث قانوني\n3\nعبدالرحمن فهد حمود سلطان القحطاني\nمعاين ملفات رابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصه كُل ٍفيما يخُصه، تنفيذ هذا القرار. ويُعمل به من تار&#1740;خ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

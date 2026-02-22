@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (9) لسنة 2024 بإعادة تشكيل مجلس إدارة هيئة المناطق الحرة",
   "short_name": "قرار أميري رقم (9) لسنة 2024 بإعادة تشكيل مجلس إدارة هيئة المناطق الحرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9515&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9515&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس إدارة هيئة المناطق الحرة برئاسة سعادة /الشيخ محمد بن حمد بن قاسم آل ثاني، والسيد/ منصور بن إبراهيم آل محمود نائباً للرئيس ، وعضوية كل من :\n1- سعادة السيد/ عبد العزيز بن ناصر بن مبارك آل خليفة .\n2- سعادة السيد/ أكبر الباكر\n3- سعادة السيد/ أحمد بن عبدالله الجمال\n4- سعادة السيد/ محمد حسن المالكي .\n5- الشيخ /علي بن الوليد آل ثاني\n6- السيد/ يوسف محمد الجيدة\n7- ممثل عن وزارة الاتصالات وتكنولوجيا المعلومات\n8- واحد من ذوي الخبرة يختاره رئيس مجلس الوزراء"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات، قابلة للتجديد لمدة أو مدد أخرى مماثلة ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى القرار الأميري رقم (15) لسنة 2022 المشار إليه ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

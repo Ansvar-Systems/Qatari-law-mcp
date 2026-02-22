@@ -4,8 +4,39 @@
   "title": "قرار أميري رقم (23) لسنة 2015 بشأن إعادة تنظيم ملكية بعض الأصول المملوكة للدولة",
   "short_name": "قرار أميري رقم (23) لسنة 2015 بشأن إعادة تنظيم ملكية بعض الأصول المملوكة للدولة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6604&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6604&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُنقل ملكية شركة الريان للضيافة \"شركة الشخص الواحد\"، المقيدة بالسجل التجاري برقم (64565)، من شركة الريان لإدارة المشاريع إلى جهاز قطر للاستثمار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تؤول جميع الأصول النقدية والعينية الثابتة والمنقولة: ومختلف المستندات، وكشوف وأرصدة الحسابات، الخاصة بشركة الريان للضيافة إلى جهاز قطر للاستثمار. وتُتخذ ما يستتبعه ذلك من إجراءات وتدابير قانونية وإدارية ومالية وفقاً للأصول المرعية، بما في ذلك تعديل جميع الأنظمة الأساسية والسجلات ذات الصلة، بحسب الأحوال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون لشركة الريان للضيافة مجلس مديرين، يُشكل من رئيس ونائب للرئيس، وعدد من الأعضاء لا يقل عن ثلاثة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يرفع جهاز قطر للاستثمار إلى الأمير تقريراً عن أوجه نشاط شركة الريان للضيافة، وسير العمل فيها، ومركزها المالي، في موعد لا يتجاوز ثلاثة أشهر من تاريخ انتهاء السنة المالية."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

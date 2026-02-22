@@ -4,8 +4,21 @@
   "title": "قرار رقم (52) لسنة 2021 م بتخويل بعض موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (52) لسنة 2021 م بتخويل بعض موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8660&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8660&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (21) لسنة 2020 المشار إليه، والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nريم أحمد محمد أحمد المرزوقي\nاستشاري مالي\n2\nعبدالله محمد ناصر محمد الدهيمي\nخبير إداري أول\n3\nمحمد أحمد جابر بوسيول ال سرور\nأخصائي اجتماعي أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُلّ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

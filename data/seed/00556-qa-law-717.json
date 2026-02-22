@@ -4,8 +4,39 @@
   "title": "قرار أميري رقم (2) لسنة 1980 بتشكيل لجنة لجمع التبرعات لمساعدة شعب أفغانستان",
   "short_name": "قرار أميري رقم (2) لسنة 1980 بتشكيل لجنة لجمع التبرعات لمساعدة شعب أفغانستان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=717&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1980.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=717&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة لجمع التبرعات لمساعدة شعب أفغانستان، وذلك على النحو الآتي:\nالشيخ محمد بن جبر آل ثاني\nرئيسا\nالسيد/ عبد العزيز عبد الله تركي\nعضوا\nالسيد/ عبد الرحمن بن عبد الله آل محمود\nعضوا\nالسيد/ حيدر سليمان حيدر\nعضوا\nالسيد/ خليفة بن غانم الكبيسي\nعضوا\nالسيد/ عبد الغني عبد الغني\nعضوا\nالسيد / جابر أمان\nعضوا"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تنظم اللجنة إجراءات جمع التبرعات في صناديق مغلقة ومختومة بخاتم اللجنة، أو بموجب إيصالات تصدر عن اللجنة وتختم بخاتمها ويوضح فيها قيمة التبرع."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "للجنة الاستعانة بمن ترى الاستعانة بهم من الموظفين وغيرهم من المواطنين، لجمع التبرعات."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تودع المبالغ المتحصلة من التبرعات ، أولاً بأول، في حساب خاص يتم فتحه باسم \"تبرعات مساعدة شعب أفغانستان\" في أحد البنوك الآتية:\n1- بنك قطر الوطني.\n2- البنك التجاري القطري.\n3- بنك الدوحة."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

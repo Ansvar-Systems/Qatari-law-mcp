@@ -4,8 +4,27 @@
   "title": "قرار وزير الثقافة والرياضة رقم (106) لسنة 2016 بدمج مركز الإبداع الثقافي بمركز الوجدان الحضاري",
   "short_name": "قرار وزير الثقافة والرياضة رقم (106) لسنة 2016 بدمج مركز الإبداع الثقافي بمركز الوجدان الحضاري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7064&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7064&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يدمج مركز الإبداع الثقافي بمركز الوجدان الحضاري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تؤول إلى \"مركز الوجدان الحضاري\" جميع الأموال الثابتة والمنقولة \"لمركز الإبداع الثقافي\". وجميع الحقوق والالتزامات المقررة له أو عليه، في حدود ما آل إليه من أموال وحقوق.\nوتتولى الشؤون الشبابية الإشراف على تنفيذ ما ورد بالفقرة السابقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويلغي كل حكم يتعارض مع أحكامه. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

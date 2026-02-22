@@ -4,8 +4,21 @@
   "title": "قرار رقم (24) لسنة 2021 م بإلغاء تخويل بعض موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (24) لسنة 2021 م بإلغاء تخويل بعض موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8604&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8604&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة لكل من: -\nم\nالإسم\nالرقم الشخصي\n1\nمريم محمد الدهيمي\n26563401798\n2\nخالد صادق الانصاري\n27263401034\n3\nخليفة عبد الرحمن الجابر\n27263401252\n4\nبدر صالح اليافعي\n28763401187\n5\nمبارك صالح المهندي\n28263402889\n6\nمها فؤاد دلول\n28299900231\nوالسابق منحها لهم بموجب قرارات النائب العام رقم (117) لسنة 2010 ورقم (152) لسنة 2013 ورقم (35) لسنة 2018 المُشار إليهم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

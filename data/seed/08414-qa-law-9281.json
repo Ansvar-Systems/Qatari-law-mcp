@@ -4,8 +4,21 @@
   "title": "قانون رقم (11) لسنة 2023 بتعديل بعض أحكام القانون رقم (19) لسنة 2016 بإصدار النظام الموحد لمد الحماية التأمينية للعسكريين من مواطني دول مجلس التعاون لدول الخليج العربية العاملين في غير دولهم في أي دولة عضو في المجلس",
   "short_name": "قانون رقم (11) لسنة 2023 بتعديل بعض أحكام القانون رقم (19) لسنة 2016 بإصدار النظام الموحد لمد الحماية التأمينية للعسك...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9281&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9281&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف إلى القانون رقم (19) لسنة 2016 المشار إليه، المادة التالية:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مكرراً):\n\"لا تلتزم الجهات العسكرية بمكافأة نهاية الخدمة المقررة طبقاً لقانون الخدمة العسكرية الصادر بالمرسوم بقانون رقم (31) لسنة 2006، أو أي عقود وظيفية أو أنظمة خاصة.\"."
+    }
+  ],
   "definitions": []
 }

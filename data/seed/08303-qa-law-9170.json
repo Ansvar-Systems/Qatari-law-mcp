@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (9) لسنة 2023 بتعيين وكيلي وزارة مساعدين بوزارة التجارة والصناعة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (9) لسنة 2023 بتعيين وكيلي وزارة مساعدين بوزارة التجارة والصناعة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9170&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9170&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن وكيل وزارة مساعد بوزارة التجارة والصناعة، كُل من:\n1- السيّد/ صالح ماجد الخليفي، وكيل الوزارة المساعد لشؤون الصناعة وتنمية الأعمال.\n2- السيّد/ محمد حسن المالكي، وكيل الوزارة المساعد لشؤون التجارة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يُخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة، كلُ فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

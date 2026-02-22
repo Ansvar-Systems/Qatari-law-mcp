@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (34) لسنة 2002 باعتبار مشروع إنشاء طريق بالريان لربط طريق الريان القديم بطريق الريان الجديد من أعمال المنفعة العامة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (34) لسنة 2002 باعتبار مشروع إنشاء طريق بالريان لربط طريق الريان القديم بطريق ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2037&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2037&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر من أعمال المنفعة العامة مشروع إنشاء طريق بالريان لربط طريق الريان القديم بطريق الريان الجديد، الموضح موقعه وتفاصيله بالمذكرة و الرسم التخطيطي المرفقين بهذا القرار.\nوتتخذ الإجراءات اللازمة لاستصدار مرسوم نزع الملكية طبقاً لأحكام القانون رقم (13) لسنة 1988 ، المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسياً حدود المنطقة التي تشمل العقارات موضوع هذا القرار بالمضلع الهندسي ذي النقاط الركنية (الاثنى عشر) المبينة إحداثياتها بالجدول التالي:\nم\nشرقا\nشمالا\n1\n225018.789 E\n394002.355 N\n2\n225013.367 E\n393980.835 N\n3\n225017.196 E\n393654.214 N\n4\n225013.473 E\n393628.758 N\n5\n225030.995 E\n393590.097 N\n6\n224945.541 E\n393591.520 N\n7\n224972.755 E\n393626.763 N\n8\n224977.617 E\n393660.003 N\n9\n224976.135 E\n393959.241 N\n10\n224969.625 E\n394008.569 N\n11\n224951.696 E\n394023.487 N\n12\n224985.248 E\n394062.775 N"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

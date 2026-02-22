@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (88) لسنة 2024 بشأن رفع نسبة الرسوم الجمركية على حـديـد التسليح ولفــائـف الـحـديـد",
   "short_name": "مرسوم رقم (88) لسنة 2024 بشأن رفع نسبة الرسوم الجمركية على حـديـد التسليح ولفــائـف الـحـديـد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9763&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9763&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُرفع نسبة الرسوم الجمركية على حديد التسليح ولفائف الحديد ، المبينة بالجدول المرفق بهذا المرسوم ، إلى (10 %) من قيمة البضاعة وذلك حتى تاريخ 2025/05/30."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا المرسوم . ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

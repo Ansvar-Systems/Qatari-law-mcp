@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (25) لسنة 2006 بتعديل بعض أحكام المرسوم بقانون رقم (38) لسنة 2002 بإنشاء اللجنة الوطنية لحقوق الإنسان",
   "short_name": "مرسوم بقانون رقم (25) لسنة 2006 بتعديل بعض أحكام المرسوم بقانون رقم (38) لسنة 2002 بإنشاء اللجنة الوطنية لحقوق الإنسان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2706&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2706&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 3 ) من المرسوم بقانون رقم (38) لسنة 2002 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "«تشكل اللجنة من عدد لا يقل عن سبعة أعضاء يمثلون المجتمع المدني، يختارون من بين المهتمين بحقوق الإنسان، وممثل عن كل من الجهات التالية:\n- وزارة الخارجية.\n- وزارة الداخلية.\n- وزارة شؤون الخدمة المدنية والإسكان.\n- وزارة العدل.\n- المجلس الأعلى لشؤون الأسرة.\nوترشح كل جهة من هذه الجهات من يمثلها في عضوية اللجنة، ويصدر بتعيين الأعضاء قرار أميري»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

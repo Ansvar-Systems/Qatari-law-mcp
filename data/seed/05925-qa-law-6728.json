@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (29) لسنة 2015 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الطاقة والصناعة وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (29) لسنة 2015 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الطاقة والصناعة وتعيين ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6728&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6728&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى إدارة تخطيط الموارد المائية، المنصوص عليها في القرار الأميري رقم (19) لسنة 2014 المشار إليه و الخريطة التنظيمية المرفقة به، كما تُلغى اختصاصاتها المنصوص عليها في المادة ( 7 ) من ذات القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

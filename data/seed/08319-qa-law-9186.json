@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (21) لسنة 2023 بالتصديق على مذكرة تفاهم بشأن خط الاتصال الآمن بين وزارة الداخلية بدولة قطر ووكالة الاتحاد الأوروبي للتعاون في مجال إنفاذ القانون",
   "short_name": "مرسوم رقم (21) لسنة 2023 بالتصديق على مذكرة تفاهم بشأن خط الاتصال الآمن بين وزارة الداخلية بدولة قطر ووكالة الاتحاد ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9186&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9186&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على مذكرة تفاهم بشأن خط الاتصال الآمن بين وزارة الداخلية بدولة قطر ووكالة الاتحاد الأوروبي للتعاون في مجال إنفاذ القانون، المُوقعة بمدينة لاهاي بتاريخ 05/10/2022، المُرفق نصها بهذا المرسوم وتكون لها قوة القانون، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم.\nويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

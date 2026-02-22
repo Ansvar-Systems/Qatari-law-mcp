@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (17) لسنة 2009 بالتصديق على اتفاق لتطبيق الضمانات في إطار معاهدة عدم انتشار الأسلحة النووية وبروتوكول الكميات الصغيرة بين دولة قطر والوكالة الدولية للطاقة الذرية",
   "short_name": "مرسوم رقم (17) لسنة 2009 بالتصديق على اتفاق لتطبيق الضمانات في إطار معاهدة عدم انتشار الأسلحة النووية وبروتوكول الكمي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4160&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4160&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاق لتطبيق الضمانات في إطار معاهدة عدم انتشار الأسلحة النووية و بروتوكول الكميات الصغيرة بين دولة قطر والوكالة الدولية للطاقة الذرية، الموقعين بمدينة فيينا بتاريخ 19/1/2009، المرفق نصيهما بهذا المرسوم، وتكون لهما قوة القانون، وفقاً للمادة ( 68 ) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

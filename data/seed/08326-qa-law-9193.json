@@ -4,8 +4,27 @@
   "title": "قرار وزير الداخلية رقم (37) لسنة 2023م بتحديد منافذ الدخول للدولة والخروج منها",
   "short_name": "قرار وزير الداخلية رقم (37) لسنة 2023م بتحديد منافذ الدخول للدولة والخروج منها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9193&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9193&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد منافذ الدخول للدولة والخروج منها على النحو التالي:\nأولاً: المنافذ البحرية:\n1. ميناء حمد.\n2. ميناء الدوحة.\n3. ميناء مسيعيد.\n4. ميناء رأس لفان.\n5. ميناء الرويس.\nثانياً: المنافذ البرية:\n1. منفذ أبو سمرة.\n2. منفذ سودانثيل.\nثالثاً: المنافذ الجوية:\n1. مطار حمد الدولي.\n2. مطار الدوحة الدولي.\n3. مطار قاعدة العديد الجوية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار وزير الداخلية رقم (8) لسنة 2010 المُشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

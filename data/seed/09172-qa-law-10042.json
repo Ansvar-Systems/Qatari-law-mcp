@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (17) لسنة 2025 بتعديل بعض أحكام القرار رقم (36) لسنة 2023 بتعيين رئيس ونائب رئيس وأعضاء مجلس إدارة الهيئة العامة للتقاعد والتأمينات الاجتماعية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (17) لسنة 2025 بتعديل بعض أحكام القرار رقم (36) لسنة 2023 بتعيين رئيس ونائب رئيس وأعضاء مج...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10042&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10042&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحل السيدة / دانية حسن الخال، محل السيد/ فيصل عبد الواحد الحمادي، ممثلا عن جهاز قطر للاستثمار، في عضوية مجلس إدارة الهيئة العامة للتقاعد والتأمينات الاجتماعية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

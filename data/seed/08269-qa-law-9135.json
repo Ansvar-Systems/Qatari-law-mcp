@@ -4,8 +4,21 @@
   "title": "قرار رقم (26) لسنة 2023 بتخويل بعض موظفي وزارة العمل صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (26) لسنة 2023 بتخويل بعض موظفي وزارة العمل صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9135&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9135&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العمل التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (14) لسنة 2004 المُشار إليه أعلاه، والقرارات المُنفذة له، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nعبدالهادي حسين جابر العاض المري\nباحث شكاوى مكاتب استقدام ثالث\n2\nمحمد علي عبد الغنى علي الملا\nمندوب متابعة رابع\n3\nعلي جابر علي المري\nمشرف مراقبة صحة مهنية رابع\n4\nوَضْحى فرهود راشد ركيب الهاجري\nمفتش سلامة وصحة مهنية\n5\nأسماء حمد علي سالم عويضة\nمفتش أجور عمالية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كلّ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

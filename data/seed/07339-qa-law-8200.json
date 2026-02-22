@@ -4,8 +4,45 @@
   "title": "قانون رقم (26) لسنة 2019 باعتماد الموازنة العامة للدولة للسنة المالية 2020",
   "short_name": "قانون رقم (26) لسنة 2019 باعتماد الموازنة العامة للدولة للسنة المالية 2020",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8200&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8200&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد الموازنة العامة للدولة للسنة المالية 2020."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُقدر الإيرادات العامة للدولة للسنة المالية 2020 بمبلغ مقداره (-/211,008,175,000) مائتان وأحد عشر ملياراً وثمانية ملايين ومائة وخمسة وسبعون ألف ريال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُقدر المصروفات العامة للدولة للسنة المالية 2020 بمبلغ مقداره (-/210,549,604,006) مائتان وعشرة مليارات وخمسمائة وتسعة وأربعون مليوناً وستمائة وأربعة آلاف وستة ريالات."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تُقدر زيادة الإيرادات عن المصروفات للسنة المالية 2020 بمبلغ مقداره (-/458,570,994) أربعمائة وثمانية وخمسون مليوناً وخمسمائة وسبعون ألفاً وتسعمائة وأربعة وتسعون ريالاً."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يحوّل الفائض المشار إليه في المادة السابقة إلى حساب الاحتياطي العام وفقاً لأحكام قانون النظام المالي للدولة المشار إليه."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من أول يناير 2020. ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

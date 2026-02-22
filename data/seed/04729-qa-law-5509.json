@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (49) لسنة 2004 بشأن رواتب أعضاء قوة الشرطة المحالين إلى قوة الاحتياط",
   "short_name": "قرار أميري رقم (49) لسنة 2004 بشأن رواتب أعضاء قوة الشرطة المحالين إلى قوة الاحتياط",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5509&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5509&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحدد الراتب الشهري لأعضاء قوة الشرطة المحالين إلى قوة الاحتياط على النحو التالي:\n1- (60%) من آخر راتب أساسي كان يتقضاه عضو القوة عند إحالته إلى قوة الاحتياط، مضافاً إليها (2%) من هذا الراتب عن كل سنة من سنوات الخدمة وبحد أقصى عشرين سنة، وبما لا يتجاوز مقداره.\n2- علاوات السكن، والخدم، والجندية، والأرزاق، المقررة لنظرائهم من أعضاء قوة الشرطة حسب أنظمة الخدمة السارية في شأنهم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 1/4/2004. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

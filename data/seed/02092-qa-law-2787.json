@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (26) لسنة 2010 باختصاص وزارة البيئة بشؤون المواصفات والمقاييس والجودة",
   "short_name": "قرار أميري رقم (26) لسنة 2010 باختصاص وزارة البيئة بشؤون المواصفات والمقاييس والجودة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2787&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2787&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مع مراعاة أحكام القرار الأميري رقم (16) لسنة 2009 المشار إليه، تختص وزارة البيئة بشؤون المواصفات والمقاييس والجودة، ولها بوجه خاص ما يلي:\n1- إعداد وإصدار اللوائح الفنية والمواصفات القياسية القطرية، الواجب توافرها في السلع والمواد والخامات والمنتجات والآلات والأدوات، بالتنسيق مع الجهات المعنية.\n2- إعداد وإصدار اللوائح والأنظمة المتعلقة بمنح علامة الجودة وشهادة المطابقة واعتماد المختبرات وأجهزة الخدمات غير الحكومية.\n3- تحديد الرسوم المستحقة عن الترخيص باستعمال شهادات الفحص أو المطابقة أو علامة الجودة، وتحديد أسعار بيع اللوائح الفنية والمواصفات القياسية وما يتعلق بها من نشرات ومطبوعات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

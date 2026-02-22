@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (71) لسنة 2014 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية",
   "short_name": "قرار مجلس الوزراء رقم (71) لسنة 2014 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6453&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6453&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية برئاسة وزير الثقافة والفنون والتراث، وعضوية كل من:\n1- الدكتور/ إبراهيم صالح النعيمي\nنائباً للرئيس\n2- الدكتورة/ عائشة يوسف المناعي\nعضواً\n3- الدكتور/ الحارث محمد الخاطر\nعضواً\n4- الدكتور/ حسن إبراهيم المهندي\nعضواً\n5- الدكتورة/ حمدة حسن عبدالرحمن أبوظاعن السليطي\nعضواً\n6- الدكتور/ أحمد عبدالله محمد ال الشيخ الكواري\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار مجلس الوزراء رقم (5) لسنة 2011 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

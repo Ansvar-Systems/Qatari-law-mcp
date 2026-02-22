@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (26) لسنة 2018 بتعيين سكرتيراً ومنسقين لمكتب رئيس مجلس الوزراء",
   "short_name": "قرار رئيس مجلس الوزراء رقم (26) لسنة 2018 بتعيين سكرتيراً ومنسقين لمكتب رئيس مجلس الوزراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7832&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7832&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد/ محمد عبدالله علي المهندي، سكرتيراً لرئيس مجلس الوزراء."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين بمكتب رئيس مجلس الوزراء كل من:\n1- السيد/ خميس أحمد إبراهيم المهندي، منسقاً لشؤون المشاريع والخدمات الحكومية.\n2- السيد/ خالد جاسم حسن الجابر، منسقاً لشؤون الاجتماعات.\n3- السيد/ مناحي خالد محمد الهاجري، منسقاً للشؤون الأمنية.\n4- الشيخ/ علي الوليد علي آل ثاني، منسقاً للشؤون الاقتصادية.\n5- الشيخة/ مها فهد سعود آل ثاني، منسقاً للشؤون الخارجية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

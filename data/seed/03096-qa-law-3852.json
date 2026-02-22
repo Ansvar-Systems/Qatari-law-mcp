@@ -4,8 +4,27 @@
   "title": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (6) لسنة 2006م بالموافقة على تسجيل وشهر تعديل النظام الأساسي لمركز الشفلح للأطفال ذوي الإحتياجات الخاصة",
   "short_name": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (6) لسنة 2006م بالموافقة على تسجيل وشهر تعديل النظام الأساسي لمركز الشفلح...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3852&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3852&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على تسجيل وشهر تعديل النظام الأساسي لمركز الشفلح للأطفال ذوي الإحتياجات الخاصة الصادر به قرار رئيس المجلس الأعلى لشؤون الأسرة رقم (4) لسنة 2004 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يسجل التعديل ويشهر طبقاً لأحكام القانون رقم (12) لسنة 2004 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير الداخلية رقم (33) لسنة 2022 بشأن الفحص الطبي لأفراد الأمن العاملين بشركات الخدمات الأمنية الخاصة",
   "short_name": "قرار وزير الداخلية رقم (33) لسنة 2022 بشأن الفحص الطبي لأفراد الأمن العاملين بشركات الخدمات الأمنية الخاصة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9115&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9115&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعمل بقواعد الفحص الطبي، المتضمنة إجراءات ومستويات اللياقة الطبية لأفراد الأمن العاملين بشركات الخدمات الأمنية الخاصة، المرفقة بهذا القرار، بهدف التأكد من لياقتهم الطبية للوظائف المرشحون لها.\nويتعين على المرشحين اجتياز الفحص الطبي الشامل، للتأكد من خلوهم من الأمراض والعاهات التي تتعارض مع الغرض الذي تم فحصهم من أجله."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

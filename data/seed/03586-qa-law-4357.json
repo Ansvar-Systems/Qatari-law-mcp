@@ -4,8 +4,39 @@
   "title": "وثيقة تأسيس مركز قطر للأعمال السينمائية مؤسسة خاصة ذات نفع عام",
   "short_name": "وثيقة تأسيس مركز قطر للأعمال السينمائية مؤسسة خاصة ذات نفع عام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4357&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4357&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "انشاء مؤسسة خاصة ذات نفع عام طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 بشأن المؤسسات الخاصة ذات النفع العام، بإسم \"مركز قطر للأعمال السينمائية\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون مقرّ المؤسسة في مدينة الدوحة، ويجوز لها أن تنشئ فروعاً ومكاتباً داخل قطر وخارجها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تهدف المؤسسة إلى تشجيع تنفيذ الأعمال السينمائية وتقديم المساعدة الفنية للمهتمين بها، وتثقيف الناشئة القطرية بدور الأعمال السينمائية، وتنظيم المهرجانات السينمائية المحلية والإقليمية والدولية في قطر، وإقامة المسابقات السينمائية واختيار أفضلها، وتقديم الجوائز والمكافآت المالية أو العينية للأعمال الفائزة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تبلغ الأموال المخصصة للمؤسسة 5،000،000 (خمسة ملايين ريال قطري)، ويمكن زيادتها حسب الحاجة."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تعمل المؤسسة وفقاً للنظام الأساسي المرفق والصادر عن المؤسسين، وتسري بشأنها أحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه في المادة ( 1 ) أعلاه."
+    }
+  ],
   "definitions": []
 }

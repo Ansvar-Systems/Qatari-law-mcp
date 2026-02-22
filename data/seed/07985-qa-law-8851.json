@@ -4,8 +4,21 @@
   "title": "قرار رقم (26) لسنة 2022 م بتخويل بعض موظفي وزارة العدل صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (26) لسنة 2022 م بتخويل بعض موظفي وزارة العدل صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8851&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8851&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العدل التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (22) لسنة 2017 المُشار إليه، والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nفهد يحيى عوض اليهري\nفني أنظمة معلومات\n2\nحمد علي جابر المري\nباحث قانوني ثاني\n3\nعبدالهادي مهدي ذيب القحطاني\nباحث قانوني ثالث\n4\nمفلح حزام مقعد القحطاني\nكاتب استقبال ثاني\n5\nمبارك حسن سلطان الغانم\nخبير قانوني\n6\nناصر محمد عويضه النعيمي\nكاتب استقبال ثالث\n7\nعائشه علي محمد المنصوري\nخبير إداري"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار محافظ مصرف قطر المركزي رقم (99) لسنة 2020 بسحب أوراق نقدية من التداول",
   "short_name": "قرار محافظ مصرف قطر المركزي رقم (99) لسنة 2020 بسحب أوراق نقدية من التداول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8538&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8538&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُسحب جميع الأوراق النقدية من الإصدار الرابع للعملة القطرية، المبيّنة في المرفق بهذا القرار، من التداول إعتبارًا من تاريخ 18/12/2020."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتم إستبدال الأوراق النقدية من الإصدار الرابع بأوراق نقدية، بذات القيمة، وذلك خلال فترة لا تتجاوز اليوم الأول من شهر يوليو 2021."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تفقد الأوراق النقدية، التي لا تُقدم للاستبدال خلال المدة المحددة في المادة (2) أعلاه، قوّتها كأداة وفاء وإبراء، ويُحظر التعامل بها، ويجوز لحاملها الحصول على قيمتها الإسمية من مصرف قطر المركزي، خلال مدة عشرة سنوات من تاريخ هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القرار، ويًنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

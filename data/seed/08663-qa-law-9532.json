@@ -4,8 +4,21 @@
   "title": "قرار رقم ( 24 ) لسنة 2024 بتخويل بعض موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم ( 24 ) لسنة 2024 بتخويل بعض موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9532&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9532&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي قطر للسياحة التالية أسماؤهم ، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (20) لسنة 2018 المشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nجاسم على عبدالستار ابراهيم البشرى\nمفتش سياحي ثالث\n2\nعيسى ناصر عيسى ماجد البدر\nاخصائي تفتيش\n3\nعبدالرحمن عبد الرحيم عبدالرحمن ابراهيم الاحمد\nمفتش سياحي ثاني\n4\nعبدالعزيز عبدالله جهيم الجنيدي الشمري\nمفتش سياحي ثالث\n5\nعلي زيد حسن اليافعي\nاخصائي تفتيش\n6\nيوسف ناصر على حجى الباكر\nمفتش سياحي ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

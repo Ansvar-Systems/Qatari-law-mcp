@@ -4,8 +4,21 @@
   "title": "قرار النائب العام رقم (45) لسنة 2025 بتخويل بعض موظفي وزارة التنمية الاجتماعية والأسرة صفة مأموري الضبط القضائي",
   "short_name": "قرار النائب العام رقم (45) لسنة 2025 بتخويل بعض موظفي وزارة التنمية الاجتماعية والأسرة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9996&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9996&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التنمية الاجتماعية والأسرة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام المرسوم بقانون المشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nحصة علي محمد منصور البوعينين\nمنسق متابعة أول\n2\nمر&#1740;م محمد سيف فضل النعيمي\nمنسق متابعة أول\n3\nفاطمة مبخوت مبارك علي الكربي\nباحث جمعيات ومؤسسات خاصة\n4\nمريم علي محمد سويدان المري\nباحث تنظيم عمل تطوعي ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

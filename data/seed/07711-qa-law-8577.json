@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (15) لسنة 2021 بالتصديق على اتفاقية بين حكومة دولة قطر وحكومة جمهورية الأرجنتـين بشأن تجنب الازدواج الضريبي ومنع التهرب المالي فيما يتعلق بالضرائب على الدخل وعلى رأس المال والبررتوكول المرفق بها",
   "short_name": "مرسوم رقم (15) لسنة 2021 بالتصديق على اتفاقية بين حكومة دولة قطر وحكومة جمهورية الأرجنتـين بشأن تجنب الازدواج الضريبي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8577&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8577&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية بين حكومة دولة قطر وحكومة جمهورية الأرجنتين بشأن تجنّب الازدواج الضريبي ومنع التهرب المالي فيما يتعلق بالضرائب على الدخل وعلى رأس المال والبروتوكول المرفق بها، الموقّع عليهما بمدينة واشنطن بتاريخ 19/04/2018 المرفق نصهما بهذا المرسوم، وتكون لهما قوة القانون، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

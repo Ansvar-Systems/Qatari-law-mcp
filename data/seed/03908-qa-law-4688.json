@@ -4,8 +4,21 @@
   "title": "قانون رقم (3) لسنة 2013 بتعديل بعض أحكام القانون رقم (11) لسنة 2003 بإنشاء جائزتي الدولة التقديرية والتشجيعية في العلوم والفنون والآداب",
   "short_name": "قانون رقم (3) لسنة 2013 بتعديل بعض أحكام القانون رقم (11) لسنة 2003 بإنشاء جائزتي الدولة التقديرية والتشجيعية في العل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4688&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4688&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل مسميات \"وزارة الثقافة والفنون والتراث\" و\"وزير الثقافة والفنون والتراث\" و\"الوزارة\" و\"الوزير\" بمسميات \"المجلس الوطني للثقافة والفنون والتراث\" و\"رئيس المجلس الوطني للثقافة والفنون والتراث\" و\"المجلس\" و\"رئيس المجلس\" على التوالي، أينما وردت في القانون رقم (11) لسنة 2003 المشار إليه، أو في أي أداة تشريعية أخرى تتضمن تلك المسميات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "وثيقة إضافة صاحبة السمو الشيخة موزا بنت ناصر كمؤسس لمؤسسة قطر للتربية والعلوم وتنمية المجتمع",
   "short_name": "وثيقة إضافة صاحبة السمو الشيخة موزا بنت ناصر كمؤسس لمؤسسة قطر للتربية والعلوم وتنمية المجتمع",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2932&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2932&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إضافة صاحبة السمو الشيخة موزا بنت ناصر كمؤسس معنا لمؤسسة قطر للتربية والعلوم وتنمية المجتمع، وتفويض سموها في مباشرة كافة الصلاحيات المقررة للمؤسسين، وفقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه والنظام الأساسي للمؤسسة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتخذ الإجراءات اللازمة لتسجيل وشهر هذه الوثيقة وفقاً لأحكام القانون."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزاري رقم (75) لسنة 2006 بشأن تحديد الرسوم المقررة على حق انتفاع غير القطريين بالعقارات والوحدات السكنية في المناطق الاستثمارية",
   "short_name": "قرار وزاري رقم (75) لسنة 2006 بشأن تحديد الرسوم المقررة على حق انتفاع غير القطريين بالعقارات والوحدات السكنية في المن...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3878&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3878&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد الرسوم على التصرفات التي ترد على حق انتفاع غير القطريين بالعقارات والوحدات السكنية في المناطق الاستثمارية، المشار إليها في الجدول المرفق بقرار مجلس الوزراء رقم (6) لسنة 2006 المشار إليه، كما يلي:\nالرسم\nالقيمة\nالتعاقد للانتفاع\n(1%) من قيمة العقار\nالتنازل\nالبيع\nتأجير الوحدات\n(1%) من قيمة عقد الإيجار السنوي\nالتصديق\n(100) مائة ريال\nويقوم بتحصيل هذه الرسوم مكتب تسجيل العقارات والوحدات السكنية لغير القطريين في بلدية الدوحة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

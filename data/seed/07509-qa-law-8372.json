@@ -4,8 +4,21 @@
   "title": "قرار وزير البلدية والبيئة رقم (132) لسنة 2020 باعتبار منطقة الرفاع محمية طبيعية",
   "short_name": "قرار وزير البلدية والبيئة رقم (132) لسنة 2020 باعتبار منطقة الرفاع محمية طبيعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8372&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8372&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتبر محميّة طبيعية، وفقا لأحكام قانون حماية البيئة المشار إليه، منطقة الرفاع، والمبيّنة حدودها وإحداثياتها بالخريطة المرفقة بهذا القرار ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

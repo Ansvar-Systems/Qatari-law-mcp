@@ -4,8 +4,27 @@
   "title": "قرار وزير البيئة رقم (83) لسنة 2011م بتحديد رسم خدمة توصيل المياه لأصحاب الثروة الحيوانية",
   "short_name": "قرار وزير البيئة رقم (83) لسنة 2011م بتحديد رسم خدمة توصيل المياه لأصحاب الثروة الحيوانية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3901&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3901&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحدد رسم مقداره (100) مائة ريال، مقابل خدمة توصيل المياه لأصحاب الثروة الحيوانية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون للمستفيد الحق في الاختيار بين خدمة توصيل المياه، أو صرف كوبونات المياه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

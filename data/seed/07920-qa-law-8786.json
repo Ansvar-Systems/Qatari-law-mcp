@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (14) لسنة 2021 بتعديل بعض أحكام اللائحة التنفيذية لقانون مكافحة غسل الأموال وتمويل الإرهاب الصادرة بقرار مجلس الوزراء رقم (41) لسنة 2019",
   "short_name": "قرار مجلس الوزراء رقم (14) لسنة 2021 بتعديل بعض أحكام اللائحة التنفيذية لقانون مكافحة غسل الأموال وتمويل الإرهاب الصا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8786&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8786&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة (74) من اللائحة التنفيذية لقانون مكافحة غسل الأموال وتمويل الإرهاب المُشار إليها، النص التالي:"
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Article (74)",
+      "content": "\"يجب على الجهات الرقابية على المؤسسات المالية، عند القيام بتوفير المعلومات التي تطلبها من نظيراتها الأجنبية، أن تحصل على إذن مُسبق منها، وذلك لإحالة تلك المعلومات إلى أي جهة أو لاستخدامها لأغراض رقابية أو غير رقابية.\nوعندما تكون الجهة الرقابية على المؤسسات المالية خاضعة لالتزام قانوني بالإفصاح أو الإبلاغ عن تلك المعلومات، يجب عليها إعلام نظيرتها الأحنبية بذلك فور الحصول عليها.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يَخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

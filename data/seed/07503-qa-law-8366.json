@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (14) لسنة 2020 بتشكيل لجنة الجزاءات المالية بهيئة تنظيم الاتصالات",
   "short_name": "قرار مجلس الوزراء رقم (14) لسنة 2020 بتشكيل لجنة الجزاءات المالية بهيئة تنظيم الاتصالات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8366&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8366&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل لجنة الجزاءات المالية المنشأة بموجب المادة ( 62/مکرراً ) من قانون الاتصالات المشار إليه، برئاسة اللواء مهندس/ علي سالم الحنزاب، ممثلاً عن وزارة الداخلية، والسيدة/ ناهد عبدالعزيز العمادي، ممثلاً عن وزارة المواصلات والاتصالات، نائباً للرئيس، وعضوية كل من:\n1 - السيدة/ دانة يوسف العبدالله، ممثلاً عن وزارة المواصلات والاتصالات.\n2 - السيد/ هلال محمد الخليفي، ممثلاً عن وزارة التجارة والصناعة.\n3 - السيد/ ما&#1740;کل را&#1740;ن، ممثلاً عن هيئة تنظيم مركز قطر للمال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتولى أمانة سر اللجنة موظف أو أكثر من موظفي هيئة تنظيم الاتصالات، يصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من رئيس الهيئة"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تار&#1740;خ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

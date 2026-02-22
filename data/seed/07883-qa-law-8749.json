@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (48) لسنة 2021 بدعوة مجلس الشورى لدور الانعقاد العادي الأول من الفصل التشريعي الأول",
   "short_name": "مرسوم رقم (48) لسنة 2021 بدعوة مجلس الشورى لدور الانعقاد العادي الأول من الفصل التشريعي الأول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8749&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8749&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُدعى مجلس الشورى لدور الانعقاد العادي الأول من الفصل التشريعي الأول، الموافق لدور الانعقاد السنوي الخمسين، وذلك في يوم الثلاثاء العشرين من شهر ربيع الأول عام 1443 هجرية، الموافق للسادس والعشرين من شهر أكتوبر عام 2021 ميلادية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يَخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

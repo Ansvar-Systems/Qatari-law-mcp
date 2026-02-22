@@ -4,8 +4,21 @@
   "title": "قرار وزير العدل رقم (1) لسنة 2020 بتسمية أعضاء لجنة شؤون الوسطاء العقاريين",
   "short_name": "قرار وزير العدل رقم (1) لسنة 2020 بتسمية أعضاء لجنة شؤون الوسطاء العقاريين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8229&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8229&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُسمي أعضاء لجنة شؤون الوسطاء العقاريين بوزارة العدل، برئاسة السيد/ سعيد عبدالله السويدي، وكيل الوزارة المساعد لشؤون التسجيل العقاري والتوثيق، وعضوية كل من:\n1- السيد/ خميس جاسم المريخي\n\"مدير إدارة التسجيل العقاري\"\n(نائباً للرئيس).\n2- السيد/ راشد جمعان التركي\n\"ممثل عن وزارة التجارة والصناعة\"\n(عضواً).\n3- السيدة/ رحمه صالح الاحول\n\"ممثل عن وزارة العدل\"\n(عضواً).\n4- السيد/ تركي فهد التركي\n\"ممثل عن وزارة البلدية والبيئة\"\n(عضواً).\n5- السيد/ راشد حمد العذبة\n\"ممثل عن غرفة تجارة وصناعة قطر\"\n(عضواً).\n6- السيد/ مانع إبراهيم المانع\n\"ممثل عن الوسطاء العقاريين\"\n(عضواً).\n7- السيد/ ناصر حسن الانصاري\n\"ممثل عن الوسطاء العقاريين\"\n(عضواً)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

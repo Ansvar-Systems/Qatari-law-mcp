@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (9) لسنة 2001بتعديل بعض أحكام قرار مجلس الوزراء رقم (13) لسنة 1993 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
   "short_name": "قرار مجلس الوزراء رقم (9) لسنة 2001بتعديل بعض أحكام قرار مجلس الوزراء رقم (13) لسنة 1993 بشأن المواصفات الواجب توافره...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1735&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1735&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد تحديث المواصفة القياسية الخليجية الملزمة رقم (149/1993) الخاصة بمياه الشرب غير المعبأة، والسابق اعتمادها بقرار مجلس الوزراء رقم (13) لسنة 1993 المشار إليه، كمواصفة قياسية قطرية ملزمة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به بعد ستة أشهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

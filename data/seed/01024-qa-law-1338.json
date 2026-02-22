@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (92) لسنة 1992 بالموافقة على انضمام دولة قطر لاتفاقية إنشاء مجلس التعاون الجمركي وملحقها الموقعين في مدينة بروكسل بتاريخ 15 ديسمبر 1950",
   "short_name": "مرسوم رقم (92) لسنة 1992 بالموافقة على انضمام دولة قطر لاتفاقية إنشاء مجلس التعاون الجمركي وملحقها الموقعين في مدينة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1338&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1992.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1338&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر لاتفاقية إنشاء مجلس التعاون الجمركي وملحقها الموقعين في مدنية بروكسل بتاريخ 15 ديسمبر1950، المرفق نصهما بهذا المرسوم، ويكون له قوة القانون ووفقاً للمادة ( 24 ) من النظام الأساسي المؤقت المعدل المشار إليه. لم ينشر النصان لأنهما باللغة الإنجليزية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

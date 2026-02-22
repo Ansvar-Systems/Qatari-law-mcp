@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (14) لسنة 2023 بتشكيل مجلس إدارة اللجنة المنظمة لدورة الألعاب الآسيوية الحادية والعشرين - الدوحة 2030",
   "short_name": "قرار أميري رقم (14) لسنة 2023 بتشكيل مجلس إدارة اللجنة المنظمة لدورة الألعاب الآسيوية الحادية والعشرين - الدوحة 2030",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9141&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9141&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة اللجنة المنظمة لدورة الألعاب الآسيوية الحادية والعشرين - الدوحة 2030 برئاسة سعادة الشيخ/ جوعان بن حمد آل ثاني، رئيس اللجنة الأولمبية القطرية، وعضوية كُل من:\n1 - ممثل عن وزارة الداخلية.\n2 - ممثل عن وزارة المالية.\n3 - ممثل عن وزارة الـريـاضـة والشباب.\n4 - ممثل عن وزارة البلدية.\n5 - ممثل عن وزارة التجارة والصناعة.\n6 - ممثل عن وزارة الصحة العامة.\n7 - ممثل عن قطر للسياحة.\n8 - ممثل عن هيئة الأشغال العامة.\n9 - أمين عام اللجنة الأولمبية القطرية.\nوتختار كل جهة من الجهات المنصوص عليها في هذه المادة، مَن يُمثلها بالتنسيق مع رئيس مجلس الإدارة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كلُ فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

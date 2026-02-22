@@ -4,8 +4,21 @@
   "title": "قرار رقم (37) لسنة 2023 بإلغاء تخويل أحد موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (37) لسنة 2023 بإلغاء تخويل أحد موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9219&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9219&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة للسيّدة / وفاء عبدالعزيز عبدالله السليطي،\nوالسابق منحها لها بموجب قرار النائب العام رقم (154) لسنة 2013 ورقم (7) لسنة 2019 المُشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

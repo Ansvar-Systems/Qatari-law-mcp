@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (40) لسنة 2005 بنزع ملكية بعض العقارات للمنفعة العامة",
   "short_name": "مرسوم رقم (40) لسنة 2005 بنزع ملكية بعض العقارات للمنفعة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3053&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3053&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُنزع للمنفعة العامة ملكية العقارات اللازمة لتنفيذ المشروع المبين في قرار وزير الشؤون البلدية والزراعة رقم (124) لسنة 2004 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتخذ الإجراءات المنصوص عليها في القانون رقم (13) لسنة 1988 المشار إليه، لتعويض ملاك العقارات المنزوعة ملكيتها بموجب هذا المرسوم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

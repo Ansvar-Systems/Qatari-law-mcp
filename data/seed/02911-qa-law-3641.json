@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل رقم (1) لسنة 1977 شهادة تسجيل «الجمعية القطرية لرعاية المعوقين»",
   "short_name": "شهادة تسجيل رقم (1) لسنة 1977 شهادة تسجيل «الجمعية القطرية لرعاية المعوقين»",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3641&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1977.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3641&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل رقم (1) لسنة 1977 شهادة تسجيل «الجمعية القطرية لرعاية المعوقين»\nشهادة تسجيل رقم (1) لسنة 1977 شهادة تسجيل «الجمعية القطرية لرعاية المعوقين» 1 / 1977\nأشهد أن الجمعية القطرية لرعاية المعوقين في مدينة الدوحة قد سجلت تحت رقم (1) بموجب قانون الجمعيات الخيرية رقم (2) لسنة 1974م بتاريخ الرابع والعشرين من رجب لسنة 1397هـ الموافق العاشر من يوليه لسنة 1977م."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,39 @@
   "title": "قرار وزير الداخلية رقم (6) لسنة 2008 بشأن سمات الدخول الفورية لسائقي الشاحنات ومعاونيهم المقيمين بدول مجلس التعاون لدول الخليج العربية",
   "short_name": "قرار وزير الداخلية رقم (6) لسنة 2008 بشأن سمات الدخول الفورية لسائقي الشاحنات ومعاونيهم المقيمين بدول مجلس التعاون لد...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3847&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3847&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمنح من المنافذ البرية سمة دخول فورية لسائقي الشاحنات ومعاونيهم المقيمين بدول مجلس التعاون لدول الخليج العربية، وفقاً للشروط والرسوم والمدد المحددة في هذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يشترط لمنح سمة الدخول الفورية لسائقي الشاحنات ومعاونيهم، ما يلي:\nأ- أن تكون جوازات سفرهم سارية المفعول لمدة لا تقل عن ثلاثة أشهر.\nب- أن يكونوا حاصلين على إقامة بإحدى دول مجلس التعاون لدول الخليج العربية، سارية المفعول لمدة لا تقل عن ستة أشهر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُحصل رسوم منح سمة الدخول الفورية المشار إليها، على النحو التالي:-\n1- لسفرة واحدة، ولمدة أسبوع (50) خمسون ريالاً.\n2- لعدة سفرات خلال مدة ثلاثة أشهر، ولمدة أسبوع في كل سفرة (150) مائة وخمسون ريالاً.\n3- تمديد المدد المشار إليها، في البندين السابقين لمدة أسبوع آخر (50) خمسون ريالاً."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "للجهة المختصة بوزارة الداخلية، لأسباب تتعلق بالصالح العام، رفض منح السمة المشار إليها في المادة الأولى من هذا القرار."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "أمر أميري رقم (1) لسنة 2017 بتعيين سكرتير لسمو الأمير لشؤون الاستثمار",
   "short_name": "أمر أميري رقم (1) لسنة 2017 بتعيين سكرتير لسمو الأمير لشؤون الاستثمار",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7159&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7159&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين سعادة الشيخ/ محمد بن حمد بن خليفة آل ثاني، سكرتيراً لسمو الأمير لشؤون الاستثمار، بدرجة وزير."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعمل بهذا الأمر الأميري من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

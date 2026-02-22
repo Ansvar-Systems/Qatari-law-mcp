@@ -4,8 +4,27 @@
   "title": "قانون رقم (13) لسنة 1964 بتنظيم دائرة الخدمات الطبية والصحة العامة",
   "short_name": "قانون رقم (13) لسنة 1964 بتنظيم دائرة الخدمات الطبية والصحة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4058&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1964.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4058&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ دائرة تسمى دائرة الخدمات الطبية والصحة العامة وتدمج فيها الدائرة الطبية ودائرة الصحة العامة الحاليتان."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين لدائرة الخدمات الطبية والصحة العامة مدير يكون له وكيلان إحداهما لشئون الطب العلاجي والثاني لشئون الصحة العامة، ويصدر بتنظيم الدائرة وتحديد الاختصاصات بها قرار من نائب الحاكم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (44) لسنة 1984 بتأسيس شركة قطر للغاز المسال المحدودة",
   "short_name": "مرسوم رقم (44) لسنة 1984 بتأسيس شركة قطر للغاز المسال المحدودة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1130&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1984.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1130&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص للمؤسسة العامة القطرية للبترول، وشركة البترول البريطانية، والشركة الفرنسية للبترول في أن يؤسسوا في قطر شركة مساهمة قطرية تسمى \" شركة قطر للغاز المسال المحدودة \" برأس مال قدره (500,000,000) خمسمائة مليون ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفق صورة من كل منهما بهذا المرسوم، وعليهم كذلك الالتزام بأحكام القانون رقم (11) لسنة 1981 بإصدار قانون الشركات التجارية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. , وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

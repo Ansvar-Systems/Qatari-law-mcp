@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (20) لسنة 1971 باعتماد نص الاتفاق التكميلي المبرم مع شركة نفط قطر المحدودة بتاريخ 21 أكتوبر 1970",
   "short_name": "مرسوم رقم (20) لسنة 1971 باعتماد نص الاتفاق التكميلي المبرم مع شركة نفط قطر المحدودة بتاريخ 21 أكتوبر 1970",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=965&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1971.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=965&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد نص الاتفاق التكميلي المبرم بين حكومة قطر وبين شركة نفط قطر المحدودة الموقع بتاريخ 21/ 10/ 1970 م الموافق 21/ 8/ 1390 هـ ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا المرسوم اعتباراً من 22/ 10/ 1970 م. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

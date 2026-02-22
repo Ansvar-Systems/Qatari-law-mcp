@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (27) لسنة 2008 بشأن اعتماد لوائح فنية ومواصفات قياسية خليجية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (27) لسنة 2008 بشأن اعتماد لوائح فنية ومواصفات قياسية خليجية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3691&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3691&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعتمد اللوائح الفنية الخليجية والمواصفات القياسية الخليجية المبينة بالجداول أرقام (1) ، (2) ، (3) ، (4) ، (5) المرفقة بهذا القرار، كلوائح فنية قطرية ومواصفات قياسية قطرية، حسب البيانات الموضحة قرين كل منها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من التاريخ الموضح قرين كل منها. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

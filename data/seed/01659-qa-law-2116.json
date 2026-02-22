@@ -4,8 +4,39 @@
   "title": "قرار وزير الداخلية رقم (4) لسنة 2003 بتشكيل اللجان الفرعية للاستفتاء على مشروع الدستور",
   "short_name": "قرار وزير الداخلية رقم (4) لسنة 2003 بتشكيل اللجان الفرعية للاستفتاء على مشروع الدستور",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2116&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2116&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل اللجان الفرعية للاستفتاء على مشروع الدستور، وتحدد مراكزها على النحو المبين بالكشف رقم (1) المرفق."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون السادة المبينة أسماؤهم بالكشف رقم (2) المرفق، رؤساء وأعضاء إحتياطيين للجان الفرعية للاستفتاء.\nويتولى مدير إدارة الإنتخابات بالوزارة، إحلال أي من الرؤساء والأعضاء الإحتياطيين محل أي من رؤساء أو أعضاء اللجان الفرعية للاستفتاء الأصليين، كلما دعت الضرورة إلى ذلك."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يشكل رؤساء البعثات الدبلوماسية والقنصلية، بالتنسيق مع وزارة الخارجية، لجان الاستفتاء في سفارات وقنصليات الدولة في الخارج."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تتولى اللجان الفرعية للاستفتاء إجراء عملية الاستفتاء على مشروع الدستور وفقاً لأحكام المرسوم رقم (38) لسنة 2003 المشار إليه."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

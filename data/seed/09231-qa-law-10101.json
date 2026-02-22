@@ -4,8 +4,33 @@
   "title": "قـــرار وزيـر الـتـجـارة والصناعة رقم (71) لسنة 2025 بتحول شركة سداد لحلول الدفع من شركة ذات مسؤولية محدودة إلى شركة مساهمة خاصة قطرية",
   "short_name": "قـــرار وزيـر الـتـجـارة والصناعة رقم (71) لسنة 2025 بتحول شركة سداد لحلول الدفع من شركة ذات مسؤولية محدودة إلى شركة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10101&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10101&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحول شركة سداد لحلول الدفع، من شركة ذات مسؤولية محدودة إلى شركة مُساهمة خاصة قطرية برأس مال مُصدر قدره 21,000,000 ريال قطري (واحد وعشرين مليون ريال قطري) موزع على عدد 1000 سهمًا (ألف سهمًا)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المُؤسسين الإلتزام بأحكام عقد التأسيس والنظام الأساسي المُشار إليهما والمُرفق نصهما بهذا القرار.\nكما تلتزم الشركة بأحكام قانون الشركات التجارية المُشار إليه والتشريعات الأخرى المعمول بها في الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على تحول الشركة نشوء شخص معنوي جديد، وتظل الشركة مُحتفظة بحقوقها ومُحملة بإلتزاماتها السابقة على التحول."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المُختصـة، كلٍ فيما يخصه تنفيذ هذا القرار. ويُعمل به إعتبارًا مــن تـاريـخ صـدوره. ويتم شهره وفقًا لأحكام قانون الشركات التجارية المُشار إليه، ويُنشــر بالجـريــدة الرسمــيـة."
+    }
+  ],
   "definitions": []
 }

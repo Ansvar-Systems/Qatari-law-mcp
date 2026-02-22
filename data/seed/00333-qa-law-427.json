@@ -4,8 +4,21 @@
   "title": "قانون رقم (8) لسنة 1984 بتأجيل العمل بالمرسومين بقانونين رقمي (6) لسنة 1984م و(7) لسنة 1984م في شأن التقاعد العسكري وتقاعد الموظفين المدنيين",
   "short_name": "قانون رقم (8) لسنة 1984 بتأجيل العمل بالمرسومين بقانونين رقمي (6) لسنة 1984م و(7) لسنة 1984م في شأن التقاعد العسكري و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=427&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1984.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=427&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يؤجل العمل بأحكام كل من المرسوم بقانون رقم (6) لسنة 1984 م و المرسوم بقانون رقم (7) لسنة 1984 في شأن التقاعد العسكري وتقاعد الموظفين المدنيين على التوالي، وذلك حتى صدور قانون آخر في هذا الشأن."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به اعتباراً من 18/12/1984 وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

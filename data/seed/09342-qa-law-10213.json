@@ -4,8 +4,27 @@
   "title": "قـرار مجلـس الـوزراء رقـم (36) لسنـة 2025 بنـزع ملكيـة بعـض العقـارات للمنفعـة العامـة",
   "short_name": "قـرار مجلـس الـوزراء رقـم (36) لسنـة 2025 بنـزع ملكيـة بعـض العقـارات للمنفعـة العامـة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10213&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10213&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُـنـزع لـلـمـنـفـعة الـعـامـة مـلـكـيـة الـعـقـارات الـكـائـنـة بمـنـطـقـة (أم عبـيـريـة) والمـبـينـة فـي قـرار وزيـر الـبـلـديـة رقـم (110) لـسنـة 2025 المـشـار إلـيـه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُـتـخـذ الإجـراءات المـنـصـوص عـلـيهـا فـي الـقـانـون رقم (8) لـسنـة 2022 المـشـار إلـيـه ، لـتـعـويـض مـلاك الـعـقـارات المـنـزوعـة مـلـكيـتـهـا بمـوجـب هـذا الـقـرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "عـلـى جـمـيـع الجـهـات المـخـتـصـة ، كـل فـيـمـا يـخـصـه ، تـنـفـيـذ هـذا الـقرار. ويُـعمـل بـه مـن تـاريـخ نـشـره فـي الجـريـدة الـرسـمـيـة."
+    }
+  ],
   "definitions": []
 }

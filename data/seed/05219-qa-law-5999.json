@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (27) لسنة 2005 بمنح مكافأة لرئيس وأعضاء اللجنة الدائمة لشؤون المخدرات والمسكرات",
   "short_name": "قرار مجلس الوزراء رقم (27) لسنة 2005 بمنح مكافأة لرئيس وأعضاء اللجنة الدائمة لشؤون المخدرات والمسكرات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5999&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5999&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمنح كل من رئيس وأعضاء اللجنة الدائمة لشؤون المخدرات والمسكرات، المشكلة ب قرار مجلس الوزراء رقم (1) لسنة 1999 المشار إليه، مكافأة مالية مقدارها (2000) ألفا ريال شهرياً. وتسري في شأن تلك المكافأة أحكام قرار مجلس الوزراء رقم (9) لسنة 1993 بشأن تنظيم أعمال اللجان المشتركة والمتخصصة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير الداخلية في تعيين سكرتارية اللجنة، وتحديد مكافأتها. بما لا يجاوز مكافأة الأعضاء."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 21/9/2005. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

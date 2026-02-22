@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (11) لسنة 2022 بتسمية رئيس وأعضاء اللجنة الوطنية للمؤهلات والاعتماد الأكاديمي",
   "short_name": "قرار رئيس مجلس الوزراء رقم (11) لسنة 2022 بتسمية رئيس وأعضاء اللجنة الوطنية للمؤهلات والاعتماد الأكاديمي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8998&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8998&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل اللجنة الوطنية للمؤهلات والاعتماد الأكاديمي، على النحو التالي:\n1- الأستاذ الدكتور مازن عمر حسنه رئيساً\n2- الأستاذ الدكتور سيف سعيد السويدي عضواً\n3- الأستاذة الدكتورة/ هالة سلطان سيف العيسى عضواً\n4- الأستاذة الدكتورة/ عائشة أحمد محمد فخرو عضواً\n5- الدكتورة/ منى المرزوقي عضواً\n6- الدكتور/ راشد سلطان الكواري عضواً\n7- الأستاذ الدكتور/ إياد مسعد عضواً\n8- الأستاذ الدكتور/ خالد مشاقة عضواً\n9- الدكتور/ عادل الشريف عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

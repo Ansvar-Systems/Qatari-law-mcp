@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (2) لسنة 1999 بإعتبار نزع ملكية العقارين الواقعين بمنطقة الغرافة من أعمال المنفعة العامة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (2) لسنة 1999 بإعتبار نزع ملكية العقارين الواقعين بمنطقة الغرافة من أعمال المنف...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1983&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1983&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر من أعمال المنفعة العامة، نزع ملكية العقارين الواقعين بمنطقة الغرافة والموضحين تفاصيلهما، بالمذكرة والرسم التخطيطي المرفقين بهذا القرار، وحدوده معينة هندسياً طبقاً لما ورد بالمادة (2) منه،\nوتتخذ الإجراءات اللازمة لإستصدار مرسوم نزع الملكية طبقاً لأحكام القانون رقم (13) لسنة 1988 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسيا حدود الأراضي المقرر نزع ملكيتها بما تضمنه مخططا المسح الهندسيان الرسميان رقم (ب د/507/89) الموثق عقارياً برقم (20814) ورقم (ب د/1364/88) الموثق عقارياً برقم (6227)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

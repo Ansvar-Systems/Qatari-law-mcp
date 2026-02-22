@@ -4,8 +4,21 @@
   "title": "قانون رقم (3) لسنة 2001 بتعديل بعض أحكام القانون رقم (8) لسنة 1998 بشأن الجمعيات والمؤسسات الخاصة",
   "short_name": "قانون رقم (3) لسنة 2001 بتعديل بعض أحكام القانون رقم (8) لسنة 1998 بشأن الجمعيات والمؤسسات الخاصة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=289&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=289&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بعبارتي (وزارة الأوقاف والشؤون الإسلامية) و(وزير الأوقاف والشؤون الإسلامية) على التوالي، عبارتا (وزارة شؤون الخدمة المدنية والإسكان) و(وزير شؤون الخدمة المدنية والإسكان) أينما وردتا في القانون رقم (8) لسنة 1998 المشار إليه، واللوائح والقرارات المنفذة له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

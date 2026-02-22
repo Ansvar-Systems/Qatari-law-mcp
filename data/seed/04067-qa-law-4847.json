@@ -4,8 +4,21 @@
   "title": "قرار رقم (118) لسنة 2012 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (118) لسنة 2012 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4847&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4847&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون المُشار إليه أعلاه، والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nالسيد/ حسن سالمان فيصل عبدالمالك\nمشرف تفتيش\n2\nالسيد/ أحمد محمود أحمد محمد\nمفتش صيدلي\n3\nالسيد/ محمد عبدالحميد محمد عطية\nمفتش صيدلي\n4\nالسيد/ محمد عادل إبراهيم عبدالفتاح\nمفتش صيدلي\n5\nالسيد/ محمد كامل سيف الدين\nمفتش صيدلي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

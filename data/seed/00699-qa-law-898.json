@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (13) لسنة 2003 بالموافقة على انضمام دولة قطر إلى إتفاقية قانون استخدام المجاري المائية الدولية في الأغراض غير الملاحية",
   "short_name": "مرسوم رقم (13) لسنة 2003 بالموافقة على انضمام دولة قطر إلى إتفاقية قانون استخدام المجاري المائية الدولية في الأغراض غ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=898&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=898&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على إنضمام دولة قطر إلى اتفاقية قانون استخدام المجاري المائية الدولية في الأغراض غير الملاحية ، التي اعتمدتها الجمعية العامة للأمم المتحدة في قرارها رقم 51/229 بتاريخ 21/5/1997، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

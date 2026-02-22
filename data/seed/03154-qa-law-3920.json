@@ -4,8 +4,27 @@
   "title": "قرار وزير البلدية والتخطيط العمراني رقم (8) 2010 بإعتبار استملاك العقار (19006) من أعمال المنفعة العامة",
   "short_name": "قرار وزير البلدية والتخطيط العمراني رقم (8) 2010 بإعتبار استملاك العقار (19006) من أعمال المنفعة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3920&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3920&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر من أعمال المنفعة العامة مشروع استملاك العقار (19006) لتوسعة المبنى الحالي لمطار الدوحة الدولي الموضحة تفاصيلة وموقعه بالمذكرة و المخطط التوجيهي المرفقين بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسياً حدود ومعالم العقار المراد نزع ملكيته وفقاً لما يتضمنه الرسم التخطيطي المرفق."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

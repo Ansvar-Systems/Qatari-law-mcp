@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (11) لسنة 2025 بـالـتـصـديـق عـلـى اتفاقية بشأن المساعدة الإداريـة المـتـبـادلـة للـتـمـكـن مـن الـتـطـبـيـق الـصـحـيـح لـقـانـون الـجـمـارك ومـن أجـل مـنـع وتقصي ومحاربة الجرائم الخاصة بالجمارك بين حكومة دولة قطر وحكومة جمهورية السودان",
   "short_name": "مرسوم رقم (11) لسنة 2025 بـالـتـصـديـق عـلـى اتفاقية بشأن المساعدة الإداريـة المـتـبـادلـة للـتـمـكـن مـن الـتـطـبـيـ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9922&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9922&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية بشأن المساعدة الإدارية المتبادلة للتمكن من التطبيق الصحيح لقانون الجمارك ومن أجل منع وتقصي ومحاربة الجرائم الخـاصـة بـالـجـمـارك بين حكومة دولة قطر وحكومة جمهورية السودان ، الموقعة بمدينة الدوحة بتاريخ 2011/06/08 ، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون ، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

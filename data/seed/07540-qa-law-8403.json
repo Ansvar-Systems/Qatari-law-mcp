@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (29) لسنة 2020 بتعديل بعض أحكام القرار الأميري رقم (62) لسنة 2018 بتجديد مدة مجلس إدارة صندوق دعم الأنشطة الإجتماعية والرياضية (دعم)",
   "short_name": "قرار أميري رقم (29) لسنة 2020 بتعديل بعض أحكام القرار الأميري رقم (62) لسنة 2018 بتجديد مدة مجلس إدارة صندوق دعم الأن...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8403&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8403&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل سعادة الشيخ/ سعود بن عبد الرحمن بن حسن بن علي آل ثاني، محل معالي الشيخ/ خالد بن خليفة بن عبدالعزيز آل ثاني، في عضوية مجلس إدارة صندوق دعم الأنشطة الاجتماعية والرياضية (دعم)، وتكون مدة عضويته مكملة لمدة عضوية سلفه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 09/02/2020. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,15 @@
   "title": "إعلان لسنة 1962 إعلان من حضرة صاحب السمو حاكم البلاد بشأن تأكيد تبعية جزيرة حالول لقطر",
   "short_name": "إعلان لسنة 1962 إعلان من حضرة صاحب السمو حاكم البلاد بشأن تأكيد تبعية جزيرة حالول لقطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2930&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1962.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2930&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إعلان لسنة 1962 إعلان من حضرة صاحب السمو حاكم البلاد بشأن تأكيد تبعية جزيرة حالول لقطر\nإعلان لسنة 1962 إعلان من حضرة صاحب السمو حاكم البلاد بشأن تأكيد تبعية جزيرة حالول لقطر 0 / 1962\nيطيب لنا أن نعلن أن لجنة الخبراء المشكلة لإبداء الرأي في موضوع ملكية جزيرة حالول قد انتهت إلى تأكيد ثبوت هذه الملكية لنا بصورة جامعة مانعة. وقد أيدت الحكومة البريطانية هذه النتيجة أي امتداد سيادتنا الكاملة لهذه الجزيرة وخضوعها لاختصاصنا العام خضوعاً تاماً.\nنحن إذ نزف هذا النبأ السعيد إلى كافة المواطنين، لنرجو الله تعالى عز وجل أن يهدينا سواء السبيل وأن يوفقنا إلى تحقيق ما نصبو إليه دواماً من رفعة ورفاهية وتقدم لشعبنا الكريم.\nهذا ولأهمية هذا الحادث من جميع الوجوه، أمرنا بنشر هذا الإعلان في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

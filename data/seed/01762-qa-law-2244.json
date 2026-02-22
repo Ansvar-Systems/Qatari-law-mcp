@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (90) لسنة 2003 بتأسيس شركة (قطر للصكوك العالمية) شركة مساهمة قطرية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (90) لسنة 2003 بتأسيس شركة (قطر للصكوك العالمية) شركة مساهمة قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2244&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2244&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لحكومة دولة قطر وبنك اتش اس بي سي الشرق الأوسط (شركة ذات مسئولية محدودة) في أن يؤسسا بدولة قطر شركة مساهمة قطرية تسمى قطر للصكوك العالمية (شركة مساهمة قطرية) برأسمال قدره (30) ثلاثون ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي كما عليهما الالتزام بأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية مرفقاً به عقد تأسيس الشركة و نظامها الأساسي ."
+    }
+  ],
   "definitions": []
 }

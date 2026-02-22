@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (1) لسنة 2003 بتعيين نائب رئيس وأعضاء المجلس الأعلى للتعليم",
   "short_name": "قرار أميري رقم (1) لسنة 2003 بتعيين نائب رئيس وأعضاء المجلس الأعلى للتعليم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5309&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5309&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعين سمو الشيخة موزة بنت ناصر المسند، رئيس المجلس الأعلى لشؤون الأسرة، نائباً لرئيس المجلس الأعلى للتعليم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين عضواً بالمجلس الأعلى للتعليم كل من:\n1- سعادة الدكتور/ أحمد بن خليفة بوشرباك المنصوري\nوزير التربية والتعليم\nعضواً\n2- سعادة الشيخ/ عبد الله بن سعود بن عبد العزيز آل ثاني\nرئيس ديوان المحاسبة\nعضواً\n3- سعادة السيدة/ شيخة أحمد المحمود\nرئيس الفريق التنفيذي لمشروع تطوير التعليم\nعضواً\n4- الدكتورة/ شيخة عبد الله المسند\nنائب مدير جامعة قطر للبحوث وخدمة المجتمع\nعضواً\n5- الدكتور/ محمد صالح السادة\nمدير الشؤون الفنية بقطر للبترول\nعضواً\n6- السيد/ محمد خالد المانع\nرئيس مجلس إدارة غرفة تجارة وصناعة قطر\nعضواً\n7- السيد/ بدر عبد الله الدرويش\nرجل أعمال\nعضواً"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو لمدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

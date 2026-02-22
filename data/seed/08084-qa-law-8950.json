@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (31) لسنة 2022 بفضّ دور الانعقاد العادي الأول من الفصل التشريعي الأول لمجلس الشورى",
   "short_name": "مرسوم رقم (31) لسنة 2022 بفضّ دور الانعقاد العادي الأول من الفصل التشريعي الأول لمجلس الشورى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8950&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8950&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُفض دور الانعقاد العادي الأول من الفصل التشريعي الأول الموافق لدور الانعقاد السنوي الخمسين لمجلس الشورى، اعتباراً من يوم الثلاثاء السادس من شهر ذي الحجة عام 1443 هجرية،\nالموافق للخامس من شهر يوليو عام 2022 ميلادية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

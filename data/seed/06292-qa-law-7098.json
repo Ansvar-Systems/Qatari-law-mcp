@@ -4,8 +4,51 @@
   "title": "قرار وزير البلدية والبيئة رقم (274) لسنة 2016م بشأن تنظيم تصدير الأسماك",
   "short_name": "قرار وزير البلدية والبيئة رقم (274) لسنة 2016م بشأن تنظيم تصدير الأسماك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7098&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7098&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحظر تصدير جميع أنواع الأسماك طوال العام عن طريق البحر."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يجوز تصدير الفائض من الأسماك الزائدة عن حاجة السوق المحلي عن طريق البر، وفقاً للشروط والضوابط التي تضعها إدارة الثروة السمكية بالوزارة، ويكون ذلك بالنسبة للأنواع التالية:\n(الحمرة، التبان، الشقرة، الكوفر، النيسرة، الشنينوة، الجد، الجم، السمان، الحاقول، الفرش، اللدن، الكنعد، الشعري).\nويجوز للإدارة منع تصدير أي نوع من هذه الأسماك، إذا أثبتت الدراسات العلمية تعرض مخزونها للاستنزاف."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تتولى إدارة الثروة السمكية بالتنسيق مع وزارة الاقتصاد والتجارة تحديد كميات الأسماك التي يسمح بتصديرها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على إدارة الثروة السمكية عند إصدارها تراخيص تصدير جديدة، وفقاً لما هو مبين في المادة ( 2 ) من هذا القرار، مراعاة ما يلي:\n- المخزون السمكي.\n- تحديد مدة الترخيص.\n- الكمية المسموح تصديرها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يُمنع تصدير أو إعادة تصدير أسماك القرش أو أي جزء منها (الزعانف)."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يُلغى القرار الوزاري رقم (36) لسنة 2006 المشار إليه، كما يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

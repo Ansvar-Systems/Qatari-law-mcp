@@ -4,8 +4,21 @@
   "title": "قرار رئيس هيئة تنظيم الاتصالات رقم (40) لسنة 2025 بإصدار اللائحة التنظيمية للخدمات البريدية",
   "short_name": "قرار رئيس هيئة تنظيم الاتصالات رقم (40) لسنة 2025 بإصدار اللائحة التنظيمية للخدمات البريدية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10096&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10096&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إصدار اللائحة التنظيمية للخدمات البريدية الواجبة التطبيق على القطاع البريدي، والمرفقة بهذا القرار بالرقم المرجعي CRARAC2025/05/22."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

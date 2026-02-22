@@ -4,8 +4,39 @@
   "title": "قرار وزير العمل رقم ( 32) لسنة 2025 بتحديد رسوم رخص العمل واستقدام العمال والتصديق على الأختام والشهادات والمستندات الأخرى",
   "short_name": "قرار وزير العمل رقم ( 32) لسنة 2025 بتحديد رسوم رخص العمل واستقدام العمال والتصديق على الأختام والشهادات والمستندات ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10151&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10151&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد رسوم منح رخص العمل وتجديدها واستبدالها (بدل فاقد أو تالف) بمبلغ (100) مائة ريال عن كل سنة للعمال بالشركات والجمعيات والمؤسسات الخاصة ولدى الأفراد، والعمال المستقدمين للدولة من قبل أزواجهم أو ذويهم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُحدد رسوم منح وتجديد واستبدال (بدل فاقد أو تالف) ترخيص مزاولة مهنة استقدام عمال من الخارج ، على النحو التالي:\n- (2000) ألفا ريال رسم ترخيص أو تجديد .\n- (1000) ألف ريال رسم الاستبدال (بدل فاقد أو تالف) ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُحدد بمبلغ (20) ريالاً رسوم التصديق على أختام الشركات والمؤسسات وعلى عقود العمل والشهادات والمستندات الأخرى التي تصادق عليها وزارة العمل ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تُعفى من الرسوم المنصوص عليها في هذا القرار الشركات والجمعيات والمؤسسات الخاصة والأفراد في حال كان الطلب متعلقاً بأي من :\n1-القطريين .\n2-أبناء القطريات .\n3-مواطني دول مجلس التعاون لدول الخليج العربية ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

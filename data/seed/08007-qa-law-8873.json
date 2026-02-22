@@ -4,8 +4,21 @@
   "title": "قرار رقم (49) لسنة 2022 بتخويل بعض موظفي وزارة الأوقاف والشؤون الإسلامية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (49) لسنة 2022 بتخويل بعض موظفي وزارة الأوقاف والشؤون الإسلامية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8873&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8873&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الأوقاف والشؤون الإسلامية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (12) لسنة 2021 المشار إليه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nجراب محمد صميع سعيدان الحبابي\nرئيس التحصيل وحسابات الزكاة\n2\nفايز معزي طاري الشمري\nرئيس قسم مصارف الزكاة\n3\nمحمد أحمد السيّد عبدالله عبدالمطلب\nباحث شؤون مالية أول\n4\nعلي عبدالرحمن أحمد مبارك المالكي\nأخصائي شؤون مالية أول\n5\nعلي محمد علي طفله المري\nأخصائي مصارف زكاة أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

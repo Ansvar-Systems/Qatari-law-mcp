@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (8) لسنة 2019 بتعيين مساعدي نيابة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (8) لسنة 2019 بتعيين مساعدي نيابة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7951&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7951&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين في وظيفة مساعد نيابة، كل من:\n1- السيد/ فهد محمد سالم المالكي.\n2- السيد/ سحيم حمد سعيد الراشدي.\n3- السيد/ يوسف سنان عبدالرحمن سنان المسلماني.\n4- السيد/ جاسم عبدالله جاسم خاطر السليطي.\n5- السيد/ عبدالله فيصل يوسف محمد بهزاد.\n6- السيد/ عبدالرحمن عيسى أحمد عيسى المناعي.\n7- السيد/ محمد سالم عبدالهادي بحيح المري.\n8- السيد/ محمد علي عبدالله الفياض الخالدي.\n9- السيد/ ثامر مبارك غانم بوثامر العلي.\n10- السيد/ سعود عبدالعزيز حسن غانم الغانم.\n11- السيد/ تميم محمد عبدالله آل إبراهيم العطية.\n12- السيد/ عبداللطيف عبدالله عبداللطيف السادة.\n13- السيد/ نايف سعد ناصر كليفيخ العتيبي.\n14- السيد/ علي حسن ماجد أحمد الهاجري.\n15- السيد/ مبارك سعيد مبارك ال عامر الكعبي.\n16- السيد/ مشعل عويد مطر التومي الشمري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

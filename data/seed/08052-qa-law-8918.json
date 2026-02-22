@@ -4,8 +4,27 @@
   "title": "قرار وزير العدل رقم (64) لسنة 2022 بالإذن بتقديم الخبرة موضوع فحص السموم والمخدرات",
   "short_name": "قرار وزير العدل رقم (64) لسنة 2022 بالإذن بتقديم الخبرة موضوع فحص السموم والمخدرات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8918&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8918&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُؤذن بتقديم الخبرة في موضوع فحص السموم والمخدرات لكل من:\nم\nالاسم\nالرقم الوظيفي\n1\nعميد/ عبدالعزيز علي السليطي\n1391\n2\nرائد/ فهد سلمان المعمري\n2226\n3\nإيهاب محمد عطيه الملاح\n13204\n4\nعبدالمنعم بدوي الطاهر الحامدي\n72\n5\nنوف علي عبدالله المناعي\n10318\n6\nشعاع محمد سعيد المسلماني\n11524\n7\nمريم عبدالله عبدالعزيز المير\n12425\n8\nخالد أبوبكر سيّد\n18973\n9\nأفراح عبده صالح الطيري\n9681\n10\nفاطمه حسن العيسى\n10174\n11\nطارق مهدي عبيد\n17876\n12\nشوقي عثمان جعفر\n18368\n13\nأحمد البشير آدم\n10543\n14\nبشرى إبراهيم الطيب\n14576\n15\nجعفر محمد حاج\n19126"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُؤدي من صدر له الإذن اليمين المنصوص عليها في المادة (12) من القانون رقم (16) لسنة 2017 بتنظيم أعمال الخبرة، أمام الوزير أو من يُفوضه"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

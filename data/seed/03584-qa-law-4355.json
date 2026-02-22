@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (97) لسنة 1997 باعتبار مشروع مراد نزع الملكية لأجله من أعمال المنفعة العامة",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (97) لسنة 1997 باعتبار مشروع مراد نزع الملكية لأجله من أعمال المنفعة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4355&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4355&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر من أعمال المنفعة العامة، مشروع الإسكان الحكومي بمنطقة الوجبة، والموضح موقعه وتفاصيله، بالرسم التخطيطي المرفق بهذا القرار، والمعينة حدوده هندسياً طبقاً لما ورد بالمادة ( 2 ) من هذا القرار.\nوتتخذ الإجراءات اللازمة لإستصدار مرسوم نزع الملكية طبقاً لأحكام القانون رقم (13) لسنة 1988 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسياً، المنطقة المقرر وقوعها بالمنفعة العامة، بالمضلع الهندسي، ذي النقاط الأربعة عشر، التي تحدد إحداثيات أركانه، والمبينة بالجدول التالي:\nمسلسل\nشرقاً\nشمالاً\n1\n218984\n394602\n2\n219625\n394696\n3\n219497\n394462\n4\n219247\n394490\n5\n219101\n394213\n6\n218950\n394293\n7\n218888\n394181\n8\n218193\n393704\n9\n218194\n394123\n10\n218262\n394398\n11\n218411\n394342\n12\n218722\n394339\n13\n218720\n394550\n14\n218942\n394528"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

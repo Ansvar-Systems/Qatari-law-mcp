@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (15) لسنة 2010 بتعيين نواب رئيس بمحكمة الاستئناف",
   "short_name": "مرسوم رقم (15) لسنة 2010 بتعيين نواب رئيس بمحكمة الاستئناف",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5694&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5694&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين نائباً لرئيس محكمة الاستئناف كل من السادة الآتية أسماؤهم:\n1- السيد/ إبراهيم صالح حسن النصف.\n2- السيد/ عبد الله راشد عبد الله المهندي.\n3- السيد/ إبراهيم هلال سعد المهندي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

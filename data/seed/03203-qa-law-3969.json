@@ -4,8 +4,45 @@
   "title": "قانون رقم (22) لسنة 2005 بحظر جلب وتشغيل وتدريب وإشراك الأطفال في سباق الهجن",
   "short_name": "قانون رقم (22) لسنة 2005 بحظر جلب وتشغيل وتدريب وإشراك الأطفال في سباق الهجن",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3969&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3969&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر طفلاً في تطبيق أحكام هذا القانون، كل من يقل عمره عن ثماني عشرة سنة ميلادية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يحظر جلب وتشغيل وتدريب وإشراك الأطفال في سباق الهجن."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يكون لموظفي إدارة العمل بوزارة العمل والشؤون الاجتماعية، الذين يصدر بندبهم قرار من النائب العام بالاتفاق مع وزير العمل والشؤون الاجتماعية، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام هذا القانون والقرارات المنفذة له."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "مع عدم الإخلال بأي عقوبة أشد ينص عليها قانون آخر، يعاقب بالحبس مدة لا تقل عن ثلاث سنوات ولا تجاوز عشر سنوات، وبالغرامة التي لا تقل عن خمسين ألف ريال ولا تزيد على مائتي ألف ريال، كل من يخالف أحكام المادة ( 2 ) من هذا القانون."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يصدر وزير العمل والشؤون الاجتماعية القرارات اللازمة لتنفيذ أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

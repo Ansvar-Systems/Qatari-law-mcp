@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (17) لسنة 2000 بتعيين قاض بالمحاكم العدلية",
   "short_name": "مرسوم رقم (17) لسنة 2000 بتعيين قاض بالمحاكم العدلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5702&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5702&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين قاضياً بالمحاكم العدلية، بفئة قضاة المحكمة المدنية الكبرى وما في حكمها، السيد/ أحمد سلطان محمد صباح العسيري، ويتقاضى مرتباً شهريا قدره 8000 ريال، مع علاوة سنوية قدرهـا &shy;/200 ريال في الشهر، حتى يصل المرتب الى 9000 ريال شهرياً، وهو الحد الأعلى له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

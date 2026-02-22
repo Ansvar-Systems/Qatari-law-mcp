@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (40) لسنة 2019 بشأن إجازة رعاية أحد الوالدين أو الأٌقارب",
   "short_name": "قرار مجلس الوزراء رقم (40) لسنة 2019 بشأن إجازة رعاية أحد الوالدين أو الأٌقارب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8217&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8217&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مع مراعاة حكم المادة ( 74 ) من قانون الموارد البشرية المدنية المشار إليه، يجوز منح الموظف القطري إجازة لرعاية أحد الوالدين أو الأقارب حتى الدرجة الأولى من ذوي الإعاقة أو المصابين بأمراض تستوجب ملازمتهم بصفة دائمة بناءً على تقرير من الجهة الطبية المختصة، وذلك لمدة سنة قابلة للتجديد لمدد أخرى مماثلة وبحد أقصى خمس سنوات بموافقة الرئيس، وفيما زاد على ذلك بموافقة رئيس مجلس الوزراء.\nوتكون الإجازة براتب أساسي مضافاً إليه العلاوة الاجتماعية وبدل السكن المستحق."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "لا يجوز منح الإجازة المنصوص عليها في المادة السابقة لأكثر من موظف واحد لرعاية ذات المريض."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

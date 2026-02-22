@@ -4,8 +4,21 @@
   "title": "أمر أميري رقم (4) لسنة 2001 بإعفاء وزير من منصبه",
   "short_name": "أمر أميري رقم (4) لسنة 2001 بإعفاء وزير من منصبه",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5210&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5210&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعفى الدكتور/ محمد عبد الرحيم كافود، وزير التربية والتعليم والتعليم العالي، من منصبه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا الأمر الأميري من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

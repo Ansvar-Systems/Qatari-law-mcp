@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (55) لسنة 2023 بالتصديق على مذكرة تفاهم للتعاون في مجال الثقافة بين حكومة دولة قطر وحكومة جمهورية رواندا",
   "short_name": "مرسوم رقم (55) لسنة 2023 بالتصديق على مذكرة تفاهم للتعاون في مجال الثقافة بين حكومة دولة قطر وحكومة جمهورية رواندا",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9368&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9368&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على مذكرة تفاهم للتعاون في مجال الثقافة بين حكومة دولة قطر وحكومة جمهورية رواندا، الموقعة بمدينة كيغالي بتاريخ 21/04/2019، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم.\nويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

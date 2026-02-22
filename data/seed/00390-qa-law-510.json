@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (18) لسنة 1996 بتعديل بعض أحكام القانون رقم (10) لسنة 1987 بشأن أملاك الدولة العامة والخاصة",
   "short_name": "مرسوم بقانون رقم (18) لسنة 1996 بتعديل بعض أحكام القانون رقم (10) لسنة 1987 بشأن أملاك الدولة العامة والخاصة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=510&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=510&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى القانون رقم (10) لسنة 1987 المشار إليه، مادة جديدة برقم (22) مكرر، يكون نصها كما يلي:\n«يجوز للحكومة بموجب إتفاق أو تعهد أن تتنازل عن الحصانة المقررة بموجب أحكام هذا القانون لأموالها العامة أو الخاصة المستثمرة في نشاطات مالية أو تجارية أو صناعية أو المودعة لدى البنوك.\nويكون صحيحاً ما تضمنته العقود القائمة من شروط في هذا الخصوص»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات الرسمية المختصة، كل فيما يخصه، تنفيذ أحكام هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

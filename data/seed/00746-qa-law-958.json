@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (1) لسنة 1999 بضمان حكومة دولة قطر للإلتزامات المالية الناشئة عن ضمان المؤسسة العامة القطرية للبترول لتمويل مشروع توسعة مصفاة شركة البترول الوطنية للتوزيع (نودكو)",
   "short_name": "مرسوم رقم (1) لسنة 1999 بضمان حكومة دولة قطر للإلتزامات المالية الناشئة عن ضمان المؤسسة العامة القطرية للبترول لتمويل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=958&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=958&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "توافق حكومة دولة قطر على ضمان الإلتزامات المالية الناشئة عن ضمان المؤسسة العامة القطرية للبترول، لشركة البترول الوطنية للتوزيع (نودكو)، والمبين في اتفاقية الضمان المزمع إبرامها بين حكومة دولة قطر وبين مقرضي المشروع لتمويل مشروع توسعة المصفاة المملوكة لها في مسيعيد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُفوض وزير المالية والاقتصاد والتجارة أو من ينيبه في التوقيع على اتفاقية الضمان المزمع إبرامها بين حكومة دولة قطر ومقرضي توسعة المصفاة المشار إليها في المادة السابقة، كما يفوض وزير المالية والاقتصاد والتجارة أو من ينيبه في الاتفاق على التعديلات التي يرى إدخالها على مشروع الاتفاقية المشار إليها، وفي التوقيع على تلك التعديلات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

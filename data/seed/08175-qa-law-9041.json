@@ -4,8 +4,21 @@
   "title": "قرار وزير البلدية رقم (234) لسنة 2022 بتحديد الأماكن التي يُمنع فيها وقوف بعض المركبات داخل المواقف أو خارجها",
   "short_name": "قرار وزير البلدية رقم (234) لسنة 2022 بتحديد الأماكن التي يُمنع فيها وقوف بعض المركبات داخل المواقف أو خارجها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9041&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9041&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُمنع وقوف سيارات النقل (الشحنات) التي يزيد وزنها الفارغ على (3) طن والجرارات والمقطورات وشبه المقطورات داخل المواقف العامة أو خارجها أو في الأراضي الفضاء أو على الأرصفة، وذلك داخل الحدود الجغرافية لبلدية الدوحة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُلاً فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

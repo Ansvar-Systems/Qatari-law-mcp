@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (18) لسنة 2008 بإعفاء مؤسسات التمويل الإسلامية المشاركة في تمويل مشروع رأس لفان سي للكهرباء والماء من ضريبة الدخل",
   "short_name": "مرسوم بقانون رقم (18) لسنة 2008 بإعفاء مؤسسات التمويل الإسلامية المشاركة في تمويل مشروع رأس لفان سي للكهرباء والماء م...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2690&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2690&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعفى مؤسسات التمويل الإسلامية، المشاركة في تمويل مشروع رأس لفان سي للكهرباء والماء وخلفائها ووكلائها من ضريبة الدخل المستحقة على أرباحها من هذا المشروع."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

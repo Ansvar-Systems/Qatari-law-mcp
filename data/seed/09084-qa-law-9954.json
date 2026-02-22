@@ -4,8 +4,27 @@
   "title": "قرار رئيس هيئة تنظيم الاتصالات رقم (55) لسنة 2024 بإصدار اللائحة التنظيمية لقائمة المواد المحظورة في الخدمات البريدية",
   "short_name": "قرار رئيس هيئة تنظيم الاتصالات رقم (55) لسنة 2024 بإصدار اللائحة التنظيمية لقائمة المواد المحظورة في الخدمات البريدية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9954&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9954&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعمل بأحكام اللائحة التنظيمية لقائمة المواد المحظورة لمقدمي الخدمة البريدية او المرخص لهم،كما هو منصوص عليه في المادة 18 من الفصل الرابع من قانون البريد المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُنشر قائمة المواد المحظورة بموجب هذه اللائحة على موقع هيئة تنظيم الاتصالات، وأي تعاميم صادرة بموجبه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره ويُنشر بالجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

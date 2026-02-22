@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والمالية رقم (6) لسنة 2012 بإنشاء دائرة جمركية",
   "short_name": "قرار وزير الاقتصاد والمالية رقم (6) لسنة 2012 بإنشاء دائرة جمركية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4346&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4346&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُنشأ دائرة جمركية يكون مقرها مركز الدوحة للمعارض بمنطقة الدفنة، ويُفوض مدير عام الإدارة العامة للجمارك في تحديد اختصاصاتها وساعات العمل فيها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 10/2/2010. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

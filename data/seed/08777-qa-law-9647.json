@@ -4,8 +4,21 @@
   "title": "قرار وزاري رقم ( 134 ) لسنة 2024 بشأن تحديد سرعة الوسائط البحرية داخل ميناء الصيد البحري",
   "short_name": "قرار وزاري رقم ( 134 ) لسنة 2024 بشأن تحديد سرعة الوسائط البحرية داخل ميناء الصيد البحري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9647&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9647&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجب على جميع الوسائط البحرية السير بسرعة لا تتجاوز (5 عقد) داخل ميناء الصيد البحري وبشكل لا يعرض سلامة السفن والقوارب أو المساعدات الملاحية أو المنشآت الأخرى في الميناء للخطر أو الضرر."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

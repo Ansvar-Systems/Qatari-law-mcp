@@ -4,8 +4,27 @@
   "title": "قرار وزير الصحة العامة رقم (28) لسنة 1996 بشأن تخويل بعض موظفي وزارة الصحة العامة ومؤسسة حمد الطبية صفة مأموري الضبط القضائي",
   "short_name": "قرار وزير الصحة العامة رقم (28) لسنة 1996 بشأن تخويل بعض موظفي وزارة الصحة العامة ومؤسسة حمد الطبية صفة مأموري الضبط...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1973&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1973&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لمديري الإدارات ورؤساء الأقسام بوزارة الصحة العامة، ومؤسسة حمد الطبية، ولموظفي الأمن والمسؤولين الإداريين في المراكز الصحية، ولموظفي إدارة الأمن بمؤسسة حمد الطبية، كل في دائرة اختصاصه، صفة مأموري الضبط القضائي، لإثبات ما يقع من مخالفات لأحكام القانون رقم (3) لسنة 1996 المشار إليه، واللوائح والقرارات المنفذة له، وعرض وإجراء الصلح طبقاً لأحكامه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تحرر، لإثبات المخالفة، مذكرة ضبط، وفقاً للنموذج المرافق لهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

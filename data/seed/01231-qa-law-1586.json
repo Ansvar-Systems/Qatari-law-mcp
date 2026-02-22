@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (2) لسنة 2000 بتشكيل لجنة شئون الحج",
   "short_name": "قرار مجلس الوزراء رقم (2) لسنة 2000 بتشكيل لجنة شئون الحج",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1586&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1586&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "( عدلت بموجب قرار مجلس الوزراء 3/2002 ) ( عدلت بموجب قرار مجلس الوزراء 16/2000 )\nتشكل لجنة شئون الحج على النحو التالي:\n1- السيد / عبد الرحمن بن عبد الله آل محمود\nرئيساً\n2- السيد / محمد بن عبد اللطيف المانع\nنائباً للرئيس\n3- السيد / عبد العزيز بن علي الحمادي\nممثلاً لوزارة الأوقاف والشئون الإسلامية\nعضواً\n4- المقدم / سالم علي النعيمي\nممثلاً لوزارة الداخلية\nعضواً\n5- الدكتور / عيسى مبارك حجي السليطي\nممثلاً لوزارة الصحة العامة\nعضواً\n6- السيد /علي أحمد المحمود\nممثلاً لوزارة الخارجية\nعضواً\n7- السيد / يوسف عبد الرحمن الملا\nممثلاً لوزارة التربية والتعليم والتعليم العالي\nعضواً\n8- الشيخ / فيصل بن جاسم آل ثاني\nممثلاً للهيئة العامة للإذاعة والتليفزيون\nعضواً\n9- السيد / يوسف محمد المفتاح\nممثلاً لجمعية الهلال الأحمر القطري\nعضواً\nويحل نائب الرئيس محل الرئيس في حالة غيابه، أو خلو منصبه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار مجلس الوزراء رقم (7) لسنة 1997 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هـذا القرار. ويُعمل به من 14/2/2000. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

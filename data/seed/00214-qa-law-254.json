@@ -4,8 +4,27 @@
   "title": "قانون رقم (2) لسنة 1996 بتعديل بعض أحكام القانون رقم (9) لسنة 1979 بشأن التوثيق",
   "short_name": "قانون رقم (2) لسنة 1996 بتعديل بعض أحكام القانون رقم (9) لسنة 1979 بشأن التوثيق",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=254&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=254&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 23 ) من القانون رقم (9) لسنة 1979 المشار إليه النص التالي:"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article (23)",
+      "content": "«تفرض رسوم على أي إجراء مطلوب بالفئات الآتية:\nم\nالإجراء\nقيمة الرسم\n1\n2\n3\n4\n5\n6\n7\n8\nتوثيق المحرر\nالتصديق على كل إمضاء أو ختم\nاستخراج صورة رسمية من المحرر\nاستخراج شهادة أو ملخص من السجلات أو المحررات أو مرفقاتها\nالبحث في السجلات والفهارس لاستخراج صورة رسمية أو شهادة أو ملخص للاطلاع\nالاطلاع (الكشف النظري) على المحرر\nانتقال الموثق خارج المكتب\nإثبات التاريخ\nخمسة ريالات\nريالان\nثلاثة ريالات\nريالان\nريالان عن كل اسم في كل سنة أو كسورها\nريالان\nخمسون ريالا داخل مدينة الدوحة وخارجها.\nثلاثة ريالات\nويفرض رسم بقيمة ثلاثة ريالات على كل إجراء من الإجراءات غير المنصوص عليها التي يحددها وزير العدل».\nويجوز تعديل هذه الرسوم بقرار من مجلس الوزراء، بناء على اقتراح وزير العدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

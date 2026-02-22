@@ -4,8 +4,27 @@
   "title": "قرار وزير العدل رقم (9) لسنة 1996 بضم أحد المحامين المقيدين بالجدول الدائم للمحامين إلى عضوية لجنة قيد المحامين وتعيين أمين سر للجنة",
   "short_name": "قرار وزير العدل رقم (9) لسنة 1996 بضم أحد المحامين المقيدين بالجدول الدائم للمحامين إلى عضوية لجنة قيد المحامين وتعيي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6100&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6100&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضم السيد/ بهزاد يوسف بهزاد المحامي، المقيد بالجدول الدائم للمحامين، عضواً بلجنة قيد المحامين المنصوص عليها في المادة (7) من القانون رقم (20) لسنة 1980 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعين السيد/ محمد صالح حسن حامد أميناً لسر اللجنة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

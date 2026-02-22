@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (12) لسنة 1998 بإعادة تشكيل لجنة التظلمات المتعلقة بنزع ملكية العقارات للمنفعة العامة",
   "short_name": "قرار مجلس الوزراء رقم (12) لسنة 1998 بإعادة تشكيل لجنة التظلمات المتعلقة بنزع ملكية العقارات للمنفعة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1410&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1410&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيد/علي حجاب الهاجري محل السيد/أحمد علي عمران الكواري، في عضوية لجنة التظلمات المتعلقة بنزع ملكية العقارات للمنفعة العامة المنصوص عليها في قرار مجلس الوزراء رقم (17) لسنة 1995 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

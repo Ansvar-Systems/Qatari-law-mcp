@@ -4,8 +4,21 @@
   "title": "قرار وزير الداخلية رقم (146) لسنة 2023 بتسمية رئيس ونائب رئيس وأعضاء لجنة الرقابة على الإنفاق على الدعاية الانتخابية للانتخاب التكميلي لعضو مجلس الشورى عن الدائرة الانتخابية الحادية والعشرين",
   "short_name": "قرار وزير الداخلية رقم (146) لسنة 2023 بتسمية رئيس ونائب رئيس وأعضاء لجنة الرقابة على الإنفاق على الدعاية الانتخابية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9477&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9477&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ُسمى رئيس ونائب رئيس وأعضاء لجنة الرقابة على الإنفاق على الدعاية الانتخابية للانتخاب التكميلي لعضو مجلس الشورى عن الدائرة الانتخابية الحادية والعشرين، وفقاً للتالي:\n1 - المقدم/ نواف محمد العتيبي وزارة الداخلية رئيساً.\n2 - المقدم/ فيصل حمد آل ثاني وزارة الداخلية نائباً للرئيس.\n3 - السيّد/ أحمد محمد المهندي وزارة المالية عضواً.\n4 - السيّد/ خالد محمد العبيدلي وزارة العدل عضواً.\n5 - السيّد/ حمد جمعة المهندي مصرف قطر المركزي عضواً.\n6 - السيّد/ عبدالله خميس الكبيسي ديوان المحاسبة عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُلّ فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

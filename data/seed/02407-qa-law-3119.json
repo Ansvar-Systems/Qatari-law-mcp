@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (78) لسنة 1990 بالموافقة على انضمام دولة قطر إلى اتفاقية التعاون العربي في مجال تنظيم وتيسير عمليات الاغاثة",
   "short_name": "مرسوم رقم (78) لسنة 1990 بالموافقة على انضمام دولة قطر إلى اتفاقية التعاون العربي في مجال تنظيم وتيسير عمليات الاغاثة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3119&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1990.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3119&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى اتفاقية التعاون العربي في مجال تنظيم وتيسير عمليات الإغاثة ، التي وافق عليها مجلس جامعة الدول العربية بموجب قراره رقم (4740) بتاريخ 22/9/1987م، في دور انعقاده العادي الثامن والثمانين، المرفق نصه بهذا المرسوم، مقترناً الانضمام بالتحفظ المشار إليه في قرار مجلس الوزراء.\nومع مراعاة هذا التحفظ يكون للاتفاقية المذكورة قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

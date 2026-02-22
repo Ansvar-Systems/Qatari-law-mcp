@@ -4,8 +4,21 @@
   "title": "قرار وزير الأوقاف والشؤون الإسلامية رقم (77) لسنة 2017 بتحديد مبلغ ومدة خطاب الضمان اللازم لمنح ترخيص مقاولة العمرة",
   "short_name": "قرار وزير الأوقاف والشؤون الإسلامية رقم (77) لسنة 2017 بتحديد مبلغ ومدة خطاب الضمان اللازم لمنح ترخيص مقاولة العمرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7493&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7493&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد قيمة خطاب الضمان اللازم لمنح ترخيص مقاولة العمرة، المنصوص عليه بالمادة (3/فقرة ثانية) من القانون رقم (3) لسنة 2015 المشار إليه، بمبلغ (200,000) مائتي ألف ريال، على أن يكون خطاب الضمان صالحاً للأداء بأكمله لمدة ثلاث سنوات من تاريخ صدور الترخيص."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

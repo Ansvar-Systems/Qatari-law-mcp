@@ -4,8 +4,15 @@
   "title": "مُلحق النظام الأساسي المعدَّل لشركة قطر للتأمين شركة مساهمة قطرية",
   "short_name": "مُلحق النظام الأساسي المعدَّل لشركة قطر للتأمين شركة مساهمة قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4591&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4591&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "رأس مال الشركة: 891,891,000 (ثمانمائة وواحد وتسعون مليوناً وثمانمائة وواحد وتسعون ألف ريال قطري)، موزع على عدد 89,189,100 (تسعة وثمانين مليوناً ومائة وتسعة وثمانين ألفاً ومائة سهم عادي)، القيمة الإسمية للسهم الواحد (عشرة ريالات)، وهو مدفوع بالكامل."
+    }
+  ],
   "definitions": []
 }

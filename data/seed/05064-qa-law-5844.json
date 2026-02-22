@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (42) لسنة 2006 بتعيين قاض بمحكمة التمييز",
   "short_name": "مرسوم رقم (42) لسنة 2006 بتعيين قاض بمحكمة التمييز",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5844&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5844&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين السيد/ عمار إبراهيم محمد فرج، قاضيا بمحكمة التمييز."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به اعتبارا من 8/11/2006. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

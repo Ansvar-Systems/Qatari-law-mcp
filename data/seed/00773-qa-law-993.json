@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (23) لسنة 1991 بتعديل بعض أحكام القانون رقم (7) لسنة 1977 بتنظيم إسكان كبار الموظفين القطريين",
   "short_name": "مرسوم رقم (23) لسنة 1991 بتعديل بعض أحكام القانون رقم (7) لسنة 1977 بتنظيم إسكان كبار الموظفين القطريين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=993&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=993&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (21) من المرسوم رقم (7) لسنة 1977 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article (21)",
+      "content": "«في حالة انتهاء خدمة الموظف لأي سبب من الأسباب قبل سداد الدين، يستوفي البنك الدين كله أو بعضه من استحقاقات الموظف، وذلك مع عدم الإخلال بالأحكام الأخرى التي يقررها القانون في شأن استيفاء الديون وسدادها.\nفإذا كان للموظف معاش تقاعدي، خصم القسط المستحق من هذا المعاش التقاعدي، بما لا يجاوز الربع، وذلك مع مراعاة حكم الفقرة السابقة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

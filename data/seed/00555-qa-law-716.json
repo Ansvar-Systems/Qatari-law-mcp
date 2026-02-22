@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (29) لسنة 1999بتعديل بعض أحكام القرار الأميري رقم (2) لسنة 1998 بتشكيل مجلس التخطيط",
   "short_name": "قرار أميري رقم (29) لسنة 1999بتعديل بعض أحكام القرار الأميري رقم (2) لسنة 1998 بتشكيل مجلس التخطيط",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=716&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=716&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (1) من القرار الأميري رقم (2) لسنة 1998 المشار إليه، النص التالي:\n«يشكل مجلس التخطيط من وزير الطاقة والصناعة رئيساً، ووزير المالية والاقتصاد والتجارة نائباً للرئيس، وعضوية كل من:\n1- وزير الشؤون البلدية والزراعة.\n2- محافظ مصرف قطر المركزي.\n3- وكيل وزارة التربية والتعليم والتعليم العالي.\n4- مساعد وكيل الوزارة للشؤون التنفيذية بوزارة شؤون الخدمة المدنية والإسكان.\n5- المستشار الاقتصادي بالديوان الأميري.\n6- مدير الإدارة الاقتصادية بالديوان الأميري»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

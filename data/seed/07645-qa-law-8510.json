@@ -4,8 +4,39 @@
   "title": "قرار وزير الثقافة والرياضة رقم (138) لسنة 2020 بدمج مركز شباب الظعاين بمركز شباب سميسمة وبتعديل مسمى مركز شباب سميسمة واعتماد نظامه الأساسي",
   "short_name": "قرار وزير الثقافة والرياضة رقم (138) لسنة 2020 بدمج مركز شباب الظعاين بمركز شباب سميسمة وبتعديل مسمى مركز شباب سميسمة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8510&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8510&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُدمج مركز شباب الظعاين المشار إليه بقرار وزير الثقافة والرياضة رقم (22) لسنة 2018، بمركز شباب سميسمة المُنشأ بقرار رئيس الهيئة العامة للشباب رقم (18) لسنة 2007 المشار إليه ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعدل مسمى \"مركز شباب سميسمة\" إلى \"مركز شباب سميسمة والظعاين\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعتمد النظام الأساسي المعدّل لمركز شباب سميسمة والظعاين المرفق بهذا القرار ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تؤُول إلى مركز شباب سميسمة والظعاين، جميع الأموال الثابتة والمنقولة المملوكة لمركز شباب الظعاين، وجميع الحقوق والالتزامات المقررة له أو عليه في حدود ما آل إليه من أموال وحقوق ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المُختصة، كل فيما يخُصّه، تنفيذ هذا القرار ويلغى كل حكم يتعارض مع أحكامه، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

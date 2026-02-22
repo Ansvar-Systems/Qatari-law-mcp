@@ -4,8 +4,21 @@
   "title": "قـرار رقم (127) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قـرار رقم (127) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9095&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9095&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (10) لسنة 1987 المشار إليه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nسالم محمد فاهد الهاجري\nمفتش نظافة وصحة بيئية أول\n2\nجاسم محمد إبراهيم الكواري\nمراقب سكن عمال رابع\n3\nمحمد مبارك فرج السلطان\nرئيس قسم الرقابة الصحية\n4\nيوسف أحمد اعبيد السالم\nمراقب رخص بناء رابع\n5\nمحمد فيصل محمد الدوسري\nمهندس كهربائي ثالث\n6\nعبدالله محمد مهدي الساري\nمشغل حاسب آلي خامس\n7\nمحمد عايض شبيب العتيبي\nرئيس قسم الرقابة الفنية بالتكليف\n8\nفيصل سعد سالم المري\nمفتش سكن عمال أول\n9\nراشد محمد عويضة العذبة\nباحث دراسات قانونية ثاني\n10\nماجد برهان حسني الزيدان\nمدير إدارة الرقابة البلدية بالتكليف"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

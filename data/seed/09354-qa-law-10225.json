@@ -4,8 +4,45 @@
   "title": "قانون رقم (26) لسنة 2025 باعتماد الموازنة العامة للدولة للسنة المالية 2026",
   "short_name": "قانون رقم (26) لسنة 2025 باعتماد الموازنة العامة للدولة للسنة المالية 2026",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10225&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10225&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد الموازنة العامة للدولة للسنة المالية 2026 ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُقدر الإيرادات العامة للدولة للسنة المالية 2026 بمبلغ مقداره (-/199,000,000,000) مائة وتسعة وتسعون مليار ريال ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُقدر المصروفات العامة للدولة للسنة المالية 2026 بمبلغ مقداره (-/220,800,000,000) مائتان وعشرون ملياراً وثمانمائة مليون ريال ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تُقدر زيادة المصروفات عن الإيرادات للسنة المالية 2026 بمبلغ مقداره (-/21,800,000,000) واحد وعشرون ملياراً وثمانمائة مليون ريال ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تقوم وزارة المالية بتمويل العجز المشار إليه في المادة السابقة وفقاً للأحكام المنصوص عليها في المادة ( 36 ) من قانون النظام المالي للدولة المشار إليه ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القانون . ويُعمل به اعتباراً من أول يناير 2026 . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,15 @@
   "title": "استدراك",
   "short_name": "استدراك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6784&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6784&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "استدراك\nاستدراك 0 / 2015\nتعديل التاريخ الميلادي لإصدار قرارات مجلس الوزراء أرقام 1 ، 3 ، 4 لسنة 2015 المنشورة في الجريدة الرسمية العدد الثالث لسنة 2015 كالتالي:\nالصحيح\nالخطأ\n13/04/1436هـ\n02/02/2015م\n13/04/1436هـ\n02/02/2014م"
+    }
+  ],
   "definitions": []
 }

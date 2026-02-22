@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (3) لسنة 1996 بشأن الإجازة الدورية لمدرسات وموظفات المدرسة الثانوية الفنية للتمريض وإجازة منتصف العام الدراسي",
   "short_name": "قرار مجلس الوزراء رقم (3) لسنة 1996 بشأن الإجازة الدورية لمدرسات وموظفات المدرسة الثانوية الفنية للتمريض وإجازة منتصف...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1614&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1614&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تكون الإجازة الدورية لمدرسات وموظفات المدرسة الثانوية الفنية للتمريض، أثناء العطلة الصيفية، وفقاً للقواعد التي يصدر بها قرار من وزير الصحة العامة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون الإجازة الدورية لمدرسات وموظفات المدرسة الثانوية الفنية للتمريض، أثناء عطلة منتصف العام الدراسي، لمدة أسبوعين على الأكثر. يصدر وزير الصحة العامة القواعد اللازمة في هذا الشأن."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

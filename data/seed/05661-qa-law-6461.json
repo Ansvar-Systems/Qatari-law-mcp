@@ -4,8 +4,21 @@
   "title": "قرار وزير المواصلات رقم (56) لسنة 2014 باعتماد إجراءات التصالح في الجرائم المنصوص عليها في القانون رقم (12) لسنة 2012 بتنظيم مزاولة خدمات وسطاء الشحن البحري",
   "short_name": "قرار وزير المواصلات رقم (56) لسنة 2014 باعتماد إجراءات التصالح في الجرائم المنصوص عليها في القانون رقم (12) لسنة 2012...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6461&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6461&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد إجراءات التصالح في الجرائم، المنصوص عليها في المادة ( 12 ) من القانون رقم (12) لسنة 2012 المشار إليه، وفقاً للنموذج المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير الصحة العامة رقم (2) لسنة 2004 بتخويل بعض موظفي الوزارات والأجهزة الحكومية الأخرى والهيئات والمؤسسات العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار وزير الصحة العامة رقم (2) لسنة 2004 بتخويل بعض موظفي الوزارات والأجهزة الحكومية الأخرى والهيئات والمؤسسات العامة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2012&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2012&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي الوزارات والأجهزة الحكومية الأخرى والهيئات والمؤسسات العامة، الواردة أسماؤهم في الكشوف المرفقة بهذا القرار، صفة مأموري الضبط القضائي في ضبط وإثبات اجرائم التي تقع بالمخالفة لأحكام القانون رقم (20) لسنة 2002 المشار إليه، واللوائح والقرارات الصادرة تنفيذا له، وذلك في حدود الاختصاصات والصلاحيات المنصوص عليها في البند (6) من المادة ( 14 ) منه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

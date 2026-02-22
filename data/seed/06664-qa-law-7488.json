@@ -4,8 +4,27 @@
   "title": "قرار وزير الأوقاف والشؤون الإسلامية رقم (72) لسنة 2017 بتشكيل بعثة الحج القطرية",
   "short_name": "قرار وزير الأوقاف والشؤون الإسلامية رقم (72) لسنة 2017 بتشكيل بعثة الحج القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7488&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7488&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل بعثة الحج القطرية من ثلاثة ممثلين عن وزارة الأوقاف والشؤون الإسلامية، يكون من بينهم الرئيس ونائب الرئيس، وعضوية ممثل عن كل من الجهات التالية:\n1- وزارة الداخلية.\n2- وزارة الخارجية.\n3- وزارة الصحة العامة.\nوتختار كل جهة من يمثلها في عضوية البعثة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "للبعثة أن تستعين بمن تراه لأداء مهامها من الكوادر الفنية والإدارية من داخل أو خارج وزارة الأوقاف والشؤون الإسلامية، في التخصصات المختلفة، بالتنسيق مع الجهات المعنية، وذلك بناءً على اقتراح رئيس البعثة واعتماد وزير الأوقاف والشؤون الإسلامية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

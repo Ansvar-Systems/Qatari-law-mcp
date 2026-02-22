@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (36) لسنة 2023 بتعيين رئيس ونائب رئيس وأعضاء مجلس إدارة الهيئة العامة للتقاعد والتأمينات الاجتماعية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (36) لسنة 2023 بتعيين رئيس ونائب رئيس وأعضاء مجلس إدارة الهيئة العامة للتقاعد والتأمينات ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9344&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9344&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة الهيئة العامة للتقاعد والتأمينات الاجتماعية برئاسة سعادة السيّد/ علي بن أحمد الكواري، وسعادة السيّد/ عبدالعزيز بن ناصر بن مبارك آل خليفة، نائباً للرئيس، وعضوية كل من:\n1. السيّدة/ شيخة عبدالرحمن علي محمد البادي (وزارة العمل).\n2. السيّد/ عبدالله محمد ناصر الجفالي النعيمي (مصرف قطر المركزي).\n3. السيّد/ فيصل عبد الواحد علي الحمادي (جهاز قطر للاستثمار). (عُدل بموجب قرار رئيس مجلس الوزراء رقم (17) لسنة 2025 )\n4. السيّد اللواء / فايز فالح الشمري (اللجنة المشتركة للتقاعد العسكري).\n5. الشيخ/ نواف بن ناصر آل ثاني (القطاع الخاص).\n6. السيّد/ حمد راشد المهندي (المتقاعدين)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

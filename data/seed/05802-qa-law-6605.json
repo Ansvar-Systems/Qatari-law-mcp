@@ -4,8 +4,39 @@
   "title": "مرسوم رقم (23) لسنة 2015 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (23) لسنة 2015 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6605&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6605&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد/ فهد سعدون محمد جابر آل عذبة، في وظيفة رئيس نيابة أول."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين السادة الآتية أسماؤهم في وظيفة رئيس نيابة:\n1- خالد عبدالله أحمد محمد آل إبراهيم.\n2- ناصر علي محمد علي العمادي.\n3- غانم سيف أحمد السليطي.\n4- محمد جابر مهنا مبارك النعيمي.\n5- سعود عبدالله مذكر آل شافي الهاجري.\n6- حسن علي حسن العلي.\n7- طلال محمد حمد محمد المناعي.\n8- منصور عبدالله خلف منصور الكعبي.\n9- يوسف حمد سعد النصف."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعين الشيخ/ سلطان محمد سعود العبدالرحمن آل ثاني، في وظيفة وكيل نيابة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُعين السادة الآتية أسماؤهم في وظيفة وكيل نيابة مساعد:\n1- سعد عبدالله خميس المريخي.\n2- محمد طالب سالم عفيفه.\n3- سعود عجب سالم الحقباني الدوسري.\n4- خليفة حامد علي مايقه الحبابي.\n5- أحمد سعود ناصر كليفيخ العتيبي.\n6- ناصر علي ناصر الجفالي النعيمي.\n7- فهد حمد محمد آل فهيد الهاجري."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (46) لسنة 1996 بالتصديق على نظام براءات الاختراع لدول مجلس التعاون لدول الخليج العربية، والنظام الأساسي لمكتب براءات الاختراع لمجلس التعاون",
   "short_name": "مرسوم رقم (46) لسنة 1996 بالتصديق على نظام براءات الاختراع لدول مجلس التعاون لدول الخليج العربية، والنظام الأساسي لمك...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4225&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4225&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على نظام براءات الاختراع لدول مجلس التعاون لدول الخليج العربية، و النظام الأساسي لمكتب براءات الاختراع لمجلس التعاون، المرفق نصهما بهذا المرسوم، ويكون لهما قوة القانون وفقاً للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

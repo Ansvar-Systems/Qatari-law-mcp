@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (48) لسنة 2015 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (48) لسنة 2015 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6817&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6817&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السادة الآتية أسماؤهم في الوظيفة المبينة قرين إسم كل منهم:\n1- السيد/ عبدالعزيز أحمد خليفة السليطي\nرئيساً بمحكمة الاستئناف.\n2- السيد/ محمد طايس عبدالله الجميلي\nقاضياً بمحكمة الاستئناف.\n3- السيد/ إبراهيم غصاب سليمان العدوي\nقاضياً بمحكمة الاستئناف.\n4- السيد/ حمد محمد سالم المري\nقاضياً بمحكمة الاستئناف.\n5- السيد/ محمد أحمد محمد آل إبراهيم\nقاضياً بمحكمة الاستئناف.\n6- السيد/ جوهر زايد جوهر الحسن المهندي\nقاضياً بمحكمة الاستئناف."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

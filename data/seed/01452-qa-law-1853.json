@@ -4,8 +4,27 @@
   "title": "قرار وزير الأوقاف والشؤون الإسلامية رقم (14) لسنة 1998 بنماذج وثيقة وعقد تأسيس الجمعيات والمؤسسات الخاصة والنظام الأساسي لكل منهما",
   "short_name": "قرار وزير الأوقاف والشؤون الإسلامية رقم (14) لسنة 1998 بنماذج وثيقة وعقد تأسيس الجمعيات والمؤسسات الخاصة والنظام الأس...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1853&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1853&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحرر وثيقة أو عقد تأسيس الجمعيات والمؤسسات الخاصة والنظام الأساسي لكل منهما، وفقاً للنماذج المرافقة لهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى قرار وزير العمل والشؤون الاجتماعية والإسكان رقم (8) لسنة 1994 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

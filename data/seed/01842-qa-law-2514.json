@@ -4,8 +4,39 @@
   "title": "قانون رقم (15) لسنة 1974 في شأن اللاعبين والإداريين المختارين لتمثيل الأندية والاتحادات الرياضية",
   "short_name": "قانون رقم (15) لسنة 1974 في شأن اللاعبين والإداريين المختارين لتمثيل الأندية والاتحادات الرياضية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2514&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2514&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر اللاعبون والإداريون الذين تختارهم وزارة التربية والتعليم ورعاية الشباب لتمثيل الأندية والاتحادات الرياضية خارج البلاد أو داخلها، في مهمة رسمية طوال مدة قيامهم بهذا التمثيل. وتعتبر هذه المدة أيام عمل ولا تدخل في حساب الإجازات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينطبق حكم المادة السابقة على جميع العاملين في الدولة سواءً في الحكومة وأجهزتها أو المنشآت والمؤسسات العامة أو الخاصة والشركات أو غيرها.\nولا تسري عليهم، خلال مدة قيامهم بالمهمة الرسمية المذكورة، الأحكام الخاصة ببدل التمثيل ونفقات السفر ومصاريف الانتقال، دون غيرها من الأحكام."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تخطر الوزارة الجهة التابع لها الموظف أو العامل بهذا الاختيار ومدته قبل الموعد المحدد للقيام بالمهمة بوقت كاف."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يصدر وزير التربية والتعليم ورعاية الشباب اللوائح التكميلية والقرارات اللازمة لتنفيذ هذا القانون."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

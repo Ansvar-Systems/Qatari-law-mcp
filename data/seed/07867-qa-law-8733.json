@@ -4,8 +4,21 @@
   "title": "قرار رقم (87) لسنة 2021م بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (87) لسنة 2021م بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8733&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8733&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (17) لسنة 1990م المشار إليه والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nد. رشاد قايد الجماعي\nطبيب عام\n2\nد. محمد أحمد سلام\nطبيب عام\n3\nد. راغب عمر القرشي\nطبيب عام\n4\nد. سيد محمد همت\nأخصائي صحة عامة\n5\nمبارك محمد الخاطر\nمنسق شؤون إدارية أول\n6\nأيمن عبدالسلام محمد\nمفتش صحي\n7\nمحسن عبدالرحمن مالكي\nمراقب أول بيانات صحية\n8\nد. هبة نصر الدين\nطبيب عام\n9\nأمل محمد اليافعي\nخبير تفتيش صحي\n10\nحمدة قايد الجبني\nمُمرضة\n11\nنورة عبدالرحمن الهيل\nخبير تفتيش صحي\n12\nهناء خضر المصري\nأخصائي صحة عامة\n13\nأمل عبدالله الغفيلي\nمراقب مستندات أول\n14\nفيصل خلفان الصلطي\nفني تفتيش صحي\n15\nعبدالله محمد اهن\nمشرف تفتيش صحي أول\n16\nمنال محمد العنزي\nمُمرضة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يَخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير التجارة والصناعة رقم (48) لسنة 2020 باصدار قواعد التزانات مدققي الحسابات القانونيين وتجار المعادن الثمينة او الاحجار الكريمة ومقدمي خدمات الصناديق الاستئمانية والشركات بمتطلبات مكافحة غسل الاموال وتمويل الارهاب",
   "short_name": "قرار وزير التجارة والصناعة رقم (48) لسنة 2020 باصدار قواعد التزانات مدققي الحسابات القانونيين وتجار المعادن الثمينة ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8424&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8424&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعمل بقواعد التزامات مدققي الحسابات القانونيين وتجار المعادن الثمينة أو الأحجار الكريمة ومُقدمي خدمات الصناديق الاستئمانية والشركات بمتطلبات مكافحة غسل الأموال وتمويل الإرهاب، المرفقة بهذا القرار"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

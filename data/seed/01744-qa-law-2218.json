@@ -4,8 +4,21 @@
   "title": "قرار رقم (87) لسنة 2004 بتخويل بعض موظفي اللجنة المنظمة لدورة الألعاب الآسيوية - الخامسة عشرة - الدوحة 2006 صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (87) لسنة 2004 بتخويل بعض موظفي اللجنة المنظمة لدورة الألعاب الآسيوية - الخامسة عشرة - الدوحة 2006 صفة مأمور...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2218&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2218&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكُون لموظفي اللجنة المنظمة لدورة الألعاب الآسيوية - الخامسة عشرة (الدوحة 2006) التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (27) لسنة 2004 ، بشأن حماية علامات وشعارات ومصنفات والحقوق المجاورة لدورة الألعاب الآسيوية - الخامسة عشرة - الدوحة 2006، وهم:\n1- السيد/جمال محمد أبو غيداء\nحماية الملكة الفكرية.\n2- السيد/علي سلطان المفتاح\nالمراسم والعلاقات الدولية.\n3- السيد/خليفة يوسف الكواري\nالشؤون الإدارية والمالية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

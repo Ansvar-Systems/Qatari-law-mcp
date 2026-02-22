@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (19) لسنة 2003 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
   "short_name": "قرار مجلس الوزراء رقم (19) لسنة 2003 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1488&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1488&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 7 ) من قرار مجلس الوزراء رقم (17) لسنة 1998 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "«يمنح كل من رئيس وأعضاء اللجنة مكافأة شهرية مقدارها (2000) ألفا ريال، ويسرى في شأن هذه المكافأة أحكام قرار مجلس الوزراء رقم (9) لسنة 1993 المشار إليه»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 1/1/2003. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

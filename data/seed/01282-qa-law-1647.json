@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة 1971 بزيادة العلاوة الاجتماعية الشهرية الخاصة بالموظفين والعمال القطريين",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة 1971 بزيادة العلاوة الاجتماعية الشهرية الخاصة بالموظفين والعمال القطريين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1647&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1971.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1647&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بجدول العلاوة الاجتماعية الشهرية المبين في المادة ( 22 ) من القرار رقم (20) لسنة 1967 باللائحة التنفيذية لقانون الوظائف العامة المدنية الجدول التالي:\nالحالة الاجتماعية\nومدة الخدمة\nالراتب الشهري\nمن – إلى\n165 - 199\nمن – إلى\n200 - 249\nمن – إلى\n250 - 299\nمن – إلى\n300 - 499\nمن – إلى\n500 - 1450\nغير متزوج وتقل مدة خدمته عن سنتين\n135\n145\n155\n200\n230\nمتزوج وتقل مدة خدمته عن سنتين\n145\n155\n165\n210\n240\nغير متزوج وتزيد مدة خدمته عن سنتين\n165\n180\n195\n220\n260\nمتزوج وتزيد مدة خدمته عن سنتين\n175\n190\n205\n255\n310\nغير متزوج ويتقاضى راتباً شهرياً من 1,500 ريال فأكثر يمنح 600 ريال\nمتزوج ويتقاضى راتباً شهرياً من 1,500 فأكثر يمنح 800 ريال"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به اعتباراًً من أول محرم 1391هـ."
+    }
+  ],
   "definitions": []
 }

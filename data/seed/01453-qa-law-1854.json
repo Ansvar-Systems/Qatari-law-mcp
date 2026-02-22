@@ -4,8 +4,27 @@
   "title": "قرار وزير الداخلية رقم (15) لسنة 1994 بشأن البدلات والعلاوات الإضافية والفنية التي تمنح لأعضاء قوة الشرطة",
   "short_name": "قرار وزير الداخلية رقم (15) لسنة 1994 بشأن البدلات والعلاوات الإضافية والفنية التي تمنح لأعضاء قوة الشرطة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1854&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1854&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يمنح أعضاء قوة الشرطة البدلات والعلاوات الإضافية والفنية المبينة في اللائحة المرفقة ، وفقاً لشروط الاستحقاق المنصوص عليها قرين كل منهم"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

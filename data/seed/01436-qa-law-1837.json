@@ -4,8 +4,33 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (13) لسنة 1990 بإصدار شعار المواصفات القياسية القطرية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (13) لسنة 1990 بإصدار شعار المواصفات القياسية القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1837&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1990.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1837&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون النموذج المرافق شعاراً للمواصفات القياسية القطرية، ولا يجوز لأي جهة أخرى غير إدارة المواصفات والمقاييس استخدامه قبل الحصول على موافقة هذه الإدارة، ويحظر استخدامه في غير الأغراض المخصص لها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يستخدم شعار المواصفات القياسية القطرية في الأغراض التالية:\n1- الدلالة على مستوى الجودة في حالة وضعه على السلع والمنتجات القطرية المطابقة للمواصفات القياسية القطرية.\n2- مطابقة السلع المستوردة والمصدرة للمواصفات القياسية القطرية، وذلك بوضع الشعار على الشهادات التي تعد لهذا الغرض.\n3- تمييز أغلفة المواصفات القياسية القطرية والمطبوعات المتعلقة بها.\n4- أية أغراض أخرى يضيفها وزير الاقتصاد والتجارة بقرار منه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يعاقب كل من يخالف أحكام هـذا القرار بالعقوبات المنصوص عليها في المادة (17) من القانون رقم (4) لسنة 1990 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

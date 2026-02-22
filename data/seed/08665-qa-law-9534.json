@@ -4,8 +4,21 @@
   "title": "قرار رقم (26) لسنة 2024 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (26) لسنة 2024 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9534&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9534&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (8) لسنة 1990 المشار إليه أعلاه، والقرارات المنفذة له، وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nناصر علي صالح الشقيري المهندي\nمنسق متابعة ثالث\n2\nطارق مبارك\nطبيب بيطري ثالث\n3\nخب&#1740;ب عبدالمحمود الحسن ادم\nطبيب بيطري ثالث\n4\nخير الدين ابراهيم عيساوي\nطبيب بيطري ثالث\n5\nشعيب مشروك\nطبيب بيطري ثاني\n6\nمهدي سمير الهنداوي\nطبيب بيطري ثالث\n7\nنوا سعد محمد الشاوي الخالدي\nاخصائي متابعة اول\n8\nب&#1740;ان غازي جميل الحسينات\nطبيب بيطري ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

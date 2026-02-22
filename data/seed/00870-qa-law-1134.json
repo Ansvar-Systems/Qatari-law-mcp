@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (44) لسنة 1969 بتأسيس شركة قطر للأسمدة",
   "short_name": "مرسوم رقم (44) لسنة 1969 بتأسيس شركة قطر للأسمدة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1134&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1969.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1134&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لحكومة قطر ممثلة في وزير المالية، ولشركة بورجاس كوربوريشن المحدودة ويمثلها السيد/مايكل جون ملنر وبنك هامبروز المحدودويمثله السيد/رولف جود موند دلبورج وشركة نورسك هايدرو ويمثلها السيد/أود نارود، في أن يؤسسوا في قطر شركة مساهمة قطرية تسمى «شركة قطر للأسمدة» برأس مال قدره (56,714,000 ريال). ست وخمسون مليوناً وسبعماية وأربعة عشر ألف ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة ونظامها الأساسي المرفق صورة من كل منهما\nبهذا المرسوم، وعليهم كذلك الالتزام بأحكام القانون رقم (3) لسنة 1961 بتنظيم شركات المساهمة المعدل بالمرسوم بقانون رقم (12) لسنة 1966 والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على وزير المالية تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

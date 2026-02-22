@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (155) لسنة 2007 باعتماد مواصفات قطر الوطنية للإنشاء والبناء كلائحة فنية قطرية ملزمة",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (155) لسنة 2007 باعتماد مواصفات قطر الوطنية للإنشاء والبناء كلائحة فنية قطرية ملزمة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4404&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4404&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعتمد مواصفات قطر الوطنية للإنشاء والبناء (QCS) كلائحة فنية قطرية ملزمة برقم (2007/27QS)، وذلك حسب البيانات الموضحة بالجدول المرفق ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد (90 يوماً) من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

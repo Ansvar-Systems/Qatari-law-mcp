@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (32) لسنة 2006 بإعفاء بعض السلع من الرسوم الجمركية",
   "short_name": "مرسوم بقانون رقم (32) لسنة 2006 بإعفاء بعض السلع من الرسوم الجمركية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2710&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2710&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعفى من الرسوم الجمركية، لمدة سنة تبدأ من 1/1/2006، السلع التالية المستوردة من خارج دول مجلس التعاون لدول الخليج العربية، المبينة بالجداول المرفقة بهذا القانون:\n1- أنواع الأسمنت، بالجدول رقم (1) .\n2- الحصى (الصلبوخ، الجابرو) بالجدول رقم (2) .\n3- حديد التسليح، بالجدول رقم (3) ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

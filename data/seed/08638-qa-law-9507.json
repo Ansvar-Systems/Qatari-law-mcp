@@ -4,8 +4,21 @@
   "title": "قرار رقم (146) لسنة 2023 بإلغاء تخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (146) لسنة 2023 بإلغاء تخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9507&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9507&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة للسادة التالية أسماؤهم، والسابق منحها لهم بموجب قرارات النائب العام المشار إليهم أعلاه.\nم\nالاسم\n1\nمبارك حمد سعيد بخيت الراشدي\n2\nعبدالله عبدالجليل سعيد العجي\n3\nعبدالله سند عبدالله المهندي\n4\nناصر محمد سعد المهندي\n5\nجاسم سعد جاسم المريخي\n6\nعمرو محمد عبده محمد\n7\nعلي محمد على المهندي\n8\nأحمد ماجد حسن الحسن المهندي\n9\nعبدالله إبراهيم سعد المهندي\n10\nجاسم أحمد جاسم المريخي\n11\nعيسى حسن علي المهندي\n12\nطفلة أحمد علي المهندي\n13\nهنادي مبارك علي الكواري\n14\nفاطمة فهد محسن الهاجري"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُلّ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

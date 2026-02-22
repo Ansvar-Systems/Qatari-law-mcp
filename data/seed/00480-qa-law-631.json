@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (12) لسنة 1998 بتعديل بعض أحكام القرار الأميري رقم (19) لسنة 1997 بإعادة تشكيل لجنة قبول المحامين",
   "short_name": "قرار أميري رقم (12) لسنة 1998 بتعديل بعض أحكام القرار الأميري رقم (19) لسنة 1997 بإعادة تشكيل لجنة قبول المحامين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=631&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=631&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد/عباس علي عباس العبد الله، القاضي بالمحكمة المدنية الكبرى، عضواً بلجنة قبول المحامين المشكلة بالقرار الأميري رقم (19) لسنة 1997 المشار إليه، بدلا من السيد/خالد عبد الله السويدي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

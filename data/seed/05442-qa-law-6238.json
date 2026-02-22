@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (15) لسنة 2014 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (15) لسنة 2014 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6238&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6238&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السادة الآتية أسماؤهم في وظيفة نيابة أول:\n1- حمد أحمد محمد شريان الكعبي.\n2- سعد حنيف سعد مطرف الدوسري.\n3- سعد سعيد حسن آل مسعود القحطاني.\n4- خالد محمد خليفة محمد المنصوري.\n5- عبد الله إبراهيم راشد المالكي.\n6- عادل حسن أحمد العبيدلي.\n7- مريم عبد الله مسعود فرج الجابر.\n8- خالد شفيع سعيد شفيع المري.\n9- علي خليل إبراهيم أحمد محمود.\n10- عبد الله علي أحمد العلي المعاضيد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

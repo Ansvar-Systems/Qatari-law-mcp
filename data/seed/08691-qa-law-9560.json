@@ -4,8 +4,21 @@
   "title": "قرار رقم (37) لسنة 2024 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (37) لسنة 2024 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9560&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9560&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (2) لسنة 1983 المُشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nشوق أحمد عبدالرحمن عبدالعزيز الكواري\nمنسق الرقابة والامتثال ثالث\n2\nدانه عبدالرسول عبدالرحيم عبدالوهاب حسين\nمنسق الرقابة والامتثال ثالث\n3\nخالد عيسى ارحمه علي السهلاوي\nفني تفتيش ثالث\n4\nمازن عبدالحق عباس محمد علي\nمنسق تسجيل وترخيص الممارسين الصحيين\n5\nفاتن حسين محمد الأخرس\nمنسق تسجيل التخصصات الصحية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

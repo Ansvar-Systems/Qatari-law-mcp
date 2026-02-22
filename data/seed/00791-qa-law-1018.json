@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (28) لسنة 1998 بالتصريح لشركة كفاك القابضة المحدودة باكتساب ملكية أموال ثابتة في دولة قطر",
   "short_name": "مرسوم رقم (28) لسنة 1998 بالتصريح لشركة كفاك القابضة المحدودة باكتساب ملكية أموال ثابتة في دولة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1018&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1018&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يصرح لشركة كفاك القابضة المحدودة المؤسسة بجزر كيمان الانجليزية، بتملك الأموال الثابتة في دولة قطر في الحدود اللازمة لترتيبات ضمان تمويل مشروع شركة قطر للإضافات البترولية المحدودة (كفاك)، وطبقاً للشروط الواردة في الاتفاقيات المتعلقة بتلك الترتيبات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

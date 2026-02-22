@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (16) لسنة 2023 تجديد مدة عضوية مجلس إدارة مركز قطر للقيادات",
   "short_name": "قرار أميري رقم (16) لسنة 2023 تجديد مدة عضوية مجلس إدارة مركز قطر للقيادات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9143&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9143&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُجدد مدة عضوية مجلس إدارة مركز قطر للقيادات، لمدة ثلاث سنوات، على النحو التالي:\n1 - سعادة الشيخة/ المياسة بنت حمد آل ثاني رئيساً.\n2 - سعادة الشيخ الـدكتور/ عبـدالله بن علي آل ثاني نائباً للرئيس.\n3 - سعادة السيّد سلطان بن راشد الخاطر عضواً.\n4 - السيّد/ خالد محمد الهتمي عضواً.\n5- السيّدة/ عائشة جاسم الكواري عضواً.\n6 - الدكتورة/ إيمان مصطفوي عضواً.\n7 - السيدة / مها مسعود المري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كلُ فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 19/02/2023. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

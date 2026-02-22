@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (38) لسنة 2010 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها الأمانة العامة لمجلس الوزراء",
   "short_name": "قرار مجلس الوزراء رقم (38) لسنة 2010 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها الأمانة العامة لمجلس الوزراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3331&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3331&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى الوحدات الإدارية التي تتألف منها الأمانة العامة لمجلس الوزراء، مكتب الأمين العام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يرأس مكتب الأمين العام مدير، يتولى الاختصاصات التالية:\n1- تنظيم الملفات والمراسلات والأوراق الخاصة بمكتب الأمين العام.\n2- تلقي المكاتبات التي ترد إلى الأمين العام، وإعدادها للعرض عليه، وتوزيعها على الجهات المختصة وفقاً لتعليماته.\n3- إعداد المذكرات والمراسلات التي يكلف بها.\n4- الاتصال بالجهات المختلفة للحصول على البيانات التي يطلبها الأمين العام.\n5- إخطار الجهات المعنية بتأشيرات الأمين العام، ومتابعة تنفيذها، وعرض ما تم بشأنها.\n6- تلقي الشكاوي التي ترد إلى مكتب الأمين العام وعرضها عليه، وتنفيذ ومتابعة ما يصدر منه بشأنها.\n7- أية مهام أخرى يكلف بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

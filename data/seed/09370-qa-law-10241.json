@@ -4,8 +4,21 @@
   "title": "قرار النائب العام رقم (180) لسنة 2025 بتخويل بعض موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "short_name": "قرار النائب العام رقم (180) لسنة 2025 بتخويل بعض موظفي قطر للسياحة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10241&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10241&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي قطر للسياحة التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (20) لسنة 2018 المشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nفهد حسن حاجي عبدالملك العبدالملك\nمدير إدارة الرخص السياحية\n2\nأحمد عبدالعزيز محمد الجباره الرميحي\nمفتش سياحي أول\n3\nمحمد خالد محمد المطاوعه الكواري\nمفتش سياحي ثالث\n4\nمزاحم ظاهر حويدر الحسيني الشمري\nمراقب تفتيش سياحي رابع\n5\nعلي إبراهيم سعيد علي الرميحي\nمراقب تفتيش سياحي رابع\n6\nفيصل علي عبدالله محمد الدوراني\nمراقب تفتيش سياحي رابع\n7\nمبارك سالم محمد حسن السرور\nفني تفتيش سياحي ثالث\n8\nسعد حمد فضل المهنا النعيمي\nمفتش سياحي\n9\nحمد علي عبدالرحمن البكري اليافعي\nمفتش سياحي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

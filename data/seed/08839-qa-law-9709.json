@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (21) لسنة 2024 بتعديل بعض أحكام القرار رقم (33) لسنة 2020 بتشكيل لجنة الحد الأدنى للأجور ونظام عملها وتحديد مكافآتها",
   "short_name": "قرار مجلس الوزراء رقم (21) لسنة 2024 بتعديل بعض أحكام القرار رقم (33) لسنة 2020 بتشكيل لجنة الحد الأدنى للأجور ونظام...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9709&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9709&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\" تُشكل لجنة الحد الأدنى للأجور المنشأة بموجب القانون رقم (17) لسنة 2020 المشار إليه، برئاسة ممثل عن وزارة العمل، وعضوية ممثل عن كل من:\n- وزارة الداخلية.\n- وزارة المالية.\n- وزارة التجارة والصناعة.\n- المجلس الوطني للتخطيط.\n- مصرف قطر المركزي.\n- غرفة تجارة وصناعة قطر.\nوتختار كل جهة من يُمثلها في عضوية اللجنة، ويصدر بتسمية رئيس وأعضاء اللجنة قرار من وزير العمل، وتختار اللجنة نائباً للرئيس من بين أعضائها.\nويتولى أمانة سر اللجنة موظف أو أكثر من موظفي وزارة العمل، يصدر بندبهم وتحديد اختصاصاتهم ومكافأتهم قرار من الوزير\" ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة (1) من قرار مجلس الوزراء رقم (33) لسنة 2020 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (5) لسنة 2005 بتحديد مكافأة اللجنة الدائمة للموارد المائية",
   "short_name": "قرار مجلس الوزراء رقم (5) لسنة 2005 بتحديد مكافأة اللجنة الدائمة للموارد المائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6010&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6010&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد مكافآت اللجنة الدائمة للموارد المائية على النحو التالي:\n- رئيس اللجنة:\n(2500) ألفان وخمسمائة ريال شهرياً.\n- كل من نائب رئيس وأعضاء اللجنة:\n(2000) ألفا ريال شهرياً لكل منهم.\n- أمين سر اللجنة:\n(1500) ألف وخمسمائة ريال شهرياً.\n- مساعد أمين السر:\n(1000) ألف ريال شهرياً.\n- الخبراء من أعضاء اللجنة الفرعية:\n(2000) ألفا ريال شهرياً لكل منهم.\nوتسري في شأن تلك المكافآت أحكام قرار مجلس الوزراء رقم (9) لسنة 1993 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

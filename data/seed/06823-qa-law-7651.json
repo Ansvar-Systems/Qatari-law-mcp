@@ -4,8 +4,51 @@
   "title": "قرار وزير الداخلية رقم (26) لسنة 2018 بشأن بعض الأحكام الخاصة بسيارات الأجرة",
   "short_name": "قرار وزير الداخلية رقم (26) لسنة 2018 بشأن بعض الأحكام الخاصة بسيارات الأجرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7651&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7651&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تسري أحكام هذا القرار على سيارات الأجرة التي تقوم شركة (مواصلات) بتجهيزها وإعدادها للتسيير داخل الدولة وفق الامتياز الممنوح لها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون ألوان سيارات الأجرة كالتالي:\n- اللون التركوازي لجسم السيارة.\n- اللون الرمادي أو الأزرق أو العنابي أو الأصفر لسطح السيارة، بحسب الأحوال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُحظر على أي شخص طلاء سيارته بالألوان المميزة لسيارات الأجرة طبقاً للشكل المحدد في المادة السابقة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يلتزم سائق سيارة الأجرة أن لا يتقاضى أكثر من القيمة التي سجلها العداد، حتى ولو كان مستقلو السيارة أكثر من راكب في جماعة واحدة، سواء كان الراكب شخص واحد، أو أكثر ما داموا في جماعة واحدة."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يُحظر على سائق سيارة الأجرة السماح بركوب شخص آخر مع الراكب فيها، حتى ولو كانت وجهتهما واحدة."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يُلغى قرار وزير الداخلية رقم (1) لسنة 2005 ، المشار إليه."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

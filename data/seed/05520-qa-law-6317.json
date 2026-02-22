@@ -4,8 +4,33 @@
   "title": "قرار وزير الشباب والرياضة رقم (45) لسنة 2014 بتأسيس مركز مواتر",
   "short_name": "قرار وزير الشباب والرياضة رقم (45) لسنة 2014 بتأسيس مركز مواتر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6317&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6317&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تؤسس هيئة شبابية تسمى \"مركز مواتر\" تتبع وزارة الشباب والرياضة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعتمد النظام الأساسي المرفق للمركز. ويخضع المركز للقواعد والأحكام المنصوص عليها فيه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى القرار الوزاري رقم (3) لسنة 2014 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به اعتباراً من تاريخ صدوره، ويلغى كل ما يخالف أحكامه، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

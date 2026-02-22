@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (32) لسنة 2008 بتشكيل مجلس إدارة الهيئة العامة لشؤون القاصرين",
   "short_name": "قرار أميري رقم (32) لسنة 2008 بتشكيل مجلس إدارة الهيئة العامة لشؤون القاصرين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2803&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2803&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس إدارة الهيئة العامة لشؤون القاصرين على النحو التالي:\n1- سعادة وزير الأوقاف والشؤون الإسلامية\nرئيساً\n2- السيد/ حسن محمد الكبيسي\nنائباً للرئيس\n3- الشيخ/ ثاني بن خليفة آل ثاني\nعضواً\n4- السيد/ هادي سعيد الخيارين\nعضواً\n5- السيد/ محمد عبدالله اليوسف السليطي\nعضواً\n6- السيد/ عبدالعزيز محمد العطية\nعضواً\n7- الدكتورة/ نجية عيسى شاهين المناعي\nعضواً\n8- السيد/ بدر أحمد القايد\nعضواً\n9- السيد/ عبدالرحمن همام العبدالله\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات ميلادية، ويتولى أعضاء المجلس عملهم فيه بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من 14/6/2008. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,45 @@
   "title": "قرار وزير التجارة والصناعة رقم (10) لسنة 2019 بشأن بيع لحوم الضأن المدعوم",
   "short_name": "قرار وزير التجارة والصناعة رقم (10) لسنة 2019 بشأن بيع لحوم الضأن المدعوم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7902&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7902&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحدد الحد الأقصى لسعر بيع لحوم الضأن المدعوم اعتباراً من 1/2/2019 حتى 31/12/2019، وفقاً للجدول التالي:\nالصنف\nالوحدة\nسعر البيع لتاجر التجزئه\nسعر البيع للمستهلك\nذبيحة كاملة أو مقطعة بالعظم\nكيلو جرام\n(16,5) ريال لكل كيلو جرام\n(17,5) ريال لكل كيلو جرام"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "لا يجوز لتاجر التجزئة تقاضي أية مبالغ زيادة على سعر البيع المنصوص عليه في المادة السابقة من هذا القرار، إلا في حالة طلب المستهلك خدمات إضافية، وتحدد قيمة ما يحصل عليه تاجر التجزئة في هذه الحالة، وفقاً للجدول التالي:\nالخدمة\nالوحدة\nقيمة الخدمة بحد أقصى\nالفرم والتقطيع والتشفيه أو أي منهم\nكيلو جرام\nريالان\nالتتبيل والتبهير أو أي منهما\nكيلو جرام\nريالان"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يجب الإعلان عن سعر بيع لحوم الضأن المدعوم وقيمة الخدمة الإضافية في مكان ظاهر."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "لا يجوز اعتباراً من 1/2/2019 حتى 31/12/2019، بيع لحوم الضأن المدعوم للمطاعم أو الفنادق أو مؤسسات وشركات الضيافة."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يُلغى قرار وزير الاقتصاد والتجارة رقم (2) لسنة 1988 المشار إليه."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من 1/2/2019. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,39 @@
   "title": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (2) لسنة 2018 بتعديل بعض أحكام إجراءات لجنة التحقيق الصادرة بالقرار رقم (3) لسنة 2009",
   "short_name": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (2) لسنة 2018 بتعديل بعض أحكام إجراءات لجنة التحقيق الصادرة بالقرار رقم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7531&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7531&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى إجراءات عمل لجنة التحقيق الصادرة بالقرار رقم (3) لسنة 2009 المشار إليه المواد التالية:"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article (9)",
+      "content": "مكررا):\nلا يحول غياب الخاضع للتحقيق الذي ثبت إخطاره بموعد التحقيق من استمرار اللجنة في النظر بالمخالفة وإصدار قرار بشأنها."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article (15)",
+      "content": "مكررا):\nيجوز للجنة النظر في أي مخالفات أخرى تظهر لها خلال التحقيق سواء تم ارتكابها من قبل الأطراف الخاضعة للتحقيق أو من قبل أي أطراف أخرى، واتخاذ الإجراءات القانونية اللازمة بشأنها."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article (18)",
+      "content": "مكررا):\nللجنة التحقيق حق إثبات المخالفات بكافة طرق الاثبات، بما في ذلك البيانات الالكترونية الصادرة عن الحاسب الآلي وتسجيلات الهاتف والرسائل النصية ومراسلات أجهزة التلكس والفاكس، وغيرها من الوسائط الإلكترونية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

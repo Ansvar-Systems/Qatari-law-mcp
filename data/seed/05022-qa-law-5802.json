@@ -4,8 +4,39 @@
   "title": "مرسوم رقم (36) لسنة 2006 بشأن تعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (36) لسنة 2006 بشأن تعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5802&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5802&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين السيد/ هادي مسفر محمد حوتان الهاجري في وظيفة محام عام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عين السيد/ طاهر محمود عبده السكري في وظيفة رئيس نيابة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يعين في وظيفة وكيل نيابة أول كل من:\n1- السيد/ مجدي حسين عواد حسين.\n2- السيد/ أسامة عباس عبدالفتاح مصطفى."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يعين السيد/ محمد عبدالسميع فتحي أحمد متولي في وظيفة وكيل نيابة."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

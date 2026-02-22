@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (76) لسنة 2018 بتعيين مجلس إدارة هيئة قطر للأسواق المالية",
   "short_name": "قرار أميري رقم (76) لسنة 2018 بتعيين مجلس إدارة هيئة قطر للأسواق المالية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7829&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7829&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين مجلس إدارة هيئة قطر للأسواق المالية على النحو التالي:\n1. سعادة الشيخ/ محمد بن حمد بن قاسم العبدالله آل ثاني\nرئيساً.\n2. السيد/ يحيى سعيد الجفالي النعيمي\nنائباً للرئيس.\n3. الشيخ/ خالد بن سعود بن فهد آل ثاني\nعضواً.\n4. السيد/ عبدالرحمن محمد يوسف جولو\nعضواً.\n5. السيد/ مايكل رايان\nعضواً.\n6. الدكتور/ خالد ناصر الخاطر\nعضواً.\n7. الدكتور/ محمد عبدالعزيز صالح الخليفي\nعضواً.\nويكون للمجلس أمين سر يختاره المجلس، ويحدد اختصاصاته ومكافأته المالية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

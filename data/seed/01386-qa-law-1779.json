@@ -4,8 +4,27 @@
   "title": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (10) لسنة 2005 بشأن تحديد الأعمال التي يجوز استمرار العمل فيها دون توقف لأغراض الراحة",
   "short_name": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (10) لسنة 2005 بشأن تحديد الأعمال التي يجوز استمرار العمل فيها دون توقف لأ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1779&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1779&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجوز استمرار العمل دون توقف لأغراض الراحة في الأعمال التالية:\n1- شركات الاتصالات السلكية واللاسلكية.\n2- إدارة الآلات المولدة للقوى الكهربائية والمائية.\n3- المستشفيات ودور العلاج الأخرى.\n4- المخابز.\n5- الصيدليات.\n6- مكاتب شركات الطيران وفي المطارات وفي الموانيء.\n7- الأعمال التي يستمر التشغيل فيها دون توقف مع استمرار العمل بنظام المناوبات.\n8- نقل الركاب والبضائع بطريق البر أو البحر أو الجو"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلتزم صاحب العمل بالتصريح للعمال الذين يؤدون الأعمال المشار إليها في المادة السابقة، بالصلاة وتناول المشروبات والأطعمة الخفيفة بالطريقة التي تنظمها إدارة المنشأة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

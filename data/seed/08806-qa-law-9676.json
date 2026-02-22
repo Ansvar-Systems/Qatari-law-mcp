@@ -4,8 +4,27 @@
   "title": "قرار وزير المواصلات رقم ( 30 ) لسنة 2024 بتعديل بعض أحكام قرار وزير المواصلات والاتصالات رقم (26) لسنة 2019 بتحديد رسوم ممارسة أنشطة النقل البحري ومقابل أداء الخدمات المتعلقة بها التي تؤديها وزارة المواصلات الاتصالات",
   "short_name": "قرار وزير المواصلات رقم ( 30 ) لسنة 2024 بتعديل بعض أحكام قرار وزير المواصلات والاتصالات رقم (26) لسنة 2019 بتحديد رس...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9676&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9676&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارتا \" وزارة المواصلات \" و \" وزير المواصلات \" بعبارتي \" وزارة المواصلات والاتصالات \" و \" وزير المواصلات والاتصالات \" أينما وردتا في عنوان القرار رقم (26) لسنة 2019 المشار إليه، والمادة (1) منه والجداول المرفقة به."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُخفض رسوم شهادة التسجيل الدائم للسفن المنصوص عليها في البند (سادساً / 12) من الجداول المرفقة بالقرار رقم (26) لسنة 2019 المشار إليه، للسفن التي تحمل العلم القطري بنسبة (50%).\nويسري التخفيض المشار إليه في الفقرة السابقة لمدة سنتين اعتباراً من تاريخ العمل بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

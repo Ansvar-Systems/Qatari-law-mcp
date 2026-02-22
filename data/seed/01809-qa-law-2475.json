@@ -4,8 +4,27 @@
   "title": "قانون رقم (11) لسنة 2008 بتعديل بعض أحكام القانون رقم (11) لسنة 1997 بإنشاء الهيئة العامة القطرية للإذاعة والتلفزيون",
   "short_name": "قانون رقم (11) لسنة 2008 بتعديل بعض أحكام القانون رقم (11) لسنة 1997 بإنشاء الهيئة العامة القطرية للإذاعة والتلفزيون",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2475&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2475&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف إلى القانون رقم (11) لسنة 1997 المشار إليه، مادة برقم (5 مكرراً)، نصها التالي:"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "مكرراً):\n«يجوز للهيئة الترخيص للغير بإنشاء وتملك محطات البث الإذاعي المسموع والمرئي، ويكون لها حق الرقابة على ما تبثه هذه المحطات من مواد.\nويصدر بضوابط وشروط منح الترخيص وتجديده، أو إيقافه، أو إلغائه، وتحديد رسوم الترخيص، قرار من رئيس الهيئة، بعد اعتماده من مجلس الوزراء»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

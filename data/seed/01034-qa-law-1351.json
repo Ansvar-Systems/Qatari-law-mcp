@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (99) لسنة 1976 بالمصادقة على اتفاق تنفيذ تملك الدولة كامل حقوق وأموال شركة نفط قطر المحدودة",
   "short_name": "مرسوم رقم (99) لسنة 1976 بالمصادقة على اتفاق تنفيذ تملك الدولة كامل حقوق وأموال شركة نفط قطر المحدودة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1351&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1976.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1351&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يصادق على اتفاق تنفيذ تملك الدولة كامل حقوق وأموال شركة نفط قطر المحدودة والمتعلقة بعملياتها في دولة قطر، المشار إليه ، والموقع بالدوحة بتاريخ 16/9/1976 م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا المرسوم ، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

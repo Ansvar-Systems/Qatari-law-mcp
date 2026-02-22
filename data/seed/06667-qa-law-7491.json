@@ -4,8 +4,21 @@
   "title": "قرار وزير الأوقاف والشؤون الإسلامية رقم (75) لسنة 2017 بتنظيم وتحديد بيانات سجل قيد مقاولي الحج والعمرة",
   "short_name": "قرار وزير الأوقاف والشؤون الإسلامية رقم (75) لسنة 2017 بتنظيم وتحديد بيانات سجل قيد مقاولي الحج والعمرة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7491&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7491&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجب أن يتضمن سجل قيد مقاولي الحج والعمرة المرخص لهم، البيانات التالية:\n1- اسم المقاول كاملاً.\n2- تاريخ الميلاد.\n3- الجنسية.\n4- رقم البطاقة الشخصية.\n5- المؤهل العلمي.\n6- رقم قيد المنشأة.\n7- رقم السجل التجاري ومدته.\n8- اسم صاحب السجل التجاري والشركاء إن وُجدوا.\n9- رقم الترخيص ونوعه ومدته.\n10- العنوان التفصيلي للحملة.\n11- الجزاءات والعقوبات الصادرة ضد المرخص له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

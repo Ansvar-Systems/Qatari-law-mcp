@@ -4,8 +4,33 @@
   "title": "قرار رئيس مجلس الوزراء رقم (2) لسنة 1985 بشأن إجراء تعداد عام للسكان والمساكن والمنشآت الخاصة في دولة قطر",
   "short_name": "قرار رئيس مجلس الوزراء رقم (2) لسنة 1985 بشأن إجراء تعداد عام للسكان والمساكن والمنشآت الخاصة في دولة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1750&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1985.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1750&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجري الجهاز المركزي للإحصاء تعداداً عاماً للسكان والمساكن والمنشآت الخاصة في دولة قطر خلال شهر مارس من عام 1986م، ثم يجري مثل هذا التعداد بعد ذلك مرة كل عشر سنوات ميلادية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون الجهاز مسئولاً فنياً وإدارياً عن هذا التعداد، ويحدد رئيس الجهاز طريقة إجرائه ونشر نتائجه.\nوعلى الوزارات والأجهزة الحكومية أن تعاون الجهاز بكل ما لديها من إمكانات خلال فترة تحضير وإجراء هذا التعداد."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على مالكي المباني وساكنيها وأصحاب المنشآت الخاصة أو مديريها أن يقدموا للموظفين المكلفين بتنفيذ التعداد البيانات التي تطلب منهم على الاستمارات المعدة لهذا الغرض، وأن يسمحوا لهم بالاطلاع على المستندات اللازمة للتحقق من هذه البيانات، كما أن عليهم عدم إزالة أو تغيير أي أرقام أو حروف أو علامات يضعها هؤلاء الموظفين على المباني والمنشآت أثناء فترة تحضير وتنفيذ التعداد."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

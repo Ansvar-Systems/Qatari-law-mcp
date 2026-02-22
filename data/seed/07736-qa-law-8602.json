@@ -4,8 +4,21 @@
   "title": "قرار رقم (22) لسنة 2021 م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (22) لسنة 2021 م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8602&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8602&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهما صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (4) لسنة 1985م المُشار إليه أعلاه والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nمبارك سعيد محبوب المهندي\nباحث رخص بناء ثاني\n2\nجمال على محمد البوعنين\nرئيس قسم المراقبة الفنية\n3\nفهد علي فهد المري\nباحث شؤون إدارية ثالث\n4\nبخيت علي سعيد المري\nكاتب شؤون إدارية ثالث\n5\nأحمد سمير الساعي\nمهندس كهربائي ثالث\n6\nعايدة محمد علي مهنا\nاستشاري شؤون هندسية\n7\nخلدون علي أحمد عزازي\nمساح ثاني\n8\nمحمد حسن ادروب\nمساح ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار رقم (67) لسنة 2020م بتعديل بعض أحكام قراري النائب العام رقمي (35) و(85) لسنة 2019م",
   "short_name": "قرار رقم (67) لسنة 2020م بتعديل بعض أحكام قراري النائب العام رقمي (35) و(85) لسنة 2019م",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8376&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8376&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف المرسوم بقانون رقم 24 لسنة 2019 بتنظيم وإدارة المخزون الاستراتيجي للسلع الغذائية والاستهلاكية الى قراري النائب العام رقمي 35 و 85 المُشار إليهما"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُعدل المسميات الوظيفية لموظفي وزارة التجارة والصناعة الواردة أسماؤهم في قراري النائب العام رقمي 35 و 85 المُشار إليهما وذلك وفقاً للجدول التالي\nم\nالإسم\nالمسمى الوظيفي\n1\nمحمود عبدالواحد عبدالرحيم عبد الوهاب\nمفتش أسواق ثاني\n2\nخليفة حمزة محمد ال الشيخ الكواري\nمفتش أسواق ثالث\n3\nمحمد عيسى محمد الكواري\nمحاسب ثالث\n4\nفراس محمود عبدالله\nمحاسب ثالث"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة كُلٍّ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

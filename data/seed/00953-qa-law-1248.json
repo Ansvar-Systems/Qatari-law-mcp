@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (68) لسنة 2004 بتعديل المرسوم رقم (68) لسنة 2003 بنزع ملكية بعض العقارات للمنفعة العامة",
   "short_name": "مرسوم رقم (68) لسنة 2004 بتعديل المرسوم رقم (68) لسنة 2003 بنزع ملكية بعض العقارات للمنفعة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1248&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1248&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (1) من المرسوم رقم (68) لسنة 2003 المشار إليه النص التالى :\n«تنزع للمنفعة العامة ملكية العقارات اللازمة لتنفيذ المشروع المبين في قرار وزير الشؤون البلدية والزراعة رقم (81) لسنة 2003 المشار إليه، الموضح موقعه وتفاصيله وحدوده ومعالمه وفقا للرسم التخطيطي المرفق بهذا المرسوم»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية. ويعمل به من تاريخ العمل بالمرسوم رقم (68) لسنة 2003 المشار إليه."
+    }
+  ],
   "definitions": []
 }

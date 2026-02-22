@@ -4,8 +4,21 @@
   "title": "قرار وزير الدولة لشؤون الطاقة رقم (01) لسنة 2026 بمد مهلة توفيق الأوضاع المنصوص عليها في القانون رقم (19) لسنة 2024 بتنظيم خدمات تبريد المناطق",
   "short_name": "قرار وزير الدولة لشؤون الطاقة رقم (01) لسنة 2026 بمد مهلة توفيق الأوضاع المنصوص عليها في القانون رقم (19) لسنة 2024 ب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10295&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2026.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10295&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمد مهلة توفيق الأوضاع المنصوص عليها في المادة ( 49 ) من القانون رقم (19) لسنة 2024 المشار إليه، لمدة سنة اعتباراً من تاريخ 18/ 11/ 2025."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

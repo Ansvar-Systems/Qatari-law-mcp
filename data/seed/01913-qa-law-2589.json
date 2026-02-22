@@ -4,8 +4,21 @@
   "title": "قانون رقم (30) لسنة 2008 بتعديل بعض أحكام المرسوم بقانون رقم (5) لسنة 1984 بتنظيم الأندية",
   "short_name": "قانون رقم (30) لسنة 2008 بتعديل بعض أحكام المرسوم بقانون رقم (5) لسنة 1984 بتنظيم الأندية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2589&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2589&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"في تطبيق أحكام هذا القانون يقصد بالنادي، كل هيئة ذات تنظيم مستمر، تكونها جماعة من الأشخاص الطبيعيين، لغرض غير الحصول بصفة أساسية على ربح مادي، وتستهدف القيام بنشاط رياضي أو ثقافي أو اجتماعي، أو غير ذلك من الأنشطة الضرورية النافعة للمجتمع، وتهيئ الوسائل وتوفر الخدمات اللازمة لتحقيق أهدافها.\nويجوز للأندية تأسيس شركات تجارية لخدمة نشاط أو أكثر من الأنشطة التي يقوم عليها النادي\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

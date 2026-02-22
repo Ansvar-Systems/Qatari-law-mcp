@@ -4,8 +4,21 @@
   "title": "قرار رئيس المجلس الأعلى لرعاية الشباب رقم (2) لسنة 1986 بشأن نموذج عقد تأسيس الأندية العاملة في مجال رعاية الشباب ونظامها الأساسي",
   "short_name": "قرار رئيس المجلس الأعلى لرعاية الشباب رقم (2) لسنة 1986 بشأن نموذج عقد تأسيس الأندية العاملة في مجال رعاية الشباب ونظ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3702&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1986.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3702&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تسترشد الأندية العاملة في مجال رعاية الشباب، في وضع عقد تأسيسها ونظامها الأساسي، بالنموذجين المرافقين .\nولا يجوز لهذه الأندية مخالفة أحكام هذين النموذجين إلا بموافقة المجلس الأعلى لرعاية الشباب."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

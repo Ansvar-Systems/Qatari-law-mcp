@@ -4,8 +4,27 @@
   "title": "قرار وزاري رقم (15) لسنة 2018 بتحديد المباني والمنشآت التي يلتزم ملاكها بنقل المخلفات السائلة على نفقتهم",
   "short_name": "قرار وزاري رقم (15) لسنة 2018 بتحديد المباني والمنشآت التي يلتزم ملاكها بنقل المخلفات السائلة على نفقتهم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7558&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7558&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يلتزم ملاك العقارات المبنية في الأماكن التي لا توجد بها شبكة للمجاري، إنشاء وسائل صرف صحية وفقا للاشتراطات التي تحددها البلدية المختصة، كما يلتزم ملاك العقارات التي توجد بها خزانات للصرف الصحي القيام بنزحها فور امتلائها على نفقتهم الخاصة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُحدد المباني والمنشآت التي يلتزم ملاكها بنقل مخلفاتها السائلة على نفقتهم كالتالي:-\n1- المباني والمنشآت التجارية مثل الأسواق والمولات والمحلات التجارية.\n2- المباني والمنشآت السياحية مثل الفنادق والمنتجعات والأندية الترفيهية.\n3- المباني والمنشآت السكنية ذات الربحية مثل المجمعات السكنية والابراج التجارية والادارية والسكنية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

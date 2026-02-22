@@ -4,8 +4,27 @@
   "title": "قرار رقم (16) لسنة 1967 بنقل بعض اختصاصات دائرة الخدمات الطبية والصحة العامة ودائرة الزراعة إلى بلدية قطر",
   "short_name": "قرار رقم (16) لسنة 1967 بنقل بعض اختصاصات دائرة الخدمات الطبية والصحة العامة ودائرة الزراعة إلى بلدية قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3605&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1967.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3605&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تتولى بلدية قطر الأعمال الآتية:\nأ - إنشاء الحدائق العامة وصيانتها ومراقبتها.\nب - تشجير الشوارع والميادين.\nج - تنظيف الشوارع والطرق وجمع النفايات والأوساخ وحرقها.\nد - نقل الموتى والدفن والمحافظة على حرمة المقابر."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينقل إلى بلدية قطر، من دائرة الخدمات الطبية والصحة العامة، ودائرة الزراعة، الموظفون والعمال الذين يتولون حالياً في هاتين الدائرتين تنفيذ الأعمال المشار إليها في المادة السابقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

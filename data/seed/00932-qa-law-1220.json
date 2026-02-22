@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (60) لسنة 1975 بتعيين سعر التعادل للريال القطري",
   "short_name": "مرسوم رقم (60) لسنة 1975 بتعيين سعر التعادل للريال القطري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1220&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1975.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1220&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يربط سعر صرف الريال القطري بحقوق السحب الخاصة، ويعادل 0,21 (واحدا وعشرين في المائة) من كل وحدة من وحدات حقوق السحب الخاصة، أي أن كل 4,7169 ريالا (أربعة ريالات وسبعة الألف ومائة وتسعة وستون من العشرة آلاف من الريال) تساوى وحدة من وحدات حقوق السحب الخاصة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تحدد مؤسسة النقد القطري يومياً سعر صرف الريال القطري بالنسبة للدولار، على أساس سعر تعادل الدولار بالنسبة لحقوق السحب الخاصة الذي سيزودها به صندوق النقد الدولي.\nوتحدد أسعار صرف العملات الأخرى طبقا للسعر المعادل لها بالدولار في أسواق النقد الأجنبية العالمية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تبقى إجراءات شراء الدولار والجنيه الاسترليني من مؤسسة النقد القطري وفقاً لذات الأسس المعمول بها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به اعتباراً من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

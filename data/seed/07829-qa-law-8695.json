@@ -4,8 +4,21 @@
   "title": "قرار رقم (68) لسنة 2021 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (68) لسنة 2021 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8695&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8695&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (10) لسنة 2016 المُشار إليه أعلاه والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nسالم عبد المحسن علي المري\nمفتش صحي\n2\nسلطان سالم سعيد الحامدي\nمفتش صحي\n3\nشخبوط صالح شخبوط المري\nمفتش صحي\n4\nريمه هادي العنزي\nمفتش صحي\n5\nراشد محمد النديلة\nمفتش صحي\n6\nمحمد بخيت حمد المري\nمفتش صحي\n7\nمبارك على المريخي\nمفتش صحي\n8\nمحمد سعيد سبت\nمفتش صحي\n9\nسالم علي سعد الحنيتم المري\nمفتش صحي\n10\nمبارك محسن مبارك خوار\nمفتش صحي\n11\nخالد محمد الدحابيب المري\nمفتش صحي\n12\nعبدالهادي بخيت حمد المري\nمفتش صحي\n13\nعلى صالح شخبوط المري\nمفتش صحي\n14\nناصر حسن راشد السويدي\nمفتش صحي\n15\nنواف موسى الشمري\nمفتش صحي\n16\nذيب راشد الهاجري\nمفتش صحي\n17\nصالح علي جرحب المري\nمفتش صحي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

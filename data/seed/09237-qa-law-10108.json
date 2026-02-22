@@ -4,8 +4,33 @@
   "title": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (5) لسنة 2025 بإصدار نظام حوكمة الشركات المدرجة",
   "short_name": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم (5) لسنة 2025 بإصدار نظام حوكمة الشركات المدرجة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10108&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10108&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعمل بنظام حوكمة الشركات المدرجة المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع المخاطبين بأحكام النظام المرفق توفيق أوضاعهم وفقًا لأحكامه خلال سنة من تاريخ نشره في الجريدة الرسمية، ويجوز لرئيس مجلس إدارة الهيئة مَد هذه المهلة لمدة أو لمدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى القرار رقم (5) لسنة 2016، من تاريخ العمل بالنظام المرفق."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

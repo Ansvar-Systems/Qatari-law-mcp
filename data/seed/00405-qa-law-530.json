@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (22) لسنة 2003 بتعديل بعض أحكام القانون رقم (12) لسنة 1998 بتنظيم المجلس البلدي المركزي",
   "short_name": "مرسوم بقانون رقم (22) لسنة 2003 بتعديل بعض أحكام القانون رقم (12) لسنة 1998 بتنظيم المجلس البلدي المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=530&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=530&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 33 ) من القانون رقم (12) لسنة 1998 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Article (33)",
+      "content": "«يتقاضى أعضاء المجلس مكافأة تحدد بمرسوم، وتستحق من تاريخ حلف اليمين أمام المجلس»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

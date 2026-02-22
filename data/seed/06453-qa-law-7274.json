@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (22) لسنة 2017 بالتصديق على اتفاقية تعاون في المجالات الثقافية والفنية بين حكومة دولة قطر وحكومة الولايات المتحدة المكسيكية",
   "short_name": "مرسوم رقم (22) لسنة 2017 بالتصديق على اتفاقية تعاون في المجالات الثقافية والفنية بين حكومة دولة قطر وحكومة الولايات ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7274&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7274&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية تعاون في المجالات الثقافية والفنية بين حكومة دولة قطر وحكومة الولايات المتحدة المكسيكية، الموقعة بمدينة الدوحة بتاريخ 21/1/2016، وعلى المذكرات الدبلوماسية المتبادلة بينهما بشأن الموافقة على تعديل نص المادة الثانية من الاتفاقية، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة ( 68 ) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

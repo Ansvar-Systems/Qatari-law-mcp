@@ -4,8 +4,33 @@
   "title": "قرار وزير الصحة العامة رقم (13) لسنة 2000 بتعديل بعض أحكام القرار الوزاري رقم (2) لسنة 1989 بشأن الشروط والمواصفات والتجهيزات الصحية الواجب توافرها في مختبرات التحاليل الطبية الخاصة",
   "short_name": "قرار وزير الصحة العامة رقم (13) لسنة 2000 بتعديل بعض أحكام القرار الوزاري رقم (2) لسنة 1989 بشأن الشروط والمواصفات وا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1832&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1832&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (4) من القرار الوزاري رقم (2) لسنة 1989 المشار إليه، النص التالي:\n«لا يجوز إجراء أية فحوص أو تحاليل في المختبر إلا بموجب تذكرة طبية من طبيب مرخص له بمزاولة مهنة الطب يبين بها نوع الفحص أو التحليل المطلوب.\nواستثناء من ذلك، يجوز دون الحصول على تذكرة طبية إجراء الفحوص المبينة بالجدول المرافق لهذا القرار»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تضاف مادة جديدة للقرار رقم (2) لسنة 1989 المشار إليه، برقم ( 4 مكرر ) يكون نصها كالتالي:"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "مكرر) :\n«في حالة اكتشاف أية حالة موجبة بالنسبة لفحص فيروس نقص المناعة المكتسبة أو التهاب الكبد (ب) أو (ج) يتعين على مدير المختبر إخطار إدارة الصحة الوقائية بوزارة الصحة العامة خطياً بذلك فوراً وفقاً لأحكام القانون رقم (2) لسنة 1983 المشار إليه»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

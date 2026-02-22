@@ -4,8 +4,33 @@
   "title": "قانون رقم (8) لسنة 2007 بتعديل بعض أحكام المرسوم بقانون رقم (17) لسنة 2001 بإنشاء الهيئة العامة للجمارك والموانئ",
   "short_name": "قانون رقم (8) لسنة 2007 بتعديل بعض أحكام المرسوم بقانون رقم (17) لسنة 2001 بإنشاء الهيئة العامة للجمارك والموانئ",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2649&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2649&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصوص المواد ( 2 )، ( 3 )، ( 20 /فقرة أولى)، ( 28 ) من المرسوم بقانون رقم (17) لسنة 2001 المشار إليه، النصوص التالية:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "«تنشأ هيئة عامة تسمى «الهيئة العامة للجمارك والموانئ» تكون لها شخصية معنوية وموازنة ملحقة بالموازنة العامة للدولة»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "«تتبع الهيئة مجلس الوزراء، ويكون مقرها مدينة الدوحة».\nمادة (20/فقرة أولى) :\n«يكون للهيئة موازنة سنوية تقديرية تعد على نمط موازنات الوزارات والأجهزة الحكومية الأخرى»."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article (28)",
+      "content": "«يكون لموظفي الهيئة، الذين يصدر بتخويلهم صفة مأموري الضبط القضائي، قرار من النائب العام بالاتفاق مع رئيس الهيئة، ضبط وإثبات ما يقع من مخالفات لأحكام التشريعات المنظمة للجمارك والموانئ والنقل البري»."
+    }
+  ],
   "definitions": []
 }

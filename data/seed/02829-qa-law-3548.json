@@ -4,8 +4,21 @@
   "title": "قرار رقم (135) لسنة 2008 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (135) لسنة 2008 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3548&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3548&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (4) لسنة 1983 م المشار إليه، والقرارات المنفذة له وهم:-\nم\nالإسم\nالمسمى الوظيفي\n1-\nالسيد/ إبراهيم سلمان علي الحسن\nرئيس قسم شؤون الصيادين\n2-\nالسيد/ عادل سليمان سعيد العلي\nأخصائي بيولوجي أول\n3-\nالسيد/ محسن ناصر صالح عبد الله\nأخصائي بيولوجي\n4-\nالسيد/ عادل يحيى صالح الجابري\nمهندس بحري أول\n5-\nالسيد/ محمد سلطان محمد جاسم\nمشرف مراقبين مصايد أول\n6-\nالسيد/ إسماعيل محمود إسماعيل الشيخ\nمشرف مراقبين مصايد\n7-\nالسيد/ صالح محمد عمر الكبيسي\nمراقب شواطئ وجزر مساعد\n8-\nالسيد/ علي علي حسين النعمة\nمراقب مصايد"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

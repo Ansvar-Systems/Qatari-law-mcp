@@ -4,8 +4,33 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (2) لسنة 1974 بتعيين الحد الأقصى لسعر السكر",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (2) لسنة 1974 بتعيين الحد الأقصى لسعر السكر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2010&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1974.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2010&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "لا يجوز بيع السكر بأكثر من خمسة وستين ريالاً للكيس زنة 50 كيلو جرام وبأكثر من ريال وأربعين درهم للكيلو جرام الواحد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل تحديد سابق لسعر السكر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تعلن الأسعار الواردة في المادة الأولى من هذا القرار على لوحات إعلانات تعلق في الأماكن الآتية:\n1. بأقسام الشرطة.\n2. بغرفة تجارة قطر.\n3. بقسم التموين ومراقبة الأسعار بوزارة الاقتصاد والتجارة.\nكما تذاع بواسطة الإذاعة والتلفزيون."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يعمل بهذا القرار من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

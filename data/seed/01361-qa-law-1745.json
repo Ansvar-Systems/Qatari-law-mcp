@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (9) لسنة 1999 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) الصادر في اجتماعه الثالث لعام 1999 في شأن الموافقة على إبرام بعض الاتفاقيات المتعلقة بمشروع تسييل الغاز الطبيعي - 4",
   "short_name": "قرار مجلس الوزراء رقم (9) لسنة 1999 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) الصادر في اجتماعه...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1745&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1745&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "اعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) الصادر في اجتماعه الثالث لعام 1999، المنعقد بتاريخ 4/4/1999 في شأن الموافقة على إبرام الاتفاقيات المتعلقة بمشروع تسييل الغاز الطبيعي &shy; 4 المشار إليها في ديباجة ذلك القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

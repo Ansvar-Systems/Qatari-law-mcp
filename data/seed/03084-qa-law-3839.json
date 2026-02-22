@@ -4,8 +4,21 @@
   "title": "قرار رقم (68) لسنة 2006 بتخويل بعض موظفات وزارة الداخلية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (68) لسنة 2006 بتخويل بعض موظفات وزارة الداخلية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3839&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3839&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون للموظفات بوزارة الداخلية التالية أسماؤهن صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام قانون العقوبات والقوانين الجزائية الخاصة، وهن:-\nم\nالاسم\nالإدارة\nالقسم\n1.\nسميرة نصيب فرج نصيب العبد الله\nإدارة أمن العاصمة\nقسم تحقيق المطار\n2.\nفاطمة جمال بلال مسعود القبيسي\nإدارة أمن العاصمة\nقسم تحقيق مدينة خليفة\n3.\nمروة فرج رمضان فرج العلي\nإدارة أمن الجنوب\nقسم التحقيق\n4.\nمنى محمد حمد شاهين الكواري\nإدارة أمن العاصمة\nقسم تحقيق المطار\n6.\nنورة سلطان مبارك الشهواني الهاجري\nإدارة أمن الريان\nقسم تحقيق الريان\n7.\nنعيمة فندي شوام السويدي الشمري\nإدارة أمن الشمال\nقسم تحقيق أم صلال\n8.\nأحلام عبد الله عيسى علي الحداد\nإدارة أمن الجنوب\nقسم التحقيق"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

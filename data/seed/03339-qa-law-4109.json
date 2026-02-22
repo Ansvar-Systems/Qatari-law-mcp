@@ -4,8 +4,33 @@
   "title": "مرسوم بقانون رقم (18) لسنة 2009 بإلغاء بعض القوانين",
   "short_name": "مرسوم بقانون رقم (18) لسنة 2009 بإلغاء بعض القوانين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4109&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4109&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلغى القوانين أرقام (5) لسنة 1970 ، (10) لسنة 1970 ، (23) لسنة 1990 ، (14) لسنة 1991 ، (9) لسنة 1993 ، (9) لسنة 1996 ، (6) لسنة 1997 ، (11) لسنة 1997 ، (8) لسنة 2000 ، (9) لسنة 2000 ، (11) لسنة 2000 ، (8) لسنة 2001 ، (16) لسنة 2001 ، (16) لسنة 2002 ، (37) لسنة 2002 ، (39) لسنة 2002 ، (1) لسنة 2003 ، (1) لسنة 2004 ، (13) لسنة 2004 ، (15) لسنة 2004 ، (32) لسنة 2004 ، (11) لسنة 2005 ، (23) لسنة 2005 ، المشار إليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى قانون إنشاء المؤسسة العامة القطرية للكهرباء والماء الصادر بالقانون رقم (10) لسنة 2000 ، المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تلغى المواد أرقام (26)، (27)، (28)، (29)، (30)، (31)، (32)، (33)، (34)، (35)، (36)، (37)، (38)، (39)، (40)، (41)، (42)، (43)، (44) من القانون رقم (24) لسنة 2002، المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره . وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

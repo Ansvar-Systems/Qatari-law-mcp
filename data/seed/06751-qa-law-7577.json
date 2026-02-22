@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (16) لسنة 2018 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (16) لسنة 2018 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7577&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7577&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد/ أحمد محمد السيد المنصوري، في وظيفة نائب رئيس بمحكمة التمييز، وتحدد أقدميته فيها اعتباراً من 16/12/2017."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين الدكتور/ خليفة عبداللطيف محمد جاسم المسلماني، في وظيفة قاضٍ بمحكمة الاستئناف، وتحدد أقدميته فيها اعتباراً من 29/12/2016."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعين كل من السادة التالية أسماؤهم في وظيفة رئيس بالمحكمة الابتدائية، وتحدد أقدميتهم فيها اعتباراً من 03/01/2018:\n1- السيد/ محمد مبارك محمد الضابت الدوسري.\n2- السيد/ سعود محمد جاسم محمد البوعينين.\n3- السيد/ غانم راشد مبارك البوسعيد الخيارين.\n4- السيد/ حسن محمد حسن الحيي السليطي."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

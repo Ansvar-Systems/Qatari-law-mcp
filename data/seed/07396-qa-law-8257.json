@@ -4,8 +4,27 @@
   "title": "مجلس إدارة هيئة قطر للأسواق المالية قرار مجلس الإدارة رقم (7) لسنة 2019 بتعديل بعض أحكام إجراءات عمل لجنة التحقيق بالهيئة الصادرة بالقرار رقم (3) لسنة 2009",
   "short_name": "مجلس إدارة هيئة قطر للأسواق المالية قرار مجلس الإدارة رقم (7) لسنة 2019 بتعديل بعض أحكام إجراءات عمل لجنة التحقيق بال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8257&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8257&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف الى القرار رقم (3) لسنة 2009 المشار إليه مادة جديدة برقم (23) نصها التالي:-"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article (23)",
+      "content": "لمجلس إدارة الهيئة تشكيل لجنة تحقيق أو أكثر للنظر في الموضوعات التي يرى المجلس التحقيق فيها، وتلتزم اللجنة بتطبيق ذات الإجراءات المطبقة في عمل لجنة التحقيق في الهيئة.\nوترفع اللجنة تقريراً يتضمن النتائج والتوصيات التي توصلت إليها لرئيس مجلس إدارة الهيئة مشفوعاً بالأدلة والمستندات الثبوتية، وللمجلس حفظ التحقيق إذا تبين عدم جدواه، أو الإحالة للرئيس التنفيذي للهيئة لاستكمال الإجراءات اللازمة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من اليوم التالي لتاريخ نشرة في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

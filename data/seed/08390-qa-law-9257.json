@@ -4,8 +4,27 @@
   "title": "قرار رئيس مجلس الوزراء رقم (21) لسنة 2023 بتعيين وكلاء وزارة مساعدين بوزارة البلدية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (21) لسنة 2023 بتعيين وكلاء وزارة مساعدين بوزارة البلدية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9257&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9257&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن وكيل وزارة مساعد بوزارة البلدية، كُل من:\n1 - الشيخ/ عبدالله بن أحمد آل ثاني، مدير عام بلدية أم صلال.\n2 - السيّد/ منصور عجران البوعينين، مدير عام بلدية الدوحة.\n3 - السيّد/ جابر حسن الجابر، مدير عام بلدية الريان.\n4 - السيّد/ محمد حسن النعيمي، مدير عام بلدية الوكرة.\n5 - السيّد/ عبدالله إبراهيم السادة، مدير عام بلدية الخور والذخيرة.\n6 - السيّد/ حمد جمعة المناعي، مدير عام بلدية الشمال.\n7 - السيّد/ صالح حمد الهدوان، مدير عام بلدية الشحانية.\n8 - السيّد/ راشد مشلش الخيارين، مدير عام بلدية الظعاين"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

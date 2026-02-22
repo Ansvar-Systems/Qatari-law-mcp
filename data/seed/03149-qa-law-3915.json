@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل رقم (8) لسنة 1981 دولة قطر شهادة تسجيل ‏(جمعية الشمال التعاونية الاستهلاكية)",
   "short_name": "شهادة تسجيل رقم (8) لسنة 1981 دولة قطر شهادة تسجيل ‏(جمعية الشمال التعاونية الاستهلاكية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3915&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1981.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3915&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل رقم (8) لسنة 1981\nدولة قطر\nشهادة تسجيل ‏(جمعية الشمال التعاونية الاستهلاكية)\nشهادة تسجيل رقم (8) لسنة 1981\nدولة قطر\nشهادة تسجيل ‏(جمعية الشمال التعاونية الاستهلاكية) 8 / 1981\n‏أشهد أن جمعية الشمال التعاونية الاستهلاكية - محدودة المسئولية قد سجلت تحت رقم (8) ‏بموجب قانون الجمعيات التعاونية رقم (12) لسنة 1973م في اليوم الثالث عشر من ذي القعدة لسنة 1401هـ الموافق الحادي عشر من سبتمبر لسنة 1981م."
+    }
+  ],
   "definitions": []
 }

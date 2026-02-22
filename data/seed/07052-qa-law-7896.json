@@ -4,8 +4,21 @@
   "title": "قرار رقم (6) لسنة 2019 بتخويل بعض موظفي وزارة العدل صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (6) لسنة 2019 بتخويل بعض موظفي وزارة العدل صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7896&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7896&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة العدل التالية أسماؤهما، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم 16 لسنة 2017 المُشار إليه والقرارات المُنفذة له وهما:\nم\nالإسم\nالمسمي الوظيفي\n1\nناصر محمد فرج العنزي.\nرئيس قسم التوثيق.\n2\nمحمد عويضه سالم الكواري.\nباحث قانوني ثاني.\n3\nعلي خالد علي الغانم المعاضيد.\nباحث قانوني ثاني.\n4\nعبدالكريم حمود جليبط الرويلي.\nباحث قانوني ثالث."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخُصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

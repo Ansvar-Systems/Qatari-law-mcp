@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (67) لسنة 2023 بتعيين سفير فوق العادة مفوض لدى الجمهورية القيرغيزية",
   "short_name": "قرار أميري رقم (67) لسنة 2023 بتعيين سفير فوق العادة مفوض لدى الجمهورية القيرغيزية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9356&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9356&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيّد/ علي جابر محمد الغفران المري، سفيراً فوق العادة مُفوضاً من لدنّا لدى الجمهورية القيرغيزية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار.\nويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

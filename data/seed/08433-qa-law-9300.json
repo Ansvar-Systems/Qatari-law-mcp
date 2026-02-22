@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (30) لسنة 2023 بتعيين رئيس ونائب رئيس وأعضاء اللجنة المشتركة للتقاعد العسكري",
   "short_name": "قرار رئيس مجلس الوزراء رقم (30) لسنة 2023 بتعيين رئيس ونائب رئيس وأعضاء اللجنة المشتركة للتقاعد العسكري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9300&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9300&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن رئيس ونائب رئيس وأعضاء اللجنة المشتركة للتقاعد العسكري، على النحو التالي:\n- اللواء/ فايز فالح فلاح الشمري رئيساً\n- اللواء/ محمد جاسم حمد السليطي نائباً للرئيس\n- العميد الركن/ فهد محمد صالح لوذين المري عضواً\n- العميد/ إبراهيم خليل إبراهيم المهندي عضواً\n- العميد الركن/ علي ثلاب حمد الشهواني عضواً\n- المُقدّم/ سعيد غانم عبدالله المهندي عضواً\n- الرائد/ بندر فرحان عقيل الرويلي عضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

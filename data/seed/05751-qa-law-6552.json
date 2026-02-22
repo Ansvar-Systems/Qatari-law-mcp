@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (17) لسنة 2015 بتحديد ميعاد انتخاب أعضاء المجلس البلدي المركزي",
   "short_name": "مرسوم رقم (17) لسنة 2015 بتحديد ميعاد انتخاب أعضاء المجلس البلدي المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6552&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6552&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحدد يوم الأربعاء الموافق 13/5/2015 موعداً لإجراء انتخاب أعضاء المجلس البلدي المركزي.\nويُدعى المواطنون الذين يتمتعون بحق الانتخاب، والمقيدة أسماؤهم في جداول قيد الناخبين، للإدلاء بأصواتهم في دوائرهم الانتخابية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

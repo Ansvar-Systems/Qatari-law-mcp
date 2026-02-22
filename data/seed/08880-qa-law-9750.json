@@ -4,8 +4,21 @@
   "title": "قرار رقم (115) لسنة 2024 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (115) لسنة 2024 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9750&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9750&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون المشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nمعراج عليقة\nمهندس زراعي ثالث\n2\nعمار خالد ديوب\nمهندس زراعي ثالث\n3\nأنور محمد صالح شرف الدين\nمهندس زراعي ثالث\n4\nبشير حسن حامد إبراهيم\nمهندس زراعي ثالث\n5\nبشير محمد الأمين إبراهيم الأمين\nمهندس زراعي ثالث\n6\nبهاء الدين حسني ياسين الديات\nمهندس زراعي ثالث\n7\nعبدالرحمن رشيد محمد محمد\nمهندس زراعي ثالث\n8\nعبدالكريم الجنوب\nمهندس زراعي ثالث\n9\nخالد محمد جابر عبدالرحمن\nمهندس زراعي ثالث\n10\nعبد الواحد شويه\nمهندس زراعي ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

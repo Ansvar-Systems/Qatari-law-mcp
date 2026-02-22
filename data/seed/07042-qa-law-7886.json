@@ -4,8 +4,21 @@
   "title": "قانون رقم (6) لسنة 2019 بتعديل بعض أحكام القانون رقم (19) لسنة 2008 بتحديد دية المتوفى عن القتل الخطأ",
   "short_name": "قانون رقم (6) لسنة 2019 بتعديل بعض أحكام القانون رقم (19) لسنة 2008 بتحديد دية المتوفى عن القتل الخطأ",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7886&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7886&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف إلى المادة (1) من القانون رقم (19) لسنة 2008 المشار إليه، فقرة ثالثة، نصها التالي:\nمادة (1/ فقرة ثالثة) :\n\"وتكون دية الجنين عُشر الدية.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (1) لسنة 2013 بتعيين مجلس إدارة هيئة قطر للأسواق المالية",
   "short_name": "قرار أميري رقم (1) لسنة 2013 بتعيين مجلس إدارة هيئة قطر للأسواق المالية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4631&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4631&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين مجلس إدارة هيئة قطر للأسواق المالية، على النحو التالي:\n1. سعادة الشيخ/ عبد الله بن سعود آل ثاني\nمحافظ مصرف قطر المركزي\nرئيساً\n2. سعادة الشيخ/ فهد بن فيصل آل ثاني\nنائب محافظ مصرف قطر المركزي\nنائباً للرئيس\n3. السيد/ خلف أحمد المناعي\nممثلاً عن وزارة الاقتصاد والمالية\nعضواً\n4. السيد/ حمد علي المناعي\nممثلاً عن وزارة الأعمال والتجارة\nعضواً\n5. السيد/ مايكل رايان\nالمدير العام التنفيذي لهيئة تنظيم مركز قطر للمال\nعضواً\n6. الدكتورة/ حصة سلطان الجابر\nمن ذوي الخبرة في مجالات عمل الهيئة\nعضواً\n7. الشيخ/ سعود ناصر آل ثاني\nمن ذوي الخبرة في مجالات عمل الهيئة\nعضواً\nويكون للمجلس امين سر يختاره المجلس، ويحدد اختصاصاته ومكافأته المالية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

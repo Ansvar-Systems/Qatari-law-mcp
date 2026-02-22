@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (71) لسنة 1981 بالموافقة على انضمام دولة قطر إلى معاهدة قمع الاستيلاء غير المشروع على الطائرات",
   "short_name": "مرسوم رقم (71) لسنة 1981 بالموافقة على انضمام دولة قطر إلى معاهدة قمع الاستيلاء غير المشروع على الطائرات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3116&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1981.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3116&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى معاهدة قمع الاستيلاء غير المشروع على الطائرات، الموقعة بمدينة لاهاي في 16/12/1970."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على الجميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

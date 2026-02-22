@@ -4,8 +4,39 @@
   "title": "قرار وزاري رقم (4) لسنة 1982 ببيان إجراءات إيداع المصنفات في دار الكتب القطرية",
   "short_name": "قرار وزاري رقم (4) لسنة 1982 ببيان إجراءات إيداع المصنفات في دار الكتب القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2094&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1982.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2094&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينشأ بدار الكتب القطرية مركز لإيداع المصنفات تعد فيه سجلات لقيد المصنفات التي يتم إيداعها وفقاً للقانون نظير إيصال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يوضح في سجل قيد المصنفات المودعة والإيصال الذي يسلم لصاحب الشأن البيانات الآتية:\nأ- الرقم المسلسل السنوي للإيداع.\nب- اسم المصنف واسم مؤلفه.\nجـ- اسم المطبعة.\nد- اسم المودع.\nهـ- تاريخ الإيداع.\nو- توقيع الموظف الذي تسلم النسخ المودعة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يحرر الإيصال من أصل وصورة كربونية، ويسلم الأصل لصاحب الشأن، وتبقى الصورة بدفتر الإيصالات الذي يحتفظ به في مركز إيداع المصنفات."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يحتفظ مركز إيداع المصنفات بنسخة واحدة من كل مصنف، ويسلم النسخ الأخرى للمختصين بدار الكتب لاستخدامها في أغراض الدار."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يعمل بهذا القرار من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

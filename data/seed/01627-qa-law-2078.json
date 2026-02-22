@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية والاقتصاد والتجارة رقم (40) لسنة 1996 بشأن إلغاء بعض القرارات الخاصة بأسعار بعض السلع",
   "short_name": "قرار وزير المالية والاقتصاد والتجارة رقم (40) لسنة 1996 بشأن إلغاء بعض القرارات الخاصة بأسعار بعض السلع",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2078&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2078&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلغى القرارات الوزارية رقم (10) لسنة 1980 ، و رقم (6) لسنة 1983 ، و رقم (62) لسنة 1987 ، و رقم (3) لسنة 1989 المشار إليها،"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

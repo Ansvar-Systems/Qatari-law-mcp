@@ -4,8 +4,27 @@
   "title": "قرار نائب الحاكم رقم (1) لسنة 1969 بشأن رسوم الأرضية",
   "short_name": "قرار نائب الحاكم رقم (1) لسنة 1969 بشأن رسوم الأرضية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=680&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1969.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=680&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحصل رسوم أرضية على البضائع المستوردة أو المعدة للتصدير على أساس الفئات الآتية:\nأ- عدد (1) ريال عن كل طن شحني يومياً بعد مرور عشرة أيام من تاريخ انتهاء تفريغ وسيلة النقل الحاملة لتلك البضائع بمنطقة الميناء.\nب- عدد (2) ريال عن كل طن شحني يومياً بعد مرور عشرين يوماً من تاريخ انتهاء تفريغ وسيلة النقل الحاملة لتلك البضائع بمنطقة الميناء."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يسري هذا القرار على البواخر التي تصل إلى ميناء الدوحة اعتباراً من اليوم التالي لتاريخ صدوره."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

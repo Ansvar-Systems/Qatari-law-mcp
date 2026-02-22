@@ -4,8 +4,33 @@
   "title": "قرار وزاري رقم (187) لسنة 2021 بشأن تنظيم موسم صيد بعض الطيور والحيوانات البرية",
   "short_name": "قرار وزاري رقم (187) لسنة 2021 بشأن تنظيم موسم صيد بعض الطيور والحيوانات البرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9006&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9006&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون موسم صيد الطيور المهاجرة (اللفو) في الفترة التالية من 1/9/2021 حتى 1/5/2022، دون غيرها من العام، على أن يكون صيد طائر الحباري بواسطة الصقور فقط ويحظر استخدام أو تبادل أدوات ووسائل الصيد الغير تقليدية وبالأخص جهاز جذب الطيور (الصوايات)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون موسم صيد الأرانب في الفترة من 1/11/2021 حتى 15/12/2021، دون غيرها من العام، على أن يكون صيدها بواسطة الصقور وكلاب الصيد فقط"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُحظر صيد أي من الطيور أو الحيوانات البرية الأخرى، وعلى وجه الخصوص صيد الطيور والحيوانات المستوطنة طوال العام (الأصرد، القوبعة، الورقة، سويدا باط، الحمرة، الأدرج، النعام والغزلان)"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ 1/9/2021."
+    }
+  ],
   "definitions": []
 }

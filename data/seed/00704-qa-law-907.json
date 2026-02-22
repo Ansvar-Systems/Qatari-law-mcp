@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (14) لسنة 1997 بتأسيس بنك قطر للتنمية الصناعية (شركة مساهمة قطرية/مقفلة)",
   "short_name": "مرسوم رقم (14) لسنة 1997 بتأسيس بنك قطر للتنمية الصناعية (شركة مساهمة قطرية/مقفلة)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=907&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=907&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لـ:\n1- حكومة دولة قطر\n2- بنك قطر الوطني\n3- بنك الدوحة المحدود\n4- البنك التجاري القطري\n5- البنك الأهلي القطري\n6- شركة قطر للتأمين\n7- شركة الخليج للتأمين\n8- شركة قطر الوطنية للملاحة والنقليات المحدودة\nفي أن يؤسسوا في قطر شركة مساهمة قطرية/مقفلة تسمى (بنك قطر للتنمية الصناعية) برأس مال قدره (200,000,000) مائتا مليون ريال قابلة للزيادة إلى (500,000,000) خمسمائة مليون ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الإلتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي ، وملحقيهما المرفق صورة كل منها بهذا المرسوم، وبأحكام المرسوم بقانون رقم (15) لسنة 1993 و القانون رقم (11) لسنة 1981 باصدار قانون الشركات التجارية المشار إليهما، والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

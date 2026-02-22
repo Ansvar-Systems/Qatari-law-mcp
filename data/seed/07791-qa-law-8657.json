@@ -4,8 +4,33 @@
   "title": "قرار وزير الثقافة والرياضة رقم (56) لسنة 2021 بحل مجلس وزارة الشباب والرياضة",
   "short_name": "قرار وزير الثقافة والرياضة رقم (56) لسنة 2021 بحل مجلس وزارة الشباب والرياضة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8657&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8657&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحل مجلس وزارة الشباب والرياضة السابق إنشاؤه بقرار وزير الشباب والرياضة رقم (11) لسنة 2014م المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُسلم مبنى مجلس وزارة الشباب والرياضة إلى مركز نوماس."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُحوّل أرصدة حساب مجلس وزارة الشباب والرياضة البنكية إلى مركز الوجدان الحضاري."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المُختصة، كلّ فيما يخُصّه. تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، ويلغي كل حكم خالف أحكامه. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

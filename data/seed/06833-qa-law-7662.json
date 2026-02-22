@@ -4,8 +4,21 @@
   "title": "قانون رقم (10) لسنة 1962 بتأجيل العمل بالقوانين رقم (3)، (4)، (5)، (8) لسنة 1962",
   "short_name": "قانون رقم (10) لسنة 1962 بتأجيل العمل بالقوانين رقم (3)، (4)، (5)، (8) لسنة 1962",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7662&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1962.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7662&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يؤجل العمل بكل من قانون العمل رقم (3) لسنة 1962 والقانون رقم (4) لسنة 1962 بانشاء محكمة العمل والقانون رقم (5) لسنة 1962 باصدار قانون المرافعات امام محكمة العمل والقانون رقم (8) لسنة 1962 بالرسوم القضائية الخاصة بمحكمة العمل حتى يصدر قانون جديد يحدد تاريخ العمل بهذه القوانين"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

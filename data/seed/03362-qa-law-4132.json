@@ -4,8 +4,21 @@
   "title": "قرار نائب الحاكم رقم (6) لسنة 1969 بالأعفاء من الرسوم المنصوص عليها في المرسوم بقانون رقم (13) لسنة 1969 بفرض بعض الرسوم لمعونة مجاهدي وأسر شهداء فلسطين",
   "short_name": "قرار نائب الحاكم رقم (6) لسنة 1969 بالأعفاء من الرسوم المنصوص عليها في المرسوم بقانون رقم (13) لسنة 1969 بفرض بعض الر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4132&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1969.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4132&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعفى الأشخاص المذكورون تالياً من رسوم معونة مجاهدي وأسر شهداء فلسطين المنصوص عليها في المرسوم بقانون رقم (13) لسنة 1969م :-\nأ- موظفو حكومة قطر الموفدون للخارج بمهام رسمية.\nب- الأشخاص الذين تستقدمهم حكومة قطر من الخارج للقيام بمهام وأعمال رسمية لها، والوفود الرسمية.\nجـ- أعضاء السلكين الدبلوماسي والقنصلي وعائلاتهم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "وثيقة إعادة تأسيس مؤسسة قطر للتربية والعلوم وتنمية المجتمع",
   "short_name": "وثيقة إعادة تأسيس مؤسسة قطر للتربية والعلوم وتنمية المجتمع",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4140&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4140&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تأسيس مؤسسة قطر للتربية والعلوم وتنمية المجتمع، وفقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 بشأن المؤسسات الخاصة ذات النفع العام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تسجيل المؤسسة طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه، ويعدل النظام الأساسي وكافة الوثائق المتعلقة بالمؤسسة بما يتفق وأحكامه، وتتخذ الإجراءات اللازمة لإلغاء تسجيلها بوزارة شؤون الخدمة المدنية والإسكان."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "لا يترتب على إعادة تأسيس المؤسسة أي تغيير في ملكيتها لكافة أموالها ومشروعاتها وجميع حقوقها والتزاماتها."
+    }
+  ],
   "definitions": []
 }

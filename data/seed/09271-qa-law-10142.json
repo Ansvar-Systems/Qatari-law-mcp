@@ -4,8 +4,21 @@
   "title": "قرار وزير الصحة العامة رقم (46) لسنة 2025 بإلغاء القرار (21) لسنة 2023 بتحديد رسوم الحصول على البطاقة الصحية وعلى بدل فاقد أو تالف منها",
   "short_name": "قرار وزير الصحة العامة رقم (46) لسنة 2025 بإلغاء القرار (21) لسنة 2023 بتحديد رسوم الحصول على البطاقة الصحية وعلى بدل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10142&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10142&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُلغى قرار وزير الصحة العامة رقم (21) لسنة 2023 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار ، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (15) لسنة 2020 بإعادة تشكيل مجلس إدارة الشركة القطرية للخدمات البريدية",
   "short_name": "قرار رئيس مجلس الوزراء رقم (15) لسنة 2020 بإعادة تشكيل مجلس إدارة الشركة القطرية للخدمات البريدية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8522&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8522&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس إدارة الشركة القطرية للخدمات البريدية ، على النحو التالي :\n1- السيد / فالح محمد ناصر النعيمي رئيسًا\n2- المقدم/ ناصر سعيد ناصر كليفيخ العتيبي ممثلاً عن وزارة الداخلية، عضوًا\n3- السيد / حمد محمد عبدان المري ممثلاً عن وزارة التجارة والصناعة ، عضوًا .\n4- المهندس / بدر محمد عبد الكريم المير ممثلا عن شركة الخطوط الجوية القطرية ، عضوًا .\n5- السيد / إلمور تويم الخبير في قطاع الخدمات البريدية ، عضوًا ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

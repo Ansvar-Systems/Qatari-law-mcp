@@ -4,8 +4,45 @@
   "title": "وثيقة تأسيس \"مؤسسة نهج\" - مؤسسة خاصة ذات نفع عام -",
   "short_name": "وثيقة تأسيس \"مؤسسة نهج\" - مؤسسة خاصة ذات نفع عام -",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6275&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6275&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنشأ مؤسسة خاصة ذات نفع عام طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 بشأن المؤسسات الخاصة ذات النفع العام المشار إليه، بإسم \"مؤسسة نهج\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون مقر المؤسسة في مدينة الدوحة، ويجوز لها إنشاء فروع ومكاتب في داخل الدولة وخارجها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تهدف المؤسسة إلى المساهمة في دعم توفير التعليم للجميع والنهوض بمستواه، ورعاية مبادرات تطوير التعليم والأنشطة المرتبطة به."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "رأس مال المؤسسة ثلاثة ملايين ريال قطري، سددها المؤسس. وللمؤسس بقرار منه، زيادة رأس مال المؤسسة أو تخفيضه."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "تعمل المؤسسة وفقاً للنظام الأساسي الصادر من المؤسس، والمرفق بهذه الوثيقة، وتسري بشأنها أحكام المرسوم بقانون رقم (21) لسنة 2006 المشار إليه."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "تُسجل المؤسسة وتُشهر طبقاً لأحكام المرسوم بقانون رقم (21) لسنة 2006 ، المشار إليه."
+    }
+  ],
   "definitions": []
 }

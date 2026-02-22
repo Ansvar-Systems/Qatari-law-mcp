@@ -4,8 +4,33 @@
   "title": "قرار وزير التجارة والصناعة رقم (40) لسنة 2020 بتعديل بعض أحكام قرار وزير البلدية والبيئة رقم (351) لسنة 2018 بتنظيم بيع وتوزيع المواصفات القياسية واللوائح الفنية والمطبوعات والنشرات المتعلقة بها",
   "short_name": "قرار وزير التجارة والصناعة رقم (40) لسنة 2020 بتعديل بعض أحكام قرار وزير البلدية والبيئة رقم (351) لسنة 2018 بتنظيم ب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8360&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8360&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة (4) من قرار وزير البلدية والبيئة رقم (351) لسنة 2018 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "\"يجوز بموافقة رئيس الهيئة العامة القطرية للمواصفات والتقييس، بناءً على عرض مدير إدارة المواصفات والمقاييس، تزويد الوزارات والأجهزة الحكومية الأخرى والأجهزة العربية والأجنبية والدولية العاملة في مجال المواصفات والتقييس، بنسخ مجانية من المواصفات القياسية واللوائح الفنية القطرية والمطبوعات والنشرات المتعلقة بهما.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يستبدل بسعر كود المجموعة (Q) المبيّن بالجدول رقم (1) المرفق بقرار وزير البلدية والبيئة رقم (351) لسنة 2018 المشار إليه، السعر التالي:\nكود المجموعة\nعدد الصفحات\nالسعر بالريال\nQ\n33 - 35\n199,10"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

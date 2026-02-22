@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (30) لسنة 2022 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (30) لسنة 2022 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8939&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8939&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة نائب رئيس بمحكمة الاستئناف، وتُحدد أقدمية كل منهم فيها اعتباراً من &lrm;19/11/2021&rlm;:\n&lrm;1 -&rlm; الدكتور/ منصور ناصر محمد القحطاني.\n2 - الدكتور/ نايف محمد راشد الكعبي.\n3 - السيّد/ سعيد أحمد محمد الكعبي.\n4 - السيّد/ ناصر فخري حسن الفخري.\n5 - السيّد/ عارف محمد عبداللّه العيسى.\n6 - السيّد/ فهد مبارك عجلان عبداللّه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من السيّد/ حمد إبراهيم علي شهبيك، والسيّد/ محمدعبدالهادي الدوسري، في وظيفة قاضٍ بمحكمة الاستئناف، وتُحدد أقدمية كل منهما فيها اعتباراً من 27/02/2022"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعين السيّد/ عبدالله محمد عبدالله الكواري، في وظيفة قاضٍ بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

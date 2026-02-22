@@ -4,8 +4,21 @@
   "title": "قرار رقم (38) لسنة 2017 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (38) لسنة 2017 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7220&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7220&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية اسماؤهم، صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المشار إليها، والقرارات المنفذة لها، وهم:\nم\nالاسم\nالوظيفة\n1.\nناصر سالم يوسف جسيمان.\nمراقب بيئة برية ثالث\n2.\nأحمد إبراهيم أمان مبارك العبدالله.\nمراقب بيئة برية ثالث\n3.\nمبارك فراس فراس مهلهل المري.\nمراقب بيئة برية ثاني\n4.\nأحمد عبدالله مبارك النعيمي.\nمساعد مراقب بيئة برية\n5.\nأحمد إبراهيم أحمد الحسن المهندي.\nمراقب عمليات بيئية رابع\n6.\nفهد مهنا محمد مهنا النعيمي.\nمشرف تفتيش بيئي أول\n7.\nمحمد سعد أحمد المهندي.\nفرد أمن ثاني\n8.\nخلف فرحان خلف الشمري.\nمراقب بيئة برية خامس\n9.\nمحمد علي راشد عليان المري.\nمراقب بيئة برية رابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

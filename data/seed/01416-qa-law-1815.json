@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (127) لسنة 2005 بشأن تأسيس شركة مساهمة قطرية باسم شركة قاتوفين المحدودة",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (127) لسنة 2005 بشأن تأسيس شركة مساهمة قطرية باسم شركة قاتوفين المحدودة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1815&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1815&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لقطر للبترول في أن تؤسس بالاشتراك مع شركة قطر للبتروكيماويات المحدودة، وشركة توتال للبتروكيمكالز فرانس، شركة مساهمة قطرية تسمى «شركة قاتوفين المحدودة» برأسمال مصرح به قدره (300,000,000) ثلاثمائة مليون دولار أمريكي، يكون لقطر للبترول (1%) من رأس مال الشركة، ولشركة قطر للبتروكيماويات المحدودة (63%)، ولشركة توتال للبتروكيمكالز فرانس (36%) منه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد التأسيس الأساسي و النظام الأساسي المرفق نصهما بهذا القرار، وبأحكام قانون الشركات التجارية الصادر بالقانون رقم (5) لسنة 2002، والقوانين الأخرى المعمول بها، فيما لم يرد بشأنه نص خاص في عقد التأسيس و النظام الأساسي ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

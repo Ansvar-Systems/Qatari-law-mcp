@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (163) لسنة 2018 بتعديل بعض أحكام القرار رقم (242) لسنة 2016 بشأن شروط وضوابط وإجراءات منح تراخيص مؤقتة لبعض الأماكن وأجزاء الأماكن التي تزاول فيها أعمال تجارية أو صناعية أو عامة مماثلة أو لمزاولة الأعمال التجارية في المنازل",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (163) لسنة 2018 بتعديل بعض أحكام القرار رقم (242) لسنة 2016 بشأن شروط وضوابط وإجراءات...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7649&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7649&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 7 /بند 3) من قرار وزير الاقتصاد والتجارة رقم (242) لسنة 2016 المشار إليه، النص التالي:\nمادة (7/بند 3) :\n\"3- عدم وضع أية لوحات دعائية أو ترويجية على المنزل أو الجدران الخارجية له، ويُحظر وضع الأعلام أو اللوحات الشريطية.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

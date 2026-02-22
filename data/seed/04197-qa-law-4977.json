@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (93) لسنة 2013 بمنح درجة وزير",
   "short_name": "قرار أميري رقم (93) لسنة 2013 بمنح درجة وزير",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4977&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4977&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمنح درجة وزير لكل من:\n1- سعادة الشيخ/ خليفة بن جاسم بن محمد آل ثاني.\n2- سعادة السيد/ أحمد جاسم الملا."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

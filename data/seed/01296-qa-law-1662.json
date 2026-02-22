@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة 1995 بإدماج إدارة الطيران المدني وإدارة الأرصاد الجوية في إدارة واحدة تسمى «إدارة الطيران المدني والأرصاد الجوية»",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة 1995 بإدماج إدارة الطيران المدني وإدارة الأرصاد الجوية في إدارة واحدة تسمى «إدارة الطي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1662&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1662&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تدمج إدارة الطيران المدني والأرصاد الجوية المنصوص عليهما في المادة (7) من القانون رقم (15) لسنة 1991 المشار رليه ، في إدارة واحدة تسمى «إدارة الطيران المدني»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتولى إدارة الطيران المدني والأرصاد الجوية الاختصاصات المنصوص عليها في المادتين ( 11 ) و( 12 ) من القانون رقم (15) لسنة 1991، المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

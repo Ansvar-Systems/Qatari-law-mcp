@@ -4,8 +4,27 @@
   "title": "قرار وزير المالية رقم (2) لسنة 2021 بإنشاء دائرتين جمركيتين بمنطقتي رأس بوفنطاس وأُم الحول",
   "short_name": "قرار وزير المالية رقم (2) لسنة 2021 بإنشاء دائرتين جمركيتين بمنطقتي رأس بوفنطاس وأُم الحول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8534&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8534&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُنشأ دائرة جمركية لكل من المنطقتين التاليتين:\n1 - المنطقة الاقتصادية الأولى (رأس بوفنطاس)، المقررة منطقة حُرّة بموجب القانون رقم (34) السنة 2005 المُشار إليه، المبيّنة حدودها ومعالمها بالخرائط المُرفقة بالمرسوم رقم (64) لسنة 2012 المشار إليه.\n2 - المنطقة الاقتصادية الثالثة (أم الحول) المقرّرة منطقة حُرّة بموجب القانون رقم (34) لسنة 2005 المُشار إليه، المُبيّنة حدودها ومعالمها بالخرائط المرفقة بالمرسوم رقم (64) لسنة 2012 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مع مراعاة حكم المادة السابقة، يجوز تحريك موقع الدائرة الجمركية من موضع إلى آخر تبعًا للضرورة التي تقتضيها كل من المنطقتين المُشار إليهما، وذلك بالتنسيق بين هيئة المناطق الحُرّة والهيئة العامة للجمارك."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

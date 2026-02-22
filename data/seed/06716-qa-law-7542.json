@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (2) لسنة 2018 بإعادة تشكيل مجلس إدارة اللجنة العليا للمشاريع والإرث",
   "short_name": "قرار أميري رقم (2) لسنة 2018 بإعادة تشكيل مجلس إدارة اللجنة العليا للمشاريع والإرث",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7542&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7542&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل مجلس إدارة اللجنة العليا للمشاريع والإرث برئاستنا، وسمو الممثل الشخصي للأمير، نائباً للرئيس، وعضوية معالي رئيس مجلس الوزراء ووزير الداخلية، وكل من:\n1. سعادة الشيخ/ جوعان بن حمد آل ثاني.\n2. سعادة الشيخ/ محمد بن حمد آل ثاني (عضواً منتدباً).\n3. سعادة وزير المالية.\n4. سعادة وزير الثقافة والرياضة.\n5. سعادة وزير التخطيط التنموي والإحصاء.\n6. سعادة وزير المواصلات والاتصالات.\n7. سعادة وزير البلدية والبيئة.\n8. سعادة رئيس الاتحاد القطري لكرة القدم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات، قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى القرار الأميري رقم (4) لسنة 2014 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

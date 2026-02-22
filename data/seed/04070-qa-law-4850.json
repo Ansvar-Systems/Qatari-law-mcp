@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (13) لسنة 2012 بتعيين عدد من مساعدي القضاة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (13) لسنة 2012 بتعيين عدد من مساعدي القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4850&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4850&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين بوظيفة مساعد قاضٍ السادة الآتية أسمائهم:\n1- السيد/ نواف فهد صنهات الغويري العتيبي.\n2- السيدة/ فاطمة عبدالله يوسف مال الله المال.\n3- السيد/ علي عبدالله علي عبدالله العبيدلي.\n4- الشيخ/ محمد فهد أحمد العبدالرحمن آل ثاني.\n5- السيد/ أحمد عبدالله محمد حسن المنصوري.\n6- السيد/ عبد العزيز خليفة صالح الربيعة الكواري.\n7- السيد/ جاسم عبدالله أحمد مبارك الفضاله."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

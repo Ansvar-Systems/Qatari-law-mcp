@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (66) لسنة 2001 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن اتفاقية شراء الطاقة الكهربائية والماء بين المؤسسة العامة القطرية للكهرباء والماء وشركة رأس لفان للكهرباء المحدودة",
   "short_name": "مرسوم رقم (66) لسنة 2001 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن اتفاقية شراء الطاقة الكهربائية والماء بين...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1243&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1243&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "توافق حكومة دولة قطر على ضمان الالتزامات المالية التي تنشأ عن إتفاقية شراء الطاقة الكهربائية والماء المزمع إبرامها بين المؤسسة العامة القطرية للكهرباء والماء وشركة رأس لفان للكهرباء المحدودة المبينة في إتفاقية الضمان المشار إليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية والاقتصاد والتجارة أو من ينيبه في التوقيع على إتفاقية الضمان المشار إليها، وفي الإتفاق على التعديلات التي يرى إدخالها على الإتفاقية، وفي التوقيع على تلك التعديلات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

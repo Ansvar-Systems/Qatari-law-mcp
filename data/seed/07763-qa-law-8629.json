@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (7) لسنة 2021 بإعادة تشكيل لجنة قبول المحامين",
   "short_name": "قرار مجلس الوزراء رقم (7) لسنة 2021 بإعادة تشكيل لجنة قبول المحامين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8629&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8629&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل لجنة قبول المحامين برئاسة وزير العدل. ومدير إدارة شؤون المحاماة بوزارة العدل، نائباً للرئيس، وعضوية كل من:\n1 - مدير إدارة قضايا الدولة بوزارة العدل\n2 - السيد/ عبد الله محمود سالم آل عمر ممثل عن المجلس الأعلى للقضاء.\n3 - السيد/ عبدالله ابراهيم يوسف المهندي ممثل عن المجلس الأعلى للقضاء.\n4 - السيدة/ مريم عبدالله الجابر ممثل عن النيابة العامة.\n5 - السيد/ راشد سعد آل سعد محام.\n6 &ndash; الشيخ الدكتور/ ثاني بن علي بن سعود آل ثاني محام.\n7 &ndash; السيدة/ منى يوسف محمد المطوع محام.\nويتولى أمانة سر اللجنة موظف أو أكثر من موظفي وزارة العدل، يصدر بندبهم وتحديد اختصاصاتهم ومكافآتهم قرار من وزير العدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

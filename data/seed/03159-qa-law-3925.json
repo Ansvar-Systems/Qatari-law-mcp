@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (91) لسنة 2006 بتعديل بعض أحكام القرار رقم (21) لسنة 2004 بتنظيم استيراد المركبات الميكانيكية المستعملة",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (91) لسنة 2006 بتعديل بعض أحكام القرار رقم (21) لسنة 2004 بتنظيم استيراد المركبات الم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3925&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3925&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 2 ) و( 3 بندي 3، 4) من قرار وزير الاقتصاد والتجارة رقم (21) لسنة 2004 المشار إليه، النصان التاليان:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "«يحظر استيراد المركبات الميكانيكية المستعملة التالية:\n1- السيارات الخفيفة التي مضى على طرازها أكثر من خمس سنوات.\n2- السيارات الثقيلة التي مضى على طرازها أكثر من عشر سنوات.\nوتحسب المدد المشار إليها من سنة الطراز المثبتة بأوراق الملكية أو ما يقوم مقامها»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "بندي 3، 4) :\n3- السيارات الخفيفة ذات الطابع الأثري والتي مضى على طرازها أكثر من خمس وثلاثين سنة، والسيارات التي لم ينتج منها إلا أعدادا محدودة.\n4- المركبات الميكانيكية المعدة بمواصفات خاصة ولا تستعمل في غير الأغراض المصممة لها."
+    }
+  ],
   "definitions": []
 }

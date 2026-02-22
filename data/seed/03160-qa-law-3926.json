@@ -4,8 +4,21 @@
   "title": "قرار رقم (91) لسنة 2008 بتخويل بعض موظفي وزارة الشؤؤن البلدية والزراعة صفة الضبطية القضائية",
   "short_name": "قرار رقم (91) لسنة 2008 بتخويل بعض موظفي وزارة الشؤؤن البلدية والزراعة صفة الضبطية القضائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3926&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3926&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الشؤون البلدية والزراعة التالية أسماؤهم، كل حسب اختصاصه الوظيفي، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون المشار إليه والقرارات المنفذة له وهم:\nم\nالاسم\n1-\nالسيد/ عامر وليد البارودي\n2-\nالسيد/ مصطفى مروان بركات\n3-\nالسيد/ أمجد محمد علي\n4-\nالسيد/ يحي زكريا زكي\n5-\nالسيد/ محمد صالح الحاج علي\n6-\nالسيد/ وليد السيد السيد الدواس\n7-\nالسيد/ عبد الباسط إبراهيم بشير\n8-\nالسيد/ أحمد علم الهدى أحمد\n9-\nالسيد/ عارف السيد عارف\n10-\nالسيد/ محمد عثمان عبد الحميد"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

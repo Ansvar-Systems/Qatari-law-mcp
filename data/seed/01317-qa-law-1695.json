@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (6) لسنة 1999 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (3) الصادر في اجتماعه الثالث لعام 1999 بالموافقة على إبرام اتفاقية ضمان تمويل إتمام خطي الإنتاج للمصانع والمنشآت لمشروع شركة قطر للغاز المسال المحدودة",
   "short_name": "قرار مجلس الوزراء رقم (6) لسنة 1999 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (3) الصادر في اجتماعه...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1695&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1695&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (3) الصادر في اجتماعه الثالث لعام 1999، المنعقد بتاريخ 4/4/1999، بالموافقة على إبرام اتفاقية ضمان تمويل خطي الإنتاج للمصانع والمنشآت لمشروع شركة قطر للغاز المسال المحدودة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

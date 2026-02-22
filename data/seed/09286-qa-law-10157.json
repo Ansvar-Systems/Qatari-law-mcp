@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (85) لسنة 2025 بالتصديق على اتفاقية مساهمة أساسية (الحساب التكميلي للميزانية العادية – RBSA) بين صندوق قطر للتنمية في دولة قطر ومنظمة العمل الدولية لدعم برنامج وميزانية منظمة العمل الدولية للفترة 2024 – 2025",
   "short_name": "مرسوم رقم (85) لسنة 2025 بالتصديق على اتفاقية مساهمة أساسية (الحساب التكميلي للميزانية العادية – RBSA) بين صندوق قطر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10157&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10157&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية مساهمة أساسية (الحساب التكميلي للميزانية العادية &ndash; RBSA) بين صندوق قطر للتنمية في دولة قطر ومنظمة العمل الدولية لدعم برنامج وميزانية منظمة العمل الدولية للفترة 2024 &ndash; 2025 ، الموقعة بمدينة جنيف بتاريخ 2025/05/16 ، المرفق نصها بهذا المرسوم ، وتكون لها قوة القانون ، وفقاً للمادة (68) من الدستور ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

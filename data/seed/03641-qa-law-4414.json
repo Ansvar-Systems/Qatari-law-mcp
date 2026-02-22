@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (216) لسنة 2007 بشأن اعتماد تعديل جزئي للائحة الفنية القطرية رقم 2007/25 QS خواص الركام المستخدم في الخلطات الإسفلتية والخرسانية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (216) لسنة 2007 بشأن اعتماد تعديل جزئي للائحة الفنية القطرية رقم 2007/25 QS خواص الرك...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4414&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4414&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد التعديل الجزئي للائحة الفنية رقم 2007/25 QS خواص الركام المستخدم في الخلطات الإسفلتية والخرسانية والمعتمدة بقرار وزير الاقتصاد والتجارة رقم (27) لسنة 2007 المشار إليه، حسب البيانات الموضحة بالجدول المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به بعد ثلاثة أشهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

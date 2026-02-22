@@ -4,8 +4,21 @@
   "title": "قرار رقم (146) لسنة 2022م بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (146) لسنة 2022م بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9060&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9060&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (1) لسنة 2012 المشار إليه أعلاه، والقرارات المنفذة له، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nمحمد مبارك فرج السلطان\nرئيس قسم الرقابة الصحية\n2\nنورة محمد حسين علي عبدالله\nمشرف تفتيش نظافة عامة\n3\nناصر عبدالهادي مطر العنزي\nرئيس قسم الرقابة العامة بالتكليف\n4\nسالم محمد فاهد الهاجري\nمفتش نظافة وصحة بيئية أول\n5\nماجد برهان حسني الزيدان\nمدير إدارة الرقابة البلدية بالتكليف\n6\nمبارك عمران محمد القبيسي\nمدخل بيانات وتقارير رابع\n7\nعبدالله محمد فهد الدوسري\nمراقب نظافة وصحة بيئية ثالث\n8\nدلال علي ناصر الحميدي\nمفتش نظافة عامة أول\n9\nمحمد علي محمد النابت المري\nمفتش نظافة عامة ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

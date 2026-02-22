@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (69) لسنة 2013 بتشكيل مجلس إدارة مصرف قطر المركزي",
   "short_name": "قرار أميري رقم (69) لسنة 2013 بتشكيل مجلس إدارة مصرف قطر المركزي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4929&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4929&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة مصرف قطر المركزي على النحو التالي:\n1- سعادة الشيخ/ عبدالله بن سعود بن عبدالعزيز آل ثاني، محافظ مصرف قطر المركزي\nرئيساً.\n2- سعادة الشيخ/ فهد بن فيصل بن ثاني آل ثاني، نائب محافظ مصرف قطر المركزي\nنائباً للرئيس.\n3- سعادة الدكتور/ إبراهيم الإبراهيم\nعضواً.\n4- سعادة السيد/ خلف أحمد المناعي، ممثلاً عن وزارة الاقتصاد والمالية\nعضواً.\n5- سعادة السيد/ سلطان راشد الخاطر، ممثلاً عن وزارة الأعمال والتجارة\nعضواً.\n6- سعادة الدكتور/ صالح محمد النابت\nعضواً.\n7- السيد/ ناصر أحمد الشيبي\nعضواً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات، قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

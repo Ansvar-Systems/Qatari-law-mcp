@@ -4,8 +4,21 @@
   "title": "قرار رئيس المجلس الأعلى لرعاية الشباب رقم (2) لسنة 1988 بالتفويض في مباشرة بعض الاختصاصات",
   "short_name": "قرار رئيس المجلس الأعلى لرعاية الشباب رقم (2) لسنة 1988 بالتفويض في مباشرة بعض الاختصاصات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3711&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1988.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3711&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يفوض نائب رئيس المجلس الأعلى لرعاية الشباب في مباشرة اختصاصات رئيس المجلس الواردة بالمواد (4/2)، (9)، (25)، (26)، (39)، (40)، (50/3) من لائحة العاملين بالمجلس الصادرة بالقرار رقم (4) لسنة 1981 المشار إليه، و المادة (3/د) من اللائحة الداخلية المعدلة للمجلس والصادرة بالقرار رقم (1) لسنة 1988 م المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

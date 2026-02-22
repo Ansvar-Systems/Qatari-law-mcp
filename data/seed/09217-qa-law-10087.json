@@ -4,8 +4,39 @@
   "title": "قرار رئيس مجلس الوزراء رقم (21) لسنة 2025 بإعادة تشكيل مجلس إدارة صندوق دعم وتأمين العمال",
   "short_name": "قرار رئيس مجلس الوزراء رقم (21) لسنة 2025 بإعادة تشكيل مجلس إدارة صندوق دعم وتأمين العمال",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10087&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10087&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل مجلس إدارة صندوق دعم وتأمين العمال برئاسة وزير العمل، ووكيل وزارة العمل، نائبا للرئيس، وعضوية كل من :\n1. العميد/ علي أحمد علي الكواري ممثلاً عن وزارة الداخلية.\n2. السيد/ عبدالرحمن فؤاد المضاحكة ممثلاً عن وزارة المالية.\n3. الدكتور/ جاسم صالح خميس الكواري ممثلاً عن وزارة العدل.\n4. السيد/ عايض مناحي القحطاني ممثلاً عن وزارة التجارة والصناعة.\n5. السيدة/ ميثة مبارك الجبر النعيمي ممثلاً عن المجلس الأعلى للقضاء.\n6. الدكتور/خالد كليفيخ الهاجري ممثلاً عن غرفة قطر."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتقاضى رئيس مجلس الإدارة مكافأة سنوية مقدارها (50,000) خمسون ألف ريال ، ويتقاضى كل من نائب الرئيس وأعضاء مجلس الإدارة مكافأة سنوية مقدارها (40,000) أربعون ألف ريال."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رئيس هيئة تنظيم الاتصالات رقم (10) لسنة 2020 بإصدار اللائحة التنظيمية للترقيم",
   "short_name": "قرار رئيس هيئة تنظيم الاتصالات رقم (10) لسنة 2020 بإصدار اللائحة التنظيمية للترقيم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8340&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8340&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعمل باللائحة التنظيمية للترقيم المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

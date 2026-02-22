@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (484) لسنة 2016 بمد مهلة توفيق الأوضاع وفقاً لأحكام قانون المحال التجارية والصناعية والعامة المماثلة والباعة المتجولين الصادر بالقانون رقم (5) لسنة 2015",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (484) لسنة 2016 بمد مهلة توفيق الأوضاع وفقاً لأحكام قانون المحال التجارية والصناعية و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10218&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10218&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمد مهلة توفيق الأوضاع وفقاً لأحكام القانون رقم (5) لسنة 2015 المشار إليه، لمدة ستة أشهر اعتباراً من تاريخ 03/ 12/ 2016."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من تاريخ 03/ 12/ 2016 . ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (22) لسنة 2012 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الأوقاف والشؤون الإسلامية وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (22) لسنة 2012 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الأوقاف والشؤون الإسلامي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4558&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4558&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل باختصاص إدارة شؤون الحج والعمرة المنصوص عليه في البند (9) من المادة (12) من القرار الأميري رقم (34) لسنة 2009 المشار إليه، الاختصاص التالي:\n«9- متابعة الإجراءات اللازمة بشأن مخالفات مقاولي الحج والعمرة.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه. تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

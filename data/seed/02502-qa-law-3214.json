@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (20) لسنة 2006 بتشكيل لجنة للمناقصات تابعة للجنة تسيير مشروع مطار الدوحة الدولي الجديد",
   "short_name": "قرار مجلس الوزراء رقم (20) لسنة 2006 بتشكيل لجنة للمناقصات تابعة للجنة تسيير مشروع مطار الدوحة الدولي الجديد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3214&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3214&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة للمناقصات تابعة للجنة تسيير مشروع مطار الدوحة الدولي الجديد، من رئيس وعدد من الأعضاء، يصدر بتسميتهم قرار من رئيس مجلس الوزراء، بناء على اقتراح رئيس لجنة تسيير مشروع مطار الدوحة الدولي الجديد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتولى لجنة المناقصات اختصاصات لجنتي المناقصات المركزية والمحلية الواردة في قانون تنظيم المناقصات والمزايدات المشار إليه، بالنسبة للمناقصات المتعلقة بمشروع مطار الدوحة الدولي الجديد وأية مشروعات أخرى تكلف بها لجنة تسيير مشروع المطار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

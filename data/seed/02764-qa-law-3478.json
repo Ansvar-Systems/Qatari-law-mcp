@@ -4,8 +4,21 @@
   "title": "قرار رقم (101) لسنة 2009 بتخويل بعض موظفي وزارة الشؤون البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (101) لسنة 2009 بتخويل بعض موظفي وزارة الشؤون البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3478&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3478&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الشؤون البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (32) لسنة 1995 م، بشأن منع الاضرار بالبيئة النباتية ومكوناتها المُشار إليه، والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nحمد صقر صالح الشقيري المهندي\nمراقب مصايد أول\n2\nإبراهيم محمد أحمد الهيل\nكاتب شؤون إدارية\n3\nعلي هلال محمد الإبراهيم المهندي\nباحث شؤون إدارية أول\n4\nراشد زعل سيف دايل النعيمي\nمفتش حدائق\n5\nمحمد علي جابر محمد العاض\nملاحظ ورش صيانة\n6\nزايد سالم ضحى المنصوري\nباحث شؤون إدارية أول\n7\nعبد الله مشعل عبد الله الدوسري\nمراقب حدائق مساعد"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

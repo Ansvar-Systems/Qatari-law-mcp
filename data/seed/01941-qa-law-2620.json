@@ -4,8 +4,33 @@
   "title": "قانون رقم (5) لسنة 2010 بتعديل بعض أحكام قانون المرور الصادر بالمرسوم بقانون رقم (19) لسنة 2007",
   "short_name": "قانون رقم (5) لسنة 2010 بتعديل بعض أحكام قانون المرور الصادر بالمرسوم بقانون رقم (19) لسنة 2007",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2620&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2620&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى قانون المرور المشار إليه، النصوص التالية:\nمادة (78/مكرراً):\n«يُحظر وقوف سيارات النقل (الشاحنات) والجرارات والمقطورات وشبه المقطورات التي يصدر بتحديدها قرار من الوزير، في غير الأماكن المصرح بالوقوف فيها التي يصدر بتحديدها قرار من الوزير بالتنسيق مع الجهات المختصة.»\nمادة (88/ بند 19) :\n«19- الوقوف بالمخالفة لأحكام المادة (78 مكرراً).»\nمادة (95/ مكرراً):\n«مع عدم الإخلال بأي عقوبة أشد ينص عليها قانون آخر، يعاقب بالحبس مدة لا تجاوز شهر، وبالغرامة التي لا تقل عن خمسة عشر ألف ريال، ولا تزيد على ثلاثين ألف ريال، أو بإحدى هاتين العقوبتين، كل من يخالف أحكام المادة (78 مكرراً) من هذا القانون.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعدل جدول التصالح عن جرائم قانون المرور ، المرفق بقانون المرور المشار إليه، بإضافة بند تصالح على النحو التالي:"
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Article (78)",
+      "content": "مكرراً)\n10000"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

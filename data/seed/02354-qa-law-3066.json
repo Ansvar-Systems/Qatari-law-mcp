@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (44) لسنة 1980 بالتصديق على اتفاقية إنشاء المعهد العربي للتخطيط بدولة الكويت",
   "short_name": "مرسوم رقم (44) لسنة 1980 بالتصديق على اتفاقية إنشاء المعهد العربي للتخطيط بدولة الكويت",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3066&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1980.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3066&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية إنشاء المعهد العربي للتخطيط الموقعة في مدينة الكويت بتاريخ 29 ابريل 1979، المرفق نصها بهذا المرسوم، ويكون لها قوة القانون وفقاً للمادة (24) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

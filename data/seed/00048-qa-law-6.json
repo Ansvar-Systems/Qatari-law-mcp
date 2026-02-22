@@ -4,8 +4,21 @@
   "title": "قانون رقم (10) لسنة 1988 بشأن السماح لمواطني دول مجلس التعاون لدول الخليج العربية بممارسة المهن الحرة جديدة بدولة قطر",
   "short_name": "قانون رقم (10) لسنة 1988 بشأن السماح لمواطني دول مجلس التعاون لدول الخليج العربية بممارسة المهن الحرة جديدة بدولة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1988.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يسمح لمواطني دول مجلس التعاون لدول الخليج العربية بممارسة المهن الحرة الآتي بيانها، وفقاً للضوابط المنصوص عليها في القانون رقم (7) لسنة 1988 م المشار إليه:-\n(أ) الترجمة.\n(ب) المساحة.\n(جـ) فحص التربة.\n(د) برمجة وتحليل وتشغيل الكمبيوتر."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون ويعمل به من أول يونيو 1988م، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

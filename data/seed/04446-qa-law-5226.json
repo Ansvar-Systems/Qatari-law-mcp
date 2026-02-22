@@ -4,8 +4,21 @@
   "title": "أمر أميري رقم (6) لسنة 2010 بمنح درجة وزير",
   "short_name": "أمر أميري رقم (6) لسنة 2010 بمنح درجة وزير",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5226&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5226&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمنح درجة وزير لكل من:\n1- سعادة السيد/ محمد همام العبد الله.\n2- سعادة السيد/ سيف مقدم البوعينين.\n3- سعادة السيد/ محمد عبد الله الرميحي.\n4- سعادة السيد/ عبد الله محمد العثمان.\n5- سعادة السيد/ محمد جهام الكواري.\n6- سعادة السيد/ علي عبد الله آل محمود."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعمل بهذا الأمر الأميري من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

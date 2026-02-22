@@ -4,8 +4,21 @@
   "title": "قرار وزير الشئون البلدية والزراعة رقم (98) لسنة 1998 بشأن تحديد تكاليف تغذية الحيوانات في المحاجر البيطرية",
   "short_name": "قرار وزير الشئون البلدية والزراعة رقم (98) لسنة 1998 بشأن تحديد تكاليف تغذية الحيوانات في المحاجر البيطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2261&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2261&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد قيمة تكاليف تغذية الحيوانات بالمحاجر البيطرية المنصوص عليها في المادة (27) من اللائحة التنفيذية للقانون رقم (1) لسنة 1985، المشار إليها على النحو التالي:\n1&shy; سبعة ريالات يومياً عن كل رأس من الخيول والجمال.\n2&shy; خمسة ريالات يومياً عن كل رأس من الأبقار.\n3&shy; ريالان يومياً عن كل رأس من الماعز والأغنام."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

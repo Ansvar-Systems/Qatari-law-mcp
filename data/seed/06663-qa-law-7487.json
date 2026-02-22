@@ -4,8 +4,21 @@
   "title": "قرار وزاري رقم (357) لسنة 2017 باستثناء عقار من قرار وزير البلدية والتخطيط العمراني رقم (6) لسنه 2011 باعتبار مشروع استملاك بعض العقارات الواقعة بالمنطقة (53) بالريان من أعمال المنفعة العامة",
   "short_name": "قرار وزاري رقم (357) لسنة 2017 باستثناء عقار من قرار وزير البلدية والتخطيط العمراني رقم (6) لسنه 2011 باعتبار مشروع ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7487&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7487&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستثني من قرار وزير البلدية والتخطيط العمراني رقم (6) لسنه 2011 المشار إليه أعلاه، العقار رقم (55182) الواقع بالمنطقة (53) بالريان المبين الحدود والمعالم بالمخطط المرفق ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

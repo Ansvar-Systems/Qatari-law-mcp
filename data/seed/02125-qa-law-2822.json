@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (38) لسنة 2011 بإنشاء اللجنة الوطنية القطرية للنفط والغاز",
   "short_name": "قرار أميري رقم (38) لسنة 2011 بإنشاء اللجنة الوطنية القطرية للنفط والغاز",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2822&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2822&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُنشأ لجنة تُسمى «اللجنة الوطنية القطرية للنفط والغاز»، تكون لها شخصية معنوية.\nويكون مقر اللجنة المركز الرئيسي لقطر للبترول."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تخضع اللجنة الوطنية القطرية للنفط والغاز لأحكام النظام الأساسي المرفق بهذا القرار، ولأحكام التشريعات النافذة في الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

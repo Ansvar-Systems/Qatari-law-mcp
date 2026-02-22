@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (57) لسنة 2001 بالتصديق على مذكرة تفاهم بين حكومة دول قطر وحكومة جمهورية الهند للتعاون في مجال الشباب والرياضة",
   "short_name": "مرسوم رقم (57) لسنة 2001 بالتصديق على مذكرة تفاهم بين حكومة دول قطر وحكومة جمهورية الهند للتعاون في مجال الشباب والرياضة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1208&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1208&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على مذكرة التفاهم بين حكومة دولة قطر وحكومة جمهورية الهند للتعاون في مجال الشباب والرياضة، الموقعة بمدينة نيودلهي بتاريخ 7/4/1999، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون وفقاً للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

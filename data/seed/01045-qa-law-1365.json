@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (10) لسنة 1990 بنقل إدارة الصحة المدرسية من وزارة التربية والتعليم إلى وزارة الصحة العامة",
   "short_name": "قرار مجلس الوزراء رقم (10) لسنة 1990 بنقل إدارة الصحة المدرسية من وزارة التربية والتعليم إلى وزارة الصحة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1365&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1990.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1365&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنقل إدارة الصحة المدرسية من وزارة التربية والتعليم إلى وزارة الصحة العامة، وتسمى (قسم الصحة المدرسية)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتبع قسم الصحة المدرسية إدارة الرعاية الصحية الأولية بوزارة الصحة العامة، وتتولى هذه الإدارة جميع الاختصاصات التي كانت تباشرها إدارة الصحة المدرسية بوزارة التربية والتعليم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يصدر وزير الصحة العامة القرارات اللازمة لتنفيذ هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من 17/1/1990. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

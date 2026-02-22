@@ -4,8 +4,45 @@
   "title": "قانون رقم (4) لسنة 2001 بتعديل بعض أحكام القانون رقم (3) لسنة 1983 بتنظيم مهن الصيدلة والوسطاء ووكلاء مصانع وشركات الأدوية",
   "short_name": "قانون رقم (4) لسنة 2001 بتعديل بعض أحكام القانون رقم (3) لسنة 1983 بتنظيم مهن الصيدلة والوسطاء ووكلاء مصانع وشركات ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=331&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=331&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنصوص المواد ( 23 )، ( 37 )، ( 38 ) من القانون رقم (3) لسنة 1983 المشار إليه النصوص التالية:"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article (23)",
+      "content": "«يجب أن تكون مساحة الصيدلية مناسبة لتحقيق الأغراض المخصصة لها»."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Article (37)",
+      "content": "«تسري على الصيدليات الخاصة الأحكام التي تسري على الصيدليات العامة»."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Article (38)",
+      "content": "«لا يجوز فتح مخزن أدوية إلا بعد الحصول على ترخيص رسمي من الجهة المختصة بالوزارة ويصدر الترخيص وفقاً لأحكام المادة ( 9 ) من هذا القانون»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى البند (4) من (ثانياً) من المادة (10) من القانون رقم (3) لسنة 1983 المشار إليه. كما يُلغى كل حكم يُخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

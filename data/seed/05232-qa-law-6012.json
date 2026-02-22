@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (7) لسنة 1996 بتعين عضوين في اللجنة الدائمة لحماية البيئة",
   "short_name": "قرار مجلس الوزراء رقم (7) لسنة 1996 بتعين عضوين في اللجنة الدائمة لحماية البيئة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6012&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6012&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين في عضوية اللجنة الدائمة لحماية البيئة كل من:\n1- المقدم / سبعان مسمار أبو جرادة\n(محل العقيد / مبارك يعقوب مبارك العلي)\nممثلاً لوزارة الداخلية.\n2- الدكتور / حميد عبد الله المدفع\n(محل الدكتور / جبر فضل مهنا النعيمي)\nممثلاً لجامعة قطر."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

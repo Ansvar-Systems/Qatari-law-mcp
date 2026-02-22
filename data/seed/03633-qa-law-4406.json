@@ -4,8 +4,39 @@
   "title": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (16) لسنة 2007 بتحديد ساعات العمل في أماكن العمل المكشوفة خلال الصيف",
   "short_name": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (16) لسنة 2007 بتحديد ساعات العمل في أماكن العمل المكشوفة خلال الصيف",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4406&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4406&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد ساعات العمل، للأعمال التي تؤدى تحت الشمس أو في أماكن العمل المكشوفة، خلال المدة من 15 يونيو وحتى 31 أغسطس من كل عام، بحيث لا تزيد على خمس ساعات في الفترة الصباحية، ولا تجاوز الساعة الحادية عشرة والنصف صباحاً، على ألا يبدأ العمل في الفترة المسائية قبل الساعة الثالثة مساءً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على كل صاحب عمل أن يضع جدولاً بتحديد ساعات العمل اليومية طبقاً لأحكام هذا القرار، وأن يضع هذا الجدول في مكان ظاهر يسهل على جميع العمال الاطلاع عليه، ويستطيع مفتشو العمل ملاحظته عند زياراتهم التفتيشية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يغلق، بقرار من الوزير، مكان العمل الذي لا تراعى فيه أحكام هذا القرار لمدة لا تجاوز شهر."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "لا تسري أحكام هذا القرار على الأعمال التي تؤديها الشركات التي تعمل في مشروعات النفط والغاز."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

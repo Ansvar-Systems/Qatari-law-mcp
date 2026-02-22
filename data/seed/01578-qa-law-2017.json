@@ -4,8 +4,21 @@
   "title": "قرار رئيس المجلس الأعلى للبيئة والمحميات الطبيعية رقم (2) لسنة 2002 بتحديد موسم صيد الطيور والحيوانات البرية لعام 2002/2003",
   "short_name": "قرار رئيس المجلس الأعلى للبيئة والمحميات الطبيعية رقم (2) لسنة 2002 بتحديد موسم صيد الطيور والحيوانات البرية لعام 200...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2017&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2017&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحدد موسم صيد الطيور والحيوانات البرية لعام 2002/2003 على النحو التالي:\n1- يبدأ موسم صيد الطيور من 1/9/2002 وينتهي في 1/5/2003، ويسمح فقط بصيد الطيور المهاجرة (اللفو)، ويتم صيد طائر الحبارى بواسطة الصقور فقط.\n2- يبدأ موسم صيد الأرانب من 1/11/2002 وينتهي في 1/3/2003، ويتم صيده بواسطة الصقور والكلاب."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المختصين تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (35) لسنة 2003 بالتصديق على اتفاقية الاستكشاف والمشاركة في الانتاج للمنطقة رقم (10) المبرمة بين حكومة دولة قطر وشركة تاليسمان للطاقة (قطر) انك",
   "short_name": "مرسوم رقم (35) لسنة 2003 بالتصديق على اتفاقية الاستكشاف والمشاركة في الانتاج للمنطقة رقم (10) المبرمة بين حكومة دولة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1072&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1072&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية الاستكشاف والمشاركة في الإنتاج للمنطقة رقم (10)، المبرمة بين حكومة دولة قطر وشركة تاليسمان للطاقة (قطر) أنك، الموقعة بتاريخ 17/11/2002."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

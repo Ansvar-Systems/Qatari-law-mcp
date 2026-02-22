@@ -4,8 +4,33 @@
   "title": "قرار رئيس المجلس الأعلى لشؤون الأسرة رقم (3) لسنة 2007 بتحويل مركز الاستشارات العائلية إلى مؤسسة خاصة ذات نفع عام",
   "short_name": "قرار رئيس المجلس الأعلى لشؤون الأسرة رقم (3) لسنة 2007 بتحويل مركز الاستشارات العائلية إلى مؤسسة خاصة ذات نفع عام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3757&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3757&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحويل مركز الاستشارات العائلية من مؤسسة خاصة تخضع لأحكام القانون رقم (8) لسنة 1998 وتعديلاته إلى مؤسسة خاصة ذات نفع عام تخضع لأحكام المرسوم بقانون رقم (21) لسنة 2006 ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تبقى البيانات المتعلقة بالمؤسسة وتحديداً اسمها ومقرها والأموال المخصصة لتحقيق أهدافها وكيفية إدارتها واسم المؤسس وجنسيته ومحل إقامته الواردة في وثيقة تأسيسها المؤرخة 13/11/2002، دون تعديل."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يعمل بالنظام الأساسي لمركز الاستشارات العائلية المرفق بهذا القرار ويسجل لدى الجهة المختصة بالتوثيق التي تتولى نشره في الجريدة الرسمية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار ويعمل به اعتباراً من صدوره."
+    }
+  ],
   "definitions": []
 }

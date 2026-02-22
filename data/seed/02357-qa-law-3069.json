@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (46) لسنة 2010 بزيادة رأس المال المصرح به ورأس المال المدفوع لقطر للبترول",
   "short_name": "مرسوم رقم (46) لسنة 2010 بزيادة رأس المال المصرح به ورأس المال المدفوع لقطر للبترول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3069&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3069&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُزاد رأس المال المصرح به لقطر للبترول إلى مائة ألف مليون ريال، ورأس المال المدفوع إلى خمسين ألف مليون ريال، وذلك من أول يناير 2010."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "في جميع الأحوال تتم الزيادة لرأس المال المدفوع كلما اقتضت الحاجة ذلك، بحيث لا تتعدى الزيادة الحد الأقصى لرأس المال المصرح به، وتنفذ هذه الزيادة عن طريق إجراء قيود محاسبية بين قطر للبترول ووزارة الاقتصاد والمالية، دون تحميل خزينة الدولة أي مبالغ مالية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من أول يناير 2010. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

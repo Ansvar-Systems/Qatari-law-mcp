@@ -4,8 +4,27 @@
   "title": "قانون رقم (20) لسنة 2017 بتعديل بعض أحكام القانون رقم (8) لسنة 1990 بشأن تنظيم مراقبة الأغذية الآدمية",
   "short_name": "قانون رقم (20) لسنة 2017 بتعديل بعض أحكام القانون رقم (8) لسنة 1990 بشأن تنظيم مراقبة الأغذية الآدمية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7406&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7406&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل مسميات \"وزارة البلدية والبيئة\"، \"وزارة الصحة العامة\" بمسميات \"وزارة البلدية والتخطيط العمراني\"، \"المجلس الأعلى للصحة\" أينما وردت في القانون رقم (8) لسنة 1990 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص المادة رقم ( 32 / فقرة ثانية) من القانون رقم (8) لسنة 1990 المشار إليه، النص التالي:\nمادة (32/ فقرة ثانية) :\n\"وفي جميع الأحوال، يكون الإغلاق بالطريق الإداري بالنسبة للمحل كله إذا كانت حالته لا تسمح بقصر الإغلاق على الجزء الذي وقعت فيه المخالفة، ويُلزم المخالف بمصاريف الإغلاق، وتوضع على واجهة المحل لافتة مكتوب عليها \"مغلق لمخالفته قانون تنظيم مراقبة الأغذية الآدمية\"، ويُنشر قرار الإغلاق على الموقع الإلكتروني للجهة التي أصدرته، وفي صحيفتين محليتين واسعتي الانتشار على نفقة المخالف.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (30) لسنة 2008 بفض دور الانعقاد العادي السادس والثلاثين لمجلس الشورى",
   "short_name": "مرسوم رقم (30) لسنة 2008 بفض دور الانعقاد العادي السادس والثلاثين لمجلس الشورى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5772&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5772&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُفض دور الانعقاد العادي السادس والثلاثين لمجلس الشورى عقب جلسة يوم الإثنين السادس والعشرين من جمادى الآخرة 1429هـ، الموافق للثلاثين من يونيو 2008م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

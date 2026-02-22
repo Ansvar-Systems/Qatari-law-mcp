@@ -4,8 +4,21 @@
   "title": "أمر أميري رقم (4) لسنة 2017 بتعديل تشكيل مجلس الوزراء",
   "short_name": "أمر أميري رقم (4) لسنة 2017 بتعديل تشكيل مجلس الوزراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7425&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7425&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من سعادة الدكتور/ خالد بن محمد العطية، وزير الدولة لشؤون الدفاع، وسعادة الشيخ/ محمد بن عبدالرحمن آل ثاني، وزير الخارجية، نائباً لرئيس مجلس الوزراء، مع احتفاظ كل منهما بمنصبه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعمل بهذا الأمر الأميري من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

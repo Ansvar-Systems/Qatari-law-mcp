@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (306) لسنة 2018 بتأسيس شركة قطر لصناعة الألمنيوم \"قامكو\" شركة مساهمة عامة قطرية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (306) لسنة 2018 بتأسيس شركة قطر لصناعة الألمنيوم \"قامكو\" شركة مساهمة عامة قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7917&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7917&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخص للمؤسس الوارد اسمه في عقد التأسيس ، و النظام الأساسي المرفقين، أن يؤسس شركة مساهمة عامة قطرية باسم قطر لصناعة الألمنيوم \"قامكو\" برأس مال مصدر قدره (خمسه مليار وخمسمائة وثمانون مليون ومائه وعشرون الف ريال قطري) (5،580،120،000) ريال قطري، مقسم إلى عدد (خمسمائة وثمانية وخمسون مليون واثنا عشر الف) (558،012،000) سهم، وفقاً لأحكام المادة ( 68 ) من قانون الشركات التجارية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسس الالتزام بأحكام القوانين المعمول بها في الدولة، وأحكام عقد التأسيس و النظام الأساسي المرفقين بهذا القرار، وتلتزم الشركة بأحكام قانون الشركات التجارية المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

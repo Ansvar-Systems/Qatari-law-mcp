@@ -4,8 +4,27 @@
   "title": "قرار وزير المالية رقم (22) لسنة 2025 بتحديد مقابل وثائق المناقصات والمزايدات ورسوم إصدار شهادات تصنيف المقاولين والموردين ومقدمي الخدمات",
   "short_name": "قرار وزير المالية رقم (22) لسنة 2025 بتحديد مقابل وثائق المناقصات والمزايدات ورسوم إصدار شهادات تصنيف المقاولين والمو...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9870&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9870&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحدد مقابل وثائق المناقصات والمزايدات، ورسوم إصدار شهادات تصنيف المقاولين والموردين ومقدمي الخدمات، وفقًا للجدول المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى قرار وزير المالية رقم (1) لسنة 2017 المشار اليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة كُل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

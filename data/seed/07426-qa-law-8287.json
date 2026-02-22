@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (15) لسنة 2020 بتعديل تشكيل مجلس أمناء مكتبة قطر الوطنية",
   "short_name": "قرار أميري رقم (15) لسنة 2020 بتعديل تشكيل مجلس أمناء مكتبة قطر الوطنية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8287&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8287&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل الدكتور/ تشارلز هنري، محل سعادة الدكتور/ حمد بن عبدالعزيز الكواري، في عضوية مجلس أمناء مكتبة قطر الوطنية، وتكون مدة عضويته مكملة لمدة عضوية سلفه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

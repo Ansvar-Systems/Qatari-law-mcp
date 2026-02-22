@@ -4,8 +4,21 @@
   "title": "قرار رقم (90) لسنة 2019م بإلغاء تخويل أحد موظفي وزارة الثقافة والرياضة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (90) لسنة 2019م بإلغاء تخويل أحد موظفي وزارة الثقافة والرياضة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8012&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8012&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلغي صفة مأموري الضبط القضائي الممنوحة للسيد / أحمد عبدالله محمود محمد الصديقي الموظف بوزارة الثقافة والرياضة، والسابق منحه لها بموجب قرار النائب العام رقم (26) لسنة 2016 م المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

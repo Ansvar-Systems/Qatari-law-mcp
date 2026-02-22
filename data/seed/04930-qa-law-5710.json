@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (19) لسنة 2000 بفض دور الانعقاد العادي الثامن والعشرين لمجلس الشورى",
   "short_name": "مرسوم رقم (19) لسنة 2000 بفض دور الانعقاد العادي الثامن والعشرين لمجلس الشورى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5710&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5710&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُفض دور الانعقاد العادي الثامن والعشرين لمجلس الشورى عقب جلسة يوم الاثنين الرابع والعشرين من ربيع الأول 1421هـ، الموافق للسادس والعشرين من يونيو 2000م."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

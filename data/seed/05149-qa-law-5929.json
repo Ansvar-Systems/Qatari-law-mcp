@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (63) لسنة 2001 بإنتهاء الولاية القضائية لقاض بالمحاكم الشرعية",
   "short_name": "مرسوم رقم (63) لسنة 2001 بإنتهاء الولاية القضائية لقاض بالمحاكم الشرعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5929&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5929&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنتهي الولاية القضائية للسيد/ خالد رضوان منوّر الوريكات، القاضي بالمحاكم الشرعية، إعتباراً من 1/1/2002."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

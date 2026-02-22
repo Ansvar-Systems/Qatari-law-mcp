@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (7) لسنة 2002 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) الصادر في اجتماعه العاشر لعام 2001 بالموافقة على تأسيس شركة تسمى «كاتكس المحدودة» (شركة مساهمة قطرية)",
   "short_name": "قرار مجلس الوزراء رقم (7) لسنة 2002 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) الصادر في اجتماعه العاشر لعام 2001 با...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1709&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1709&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "اعتماد قرار مجلس إدارة قطر للبترول رقم (2) الصادر في اجتماعه العاشر لعام 2001، المنعقد بتاريخ 26/12/2001، بالموافقة على أن تؤسس قطر للبترول بالاشتراك مع مؤسسة كالتكس تريدنج آند ترانسبورت، شركة مساهمة قطرية تسمى «كاتكس المحدودة» برأسمال مصرح به قدره (-/1.000.000) مليون دولار أمريكي، موزعاً على أسهم اسمية عددها (1000) ألف سهم، قيمة كل سهم منها (1000) ألف دولار أمريكي، لقطر للبترول (51%) منها، ولمؤسسة كالتكس تريدنج آند ترانسبورت (49%)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

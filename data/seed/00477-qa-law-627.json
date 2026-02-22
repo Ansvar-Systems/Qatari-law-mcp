@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (11) لسنة 2005 بتعديل بعض أحكام القرار الأميري رقم (38) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للجمارك والموانئ",
   "short_name": "قرار أميري رقم (11) لسنة 2005 بتعديل بعض أحكام القرار الأميري رقم (38) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للجم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=627&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=627&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين السيد/محمد طلميس سعيد الهاجري، رئيساً لمجلس إدارة الهيئة العامة للجمارك والموانئ، ويكمل مدة سلفه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (11) لسنة 1968 بإصدار اتفاقية اتحاد الإمارات العربية الموقعة بدبي في الثامن والعشرين من شهر ذي القعدة سنة 1387هـ الموافق لليوم السابع والعشرين من شهر فبراير سنة 1968م",
   "short_name": "مرسوم رقم (11) لسنة 1968 بإصدار اتفاقية اتحاد الإمارات العربية الموقعة بدبي في الثامن والعشرين من شهر ذي القعدة سنة 1...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2941&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1968.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2941&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعمل ابتداء من اليوم الأول من شهر محرم سنة 1388هـ الموافق لليوم الثلاثين من شهر مارس سنة 1968م. باتفاقية اتحاد الإمارات العربية الموقعة بدبي في اليوم الثامن والعشرين من شهر ذي القعدة سنة 1387هـ. الموافق لليوم السابع والعشرين من شهر فبراير سنة 1968م. والتي ووفق عليها بالمرسوم رقم (7) لسنة 1968 ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينشر هذا القانون في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

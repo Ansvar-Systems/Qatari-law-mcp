@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة ‎2022‏ ‏بتحديد بعض المنشآت التي تسري عليها أحكام القانون رقم (9) لسنة ‎2011‏ بتنظيم استخدام كاميرات وأجهزة المراقبة الأمنية",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة ‎2022‏ ‏بتحديد بعض المنشآت التي تسري عليها أحكام القانون رقم (9) لسنة ‎2011‏ بتنظيم اس...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8942&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8942&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "&rlm;تسري أحكام القانون رقم (9) لسنة &lrm;2011 المشار إليه، على المنشآت المبينة بالجدول المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المنشآت المُبينة بالجدول المرفق بهذا القرار، توفيق أوضاعها بما يتفق مع أحكام القانون رقم (9) لسنة &lrm;2011&rlm; المشار إليه، وذلك خلال سنة من تاريخ العمل بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة،&rlm; كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (40) لسنة 2013 بشأن تخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (40) لسنة 2013 بشأن تخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4683&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4683&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم صفة مأموري الضبطية القضائية في ضبط واثبات الجرائم التي تقع بالمخالفة للجرائم المشار اليها وهم:\nم\nالاسم\nرقم البطاقة الشخصية\n1\nمحمد علي باكر محمد الخوري\n-------------------------\n2\nسعيد نفل سعيد الدوسري\n-------------------------\n3\nعلي صالح محمد المري\n-------------------------\n4\nمحمود حسين علي عبدالله\n-------------------------"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

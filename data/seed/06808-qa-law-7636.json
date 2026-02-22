@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (22) لسنة 2018 بمد خدمة قضاة بالمحاكم",
   "short_name": "مرسوم رقم (22) لسنة 2018 بمد خدمة قضاة بالمحاكم",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7636&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7636&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُمد لمدة ثلاث سنوات، خدمة كلاً من:\n1- السيد/ كمال جابر بندر، القاضي بمحكمة التمييز.\n2- السيد/ الهادي عباس عبدالله محمد، القاضي بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُمد خدمة القضاة التالية أسماؤهم، الذين بلغوا سن التقاعد خلال العام القضائي 2017/2018، وذلك لمدة سنتين:\n1- الدكتور/ عبدالرحمن محمد عبدالرحمن شرفي، رئيس بمحكمة الاستئناف.\n2- السيد/ محمد النجاري، القاضي بمحكمة الاستئناف.\n3- السيد/ موسى شمارخ، الرئيس بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من 1/7/2018. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

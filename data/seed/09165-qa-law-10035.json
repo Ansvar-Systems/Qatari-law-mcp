@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (56) لسنة 2025 بالموافقة على اتفاقية حق الشفعة الخاصة بمشروع محطة (Facility E) لإنتاج الكهرباء والماء",
   "short_name": "مرسوم رقم (56) لسنة 2025 بالموافقة على اتفاقية حق الشفعة الخاصة بمشروع محطة (Facility E) لإنتاج الكهرباء والماء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10035&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10035&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُـوافـق الحـكـومـة عـلـى اتـفـاقـيـة حـق الـشـفـعـة الخـاصـة بمـشـروع مـحـطـة (E Facility) لإنتـاج الـكـهـربـاء والمـاء المـشـار إليـهـا."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يـفـوض وزيـر المـالـيـة، أو مـن يـنـيـبـه، فـي الـتـوقـيـع عـلـى اتـفـاقـيـة حـق الـشـفـعـة المـشـار إلـيـهـا، وعـلـى أي مـن الاتـفـاقـيـات أو المـسـتـنـدات المـتـفـرعـة عـنـهـا، وفـي إدخـال الـتـعـديـلات الـتـي يـرى إدخـالـهـا عـلـى أي مـنـهـا، وفـي الـتـوقـيـع عـلـى تـلـك الـتـعـديـلات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "عـلـى جـمـيـع الجـهـات المـخـتـصـة، كـل فـيـمـا يـخـصـه، تـنـفـيـذ هـذا المـرســوم. ويُـعـمـل بـه مـن تـاريـخ صــدوره. ويُـنـشــر فـي الجـريــدة الـرسـمـيـة."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "أمر أميري رقم (2) لسنة 2024 بتعديل تشكيل مجلس الوزراء",
   "short_name": "أمر أميري رقم (2) لسنة 2024 بتعديل تشكيل مجلس الوزراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9797&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9797&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من:\n1- سعادة الشيخ/ سعود بن عبد الرحمن بن حسن بن علي آل ثاني، نائبًا لرئيس مجلس الوزراء ووزيرًا للدولة لشؤون الدفاع.\n2- سعادة السيدة/ بثينة بنت علي الجبر النعيمي، وزيرًا للتنمية الاجتماعية والأسرة.\n3- سعادة السيدة/ لولوة بنت راشد بن محمد الخاطر، وزيرًا للتربية والتعليم والتعليم العالي.\n4- سعادة السيد/ منصور بن إبراهيم بن سعد آل محمود، وزيرًا للصحة العامة.\n5- سعادة الشيخ/ فيصل بن ثاني بن فيصل آل ثاني، وزيرًا للتجارة والصناعة.\n6- سعادة الشيخ/ محمد بن عبد الله بن محمد آل ثاني، وزيرًا للمواصلات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا الأمر الأميري."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعمل بهذا الأمر الأميري من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

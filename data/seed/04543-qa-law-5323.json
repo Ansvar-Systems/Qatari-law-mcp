@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (22) لسنة 2009 بتعيين نائب رئيس وأعضاء المجلس الأعلى للصحة",
   "short_name": "قرار أميري رقم (22) لسنة 2009 بتعيين نائب رئيس وأعضاء المجلس الأعلى للصحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5323&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5323&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعين صاحبة السمو الشيخة/ موزة بنت ناصر المسند، نائباً لرئيس المجلس الأعلى للصحة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "( عدلت بموجب قرار أميري 62/2012 ) ( عدلت بموجب قرار أميري 28/2010 ) ( عدلت بموجب قرار أميري 89/2009 )\nيُعين عضواً بالمجلس الأعلى للصحة كل من:\n1- سعادة الدكتورة/ غالية بنت محمد بن حمد آل ثاني.\n2- السيدة/ كرستين بيسلي.\n3- الدكتور/ محمد غانم العلي.\n4- الدكتور/ لورد دارزي.\n5- الدكتور/ توماس أونو.\nالدكتور/ الياس زرهوني.\nالدكتور/ جنشن لي"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,39 @@
   "title": "قرار رئيس مجلس الوزراء رقم (2) لسنة 2008 بتشكيل لجنة لمراجعة الأعمال الإدارية والمالية لوكالة الإعلام الخارجي",
   "short_name": "قرار رئيس مجلس الوزراء رقم (2) لسنة 2008 بتشكيل لجنة لمراجعة الأعمال الإدارية والمالية لوكالة الإعلام الخارجي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3459&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3459&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة برئاسة ممثل عن وكالة الأنباء القطرية، وعضوية ممثل عن كل من الجهات التالية:\n1- ديوان المحاسبة.\n2- الأمانة العامة لمجلس الوزراء.\n3- وكالة الأنباء القطرية.\n4- وكالة الإعلام الخارجي.\nوللجنة أن تستعين بمن ترى لمعاونتها في أداء مهامها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تختص اللجنة بمراجعة الأعمال الإدارية والمالية لوكالة الإعلام الخارجي، وحصر حقوقها والتزاماتها والاعتمادات المخصصة لها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تضع اللجنة نظاماً لعملها يتضمن مكان انعقادها ومواعيد اجتماعاتها، والقواعد اللازمة لممارسة اختصاصاتها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تقدم اللجنة خلال شهرين من تاريخ العمل بهذا القرار، تقريراً بنتائج أعمالها ومقترحاتها إلى مدير عام وكالة الأنباء القطرية، لرفعه مشفوعاً بتوصياته إلى رئيس مجلس الوزراء."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

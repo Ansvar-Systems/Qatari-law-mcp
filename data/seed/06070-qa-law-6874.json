@@ -4,8 +4,21 @@
   "title": "قرار رقم (176) لسنة 2015 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (176) لسنة 2015 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6874&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6874&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لإحكام القانون رقم (8) لسنة 1974 المشار إليه، والقرارات المنفذة لهما، وهم:\nم\nالاسم\nالمسمى\n1.\nميرزا فخر الزمان ميرزا.\nملاحظ عمال نظافة\n2.\nفيصل سليم محمد سليم.\nملاحظ عمال نظافة\n3.\nابو بكر الصديق محمد علي.\nملاحظ عمال نظافة أول\n4.\nساجيد رحمن محمد سليم شاه.\nملاحظ عمال نظافة أول\n5.\nهارون الرشيد عبدالرشيد.\nملاحظ عمال نظافة أول\n6.\nحسن على ناصر دهنوى.\nملاحظ عمال نظافة أول\n7.\nعبدالرشيد محمد حسين.\nمسؤول منطقة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

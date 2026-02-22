@@ -4,8 +4,39 @@
   "title": "مرسوم رقم (40) لسنة 2003 بأيلولة ملكية الدولة لشركة قطر للحديد والصلب المحدودة «شركة مساهمة قطرية» إلى قطر للبترول",
   "short_name": "مرسوم رقم (40) لسنة 2003 بأيلولة ملكية الدولة لشركة قطر للحديد والصلب المحدودة «شركة مساهمة قطرية» إلى قطر للبترول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1117&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1117&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تؤول ملكية الدولة لشركة قطر للحديد والصلب المحدودة «شركة مساهمة قطرية» إلى قطر للبترول، كما تؤول إليها تبعا لذلك الحقوق والالتزامات المترتبة على هذه الملكية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يباشر مجلس إدارة قطر للبترول إختصاصات الجمعية العامة العادية وغير العادية للشركة، المنصوص عليها في النظام الأساسي للشركة أو قانون الشركات التجارية المشار إليه، ولرئيس مجلس إدارة قطر للبترول دعوة الجمعية العامة للشركة للإنعقاد، كلما دعت الحاجة إلى ذلك."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يستمر مجلس إدارة شركة قطر للحديد والصلب المحدودة، في أداء مهامه، وذلك إلى أن يصدر قرار بإعادة تشكيله وفقا للنظام الأساسي للشركة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يلغى كل حكم يخالف أحكام هذا المرسوم."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (38) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للجمارك والموانئ",
   "short_name": "قرار أميري رقم (38) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للجمارك والموانئ",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=739&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=739&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "( عدلت بموجب قرار أميري 11/2005 ) ( عدلت بموجب قرار أميري 17/2002 )\nيشكل مجلس إدارة الهيئة العامة للجمارك والموانئ على النحو التالي:\n1- السيد/محمد طلميس سعيد الهاجري\nرئيسا\n2- السيد/ مسند عبد الله المسند\nنائبا للرئيس\n3- ممثل عن وزارة الداخلية\nعضواً\n4- ممثل عن وزارة الطاقة والصناعة\nعضواً\n5- ممثل عن وزارة المالية\nعضواً\n6- ممثل عن وزارة الاقتصاد والتجارة\nعضواً\n7- ممثل عن غرفة تجارة وصناعة قطر\nعضواً\nوتفوض الجهات المشار إليها في تسمية ممثليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة المجلس أربع سنوات، ويتولى الأعضاء عملهم في المجلس بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يمنح أعضاء مجلس الإدارة مكافأة سنوية على النحو التالي:\n- (50,000) ريال للرئيس.\n- (40,000) ريال لنائب الرئيس وبقية الأعضاء."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

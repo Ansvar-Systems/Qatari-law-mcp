@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (7) لسنة 2020 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطريين في شركة راينميتال برزان للتكنولوجيات المتقدمة",
   "short_name": "قرار مجلس الوزراء رقم (7) لسنة 2020 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطر...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8336&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8336&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تسري أحكام القانون رقم (24) لسنة 2002 المشار إليه، على العاملين القطريين في شركة راينميتال برزان للتكنولوجيات المتقدمة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

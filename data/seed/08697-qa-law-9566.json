@@ -4,8 +4,21 @@
   "title": "قانون رقم (7) لسنة 2024 بإلغاء القانون رقم (2) لسنة 1991 بشأن فرض رسم على استخراج الشهادات التي تصدرها وزارة الداخـلـيـة والجهات التابعة لها ، والقانون رقم (7) لسنة 1991 بشأن فرض رسم على استخراج الشهادات التي تصدرها وزارة الدفاع",
   "short_name": "قانون رقم (7) لسنة 2024 بإلغاء القانون رقم (2) لسنة 1991 بشأن فرض رسم على استخراج الشهادات التي تصدرها وزارة الداخـلـ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9566&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9566&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يلغى القانونان رقما (2) لسنة 1991 و (7) لسنة 1991 ، المشار إليهما ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنف&#1740;ذ هذا القانون. ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (37) لسنة 2010 بتعديل تنظيم بعض الوحدات الإدارية التي يتألف منها معهد التنمية الإدارية وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (37) لسنة 2010 بتعديل تنظيم بعض الوحدات الإدارية التي يتألف منها معهد التنمية الإدارية وتعيين ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3326&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3326&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تضاف إلى الوحدات الإدارية التي يتألف منها معهد التنمية الإدارية، مكتب مدير المعهد، ويختص بما يلي:\n1- تنظيم الملفات والمراسلات والأوراق الخاصة بمكتب مدير المعهد.\n2- تلقي المكاتبات التي ترد إلى مدير المعهد، وإعدادها للعرض عليه، وتوزيعها على الجهات المختصة وفقاً لتعليماته.\n3- إعداد المذكرات والمراسلات التي يكلف بها.\n4- الاتصال بالجهات المختلفة للحصول على البيانات التي يطلبها مدير المعهد.\n5- تلقي الشكاوي التي ترد إلى مدير المعهد وعرضها عليه، وتنفيذ ومتابعة ما يصدر منه بشأنها.\n6- أية مهام أخرى يكلف بها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

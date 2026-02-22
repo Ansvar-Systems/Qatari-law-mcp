@@ -4,8 +4,21 @@
   "title": "قرار رقم (21) لسنة 2019م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (21) لسنة 2019م بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7908&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7908&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التجارة والصناعة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المشار اليها والقرارات المنفذة لها وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nعبدالله صالح أبا الزمات المري\nامين مخزن رابع\n2\nتركي صقر غانم حسن الكبيسي.\nمراقب أسواق رابع.\n3\nمحمد علي جابر الجذنة المري\nأمين مخزن.\n4\nعيد غيث عيد الخويطر العجمي.\nمفتش أسواق ثالث.\n5\nمحمد بخيت حمد العوير المري.\nأمين مخزن رابع.\n6\nمحمد حسين سالم عاشور.\nمراق اسواق رابع.\n7\nمها عبدالقادر صالح الصلاحي.\nاخصائي شؤون مالية.\n8\nظبية علي مهنا الضابت الدوسري.\nباحث تنمية أعمال ثالث\n9\nمحمد عبدالعزيز محمد سليمان.\nفني مخازن سلع رابع."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخُصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

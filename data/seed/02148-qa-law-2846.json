@@ -4,8 +4,45 @@
   "title": "قرار أميري رقم (44) لسنة 2011 بالموافقة على إنشاء مؤسسة الشيخ/ جاسم بن محمد بن ثاني للرعاية الاجتماعية",
   "short_name": "قرار أميري رقم (44) لسنة 2011 بالموافقة على إنشاء مؤسسة الشيخ/ جاسم بن محمد بن ثاني للرعاية الاجتماعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2846&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2846&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على إنشاء مؤسسة خاصة ذات نفع عام تُسمى \"مؤسسة الشيخ/ جاسم بن محمد بن ثاني للرعاية الاجتماعية\"، تخضع للقواعد والأحكام المنصوص عليها بوثيقة تأسيسها ونظامها الأساسي، وتكون لها شخصية معنوية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون مقر المؤسسة مدينة الدوحة، ويجوز أن تنشئ فروعاً أو مكاتب لها داخل الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تهدف المؤسسة إلى المساهمة في تأمين حياة كريمة للمواطنين القطريين، وتقديم الدعم والرعاية الاجتماعية لهم لدى مواجهتهم مصاعب الحياة والضائقات المالية، وتلمس حاجاتهم والمساهمة في تغطيتها، والتواصل مع مختلف فئات المجتمع القطري عن طريق المساهمة بالدعم المادي والمعنوي في مناسباتهم، بما يعزز روح التكافل والتواصل الاجتماعي مع أبناء الوطن."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يجب أن يشمل النظام الأساسي للمؤسسة جميع البيانات الخاصة بها، وأسلوب وكيفية إدارتها، وتحديد من يمثلها أمام القضاء وفي علاقتها بالغير، ومواردها المالية، والجهة التي تؤول إليها أموالها عند انقضائها."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يتم حل المؤسسة بقرار من المؤسس، على أن يتضمن قرار الحل كيفية التصرف في أموالها وموجوداتها."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

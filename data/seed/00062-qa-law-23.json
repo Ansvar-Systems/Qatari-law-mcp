@@ -4,8 +4,27 @@
   "title": "قانون رقم (11) لسنة 1994 بتعديل بعض أحكام القانون رقم (21) لسنة 1989 بشأن تنظيم الزواج من الأجانب",
   "short_name": "قانون رقم (11) لسنة 1994 بتعديل بعض أحكام القانون رقم (21) لسنة 1989 بشأن تنظيم الزواج من الأجانب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=23&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=23&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "البند (3):\n«3- ضباط وأفراد القوات المسلحة والمخابرات العامة والشرطة، وذلك فيما عدا الحالات التي تكون فيها الزوجة من الفئة (ب) من المادة (3) من هذا القانون. بشرط موافقة وزيري الدفاع أو الداخلية بحسب الأحوال»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "«لا تطبق الشروط المنصوص عليها في البند (أولاً) من المادة (2) من هذا القانون ، في الحالات الآتية:\n(أ) إذا كانت المرشحة للزواج تنتمي بجنسيتها إلى إحدى دول مجلس التعاون لدول الخليج العربية.\n(ب) إذا كانت المرشحة للزواج ابنة عم أو خال أو عمة أو خالة القطري الراغب في زواجها.\n(ج) إذا كانت المرشحة للزواج قد ولدت لأم قطرية»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون ويعمل به من تاريخ نشره، في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

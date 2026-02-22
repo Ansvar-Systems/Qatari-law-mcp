@@ -4,8 +4,27 @@
   "title": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم ( 5 ) لسنة 2024 بتعديل بعض أحكام ضوابط توزيع الأرباح بالشركات المساهمة المدرجة في الأسواق المالية الصادرة بقرار مجلس إدارة هيئة قطر للأسواق المالية رقم (7) لسنة 2023",
   "short_name": "قرار مجلس إدارة هيئة قطر للأسواق المالية رقم ( 5 ) لسنة 2024 بتعديل بعض أحكام ضوابط توزيع الأرباح بالشركات المساهمة ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9631&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9631&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (10) من ضوابط توزيع الأرباح بالشركات المساهمة المدرجة في الأسواق المالية المشار إليها النص التالي:\nيكون استحقاق الأسهم المجانية أو الأرباح النقدية التي يتقرر توزيعها للمساهم الذي يمتلك أسهما بنهاية جلسة تداول يوم انعقاد الجمعية العامة.\nويكون تاريخ الاستحقاق في حال صدور قرار من مجلس الإدارة بتوزيع أرباح مرحلية خلال العام المالي وفقا لأحكام المادة (20) من هذه الضوابط هو سابع يوم عمل من تاريخ إصدار قرار المجلس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تحذف عبارة وتاريخ الاستحقاق للأرباح\" الواردة بالمادة (20) من ضوابط توزيع الأرباح بالشركات المساهمة المدرجة في الأسواق المالية المشار إليها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

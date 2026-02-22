@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (5) لسنة 1999 بإعادة تشكيل لجنة المناقصات المركزية",
   "short_name": "قرار أميري رقم (5) لسنة 1999 بإعادة تشكيل لجنة المناقصات المركزية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=786&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=786&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعاد تشكيل لجنة المناقصات المركزية على النحو التالي:\nأولاً:\n1- السيد/ خليفة صقر الهتمي\nرئيساً ويتفرغ لهذا العمل\n2- السيد/ محمد عبد الكريم المير\nعضواً ممثلاً لوزارة المالية والاقتصاد والتجارة\n3- السيد/ مشعل عبد العزيز المسلم\nعضواً ممثلاً لوزارة العدل\n4- السيد/ محمد ناصر الفهيد\nعضواً\n5- السيد/ عبد الله عبد الرحمن أبو حميد\nعضواً\n6- السيد/ هلال جهام الكواري\nعضواً\n7- المهندس/ سعد أحمد المسند\nعضواً\n8- السيد/ ناصر حمد الكبيسي\nعضواً\nوذلك لمدة ثلاث سنوات قابلة للتجديد،\nويعين وزير المالية والاقتصاد والتجارة نائب الرئيس من بين أعضاء اللجنة.\nثانياً: عضو ممثل للجهة الحكومية التي طرحت المناقصة لحسابها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 4/4/1999. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

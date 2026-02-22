@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (61) لسنة 2012 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (61) لسنة 2012 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4819&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4819&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة الآتية أسماؤهم في الوظيفة المبينة قرين اسم كل منهم:\n1- السيد/ شريف فؤاد عثمان العشري\nقاضياً بمحكمة التمييز.\n2- السيد/ أحمد جلال عبد العظيم جلال\nقاضياً بمحكمة التمييز.\n3- السيد/ مجدي إبراهيم عبد الصمد مسعود\nقاضياً بمحكمة التمييز.\n4- السيد/ راغب محمد عطية راغب عطية\nقاضياً بمحكمة التمييز.\n5- السيد/ ياسر علي علي الزيات\nرئيساً بالمحكمة الابتدائية.\n6- السيد/ ناجح أبو السعود أحمد حماد\nرئيساً بالمحكمة الابتدائية.\n7- السيد/ محمد عبد المنعم محمد الشرقاوي\nرئيساً بالمحكمة الابتدائية.\n8- السيد/ أسامة راضي السيد الطوخي\nرئيساً بالمحكمة الابتدائية.\n9- السيد/ محمد أحمد عبد الحي تقي الدين\nقاضياً بالمحكمة الابتدائية.\n10- السيد/ أيمن محمد مصباح فتح الله\nقاضياً بالمحكمة الابتدائية.\n11- السيد/ هشام محمود سامي حسين البلك\nقاضياً بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

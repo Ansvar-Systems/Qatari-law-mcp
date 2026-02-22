@@ -4,8 +4,21 @@
   "title": "قانون رقم (17) لسنة 1992 بتعديل بعض أحكام قانون الوظائف العامة المدنية الصادر بالمرسوم بقانون رقم (9) لسنة 1967",
   "short_name": "قانون رقم (17) لسنة 1992 بتعديل بعض أحكام قانون الوظائف العامة المدنية الصادر بالمرسوم بقانون رقم (9) لسنة 1967",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=123&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1992.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=123&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمنح الموظفة إجازة خاصة براتب كامل لمدة ثلاثين يوماً، لا تحسب من إجازاتها الأخرى، وذلك في مناسبة الوضع إذا حل أثناء دورة العمل، فإذا حل الوضع قبل الإجازة الدورية أو العطلة الصيفية، بالنسبة للمشتغلات بالتعليم، بمدة لا تقل عن ثلاثين يوماً، فلا تمنح الموظفة إلاّ هذه المدة. أما إذا حل الوضع أثناء إحدى الإجازتين فلا تمنح الموظفة إلاّ ما يكمل الثلاثين يوماً بعد الوضع.\nوتكون هذه الإجازة لمدة ستين يوماً بذات القواعد السابقة بالنسبة للموظفة القطرية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

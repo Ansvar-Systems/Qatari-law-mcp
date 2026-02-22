@@ -4,8 +4,21 @@
   "title": "قرار رقم (12) لسنة 2019 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (12) لسنة 2019 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7891&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7891&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (10) لسنة 1987 م، المُشار إليه والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nخالد محمد صالح الكواري.\nمشرف تفتيش رخص بناء أول.\n2\nبدر عبدالمحسن خميس العبدالرحمن.\nمراقب إسكان رابع.\n3\nسعيد ناصر حمد سعيد العوامي.\nأخصائي شؤون إدارية.\n4\nذيب محمد سعيد القوز.\nمفتش رخص بناء ثاني.\n5\nعلي ناصر محمد الخاطر.\nباحث تخطيط عمراني ثالث.\n6\nأحمد غلوم اهن.\nمشرف تفتيش رخص بناء أول.\n7\nجمال علي البوعينين.\nرئيس قسم الرقابة الفنية.\n8\nعبدالله ابراهيم سعد المهندي.\nمفتش رخص بناء ثالث."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

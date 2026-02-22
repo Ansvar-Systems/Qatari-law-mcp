@@ -4,8 +4,27 @@
   "title": "قرار وزير البلدية رقم (123) لسنة 2025 بتسمية عدد من رؤساء لجان فض المنازعات الإيجارية",
   "short_name": "قرار وزير البلدية رقم (123) لسنة 2025 بتسمية عدد من رؤساء لجان فض المنازعات الإيجارية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10092&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10092&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "1) يُسمى السيد القاضي/ محمد جاسم محمد المناعي، رئيسًا للجنة فض المنازعات الإيجارية الأولى لمدة سنة تبدأ من تاريخ 2025/06/01.\n2) يُسمى السيد القاضي/ مطر سلطان مطر الدوسري، رئيسًا للجنة فض المنازعات الإيجارية الثانية لمدة سنة تبدأ من تاريخ 2025/06/01.\n3) يُسمى السيد القاضي/ حزام هادي سعيد القحطاني، رئيسًا للجنة فض المنازعات الإيجارية الثالثة لمدة سنة تبدأ من تاريخ 2025/06/01.\n4) يَحل السيد القاضي/ راشد عبد الله الجفالي النعيمي، رئيسًا للجنة فض المنازعات الإيجارية الخامسة لمدة سنة تبدأ من تاريخ 2025/08/01، محل السيد القاضي/ عبد الرحمن خالد السويدي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُـلـغـى كـل حـكـم يـخـالـف أحـكـام هـذا الـقـرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كلاً فيما يخصه، تنفيذ هذا القرار، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

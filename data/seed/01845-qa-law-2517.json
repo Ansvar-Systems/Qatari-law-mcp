@@ -4,8 +4,2859 @@
   "title": "قانون رقم (16) لسنة 1971 بإصدار قانون المواد المدنية والتجارية",
   "short_name": "قانون رقم (16) لسنة 1971 بإصدار قانون المواد المدنية والتجارية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2517&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1971.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2517&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إصدار\nيعمل بقانون المواد المدنية والتجارية المرافق لهذا القانون."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "إصدار\nعلى جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به من تاريخ نشره في الجريدة الرسمية.\nباب تمهيدي"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالكتاب الأول الالتزام بوجه عام\nالباب الأول مصادر الالتزام\nالفصل الأول العقد\nالفرع الأول أركان العقد"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\n1- التراضي"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article (9)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article (10)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article (11)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article (12)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article (13)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Article (14)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Article (15)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article (16)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article (17)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Article (18)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Article (19)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Article (20)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article (21)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Article (22)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Article (23)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Article (24)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Article (25)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Article (26)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Article (27)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article (28)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\n2- المحل والسبب"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Article (29)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Article (30)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Article (31)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Article (32)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Article (33)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Article (34)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Article (35)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\n3- البطلان"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Article (36)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Article (37)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Article (38)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Article (39)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Article (40)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Article (41)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Article (42)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني آثار العقد\n1- الأثر الملزم بين العاقدين"
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Article (43)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Article (44)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Article (45)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Article (46)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Article (47)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Article (48)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Article (49)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Article (50)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Article (51)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Article (52)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Article (53)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\n2- تفسير العقد"
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Article (54)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Article (55)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Article (56)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\n3- المسئولية العقدية"
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Article (57)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Article (58)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Article (59)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثالث انحلال العقد"
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Article (60)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Article (61)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Article (62)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Article (63)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Article (64)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Article (65)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Article (66)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفصل الثاني مصادر الالتزام الأخرى\nالفرع الأول العمل غير المشروع\nالمسئولية عن الأعمال الشخصية"
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Article (67)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Article (68)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Article (69)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Article (70)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Article (71)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Article (72)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Article (73)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Article (74)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالمسؤولية عن عمل الغير"
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Article (75)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Article (76)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Article (77)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالمسئولية الناشئة عن الأشياء"
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Article (78)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Article (79)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Article (80)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني الكسب دون سبب"
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Article (81)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Article (82)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Article (83)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Article (84)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Article (85)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Article (86)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Article (87)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Article (88)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Article (89)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Article (90)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Article (91)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Article (92)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Article (93)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Article (94)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Article (95)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Article (96)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثالث القانون"
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Article (97)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالباب الثاني آثار الالتزام\nالفصل الأول التنفيذ الجبري"
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Article (98)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الأول التنفيذ العيني"
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Article (99)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Article (100)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Article (101)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "Article (102)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Article (103)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Article (104)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Article (105)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Article (106)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Article (107)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Article (108)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Article (109)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Article (110)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني التنفيذ بطريق التعويض"
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Article (111)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Article (112)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Article (113)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Article (114)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "Article (115)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Article (116)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفصل الثاني الوسائل إلى ضمان ما تتأدى به حقوق الدائنين"
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Article (117)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالحق في الحبس"
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Article (118)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Article (119)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Article (120)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "Article (121)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art122",
+      "section": "122",
+      "title": "Article (122)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالباب الثالث الأوصاف المعدلة لأثر الالتزام\nالفصل الأول الشرط والأجل\nالفرع الأول الشرط"
+    },
+    {
+      "provision_ref": "art123",
+      "section": "123",
+      "title": "Article (123)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art124",
+      "section": "124",
+      "title": "Article (124)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art125",
+      "section": "125",
+      "title": "Article (125)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art126",
+      "section": "126",
+      "title": "Article (126)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art127",
+      "section": "127",
+      "title": "Article (127)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني الأجل"
+    },
+    {
+      "provision_ref": "art128",
+      "section": "128",
+      "title": "Article (128)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art129",
+      "section": "129",
+      "title": "Article (129)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art130",
+      "section": "130",
+      "title": "Article (130)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "Article (131)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art132",
+      "section": "132",
+      "title": "Article (132)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفصل الثاني تعدد محل الالتزام\nالفرع الأول الالتزام التخيري (خيار التعيين)"
+    },
+    {
+      "provision_ref": "art133",
+      "section": "133",
+      "title": "Article (133)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art134",
+      "section": "134",
+      "title": "Article (134)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art135",
+      "section": "135",
+      "title": "Article (135)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art136",
+      "section": "136",
+      "title": "Article (136)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني الالتزام البدلي"
+    },
+    {
+      "provision_ref": "art137",
+      "section": "137",
+      "title": "Article (137)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفصل الثالث تعدد طرفي الالتزام\nالفرع الأول الدائنون المتضامنون"
+    },
+    {
+      "provision_ref": "art138",
+      "section": "138",
+      "title": "Article (138)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art139",
+      "section": "139",
+      "title": "Article (139)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "Article (140)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art141",
+      "section": "141",
+      "title": "Article (141)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art142",
+      "section": "142",
+      "title": "Article (142)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني المدينون المتضامنون"
+    },
+    {
+      "provision_ref": "art143",
+      "section": "143",
+      "title": "Article (143)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\n1- العلاقة بين الدائن والمدينين المتضامنين"
+    },
+    {
+      "provision_ref": "art144",
+      "section": "144",
+      "title": "Article (144)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art145",
+      "section": "145",
+      "title": "Article (145)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art146",
+      "section": "146",
+      "title": "Article (146)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\n2- العلاقة فيما بين المدينين المتضامنين"
+    },
+    {
+      "provision_ref": "art147",
+      "section": "147",
+      "title": "Article (147)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالباب الرابع انتقال الالتزام\nالفصل الأول حوالة الحق\nالفرع الأول الأركان والشروط"
+    },
+    {
+      "provision_ref": "art148",
+      "section": "148",
+      "title": "Article (148)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art149",
+      "section": "149",
+      "title": "Article (149)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art150",
+      "section": "150",
+      "title": "Article (150)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art151",
+      "section": "151",
+      "title": "Article (151)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني الأحكام"
+    },
+    {
+      "provision_ref": "art152",
+      "section": "152",
+      "title": "Article (152)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art153",
+      "section": "153",
+      "title": "Article (153)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art154",
+      "section": "154",
+      "title": "Article (154)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art155",
+      "section": "155",
+      "title": "Article (155)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art156",
+      "section": "156",
+      "title": "Article (156)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالباب الخامس انقضاء الالتزام\nالفصل الأول الوفاء\nالفرع الأول طرفا الوفاء"
+    },
+    {
+      "provision_ref": "art157",
+      "section": "157",
+      "title": "Article (157)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art158",
+      "section": "158",
+      "title": "Article (158)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art159",
+      "section": "159",
+      "title": "Article (159)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art160",
+      "section": "160",
+      "title": "Article (160)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art161",
+      "section": "161",
+      "title": "Article (161)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art162",
+      "section": "162",
+      "title": "Article (162)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art163",
+      "section": "163",
+      "title": "Article (163)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art164",
+      "section": "164",
+      "title": "Article (164)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art165",
+      "section": "165",
+      "title": "Article (165)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art166",
+      "section": "166",
+      "title": "Article (166)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني محل الوفاء وزمانه ومكانه ونفقاته"
+    },
+    {
+      "provision_ref": "art167",
+      "section": "167",
+      "title": "Article (167)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art168",
+      "section": "168",
+      "title": "Article (168)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art169",
+      "section": "169",
+      "title": "Article (169)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art170",
+      "section": "170",
+      "title": "Article (170)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art171",
+      "section": "171",
+      "title": "Article (171)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art172",
+      "section": "172",
+      "title": "Article (172)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art173",
+      "section": "173",
+      "title": "Article (173)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art174",
+      "section": "174",
+      "title": "Article (174)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفصل الثاني انقضاء الالتزام بما يعادل الوفاء\nالفرع الأول الوفاء بمقابل"
+    },
+    {
+      "provision_ref": "art175",
+      "section": "175",
+      "title": "Article (175)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art176",
+      "section": "176",
+      "title": "Article (176)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني التجديد والإنابة في الوفاء"
+    },
+    {
+      "provision_ref": "art177",
+      "section": "177",
+      "title": "Article (177)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art178",
+      "section": "178",
+      "title": "Article (178)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art179",
+      "section": "179",
+      "title": "Article (179)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art180",
+      "section": "180",
+      "title": "Article (180)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثالث المقاصة"
+    },
+    {
+      "provision_ref": "art181",
+      "section": "181",
+      "title": "Article (181)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art182",
+      "section": "182",
+      "title": "Article (182)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art183",
+      "section": "183",
+      "title": "Article (183)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art184",
+      "section": "184",
+      "title": "Article (184)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art185",
+      "section": "185",
+      "title": "Article (185)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الرابع اتحاد الذمة"
+    },
+    {
+      "provision_ref": "art186",
+      "section": "186",
+      "title": "Article (186)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفصل الثالث انقضاء الالتزام دون أن يوفى به\nالفرع الأول الإبراء"
+    },
+    {
+      "provision_ref": "art187",
+      "section": "187",
+      "title": "Article (187)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art188",
+      "section": "188",
+      "title": "Article (188)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art189",
+      "section": "189",
+      "title": "Article (189)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art190",
+      "section": "190",
+      "title": "Article (190)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثاني استحالة التنفيذ"
+    },
+    {
+      "provision_ref": "art191",
+      "section": "191",
+      "title": "Article (191)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art192",
+      "section": "192",
+      "title": "Article (192)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art193",
+      "section": "193",
+      "title": "Article (193)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art194",
+      "section": "194",
+      "title": "Article (194)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالفرع الثالث التقادم المسقط"
+    },
+    {
+      "provision_ref": "art195",
+      "section": "195",
+      "title": "Article (195)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art196",
+      "section": "196",
+      "title": "Article (196)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art197",
+      "section": "197",
+      "title": "Article (197)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art198",
+      "section": "198",
+      "title": "Article (198)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art199",
+      "section": "199",
+      "title": "Article (199)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art200",
+      "section": "200",
+      "title": "Article (200)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art201",
+      "section": "201",
+      "title": "Article (201)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art202",
+      "section": "202",
+      "title": "Article (202)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art203",
+      "section": "203",
+      "title": "Article (203)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art204",
+      "section": "204",
+      "title": "Article (204)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art205",
+      "section": "205",
+      "title": "Article (205)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art206",
+      "section": "206",
+      "title": "Article (206)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art207",
+      "section": "207",
+      "title": "Article (207)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )"
+    },
+    {
+      "provision_ref": "art208",
+      "section": "208",
+      "title": "Article (208)",
+      "content": "ملغاة ( الغيت بموجب قانون 22/2004 )\nالكتاب الثاني الأعمال التجارية والتجارة والمؤسسات التجارية\nالباب الأول الأعمال التجارية"
+    },
+    {
+      "provision_ref": "art209",
+      "section": "209",
+      "title": "Article (209)",
+      "content": "الأعمال التجارية هي الأعمال التي يقوم بها الشخص بقصد المضاربة، ولو كان غير تاجر."
+    },
+    {
+      "provision_ref": "art210",
+      "section": "210",
+      "title": "Article (210)",
+      "content": "تعد أعمالا تجارية الأعمال المتعلقة بالأمور الآتية بغض النظر عن صفة القائم بها أو نيته:\n1- معاملات البنوك.\n2- الحساب الجاري.\n3- الصرف والمبادلات التجارية.\n4- السمسرة والوكالة بالعمولة.\n5- الكمبيالات والسندات لأمر والشيكات.\n6- تأسيس الشركات التجارية وبيع أو شراء أسهمها وسنداتها.\n7- المخازن العامة والرهون المترتبة على الأموال المودعة بها.\n8- استخراج المعادن والزيوت وقطع الأحجار وغيرها من موارد الثروة الطبيعية.\n9- التأمين بأنواعه المختلفة.\n10- المحلات المعدة للجمهور، كالملاعب العامة ودور السينما والفنادق والمطاعم ومحلات البيع بالمزايدة.\n11- توزيع الماء والكهرباء والغاز، وإجراء المخابرات البريدية والبرقية والهاتفية.\n12- النقل برا وبحرا وجوا.\n13- وكالات الأعمال ومكاتب السياحة والتصدير والاستيراد.\n14- الطبع والنشر والصحافة والإذاعة والتلفزيون ونقل الأخبار أو الصور والإعلانات وبيع الكتب.\n15- المصانع وإن كانت مقترنة باستثمار زراعي، والتعهد بالإنشاء والصنع.\n16- مقاولات بناء العقارات وتعديلها وترميمها وهدمها، متى تعهد المقاول بتقديم المواد الأولية أو بتوريد العمال."
+    },
+    {
+      "provision_ref": "art211",
+      "section": "211",
+      "title": "Article (211)",
+      "content": "يعد عملا تجاريا جميع الأعمال المتعلقة بالملاحة البحرية وبوجه خاص:\n1- إنشاء السفن وبيعها وشراؤها واستئجارها وإصلاحها.\n2- العقود المتعلقة بأجور ورواتب ربان السفينة وملاحيها وسائر المستخدمين فيها.\n3- الإقراض والإستقراض البحري.\n4- النقل والإرساليات البحرية، وكل عملية تتعلق بها كشراء وبيع لوازمها من مهمات وأدوات وذخائر ووقود وحبال وأشرعة ومؤن.\n5- التأمين بأنواعه المختلفة."
+    },
+    {
+      "provision_ref": "art212",
+      "section": "212",
+      "title": "Article (212)",
+      "content": "يعد عملا تجاريا جميع الأعمال المتعلقة بالملاحة الجوية وبوجه خاص:\n1- إنشاء الطائرات وبيعها وشراؤها وإيجارها واستئجارها وإصلاحها.\n2- العقود المتعلقة بأجور ورواتب الملاحين وسائر المستخدمين.\n3- الإقراض والاستقراض.\n4- النقل والإرساليات الجوية، وكل عملية تتعلق بها كشراء أو بيع أدوات ومواد تموين الطائرات.\n5- التأمين بأنواعه المختلفة."
+    },
+    {
+      "provision_ref": "art213",
+      "section": "213",
+      "title": "Article (213)",
+      "content": "الأعمال المرتبطة بالمعاملات التجارية المذكورة في المواد السابقة، أو المسهلة لها، وجميع الأعمال التي يقوم بها التاجر لحاجات تجارية، تعتبر أيضا أعمالا تجارية."
+    },
+    {
+      "provision_ref": "art214",
+      "section": "214",
+      "title": "Article (214)",
+      "content": "الأصل في عقود التاجر والتزاماته أن تكون تجارية، إلا إذا ثبت تعلق هذه العقود والالتزامات بمعاملات مدنية.\nالباب الثاني التجار\nالفصل الأول التجار بوجه عام"
+    },
+    {
+      "provision_ref": "art215",
+      "section": "215",
+      "title": "Article (215)",
+      "content": "كل من اشتغل بإسمه في معاملات تجارية وهو حائز للأهلية الواجبة، واتخذ هذه المعاملات حرفة له، يكون تاجرا.\nوكذلك يعتبر تاجرا كل شركة تجارية، وكل شركة تتخذ الشكل التجاري ولو كانت تزاول أعمالا غير تجارية."
+    },
+    {
+      "provision_ref": "art216",
+      "section": "216",
+      "title": "Article (216)",
+      "content": "كل من أعلن للجمهور بطريق الصحف أو النشرات أو بأية طريق أخرى عن محل أسسه للتجارة يعد تاجرا، وإن لم يتخذ التجارة حرفة مألوفة له. وتثبت صفة التاجر لكل من احترف التجارة باسم مستعار أو مستترا وراء شخص آخر، فضلا عن ثبوتها للشخص الظاهر.\nوإذا زاول التجارة أحد الأشخاص المحظور عليهم الإتجار بموجب قوانين أو أنظمة خاصة، عد تاجرا وسرت عليه أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art217",
+      "section": "217",
+      "title": "Article (217)",
+      "content": "لا يعد تاجرا من قام بمعاملة تجارية عارضة دون أن يتخذ التجارة حرفة له، ومع ذلك تخضع المعاملة التجارية التي يقوم بها لأحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art218",
+      "section": "218",
+      "title": "Article (218)",
+      "content": "لا تعد دوائر الحكومة ولا البلدية ولا الجمعيات ولا النوادي من التجار، ولكن المعاملات التجارية التي تقوم بها هذه الهيئات تخضع لأحكام هذا القانون.\nوتثبت صفة التاجر للشركات التي تنشئها أو تتملكها الدولة وغيرها من الهيئات العامة وللمؤسسات العامة التي تقوم بصفة أساسية بنشاط تجاري وللمنشآت التابعة لدولة أجنبية التي تزاول نشاطا تجاريا في قطر. وتسري على جميع هذه الهيئات الأحكام التي تترتب على صفة التاجر، ما لم ينص القانون على خلاف ذلك."
+    },
+    {
+      "provision_ref": "art219",
+      "section": "219",
+      "title": "Article (219)",
+      "content": "كل قطري بلغ الثامنة عشرة، ولم يقم به مانع قانوني يتعلق بشخصه أو بنوع المعاملة التجارية التي يباشرها يكون أهلا للاشتغال بالتجارة.\nالفصل الثاني الدفاتر التجارية"
+    },
+    {
+      "provision_ref": "art220",
+      "section": "220",
+      "title": "Article (220)",
+      "content": "على التاجر أن يمسك الدفاتر التجارية التي تستلزمها طبيعة تجارته وأهميتها، بطريقة تكفل بيان مركزه المالي بالدقة وبيان ما له وما عليه من الديون المتعلقة بتجارته."
+    },
+    {
+      "provision_ref": "art221",
+      "section": "221",
+      "title": "Article (221)",
+      "content": "يجب أن يمسك التاجر على الأقل الدفترين الآتيين:\n1- دفتر اليومية الأصلي.\n2- دفتر الجرد، ويعفى من هذا الالتزام، عدا الأفراد الذين يزاولون حرفة بسيطة أو تجارة صغيرة، التجار الذين لا يزيد رأس مالهم على خمسين ألف ريال."
+    },
+    {
+      "provision_ref": "art222",
+      "section": "222",
+      "title": "Article (222)",
+      "content": "تقيد في دفتر اليومية الأصلي جميع العمليات المالية التي يقوم بها التاجر، وكذلك المصروفات التي أنفقها على نفسه وعلى أسرته. ويتم هذا القيد يوما فيوما."
+    },
+    {
+      "provision_ref": "art223",
+      "section": "223",
+      "title": "Article (223)",
+      "content": "تقيد في دفتر الجرد تفاصيل البضاعة الموجودة عند التاجر في آخر سنته المالية، أو بيان إجمالي عنها إذا كانت تفاصيلها واردة في دفاتر وقوائم مستقلة، وفي هذه الحالة تعتبر هذه الدفاتر والقوائم جزءا متمما للدفتر المذكور.\nكما تقيد بدفتر الجرد صورة من الميزانية العامة للتاجر في كل سنة، إذا لم تقيد في أي دفتر آخر."
+    },
+    {
+      "provision_ref": "art224",
+      "section": "224",
+      "title": "Article (224)",
+      "content": "يجب أن تكون الدفاتر التجارية خالية من أي فراغ أو كتابة في الحواشي أو كشط أو تحشير فيما دون بها. ويجب قبل استعمال دفتري اليومية والجرد أن تنمر كل صفحة من صفحاتهما، وأن يختم على كل ورقة فيهما كاتب العدل. ويقدم التاجر إلى كاتب العدل، خلال شهرين من انقضاء كل سنة مالية، هذين الدفترين للتأشير عليهما بما يفيد انتهاءهما، وذلك بحضور التاجر ودون حجز الدفترين لدى كاتب العدل، فإذا انتهت صفحات هذين الدفترين قبل انقضاء السنة المالية، تعين على التاجر أن يقدمهما إلى كاتب العدل للتأشير عليهما بما يفيد ذلك بعد آخر قيد. وتعين على التاجر وورثته، في حالة وقف نشاط المحل التجاري، تقديم الدفترين المشار إليهما إلى كاتب العدل للتأشير عليهما بما يفيد ذلك.\nويكون الختم والتأشير في الحالات المتقدمة بغير رسوم."
+    },
+    {
+      "provision_ref": "art225",
+      "section": "225",
+      "title": "Article (225)",
+      "content": "على التاجر أن يحتفظ بصورة مطابقة للأصل من جميع المراسلات والبرقيات التي يرسلها لأعمال تجارية، وكذلك يحتفظ بجميع ما يرد إليه من مراسلات وبرقيات وفواتير وغيرها من المستندات التي تتصل بأعمال تجارته."
+    },
+    {
+      "provision_ref": "art226",
+      "section": "226",
+      "title": "Article (226)",
+      "content": "على التاجر وورثته الاحتفاظ بدفتر اليومية الأصلي ودفتر الجرد مدة عشر سنوات تبدأ من تاريخ إقفالها ويجب عليهم كذلك حفظ المراسلات والمستندات والصور المشار إليها في المادة السابقة مدة خمس سنوات."
+    },
+    {
+      "provision_ref": "art227",
+      "section": "227",
+      "title": "Article (227)",
+      "content": "للمحكمة عند نظر الدعوى أن تقرر، من تلقاء نفسها أو بناء على طلب أحد الخصمين، إبراز الدفاتر والأوراق التجارية للاطلاع على القيود المتعلقة بالموضوع المتنازع فيه وحده، واستخلاص ما ترى استخلاصه منها."
+    },
+    {
+      "provision_ref": "art228",
+      "section": "228",
+      "title": "Article (228)",
+      "content": "تكون الدفاتر التجارية الإلزامية حجة لصاحبها التاجر ضد خصمه التاجر إذا كان النزاع متعلقا بعمل تجاري، وكانت الدفاتر منتظمة حسب القواعد السالف ذكرها، وتسقط هذه الحجة بالدليل العكسي، ويجوز أن يؤخذ هذا الدليل من دفاتر الخصم التجارية المنتظمة."
+    },
+    {
+      "provision_ref": "art229",
+      "section": "229",
+      "title": "Article (229)",
+      "content": "الدفاتر التجارية الإلزامية منتظمة كانت أو غير منتظمة حجة على صاحبها فيما إذا استند إليها خصمه التاجر، على أن تعتبر القيود في مصلحة صاحب الدفاتر حجة له أيضا."
+    },
+    {
+      "provision_ref": "art230",
+      "section": "230",
+      "title": "Article (230)",
+      "content": "يجوز تحليف أحد الخصمين التاجرين على صحة دعواه، إذا استند إلى دفاتر خصمه، وسلم مقدما بما ورد فيها، ثم امتنع الخصم دون مبرر عن إبراز دفاتره.\nالباب الثالث المتجر والعنوان التجاري والمزاحمة غير المشروعة\nالفرع الأول المتجر"
+    },
+    {
+      "provision_ref": "art231",
+      "section": "231",
+      "title": "Article (231)",
+      "content": "المتجر هو محل التاجر والحقوق المتصلة بهذا المحل.\nويشتمل المتجر على مجموعة من العناصر المادية وغير المادية تختلف بحسب الأحوال، وهي بوجه خاص البضائع والأثاث التجاري والآلات الصناعية والعملاء والعنوان التجاري وحق الإيجار والعلامات والبيانات التجارية وبراءات الاختراع والتراخيص والرسوم والنماذج."
+    },
+    {
+      "provision_ref": "art232",
+      "section": "232",
+      "title": "Article (232)",
+      "content": "لا يتم بيع المتجر إلا بورقة رسمية.\nويحدد في عقد البيع ثمن البضائع والمهمات المادية والعناصر غير المادية كل منها على حدة، ويخصم مما يدفع من الثمن أولا ثمن البضائع، ثم ثمن المهمات المادية، ثم ثمن العناصر غير المادية، ولو اتفق على خلاف ذلك."
+    },
+    {
+      "provision_ref": "art233",
+      "section": "233",
+      "title": "Article (233)",
+      "content": "يشهر عقد بيع المتجر بقيده في السجل التجاري، ويكفل القيد حفظ امتياز البائع لمدة خمس سنوات من تاريخه، ويعتبر القيد ملغى إذا لم يجدد خلال المدة السابقة. ويشطب القيد بتراضي أصحاب الشأن أو بموجب حكم نهائي.\nالفرع الثاني العنوان التجاري"
+    },
+    {
+      "provision_ref": "art234",
+      "section": "234",
+      "title": "Article (234)",
+      "content": "يتألف العنوان التجاري من اسم التاجر ولقبه. ويجب أن يختلف في وضوح عن العناوين المقيدة قبلا.\nويجوز أن يتضمن العنوان التجاري بيانات خاصة بالأشخاص المذكورين فيه متعلقة بنوع التجارة المخصص لها، كما يجوز أن يتضمن تسمية مبتكرة. وفي جميع الأحوال يجب أن يطابق العنوان التجاري الحقيقة، وإلا يؤدي إلى تضليل أو يمس بالصالح العام."
+    },
+    {
+      "provision_ref": "art235",
+      "section": "235",
+      "title": "Article (235)",
+      "content": "يقيد العنوان التجاري في السجل التجاري وفقا لأحكام القانون. ولا يجوز، بعد القيد، لتاجر آخر استعمال هذا العنوان في نوع التجارة التي يزاولها، وإذا كان اسم التاجر ولقبه يشبهان العنوان التجاري المقيد في السجل، وجب عليه أن يضيف إلى اسمه بيانا يميزه عن العنوان السابق قيده."
+    },
+    {
+      "provision_ref": "art236",
+      "section": "236",
+      "title": "Article (236)",
+      "content": "على التاجر أن يجري معاملاته التجارية ويوقع أوراقه المتعلقة بهذه المعاملات بعنوانه التجاري.\nوعليه أن يكتب هذا العنوان في مدخل متجره."
+    },
+    {
+      "provision_ref": "art237",
+      "section": "237",
+      "title": "Article (237)",
+      "content": "لا يجوز التصرف في العنوان التجاري تصرفا مستقلا عن التصرف في المتجر. ولكن إذا تصرف صاحب المتجر في متجره لم يشمل التصرف العنوان التجاري ما لم ينص على ذلك صراحة أو ضمنا."
+    },
+    {
+      "provision_ref": "art238",
+      "section": "238",
+      "title": "Article (238)",
+      "content": "لا يجوز لمن تنتقل إليه ملكية متجر أن يستخدم عنوان سلفه التجاري، إلا إذا آل إليه هذا العنوان أو أذن له السلف في استعماله، وفي جميع الأحوال عليه أن يضيف إلى هذا العنوان بيانا يدل على انتقال الملكية.\nوإذا وافق السلف على استعمال العنوان التجاري الأصلي دون إضافة، كان مسئولا عن التزامات الخلف المعقودة تحت هذا العنوان إذا عجز الخلف عن الوفاء بهذه الالتزامات."
+    },
+    {
+      "provision_ref": "art239",
+      "section": "239",
+      "title": "Article (239)",
+      "content": "من يملك عنوانا تجاريا تبعا لمتجر يخلف سلفه في الالتزامات والحقوق التي ترتبت تحت هذا العنوان، ولا يسري اتفاق مخالف في حق الغير إلا إذا قيد في السجل التجاري أو أخبر به ذوو الشأن.\nوتسقط المسئولية عن التزامات السلف بمضي خمس سنوات من تاريخ انتقال المتجر."
+    },
+    {
+      "provision_ref": "art240",
+      "section": "240",
+      "title": "Article (240)",
+      "content": "من انتقل له متجر دون عنوانه التجاري لا يكون مسئولا عن التزامات سلفه، ما لم يكن هناك اتفاق مخالف مقيد في السجل التجاري."
+    },
+    {
+      "provision_ref": "art241",
+      "section": "241",
+      "title": "Article (241)",
+      "content": "يكون عنوان الشركات التجارية وفق الأحكام القانونية الخاصة بها.\nوللشركة أن تحتفظ بعنوانها الأول دون تعديل إذا انضم إليها شريك جديد، أو خرج منها شريك كان عنوان الشركة يشتمل على اسمه ما دام هذا الشريك أو ورثته قد قبلوا إبقاء الاسم في العنوان.\nالفرع الثالث المزاحمة غير المشروعة"
+    },
+    {
+      "provision_ref": "art242",
+      "section": "242",
+      "title": "Article (242)",
+      "content": "إذا استعمل العنوان التجاري غير صاحبه، أو استعمله صاحبه على صورة تخالف القانون، جاز لذوي الشأن أن يطلبوا منع استعماله، ولهم أن يطلبوا شطبه إذا كان مقيدا في السجل التجاري، ويجوز لهم الرجوع بالتعويض إذا كان له محل.\nتسري هذه الأحكام في استعمال العلامات والبيانات التجارية، وعلى الوجه المبين في هذا القانون."
+    },
+    {
+      "provision_ref": "art243",
+      "section": "243",
+      "title": "Article (243)",
+      "content": "لا يجوز للتاجر أن يلجأ إلى طرق التدليس والغش في تصريف بضاعته، وليس له أن ينشر بيانات كاذبة من شأنها أن تضر بمصلحة تاجر آخر يزاحمه، وإلا كان مسئولا عن التعويض."
+    },
+    {
+      "provision_ref": "art244",
+      "section": "244",
+      "title": "Article (244)",
+      "content": "لا يجوز للتاجر أن يذيع أمورا مغايرة للحقيقة تتعلق بمنشأ بضاعته أو أوصافها أو تتعلق بأهمية تجارته، ولا أن يعلن خلافا للواقع أنه حائز لمرتبة أو شهادة أو مكافأة ولا أن يلجأ إلى أية طريقة أخرى تنطوي على التضليل، قاصدا بذلك أن ينتزع عملاء تاجر آخر يزاحمه وإلا كان مسئولا عن التعويض."
+    },
+    {
+      "provision_ref": "art245",
+      "section": "245",
+      "title": "Article (245)",
+      "content": "لا يجوز للتاجر أن يغري عمال تاجر آخر أو مستخدميه ليعاونوه على انتزاع عملاء هذا التاجر أو ليخرجوا من خدمة هذا التاجر ويدخلوا في خدمته ويطلعوه على أسرار مزاحمه. وتعتبر هذه الأعمال مزاحمة غير مشروعة تستوجب التعويض.\nالكتاب الثالث العقود التجارية المسماة\nالباب الأول البيع\nالفصل الأول- البيع بوجه عام\nالفرع الأول- أركان البيع"
+    },
+    {
+      "provision_ref": "art246",
+      "section": "246",
+      "title": "Article (246)",
+      "content": "ينعقد البيع بتراضى المتبايعين على المبيع والثمن.\nويجب أن يكون المشتري عالما بالمبيع علما كافيا، ويعتبر العلم كافيا إذا اشتمل العقد على بيان المبيع وأوصافه الأساسية بيانا يمكن من تعرفه. وإذا ذكر في العقد أن المشتري عالم بالمبيع، سقط حقه في طلب إبطال البيع بدعوى عدم علمه به، إلا إذا أثبت تدليس البائع."
+    },
+    {
+      "provision_ref": "art247",
+      "section": "247",
+      "title": "Article (247)",
+      "content": "لا يعتبر إيجابا إبلاغ الأسعار الجارية إلى أشخاص متعددة، ولا عرض الأموال للبيع بإرسال جدول الأشياء وأسعارها وتصاويرها."
+    },
+    {
+      "provision_ref": "art248",
+      "section": "248",
+      "title": "Article (248)",
+      "content": "إذا كان البيع بالعينة، وجب أن يكون المبيع مطابقا لها. وإذا تلفت العينة أو هلكت في يد أحد العاقدين ولو دون خطأ، كان على هذا العاقد بائعا أو مشتريا أن يثبت أن الشيء مطابق للعينة أو غير مطابق."
+    },
+    {
+      "provision_ref": "art249",
+      "section": "249",
+      "title": "Article (249)",
+      "content": "في البيع بشرط التجربة، يجوز للمشتري أن يقبل المبيع أو يرفضه، وعلى البائع أن يمكنه من التجربة. فإذا رفض المشتري المبيع وجب أن يعلن الرفض في المدة المتفق عليها، فإن لم يكن هناك اتفاق على المدة، ففي مدة معقولة يعينها البائع، فإذا انقضت هذه المدة وسكت المشتري مع تمكنه من تجربة المبيع أعتبر سكوته قبولا.\nويعتبر البيع بشرط التجربة معلقا على شرط واقف هو قبول المبيع، إلا إذا تبين من الاتفاق أو الظروف أن البيع معلق على شرط فاسخ."
+    },
+    {
+      "provision_ref": "art250",
+      "section": "250",
+      "title": "Article (250)",
+      "content": "إذا بيع الشيء بشرط المذاق، كان للمشتري أن يقبل البيع إن شاء، ولكن عليه أن يعلن هذا القبول في المدة التي يعينها الاتفاق أو العرف، ولا ينعقد البيع إلا من الوقت الذي يتم فيه هذا الإعلان."
+    },
+    {
+      "provision_ref": "art251",
+      "section": "251",
+      "title": "Article (251)",
+      "content": "إذا باع تاجر مال غيره لم يتملك المشتري المبيع، غير أن البائع ملزم بتملك المبيع وتسليمه إلى المشتري، وإلا كان ملزما بالتعويض."
+    },
+    {
+      "provision_ref": "art252",
+      "section": "252",
+      "title": "Article (252)",
+      "content": "إذا باع تاجر إلى شخص آخر مالا منقولا مملوكا للغير مما يدخل في موضوع تجارته وسلمه له، تملك المشتري المبيع إذا كان حسن النية. ولكن إذا كان المال المبيع مفقودا أو مسروقا، جاز للمالك أن يسترده خلال ثلاث سنوات من وقت الضياع أو السرقة، وللمشتري أن يطلب من المالك أن يعجل له الثمن الذي دفعه."
+    },
+    {
+      "provision_ref": "art253",
+      "section": "253",
+      "title": "Article (253)",
+      "content": "بيع الأموال التجارية غير الموجودة وقت العقد، والتي تمكن تهيئتها وإحضارها وقت التسليم، صحيح."
+    },
+    {
+      "provision_ref": "art254",
+      "section": "254",
+      "title": "Article (254)",
+      "content": "يجوز أن يقتصر تقدير الثمن على بيان الأسس التي بمقتضاها فيما بعد.\nوإذا اتفق على أن الثمن هو سعر السوق، وجب، عند الشك، أن يكون الثمن سعر السوق في المكان والزمان اللذين يجب فيهما تسليم المبيع للمشتري. فإذا لم يكن في مكان التسليم سوق وجب الرجوع إلى سعر السوق في المكان الذي يقضي العرف أن تكون أسعاره هي السارية."
+    },
+    {
+      "provision_ref": "art255",
+      "section": "255",
+      "title": "Article (255)",
+      "content": "إذا لم يحدد المتعاقدان ثمنا للمبيع، فلا يترتب على ذلك بطلان البيع متى تبين من الظروف أن المتعاقدين قد نويا اعتماد السعر المتداول في التجارة أو السعر الذي جرى عليه التعامل بينهما."
+    },
+    {
+      "provision_ref": "art256",
+      "section": "256",
+      "title": "Article (256)",
+      "content": "يجوز تفويض طرف ثالث في تعيين الثمن. فإذا لم يعين هذا الطرف الثمن لأي سبب كان، ألزم المشتري بسعر السوق يوم البيع. فإذا لم يمكن معرفة سعر السوق، تكفل القاضي بتعيين الثمن."
+    },
+    {
+      "provision_ref": "art257",
+      "section": "257",
+      "title": "Article (257)",
+      "content": "إذا كان الثمن مقدرا على أساس الوزن، كانت العبرة بالوزن الصافي، إلا إذا اتفق الطرفان أو استقر العرف على غير ذلك.\nويحدد العرف القدر المتسامح فيه من نقص في البضاعة بسبب النقل أو غيره أو عند الاتفاق على تسليم كمية محددة على وجه التقريب.\nالفرع الثاني- آثار البيع\n1- التزامات البائع"
+    },
+    {
+      "provision_ref": "art258",
+      "section": "258",
+      "title": "Article (258)",
+      "content": "إذا هلك المبيع قبل التسليم لسبب لا يد للبائع فيه، انفسخ البيع واسترد المشتري الثمن، إلا إذا كان الهلاك بعد إعذار المشتري لتسلم المبيع."
+    },
+    {
+      "provision_ref": "art259",
+      "section": "259",
+      "title": "Article (259)",
+      "content": "إذا نقصت قيمة المبيع قبل التسليم لتلف أصابه، جاز للمشتري، إما أن يطلب فسخ البيع إذا كان النقص جسيما بحيث لو طرأ قبل العقد لما تم البيع، وإما أن يبقى البيع مع إنقاص الثمن."
+    },
+    {
+      "provision_ref": "art260",
+      "section": "260",
+      "title": "Article (260)",
+      "content": "إذا وجب تصدير المبيع للمشتري، فلا يتم التسليم إلا إذا وصل إليه، ما لم يوجد اتفاق يقضي بغير ذلك."
+    },
+    {
+      "provision_ref": "art261",
+      "section": "261",
+      "title": "Article (261)",
+      "content": "إذا كان البيع مؤجل الثمن، جاز للبائع أن يشترط أن يكون نقل الملكية إلى المشتري موقوفا على استيفاء الثمن كله ولو تم تسليم المبيع. وتكون تبعة الهلاك على المشتري من الوقت الذي يتم فيه التسليم.\nفإذا كان الثمن يدفع أقساطا، جاز للعاقدين أن يتفقا على أن يستبقي البائع جزءا منه تعويضا له عن فسخ البيع إذا لم توف جميع الأقساط. ومع ذلك يجوز للقاضى تبعا للظروف أن يخفض التعويض المتفق عليه وفقا للفقرة الثانية من المادة ( 59 ).\nوإذا وفيت جميع الأقساط، فإن انتقال الملكية إلى المشتري يعتبر مستندا إلى وقت البيع.\nوتسري الأحكام السابقة ولو سمى العاقدان البيع إيجارا."
+    },
+    {
+      "provision_ref": "art262",
+      "section": "262",
+      "title": "Article (262)",
+      "content": "إذا لم يحدد ميعاد للتسليم، وجب أن يتم التسليم بمجرد تمام العقد، ما لم تقض طبيعة البيع أو العرف بتحديد ميعاد آخر.\nفإذا كان للبضاعة موسم معين، وجب أن يتم التسليم قبل نهاية هذا الموسم.\nوإذا كان للمشتري أن يحدد ميعادا للتسليم، التزم البائع بالتسليم في الميعاد الذي يحدده المشتري، مع مراعاة ما يقضي به العرف وما تستلزمه طبيعة المبيع."
+    },
+    {
+      "provision_ref": "art263",
+      "section": "263",
+      "title": "Article (263)",
+      "content": "إذا لم يقم البائع بالتسليم في الميعاد المحدد له، اعتبر العقد مفسوخا دون حاجة إلى إعذار، إلا إذا أخطر المشتري البائع بتمسكه بتنفيذ العقد خلال ثلاثة أيام من حلول هذا الميعاد.\nوللمشتري أن يطالب البائع على سبيل التعويض بالفرق بين الثمن المتفق عليه وما دفعه بحسن نية للحصول على شيء مماثل.\nفإذا كان المبيع بضائع ذات سعر معروف في السوق، جاز للمشتري، ولو لم يقم بشراء بضائع مماثلة، أن يطالب البائع بالفرق بين الثمن المتفق عليه وثمن السوق في اليوم المحدد للتسليم."
+    },
+    {
+      "provision_ref": "art264",
+      "section": "264",
+      "title": "Article (264)",
+      "content": "إذا كانت البضاعة المسلمة تختلف عن البضاعة المتفق عليها في الكمية أو الصنف، فليس للمشتري أن يطلب الفسخ إلا إذا بلغ الاختلاف من الجسامة حدا يجعل البضاعة المسلمة غير صالحة للغرض الذي كان يعدها له. وفي غير هذه الحالة يكتفى بإنقاص الثمن أو بتكملته تبعا لنقص أو زيادة الكمية أو الصنف. وهذا كله ما لم يوجد اتفاق أو عرف مخالف.\nويتقادم حق المشتري في طلب الفسخ أو إنقاص الثمن وحق البائع في طلب تكملة الثمن، بمضي سنة من يوم التسليم الفعلي."
+    },
+    {
+      "provision_ref": "art265",
+      "section": "265",
+      "title": "Article (265)",
+      "content": "تكون مصروفات القياس أو العد أو الوزن أو الكيل أو غيرها من مصروفات التسليم على البائع."
+    },
+    {
+      "provision_ref": "art266",
+      "section": "266",
+      "title": "Article (266)",
+      "content": "على المشتري أن يقوم بفحص المبيع فور تسلمه وفقا للمألوف في التعامل، فإذا وجد به عيبا، فعليه أن يخطر به البائع فور كشفه، وإلا سقط حقه في الرجوع عليه بسبب العيب.\nفإذا كان العيب مما لا يكشف عنه الفحص المعتاد، وجب على المشتري أن يخطر به البائع بمجرد كشفه فعلا، وإلا سقط حقه في الرجوع على البائع بسببه.\nوتتقادم دعوى ضمان العيب بسنة من يوم تسليم المبيع، ما لم يقبل البائع الالتزام بالضمان لمدة أطول. ولا يفيد البائع من السقوط أو من التقادم إذا كان قد تعمد إخفاء العيب غشا منه.\n2- التزامات المشتري"
+    },
+    {
+      "provision_ref": "art267",
+      "section": "267",
+      "title": "Article (267)",
+      "content": "يكون الثمن مستحق الوفاء في المكان الذي سلم فيه المبيع، ما لم يوجد اتفاق أو عرف يقضي بغير ذلك.\nفإذا لم يكن الثمن مستحقا وقت تسليم المبيع، وجب الوفاء به في المكان الذي يوجد فيه موطن المشتري وقت استحقاق الثمن."
+    },
+    {
+      "provision_ref": "art268",
+      "section": "268",
+      "title": "Article (268)",
+      "content": "يكون الثمن مستحق الوفاء في الوقت الذي يسلم فيه المبيع، ما لم يوجد اتفاق أو عرف يقضي بغير ذلك.\nفإذا تعرض أحد للمشتري مستندا إلى حق سابق على البيع أو آيل من البائع، أو إذا خيف على المبيع أن ينزع من يد المشتري، جاز له، ما لم يمنعه شرط في العقد، أن يحبس الثمن حتى ينقطع التعرض أو يزول الخطر. ومع ذلك يجوز للبائع في هذه الحالة أن يطالب باستيفاء الثمن على أن يقدم كفيلا. ويسري هذا الحكم في حالة ما إذا كشف المشتري عيبا في المبيع."
+    },
+    {
+      "provision_ref": "art269",
+      "section": "269",
+      "title": "Article (269)",
+      "content": "إذا كان الثمن كله أو بعضه مستحق الدفع في الحال، فللبائع أن يحبس المبيع حتى يستوفي ما هو مستحق له ولو قدم المشتري رهنا أو كفالة. هذا ما لم يمنح البائع المشتري أجلا بعد تسليم المبيع."
+    },
+    {
+      "provision_ref": "art270",
+      "section": "270",
+      "title": "Article (270)",
+      "content": "إذا هلك المبيع في يد البائع وهو حابس له، كان الهلاك على المشتري، ما لم يكن المبيع قد هلك بفعل البائع."
+    },
+    {
+      "provision_ref": "art271",
+      "section": "271",
+      "title": "Article (271)",
+      "content": "إذا لم يدفع الثمن في الميعاد المتفق عليه، فللبائع بعد إعذار المشتري أن يطالبه بالفرق بين الثمن المتفق عليه، وثمن إعادة بيع الشيء بحسن نية.\nفإذا كان المبيع بضائع لها سعر معلوم في السوق، كان للبائع أن يطالب المشتري بالفرق بين الثمن المتفق عليه والثمن في اليوم المحدد للتنفيذ."
+    },
+    {
+      "provision_ref": "art272",
+      "section": "272",
+      "title": "Article (272)",
+      "content": "إذا لم يعين الاتفاق أو العرف مكانا أو زمانا لتسليم المبيع، وجب على المشتري أن يتسلمه في المكان الذي وجد فيه المبيع وقت البيع، وأن ينقله دون إبطاء، إلا ما يقتضيه النقل من زمن."
+    },
+    {
+      "provision_ref": "art273",
+      "section": "273",
+      "title": "Article (273)",
+      "content": "نفقات تسليم المبيع على المشتري، ما لم يوجد عرف أو اتفاق يقضي بغير ذلك."
+    },
+    {
+      "provision_ref": "art274",
+      "section": "274",
+      "title": "Article (274)",
+      "content": "إذا رفض المشتري تسلم المبيع، جاز للبائع إيداعه عند أمين، وبيعه بالمزاد العلني بعد انقضاء مدة معقولة يحددها ويخطر بها المشتري دون إبطاء. ويجوز بيع الأشياء القابلة للتلف بالمزاد العلني دون حاجة إلى هذا الإخطار.\nفإذا كان للبيع سعر معلوم في السوق، جاز بيعه ممارسة بهذا السعر على يد سمسار.\nوعلى البائع أن يودع حصيلة البيع خزانة المحكمة، وذلك دون إخلال بحقه في خصم الثمن ومصروفات الإيداع والمبيع.\nالفصل الثاني- بعض أنواع البيوع البيوع البحرية- بيوع القيام وبيوع الوصول\n1- بيوع القيام (بيع سيف وبيع فوب)"
+    },
+    {
+      "provision_ref": "art275",
+      "section": "275",
+      "title": "Article (275)",
+      "content": "بيع البضائع المصدرة إلى محل معين، ببدل مقطوع يشمل ثمن البضاعة (Cost) والتأمين عليها (Insurance) وأجر النقل بالسفينة (Freight) يدعى بيع سيف (C.I.F.).\nو تعتبر البضاعة قد تم تسليمها عند شحنها بالسفينة، وتقع تبعة الهلاك على المشتري من وقت الشحن."
+    },
+    {
+      "provision_ref": "art276",
+      "section": "276",
+      "title": "Article (276)",
+      "content": "على البائع شحن البضاعة في السفينة وفقا للشروط المتفق عليها أو وفقا للعرف الجاري في محل الشحن. و إذا أخل البائع بهذا الإلتزام، جاز للمشتري فسخ العقد و إخطار البائع بذلك فورا."
+    },
+    {
+      "provision_ref": "art277",
+      "section": "277",
+      "title": "Article (277)",
+      "content": "يكون إثبات شحن البائع للبضاعة بورقة الشحن المذكور فيها كلمة \"شحن\" أما إذا كانت ورقة الشحن قد ذكر فيها عبارة \"برسم الشحن\" فللمشتري أن يثبت أن الشحن لم يقع فعلا في التاريخ المدون في الورقة.\nعلى أنه إذا كانت ورقة الشحن تشتمل على بيان محرر بخط ربان السفينة وممضي منه بأن البضاعة شحنت فعلا في التاريخ المحدد، فليس للمشتري أن يثبت خلاف ذلك."
+    },
+    {
+      "provision_ref": "art278",
+      "section": "278",
+      "title": "Article (278)",
+      "content": "على البائع أن يؤمن على البضائع المشحونة ضد الأخطار البحرية بحسب الشروط المألوفة في عقود التأمين، ويجب أن يكون بدل التأمين مقدارا يعادل سعر البضاعة النقدي في مكان الوصول.\nو إذا كانت البضاعة قد شحنت أقساما، وجب تأمين كل قسم على حدة.\nوليس للبائع أن يقوم بنفسه تجاه المشتري كمؤمن."
+    },
+    {
+      "provision_ref": "art279",
+      "section": "279",
+      "title": "Article (279)",
+      "content": "الأخطار التي يتم التأمين من أجلها هي الأخطار العادية عدا أخطار الحرب، ما لم ينص العقد بغير ذلك. ويسري العرف الجاري في محل الشحن على جنس الأشياء المؤمنة وماهيتها وشمول التأمين لها وشروط الإعفاء وكيفية تأدية بدل التأمين.\nولا يكون البائع مسئولا تجاه المشتري بسبب عجز المؤمن عن تأدية بدل التأمين إذا كان قد أمن المبيع لدى شركة تأمين معروفة معتبرة."
+    },
+    {
+      "provision_ref": "art280",
+      "section": "280",
+      "title": "Article (280)",
+      "content": "على البائع أن يعلم المشتري فورا بتاريخ الشحن، وبالعلامات الموضوعة على البضاعة، وبالمعلومات التي حصلها عن السفينة التي شحنت البضاعة فيها."
+    },
+    {
+      "provision_ref": "art281",
+      "section": "281",
+      "title": "Article (281)",
+      "content": "على البائع، بعد شحن البضاعة، أن يرسل إلى المشتري بالسرعة الممكنة ورقة الشحن مظهرة مع بوليصة التأمين وأصل قائمة البضاعة، وشهادة عند الاقتضاء تثبت وزن البضاعة ووصفها، ويرفق ذلك كله ببوليصة مسحوبة على المشتري يعادل مبلغها قيمة قائمة البضاعة.\nوإذا وصلت السفينة التي شحنت فيها البضاعة ولم تصل الأوراق المذكورة، أو وصلت ناقصة، وراجع المشتري البائع، ألزم البائع بتزويد المشتري بالأوراق الصالحة لتسلم البضاعة، وتكون المصروفات الناشئة عن تأخر تسليم الأوراق المذكورة على البائع."
+    },
+    {
+      "provision_ref": "art282",
+      "section": "282",
+      "title": "Article (282)",
+      "content": "يجب على المشتري أن يقبل أو أن يرد الأوراق المذكورة في المادة السابقة. وإذا ردها وتبين أنه غير محق في الرد، كان مسؤولا عن تعويض البائع عن الأضرار التي أصابته من جراء ذلك. أما إذا كان محقا في الرد، فإن له أن يفسخ العقد مع مطالبة البائع بالتعويض.\nوإذا لم يبد المشتري اعتراضا خلال أربعة أيام من تاريخ تسلمه الأوراق المذكورة، اعتبر قابلا لها. وليس للمشتري أن يفسخ العقد بعد قبوله الأوراق، ما لم يثبت غش البائع أو ما لم يظهر أن البضاعة غير متفقة مع ما جاء بالأوراق. وإذا رد المشتري الأوراق لأسباب معينة، أو قبلها بقيود، فليس له بعد ذلك أن يبدي أي اعتراض غير الأسباب والقيود التي سبق له إيرادها."
+    },
+    {
+      "provision_ref": "art283",
+      "section": "283",
+      "title": "Article (283)",
+      "content": "على المشتري تأدية بدل البوليصة المسحوبة عليه مقابلا لثمن المبيع، حتى يتمكن من تسلم الأوراق، وذلك ما لم يوجد اتفاق على غيره."
+    },
+    {
+      "provision_ref": "art284",
+      "section": "284",
+      "title": "Article (284)",
+      "content": "إذا وصلت السفينة التي شحنت فيها البضاعة، أخرجت منها وفقا للشروط المتفق عليها أو وفقا للعرف، ويلتزم المشتري بفحص البضاعة للتحقق من موافقتها لما جاء في الأوراق."
+    },
+    {
+      "provision_ref": "art285",
+      "section": "285",
+      "title": "Article (285)",
+      "content": "إذا ظهرت البضاعة مخالفة لما جاء في الأوراق، ولم تجاوز المخالفة القدر المسموح به عرفا، كان المشتري ملزما بقبولها، مع تنزيل في الثمن يقدره الخبراء وفقا للعرف المعمول به في ميناء الوصول."
+    },
+    {
+      "provision_ref": "art286",
+      "section": "286",
+      "title": "Article (286)",
+      "content": "يجوز اشتراط تأدية الثمن حسب الوزن الذي يتحقق أو حسب وزن متفق عليه. وفي هذه الحالة تعد قائمة وقتية بالبضاعة، وترسل إلى المشتري بعد الشحن. ويجوز أن تكون البوليصة المرفقة بالأوراق المتعلقة بالمبيع لا تشمل إلا الثمن مخفضا إلى نسبة تتراوح بين 75% إلى 90% من ثمن المبيع.\nوتعد قائمة البضاعة النهائية بحضور الطرفين أو ممثليهما في الميناء الذي وصلت إليه البضاعة بعد وزنها حسب الأصول ويدفع المشتري أو يرد البائع الفرق ما بين القائمتين خلال ثمانية أيام من تاريخ قبول المشتري للبضاعة."
+    },
+    {
+      "provision_ref": "art287",
+      "section": "287",
+      "title": "Article (287)",
+      "content": "يسوى الثمن بحسب الطريقة المبينة في المادة السابقة إذا كان العقد يتضمن شرط \"حسب التخمين\" أو شرط \"المقدار المعين بصورة قطعية\".\nوإذا كان العقد يتضمن شرط \"حسب التخمين\"، سمح بزيادة أو نقص لا يجاوز 10% عما نص عليه في العقد إذا كان المبيع يشمل حمولة السفينة، ولا يجاوز 5% إذا كان المبيع لا يشمل إلا قسما منها.\nوإذا كان العقد يتضمن شرط \"المقدار المعين بصفة قطعية\" كان للمشتري طلب جميع الكمية المعينة، ولكن البائع لا يكون مسؤولا عن النقص بسبب الأضرار البحرية أو بسبب عيب حصل في المبيع أثناء السفر. ويعين ثمن البضاعة التي ظهر في كميتها نقص أو زيادة، وتجري تسويته بحسب السعر السائد في مكان الوصول وزمانه.\nويكون بدل القائمة المؤقتة هو البدل القطعي إذا لم يمكن التثبت من الوزن الحقيقي للبضاعة بسبب حصول النقص أو الزيادة فيها من جراء إلقاء قسم منها في البحر أو من جراء ابتلالها بمائه."
+    },
+    {
+      "provision_ref": "art288",
+      "section": "288",
+      "title": "Article (288)",
+      "content": "يجوز بيع البضاعة وتصديرها إلى محل معين، دون أن يلتزم البائع بغير شحن البضاعة في السفينة، ويدعى هذا البيع بيع فوب (F.O.B.).\nوتعتبر البضاعة قد تم تسليمها عند شحنها بالسفينة، وتقع تبعة الهلاك على المشتري من وقت الشحن.\nوالمشتري ملزم بدفع الثمن للبائع، وهو الذي يلتزم بدفع أجرة النقل بالسفينة، ويقوم بالتأمين على البضاعة.\n2- بيوع الوصول"
+    },
+    {
+      "provision_ref": "art289",
+      "section": "289",
+      "title": "Article (289)",
+      "content": "العقد الذي يتضمن شروطا من شأنها تحميل البائع تبعة الهلاك بعد شحن البضاعة، أو تجعل أمر تنفيذ العقد منوطا بوصول السفينة سالمة، أو تعطي المشتري الخيار في قبول البضاعة حسب رغبته أو حسب النموذج المسلم إليه حين العقد، يخرج عن كونه بيع (C.I.F.) أو بيع فوب (F.O.B.) ويعتبر بيعا بشرط التسليم في مكان الوصول."
+    },
+    {
+      "provision_ref": "art290",
+      "section": "290",
+      "title": "Article (290)",
+      "content": "البيع مع تعيين السفينة التي يشحن فيها المبيع يعتبر بيعا معلقا على شرط وصول السفينة سالمة إلى المحل المقصود.\nوإذا أصيب المبيع أثناء السفر بخسار بحري أزال المنفعة المقصودة منه، انفسخ البيع.\nويلزم المشتري بقبول البيع في الأحوال الأخرى بالحالة التي وصل عليها، ويستنزل من الثمن ما يقدره أهل الخبرة."
+    },
+    {
+      "provision_ref": "art291",
+      "section": "291",
+      "title": "Article (291)",
+      "content": "إذا احتفظ البائع بحقه في تعيين السفينة التي يشحن فيها المبيع خلال مدة معينة أو خلال المدة التي يقضي بها العرف، ولم يعين السفينة خلال المدة المذكورة، جاز للمشتري أن يطلب تعيين السفينة أو فسخ العقد مع التعويض.\nوإذا لم تكن هناك مدة معينة أو عرف، جاز للمشتري أن يطلب من المحكمة تعيين المدة."
+    },
+    {
+      "provision_ref": "art292",
+      "section": "292",
+      "title": "Article (292)",
+      "content": "إذا عينت، عند العقد أو بعد ذلك، المدة لإقلاع السفينة أو لوصولها، ولم تقلع السفينة أو لم تصل في المدة المعينة، جاز للمشتري أن يطلب فسخ العقد، وله أيضا أن يمد المدة مرة أو أكثر."
+    },
+    {
+      "provision_ref": "art293",
+      "section": "293",
+      "title": "Article (293)",
+      "content": "إذا لم تعين مدة لوصول السفينة، كانت المدة هي الوقت اللازم لإكمال السفينة سفرتها بحيث لا تجاوز ستة شهور من تاريخ إقلاع السفينة من المحل الذي شحنت البضاعة فيه، وإذا تأخرت السفينة عن الوصول في هذه المدة، جاز للمشتري أن يطلب من المحكمة تعيين مدة لذلك، وإذا لم تصل السفينة خلال هذه المدة أيضا، فله أن يطلب فسخ العقد."
+    },
+    {
+      "provision_ref": "art294",
+      "section": "294",
+      "title": "Article (294)",
+      "content": "إذا نقل المبيع أثناء السفر من السفينة التي شحن فيها إلى سفينة أخرى لأسباب قهرية، لم يفسخ العقد، وتقوم السفينة التي نقل إليها المبيع مقام السفينة المعينة.\nالباب الثاني الوكالة التجارية والوكالة بالعمولة والسمسرة\nالفصل الأول- الوكالة التجارية والممثلون التجاريون\nالفرع الأول- الوكالة التجارية"
+    },
+    {
+      "provision_ref": "art295",
+      "section": "295",
+      "title": "Article (295)",
+      "content": "في المواد التجارية يستحق الوكيل الأجر في جميع الأحوال، ما لم يكن هناك اتفاق على غير ذلك.\nوإذا لم يحدد هذا الأجر في الاتفاق، عين بحسب تعريفة المهنة أو بحسب العرف أو الظروف."
+    },
+    {
+      "provision_ref": "art296",
+      "section": "296",
+      "title": "Article (296)",
+      "content": "الوكالة التجارية، وإن احتوت على توكيل مطلق، لا تجيز الأعمال غير التجارية إلا باتفاق صريح."
+    },
+    {
+      "provision_ref": "art297",
+      "section": "297",
+      "title": "Article (297)",
+      "content": "الوكيل الذي لم يتلق تعليمات إلا في شأن جزء من العمل مطلق التصرف في الجزء الباقي."
+    },
+    {
+      "provision_ref": "art298",
+      "section": "298",
+      "title": "Article (298)",
+      "content": "يجب على الوكيل أن يبذل في تنفيذ الوكالة عناية الرجل المعتاد. وعليه أن يوافي الموكل بالمعلومات الضرورية عما وصل إليه في تنفيذ الوكالة، وأن يقدم له حسابا عنها."
+    },
+    {
+      "provision_ref": "art299",
+      "section": "299",
+      "title": "Article (299)",
+      "content": "ليس للوكيل أن يخالف أوامر موكله، وإلا كان مسئولا عن الأضرار التي تنجم عن ذلك.\nعلى أنه إذا تحقق الوكيل أن تنفيذ الوكالة حسب أوامر الموكل يلحق بالموكل ضررا بليغا، جاز له أن يرجئ تنفيذ الوكالة إلى أن يراجع الموكل.\nوللوكيل أن يرجئ تنفيذ الوكالة إذا لم تكن لديه تعليمات صريحة من موكله بشأنها إلى أن يتلقى هذه التعليمات ومع ذلك إذا قضت الضرورة بالاستعجال، أو كان الوكيل مأذونا في العمل في حدود ما هو مفيد وملائم، كان له أن يقوم بتنفيذ الوكالة بحسب ما يراه، على أن يتخذ الحيطة الواجبة في ذلك."
+    },
+    {
+      "provision_ref": "art300",
+      "section": "300",
+      "title": "Article (300)",
+      "content": "الوكيل مسؤول عن الأضرار التي تلحق الأشياء التي يحتفظ بها لحساب موكله، ما لم تكن هذه الأضرار ناشئة عن أسباب قهرية أو ظروف غير اعتيادية أو عيوب موجودة في هذه الأشياء، أو كانت أضرارا اقتضتها طبيعة الأشياء.\nوإذا اطلع الوكيل على أضرار لحقت بالأشياء أثناء السفر، فعليه أن يتخذ التدبيرات العاجلة للمحافظة عليها. وإذا تعرضت الأشياء للتلف، أو كانت مما يسرع إليه الفساد، أو كانت عرضة لخطر الهبوط في قيمتها، ولم يتمكن الوكيل من استئذان الموكل في شأنها، فعليه أن يستأذن المحكمة في بيعها."
+    },
+    {
+      "provision_ref": "art301",
+      "section": "301",
+      "title": "Article (301)",
+      "content": "على الموكل أن يرد للوكيل ما أنفقه في تنفيذ الوكالة التنفيذ المعتاد، مع الفوائد من وقت الاتفاق، مهما كان حظ الوكيل من النجاح في مهمته، فإذا اقتضى تنفيذ الوكالة أن يقدم الموكل للوكيل مبالغ للإنفاق منها في شؤون الوكالة، وجب على الموكل أن يقدم هذه المبالغ متى طلب الوكيل ذلك.\nوعلى الموكل أن يخلص ذمة الوكيل مما عقد باسمه الخاص من التزامات في سبيل تنفيذ الوكالة."
+    },
+    {
+      "provision_ref": "art302",
+      "section": "302",
+      "title": "Article (302)",
+      "content": "إذا تعاقد الوكيل مع الغير باسم الموكل وفي حدود الوكالة، فإن العقد يقع للموكل وتعود كل حقوقه إليه."
+    },
+    {
+      "provision_ref": "art303",
+      "section": "303",
+      "title": "Article (303)",
+      "content": "إذا لم يعلن الوكيل وقت التعاقد مع الغير أنه يعمل بصفته وكيلا، فلا يقع العقد للموكل ولا تعود حقوقه إليه، إلا إذا كان يستفاد من الظروف أن من تعاقد معه الوكيل يعلم بوجود الوكالة، أو كان يستوي عنده أن يتعامل مع الوكيل أو الموكل."
+    },
+    {
+      "provision_ref": "art304",
+      "section": "304",
+      "title": "Article (304)",
+      "content": "تنتهي الوكالة بموت الوكيل أو الموكل، أو بخروج أحدهما عن الأهلية، أو بإتمام العمل الموكل فيه، أو بانتهاء الأجل المعين للوكالة."
+    },
+    {
+      "provision_ref": "art305",
+      "section": "305",
+      "title": "Article (305)",
+      "content": "للموكل أن يعزل الوكيل أو أن يقيد من وكالته، وللوكيل أن يتنحى عن الوكالة، ولا عبرة بأي اتفاق يخالف ذلك. لكن إذا تعلق بالوكالة حق الغير، فلا يجوز العزل أو التقيد أو التنحي دون رضاء هذا الغير. ولا يتحقق انتهاء الوكالة بالعزل أو بالتنحي إلا بعد حصول العلم للطرف الثاني.\nويكون من صدر منه العزل أو التنحي ملزما بتعويض الطرف الثاني عن الضرر الذي لحقه من جراء العزل أو التنحي في وقت غير مناسب وبغير عذر مقبول."
+    },
+    {
+      "provision_ref": "art306",
+      "section": "306",
+      "title": "Article (306)",
+      "content": "لا يحتج بانتهاء الوكالة على الغير حسن النية الذي تعاقد مع الوكيل قبل علمه بانتهائها."
+    },
+    {
+      "provision_ref": "art307",
+      "section": "307",
+      "title": "Article (307)",
+      "content": "على أي وجه كان انتهاء الوكالة، يجب على الوكيل أن يصل بالأعمال التي بدأها إلى حالة لا تتعرض معها للتلف.\nالفرع الثاني- الممثلون التجاريون"
+    },
+    {
+      "provision_ref": "art308",
+      "section": "308",
+      "title": "Article (308)",
+      "content": "يعتبر ممثلا تجاريا من كان مكلفا من قبل التاجر بالقيام بعمل من أعمال تجارته، سواء كان ذلك في محل تجارته أو في محل آخر."
+    },
+    {
+      "provision_ref": "art309",
+      "section": "309",
+      "title": "Article (309)",
+      "content": "إذا لم تعين حدود التفويض المخول للمثل التجاري، اعتبر التفويض عاما شاملا لجميع المعاملات المتعلقة بنوع التجارة التي فوض الممثل في إجرائها.\nوليس للتاجر أن يحتج على الغير بتحديد التفويض ما لم يثبت علم الغير بهذا التحديد."
+    },
+    {
+      "provision_ref": "art310",
+      "section": "310",
+      "title": "Article (310)",
+      "content": "على الممثل التجاري أن يقوم بالأعمال التجارية المفوض فيها بإسم التاجر الذي فوضه، ويجب عليه عند التوقيع أن يضع إلى جانب إسمه الكامل إسم هذا التاجر كاملا أو عنوان الشركة مع إضافة كلمة \"بالوكالة\" أو ما يعادلها. وإذا لم يفعل الممثل التجاري ذلك كان مسؤولا شخصيا عما قام به من العمل. ومع هذا يجوز للغير الرجوع على التاجر أو الشركة مباشرة من جراء ما قام به الممثل من معاملات تتعلق بنوع التجارة المفوض له القيام بها."
+    },
+    {
+      "provision_ref": "art311",
+      "section": "311",
+      "title": "Article (311)",
+      "content": "ليس للممثل التجاري أن يقوم بأية معاملة تجارية لحسابه أو لحساب طرف ثالث دون أن يحصل على موافقة صريحة من التاجر الذي استخدمه."
+    },
+    {
+      "provision_ref": "art312",
+      "section": "312",
+      "title": "Article (312)",
+      "content": "للتاجر أن يخول بعض مستخدميه البيع بالتجزئة أو بالجملة في مخزنه. ولهؤلاء الباعة أن يقبضوا، عندما لا يكون قبض الثمن منوطا بأمين صندوق، في داخل المخزن أثمان الأشياء التي باعوها حين تسليمها. والإيصالات التي يعطيها هؤلاء الباعة باسم التاجر مقابل ما باعوه يعتد بها، وليس لهم أن يطالبوا بالثمن خارج المخزن، إلا إذا كانوا مخولين هذا الحق كتابة من قبل التاجر.\nالفصل الثاني- الوكالة بالعمولة"
+    },
+    {
+      "provision_ref": "art313",
+      "section": "313",
+      "title": "Article (313)",
+      "content": "الوكالة بالعمولة عقد يلتزم بموجبه الوكيل بالعمولة بأن يقوم باسمه بتصرف قانوني لحساب الموكل في مقابل أجر.\nوفيما عدا الأحكام المنصوص عليها في هذا الفصل، تسري على الوكالة بالعمولة أحكام الوكالة التجارية.\nالفرع الأول - التزامات الوكيل بالعمولة نحو الموكل"
+    },
+    {
+      "provision_ref": "art314",
+      "section": "314",
+      "title": "Article (314)",
+      "content": "على الوكيل بالعمولة أن يبذل في تنفيذ الوكالة عناية التاجر العادي.\nوعليه أن يحيط الموكل علما بكل ما يتعلق بالصفقة وأن يخطره فورا بإتمامها.\nوعليه أن يتبع تعليمات الموكل، فإذا خالفها دون مبرر جاز للموكل أن يرفض الصفقة."
+    },
+    {
+      "provision_ref": "art315",
+      "section": "315",
+      "title": "Article (315)",
+      "content": "إذا باع الوكيل بالعمولة بأقل من الثمن الذي حدده الموكل، أو اشترى بأعلى منه، وجب على الموكل إذا أراد رفض الصفقة، أن يبادر عند تسلمه إخطار إتمام الصفقة إلى إخطار الوكيل بالعمولة بالرفض، وإلا اعتبر قابلا للثمن.\nولا يجوز للموكل رفض الصفقة إذا قبل الوكيل تحمل فرق الثمن."
+    },
+    {
+      "provision_ref": "art316",
+      "section": "316",
+      "title": "Article (316)",
+      "content": "إذا تعاقد الوكيل بالعمولة بشروط أفضل من الشروط التي حددها الموكل، وجب على الوكيل أن يقدم حسابا إلى الموكل."
+    },
+    {
+      "provision_ref": "art317",
+      "section": "317",
+      "title": "Article (317)",
+      "content": "إذا منح الوكيل بالعمولة بالبيع المشتري أجلا للوفاء بالثمن أو قسطه عليه، بغير إذن من الموكل، جاز للموكل أن يطالب الوكيل بالعمولة بأداء الثمن بأجمعه فورا، وفي هذه الحالة يجوز للوكيل بالعمولة أن يحتفظ بالفرق إذا أتم الصفقة بثمن أعلى.\nومع ذلك يجوز للوكيل بالعمولة أن يمنح الأجل أو يقسط الثمن بغير إذن من الموكل إذا كان العرف في الجهة التي تم فيها البيع يقضي بذلك، إلا إذا كانت تعليمات الموكل تلزمه بثمن معجل."
+    },
+    {
+      "provision_ref": "art318",
+      "section": "318",
+      "title": "Article (318)",
+      "content": "إذا قضت تعليمات الموكل بالبيع بثمن مؤجل، وباع الوكيل بالعمولة بثمن معجل، لم يجز للموكل أن يطالبه بأداء الثمن إلا عند حلول الأجل، وفي هذه الحالة يلتزم الوكيل بالعمولة بأداء الثمن على أساس البيع المؤجل.\nالفرع الثاني - حقوق الوكيل بالعمولة نحو الموكل"
+    },
+    {
+      "provision_ref": "art319",
+      "section": "319",
+      "title": "Article (319)",
+      "content": "لا يستحق الوكيل بالعمولة أجره إلا إذا أبرم الصفقة التي كلف بها، أو إذا أثبت تعذر إبرامها بسبب يرجع إلى الموكل. وفي غير هاتين الحالتين لا يستحق الوكيل بالعمولة إلا تعويضا عن الجهود التي بذلها طبقا لما يقضي به العرف.\nولا يخضع أجر الوكيل بالعمولة لتقدير القاضي."
+    },
+    {
+      "provision_ref": "art320",
+      "section": "320",
+      "title": "Article (320)",
+      "content": "على الموكل أن يرد إلى الوكيل بالعمولة النفقات وغيرها من المبالغ التي تحملها لتنفيذ الوكالة، وفيما عدا حالة خطأ الوكيل بالعمولة لا يجوز للموكل أن يمتنع عن رد هذه النفقات ولو لم تتم الصفقة، إلا إذا اتفق على غير ذلك.\nويلتزم الموكل بأن يدفع فوائد المبالغ والنفقات التي تحملها الوكيل بالعمولة من يوم صرفها."
+    },
+    {
+      "provision_ref": "art321",
+      "section": "321",
+      "title": "Article (321)",
+      "content": "إذا لحق الوكيل بالعمولة ضرر بسبب تنفيذ الوكالة، جاز له أن يطالب الموكل بالتعويض، إلا إذا نشأ الضرر عن خطأ الوكيل بالعمولة.\nالفرع الثالث - العلاقة بالغير الذي تعاقد معه الوكيل بالعمولة"
+    },
+    {
+      "provision_ref": "art322",
+      "section": "322",
+      "title": "Article (322)",
+      "content": "يلتزم الوكيل بالعمولة مباشرة تجاه الغير الذي تعاقد معه.\nوليس للغير الرجوع على الموكل، ولا للموكل الرجوع على الغير، بدعوى مباشرة، ما لم ينص القانون على غير ذلك."
+    },
+    {
+      "provision_ref": "art323",
+      "section": "323",
+      "title": "Article (323)",
+      "content": "إذا أفلس الوكيل بالعمولة بالبيع قبل قبض الثمن من المشتري، جاز للموكل أن يطالب المشتري مباشرة بأداء الثمن إليه.\nوإذا أفلس الوكيل بالعمولة بالشراء قيل تسلم المبيع، جاز للموكل أن يطالب البائع مباشرة بتسليم المبيع إليه.\nالفصل الثالث - السمسرة"
+    },
+    {
+      "provision_ref": "art324",
+      "section": "324",
+      "title": "Article (324)",
+      "content": "السمسرة عقد يتعهد بموجبه السمسار لشخص بالبحث عن طرف ثان لإبرام عقد معين، في مقابل أجر."
+    },
+    {
+      "provision_ref": "art325",
+      "section": "325",
+      "title": "Article (325)",
+      "content": "إذا لم يعين أجر السمسار في القانون أو في الاتفاق، عين وفقا لما يقضي به العرف، فإذا لم يوجد عرف، قدره القاضى تبعا لما بذله السمسار من جهد، وما صرفه من وقت في القيام بالعمل المكلف به."
+    },
+    {
+      "provision_ref": "art326",
+      "section": "326",
+      "title": "Article (326)",
+      "content": "لا يستحق السمسار أجره إلا إذا أدت وساطته إلى إبرام العقد.\nويستحق الأجر بمجرد إبرام العقد. ولو لم ينفذ كله أو بعضه.\nوإذا كان العقد معلقا على شرط واقف، لم يستحق السمسار أجره إلا إذا تحقق الشرط."
+    },
+    {
+      "provision_ref": "art327",
+      "section": "327",
+      "title": "Article (327)",
+      "content": "إذا كان السمسار مفوضا من طرفي العقد، استحق أجرا من كل منهما.\nويكون كل من العاقدين مسؤولا تجاه السمسار بغير تضامن بينهما عن دفع الأجر المستحق عليه، ولو اتفقا على أن يتحمل أحدهما جميع نفقات السمسرة."
+    },
+    {
+      "provision_ref": "art328",
+      "section": "328",
+      "title": "Article (328)",
+      "content": "لا يجوز للسمسار استرداد المصروفات التي تحملها في تنفيذ العمل المكلف به إلا إذا تم الاتفاق على ذلك، وفي هذه الحالة تستحق المصروفات ولو لم يبرم العقد."
+    },
+    {
+      "provision_ref": "art329",
+      "section": "329",
+      "title": "Article (329)",
+      "content": "يجوز للمحكمة أن تخفض أجر السمسار إذا كان غير متناسب مع الخدمات التي أداها، إلا إذا تعين مقدار الأجر، أو دفع الأجر المتفق عليه بعد إبرام العقد الذي توسط فيه السمسار."
+    },
+    {
+      "provision_ref": "art330",
+      "section": "330",
+      "title": "Article (330)",
+      "content": "يكون السمسار مسؤولا عن الخطأ الذي يرتكبه في تنفيذ العمل المكلف به."
+    },
+    {
+      "provision_ref": "art331",
+      "section": "331",
+      "title": "Article (331)",
+      "content": "على السمسار الذي بيعت بوساطته بضائع بمقتضى عينات، أن يحفظ هذه العينات إلى يوم التسليم، أو إلى أن يقبل المشتري البضاعة دون تحفظ، أو إلى أن تسوى جميع المنازعات بشأنها.\nوعلى السمسار أن يبين الأوصاف التي تميز العينات عن غيرها، ما لم يعفه العاقدان من ذلك.\nالباب الثالث الحساب الجاري وعمليات البنوك\nالفصل الأول- الحساب الجاري"
+    },
+    {
+      "provision_ref": "art332",
+      "section": "332",
+      "title": "Article (332)",
+      "content": "يراد بعقد الحساب الجاري الاتفاق الحاصل بين شخصين على ما يسلمه كل منهما للآخر على دفعات مختلفة، من نقود وأموال وسندات تجارية، ويسجل في حساب واحد لمصلحة الدافع ودينا على القابض، دون أن يكون لأي منهما حق مطالبة الآخر بما سلمه له في كل دفعة على حدة، بحيث يصبح الرصيد النهائي وحده عند إقفال الحساب هو الدين المستحق الواجب الأداء لأحد الطرفين بحسب الأحوال."
+    },
+    {
+      "provision_ref": "art333",
+      "section": "333",
+      "title": "Article (333)",
+      "content": "يتوقف مدى الحساب الجاري على إرادة العاقدين فلهما أن يجعلاه شاملا لجميع معاملاتهما أو خاصا بنوع معين منها."
+    },
+    {
+      "provision_ref": "art334",
+      "section": "334",
+      "title": "Article (334)",
+      "content": "يجوز أن يكون الحساب الجاري مكشوفا لجهة الطرفين، أو مكشوفا لجهة طرف واحد. وفي هذه الحالة الأخيرة لا يلتزم أحد الطرفين بتقديم المال للطرف الآخر إلا إذا كان عند الأول مقابل وفاء كاف، ولا يجوز بحال أن يستقر الحساب على رصيد إيجابي لمصلحة الطرف الآخر."
+    },
+    {
+      "provision_ref": "art335",
+      "section": "335",
+      "title": "Article (335)",
+      "content": "وجود الحساب الجاري لا يمنع أحد الطرفين من مطالبة الآخر بالعمولة التي استحقها من عمل قام به بالعمولة وباسترداد نفقات العمليات الخاصة بالحساب الجاري، وهي تقيد في الحساب ما لم يكن هناك اتفاق مخالف."
+    },
+    {
+      "provision_ref": "art336",
+      "section": "336",
+      "title": "Article (336)",
+      "content": "تنتج الدفعات لمصلحة المسلم على المتسلم فائدة بحسب السعر القانوني (5%) إذا لم يكن سعرها معينا بموجب العقد أو العرف."
+    },
+    {
+      "provision_ref": "art337",
+      "section": "337",
+      "title": "Article (337)",
+      "content": "قيد الدفعات في الحساب الجاري لا يسقط ما للطرفين من دعاوي بشأن العقود والمعاملات التي ترتبت عليها هذه الدفعات، ما لم يشترط خلاف ذلك."
+    },
+    {
+      "provision_ref": "art338",
+      "section": "338",
+      "title": "Article (338)",
+      "content": "الديون المترتبة لأحد الطرفين، إذا أدخلت في الحساب الجاري، فقدت صفاتها الخاصة وكيانها الذاتي، فلا تكون بعد ذلك قابلة على حدة للوفاء ولا للمقاصة ولا للسقوط بالتقادم ولا للتقاضي ولا لطريقة من طرق التنفيذ.\nوتزول التأمينات الشخصية والعينية المتصلة بالديون التي أدخلت في الحساب الجاري، ما لم يكن هناك اتفاق مخالف.\nولا يدخل في الحساب الجاري النقود المسلمة للصرف في عمل معين، أو للاحتفاظ بها إلى حين ورود أمر في شأنها."
+    },
+    {
+      "provision_ref": "art339",
+      "section": "339",
+      "title": "Article (339)",
+      "content": "الحساب الجاري غير قابل للتجزئة، فلا يعد أحد الطرفين دائنا أو مدينا للطرف الآخر قبل إقفال الحساب، وإقفال الحساب هو وحده الذي يحدد العلاقات القانونية بين الطرفين، وهو الذي تنشأ عنه حتما المقاصة الإجمالية لجميع بنود الحساب من تسليف واستلاف، وهو الذي يعين الدائن والمدين.\nوالحجز الذي يوقع على نقود وأموال داخلة في الحساب الجاري لا ينفذ إلا بالنسبة إلى الرصيد الذي يظهر لمصلحة المحجوز عليه عند إقفال الحساب."
+    },
+    {
+      "provision_ref": "art340",
+      "section": "340",
+      "title": "Article (340)",
+      "content": "يوقف الحساب ويصفى في مواعيد الاستحقاق المعينة في العقد، أو بحسب العرف المحلي، وإلا ففي نهاية كل ستة شهور.\nويكون الرصيد دينا صافيا مستحق الأداء، ينتج ابتداء من يوم التصفية فائدة بالسعر المعين في الحساب الجاري إذا نقل هذا الرصيد إلى حساب جديد، وإلا فبالسعر القانوني (5%).\nوالدعاوي الخاصة بتصحيح الحساب من جراء غلط أو إغفال أو تكرار أو غير ذلك من التصحيحات يجب أن تقام خلال ستة شهور."
+    },
+    {
+      "provision_ref": "art341",
+      "section": "341",
+      "title": "Article (341)",
+      "content": "ينتهي العقد في الوقت المعين بموجب الاتفاق، وإن لم يتفق على وقت، انتهى العقد بإرادة أي من الطرفين.\nوينتهي العقد أيضا بموت أحد الطرفين أو بفقدانه الأهلية أو بإفلاسه.\nالفصل الثاني- عمليات البنوك"
+    },
+    {
+      "provision_ref": "art342",
+      "section": "342",
+      "title": "Article (342)",
+      "content": "البنك الذي يتلقى على سبيل الوديعة مبلغا من النقود يصبح مالكا له، ويجب عليه أن يرد قيمة تعادله، دفعة واحدة أو على عدة دفعات، عند أول طلب من المودع، أو في المواعيد المتفق عليها، أو بعد إخطار سابق.\nوجميع العمليات الخاصة بالوديعة أو باستردادها لا تثبت إلا بالكتابة.\nوتجب الفائدة عند الاقتضاء ابتداء من اليوم الذي يلي كل إيداع، إن لم يكن يوم عطلة، وإلى نهاية اليوم الذي يسبق إعادة كل مبلغ، ما لم يكن هناك اتفاق مخالف."
+    },
+    {
+      "provision_ref": "art343",
+      "section": "343",
+      "title": "Article (343)",
+      "content": "إذا كان ما أودع في البنك أوراقا مالية، فملكية هذه الأوراق تبقى للمودع، ما لم يثبت أن القصد هو انتقال الملكية للبنك، ويفترض هذا القصد إذا كان المودع قد منح البنك، كتابة وبدون قيد، حق التصرف في الأوراق، أو اعترف له بحق إرجاع أوراق من نوعها.\nتسري قواعد الوكالة إذا أخذ البنك على نفسه إدارة الأوراق المالية في مقابل عمولة."
+    },
+    {
+      "provision_ref": "art344",
+      "section": "344",
+      "title": "Article (344)",
+      "content": "تسري قواعد إجارة الأشياء على الودائع التي تودع في الصناديق الحديدية أو في خانات منها.\nويكون البنك مسؤولا عن سلامة الصناديق المأجورة."
+    },
+    {
+      "provision_ref": "art345",
+      "section": "345",
+      "title": "Article (345)",
+      "content": "في عقود فتح الاعتماد يلتزم فاتح الاعتماد أن يضع مبلغا من النقود تحت تصرف المعتمد له، ولهذا أن يقبض المبلغ دفعة واحدة، أو على دفعات متوالية خلال ميعاد معين.\nوما يوفيه أو يرجعه المعتمد له في مدة العقد يضاف إلى الباقي من المبلغ الموضوع تحت تصرفه ما لم يكن هناك اتفاق مخالف."
+    },
+    {
+      "provision_ref": "art346",
+      "section": "346",
+      "title": "Article (346)",
+      "content": "يجوز لفاتح الاعتماد أن ينقض العقد إذا أصبح المعتمد له غير مليء أو كان عديم الملاءة وقت التعاقد على غير علم من فاتح الاعتماد."
+    },
+    {
+      "provision_ref": "art347",
+      "section": "347",
+      "title": "Article (347)",
+      "content": "إذا وقع نقص هام في الضمانات العينية أو الشخصية التي قدمها المعتمد له، جاز لفاتح الاعتماد أن يطلب تأمينات تكميلية أو تخفيض مبلغ الاعتماد أو إقفاله بحسب الأحوال."
+    },
+    {
+      "provision_ref": "art348",
+      "section": "348",
+      "title": "Article (348)",
+      "content": "إذا خصص الاعتماد وفاء لمصلحة الغير، وأيد البنك هذا الاعتماد لمستحقه، لم يجز بعد ذلك الرجوع عنه أو تعديله دون رضاء المستحق، ويصبح البنك ملزما تجاه المستحق مباشرة.\nويحق للبنك استرداد المبالغ التي دفعها والمصروفات التي أنفقها لتنفيذ ما وكل به، مع الفائدة المتفق عليها أو الفائدة القانونية، إن لم يكن هناك اتفاق، ابتداء من يوم الدفع. ويحق للبنك أيضا استيفاء العمولة."
+    },
+    {
+      "provision_ref": "art349",
+      "section": "349",
+      "title": "Article (349)",
+      "content": "عمليات البنوك غير المذكورة في هذا الفصل تسري عليها القواعد الخاصة بها.\nالكتاب الرابع الأوراق التجارية\nالباب الأول- الكمبيالة\nالفصل الأول- إنشاء الكمبيالة وتداولها\nالفرع الأول- إنشاء الكمبيالة\n1- أركان الكمبيالة"
+    },
+    {
+      "provision_ref": "art350",
+      "section": "350",
+      "title": "Article (350)",
+      "content": "تشتمل الكمبيالة على البيانات الآتية:\n1- لفظ \"كمبيالة\" مكتوبا في متن الصك، وباللغة التي كتب بها.\n2- تاريخ إنشاء الكمبيالة ومكان إنشائها.\n3- اسم من يلزمه الوفاء (المسحوب عليه).\n4- اسم من يجب الوفاء له أو لأمره.\n5- أمر غير معلق على شرط بوفاء مبلغ معين من النقود.\n6- ميعاد الاستحقاق.\n7- مكان الوفاء.\n8- توقيع من أنشأ الكمبيالة (الساحب)."
+    },
+    {
+      "provision_ref": "art351",
+      "section": "351",
+      "title": "Article (351)",
+      "content": "الصك الخالي من أحد البيانات المذكورة في المادة السابقة لا يعتبر كمبيالة إلا في الأحوال الآتية:\nأ- إذا خلت الكمبيالة من بيان مكان إنشائها. اعتبرت منشأة في المكان المبين بجانب إسم الساحب.\nب- وإذا خلت من بيان ميعاد الاستحقاق، اعتبرت مستحقة الوفاء لدى الاطلاع عليها.\nج- وإذا خلت من بيان مكان الوفاء، فالمكان الذي يذكر بجانب إسم المسحوب عليه يعد مكانا للوفاء وموطنا للمسحوب عليه في الوقت ذاته. وتكون الكمبيالة مستحقة الوفاء في موطن المسحوب عليه إذا لم يشترط وفاؤها في مكان آخر."
+    },
+    {
+      "provision_ref": "art352",
+      "section": "352",
+      "title": "Article (352)",
+      "content": "يجوز سحب الكمبيالة لأمر ساحبها نفسه.\nويجوز سحبها على ساحبها.\nويجوز سحبها لحساب شخص آخر."
+    },
+    {
+      "provision_ref": "art353",
+      "section": "353",
+      "title": "Article (353)",
+      "content": "إذا كتب مبلغ الكمبيالة بالحروف وبالأرقام معا، فالعبرة عند الاختلاف تكون بالمكتوب بالحروف.\nوإذا كتب المبلغ عدة مرات بالحروف أو بالأرقام، فالعبرة عند الاختلاف تكون بالمبلغ الأقل."
+    },
+    {
+      "provision_ref": "art354",
+      "section": "354",
+      "title": "Article (354)",
+      "content": "يضمن ساحب الكمبيالة قبولها ووفاءها. ويجوز له أن يشترط إعفاءه من ضمان القبول، دون ضمان الوفاء.\n2- تعدد النسخ والصور- التحريف"
+    },
+    {
+      "provision_ref": "art355",
+      "section": "355",
+      "title": "Article (355)",
+      "content": "يجوز سحب الكمبيالة من نسخ متعددة يطابق بعضها بعضا. ويجب أن يوضع في متن كل نسخة منها رقمها، وإلا اعتبرت كل نسخة منها كمبيالة مستقلة.\nولكل حامل كمبيالة لم يذكر فيها أنها وحيدة أن يطلب نسخا منها على نفقته. ويجب عليه تحقيقا لذلك أن يرجع إلى الشخص الذي ظهرها، وعلى هذا أن يعاونه في الرجوع إلى المظهر السابق، ويتسلسل ذلك حتى ينتهي إلى الساحب. وعلى كل مظهر أن يدون تظهيره على النسخ الجديدة."
+    },
+    {
+      "provision_ref": "art356",
+      "section": "356",
+      "title": "Article (356)",
+      "content": "وفاء الكمبيالة بموجب إحدى نسخها مبرئ للذمة، ولو لم يكن مشروطا فيها أن هذا الوفاء يبطل حكم النسخ الأخرى، غير أن المسحوب عليه يبقى ملزما بالوفاء بموجب كل نسخة مقبولة منه لم يستردها.\nوالمظهر الذي ظهر نسخ الكمبيالة لأشخاص مختلفين، وكذلك المظهرون اللاحقون له، ملتزمون بموجب النسخ التي تحمل توقيعاتهم ولم يستردوها."
+    },
+    {
+      "provision_ref": "art357",
+      "section": "357",
+      "title": "Article (357)",
+      "content": "على من يرسل إحدى نسخ الكمبيالة لقبولها أن يبين على النسخ الأخرى اسم من تكون هذه النسخة في حيازته، وعلى هذا الأخير أن يسلمها للحامل الشرعي لأية نسخة أخرى.\nفإذا رفض تسليمها، لم يكن للحامل حق الرجوع إلا إذا أثبت ببروتستو:\nأولا: أن النسخة المرسلة للقبول لم تسلم له رغم طلبه لها.\nثانيا: أن القبول أو الوفاء لم يحصل بموجب نسخة أخرى."
+    },
+    {
+      "provision_ref": "art358",
+      "section": "358",
+      "title": "Article (358)",
+      "content": "يجب أن يبين في صورة الكمبيالة اسم حائز الأصل، وعلى هذا الأخير أن يسلم الأصل للحامل الشرعي للصورة. وإذا امتنع حائز الأصل عن تسليمه، لم يكن لحالم الصورة حق الرجوع على مظهريها أو ضامنيها الاحتياطيين إلا إذا أثبت ببروتستو أن الأصل لم يسلم إليه بناء على طلبه.\nوإذا كتب على الأصل عقب التظهير الأخير الحاصل قبل عمل الصورة أنه منذ الآن لا يصح التظهير إلا على الصورة، فكل تظهير يكتب على الأصل بعد ذلك يكون باطلا."
+    },
+    {
+      "provision_ref": "art359",
+      "section": "359",
+      "title": "Article (359)",
+      "content": "إذا وقع تحريف في متن الكمبيالة، التزم الموقعون اللاحقون لهذا التحريف بما ورد في المتن المحرف، أما الموقعون السابقون فيلزمون بما ورد في المتن الأصلي.\nالفرع الثاني- تداول الكمبيالة بالتظهير"
+    },
+    {
+      "provision_ref": "art360",
+      "section": "360",
+      "title": "Article (360)",
+      "content": "كل كمبيالة، ولو لم يصرح فيها أنها مسحوبة لأمر، يجوز تداولها بالتظهير، ولا يجوز تداول الكمبيالة التي يضع فيها ساحبها عبارة \"ليست لأمر\" أو أية عبارة أخرى تفيد هذا المعنى، إلا باتباع أحكام حوالة الحق.\nويجوز التظهير للمسحوب عليه سواء قبل الكمبيالة أو لم يقبلها، كما يجوز التظهير للساحب أو لأي ملتزم آخر. ويجوز لجميع هؤلاء تظهير الكمبيالة من جديد."
+    },
+    {
+      "provision_ref": "art361",
+      "section": "361",
+      "title": "Article (361)",
+      "content": "يكتب التظهير على الكمبيالة ذاتها أو على ورقة أخرى متصلة بها ويوقعه المظهر. والتظهير اللاحق لميعاد الاستحقاق ينتج أحكام التظهير السابق له، أما التظهير اللاحق لبروتستو عدم الوفاء أو الحاصل بعد انقضاء الميعاد القانوني المحدد لعمل البروتستو فلا ينتج إلا آثار حوالة الحق، ويفترض في التظهير الخالي من التاريخ أنه حصل قبل انقضاء الميعاد المحدد لعمل البروتستو، إلا إذا أثبت خلاف ذلك."
+    },
+    {
+      "provision_ref": "art362",
+      "section": "362",
+      "title": "Article (362)",
+      "content": "لا يجوز تقديم تاريخ التظهير، وإن وقع ذلك اعتبر تزويرا."
+    },
+    {
+      "provision_ref": "art363",
+      "section": "363",
+      "title": "Article (363)",
+      "content": "يجوز ألا يكتب في التظهير اسم المستفيد، كما يجوز أن يقتصر التظهير على توقيع المظهر (التظهير على بياض)، ويشترط لصحة التظهير في هذه الحالة الأخيرة أن يكتب على ظهر الكمبيالة أو على الورقة المتصلة بها."
+    },
+    {
+      "provision_ref": "art364",
+      "section": "364",
+      "title": "Article (364)",
+      "content": "مع عدم الإخلال بحكم المادة ( 366 )، لا يجوز تعليق التظهير على شرط، وكل شرط يعلق عليه التظهير يعتبر كأنه لم يكن.\nوالتظهير الجزئي باطل.\nويعتبر التظهير للحامل تظهيرا على بياض."
+    },
+    {
+      "provision_ref": "art365",
+      "section": "365",
+      "title": "Article (365)",
+      "content": "وإذا كان التظهير على بياض، جاز للحامل:\nأ- أن يملأ البياض بكتابة اسمه أو اسم شخص آخر.\nب- أن يظهر الكمبيالة من جديد على بياض أو إلى شخص آخر.\nج- أن يسلم الكمبيالة إلى شخص آخر دون أن يملأ البياض ودون أن يظهرها."
+    },
+    {
+      "provision_ref": "art366",
+      "section": "366",
+      "title": "Article (366)",
+      "content": "يضمن المظهر قبول الكمبيالة ووفاءها، ما لم يشترط غير ذلك. ويجوز له حظر تظهيرها من جديد. وفي هذه الحالة لا يكون ملزما بالضمان تجاه من تؤول إليهم الكمبيالة بتظهير لاحق."
+    },
+    {
+      "provision_ref": "art367",
+      "section": "367",
+      "title": "Article (367)",
+      "content": "يعتبر حائز الكمبيالة حاملها الشرعي متى أثبت أنه صاحب الحق فيها بتظهيرات غير منقطعة ولو كان آخرها تظهيرا على بياض. والتظهيرات المشطوبة تعتبر في هذا الشأن كأن لم تكن. وإذا أعقب التظهير على بياض تظهير آخر، اعتبر الموقع على هذا التظهير الأخير أنه هو الذي آل إليه الحق في الكمبيالة بالتظهير على بياض.\nوإذا فقد شخص حيازة كمبيالة على إثر حادث ما، لم يلزم حاملها بالتخلي عنها متى أثبت حقه فيها على مقتضى الأحكام السابقة، إلا إذا كان قد حصل عليها بسوء نية، أو ارتكب في سبيل الحصول عليها خطأ جسيما."
+    },
+    {
+      "provision_ref": "art368",
+      "section": "368",
+      "title": "Article (368)",
+      "content": "ينقل التظهير جميع الحقوق الناشئة عن الكمبيالة."
+    },
+    {
+      "provision_ref": "art369",
+      "section": "369",
+      "title": "Article (369)",
+      "content": "إذا اشتمل التظهير على عبارة (القيمة للتحصيل) أو (القيمة للقبض) أو (بالتوكيل) أو أي بيان آخر يفيد التوكيل، جاز للحامل مباشرة جميع الحقوق الناشئة عن الكمبيالة، وإنما لا يجوز له تظهيرها إلا على أساس التوكيل. وليس للملتزمين في هذه الحالة الاحتجاج على الحامل إلا بالدفوع التي يجوز الاحتجاج بها على المظهر.\nولا تنقضي الوكالة التي يتضمنها التظهير التوكيلي بوفاة الموكل أو بحدوث ما يخل بأهليته.\nالفصل الثاني- ضمانات الوفاء بالكمبيالة\nالفرع الأول- مقابل الوفاء"
+    },
+    {
+      "provision_ref": "art370",
+      "section": "370",
+      "title": "Article (370)",
+      "content": "على ساحب الكمبيالة، أو من سحبت الكمبيالة لحسابه، أن يوجد لدى المسحوب عليه مقابل وفائها، ولكن ذلك لا يعفي الساحب لحساب غيره من مسئوليته شخصيا تجاه مظهريها وحامليها دون سواهم."
+    },
+    {
+      "provision_ref": "art371",
+      "section": "371",
+      "title": "Article (371)",
+      "content": "يعتبر مقابل الوفاء موجودا إذا كان المسحوب عليه مدينا للساحب أو للآمر بالسحب في ميعاد استحقاق الكمبيالة بمبلغ معين من النقود واجب الأداء ومساو، على الأقل لمبلغ الكمبيالة."
+    },
+    {
+      "provision_ref": "art372",
+      "section": "372",
+      "title": "Article (372)",
+      "content": "يعتبر قبول الكمبيالة قرينة على وجود مقابل لوفائها لدى القابل، ولا يجوز إثبات عكس هذه القرينة في علاقة المسحوب عليه بالحامل.\nوعلى الساحب، دون غيره، أن يثبت في حالة الإنكار، سواء حصل قبول الكمبيالة أو لم يحصل، أن المسحوب عليه كان عنده مقابل وفائها في ميعاد الاستحقاق فإن لم يثبت ذلك، كان ضامنا للوفاء ولو عمل البروتستو بعد الميعاد المحدد قانونا. فإذا أثبت الساحب وجود المقابل واستمرار وجوده حتى الميعاد الذي كان يجب فيه عمل البروتستو، برئت ذمته بمقدار هذا المقابل، ما لم يكن قد استعمل في مصلحته."
+    },
+    {
+      "provision_ref": "art373",
+      "section": "373",
+      "title": "Article (373)",
+      "content": "تنتقل ملكية مقابل الوفاء بحكم القانون إلى حملة الكمبيالة المتعاقبين.\nوإذا كان مقابل الوفاء أقل من قيمة الكمبيالة، كان للحامل على هذا المقابل الناقص جميع الحقوق المقررة له على المقابل الكامل. ويسري هذا الحكم إذا كان مقابل الوفاء دينا متنازعا عليه أو غير محقق أو غير حال عند استحقاق الكمبيالة."
+    },
+    {
+      "provision_ref": "art374",
+      "section": "374",
+      "title": "Article (374)",
+      "content": "على الساحب، ولو عمل البروتستو بعد الميعاد المحدد قانونا، أن يسلم حامل الكمبيالة المستندات اللازمة للحصول على مقابل الوفاء. فإذا أفلس الساحب، لزم ذلك مدير التفليسة.\nوتكون مصروفات ذلك على حامل الكمبيالة في جميع الأحوال."
+    },
+    {
+      "provision_ref": "art375",
+      "section": "375",
+      "title": "Article (375)",
+      "content": "إذا أفلس الساحب، ولو قبل ميعاد استحقاق الكمبيالة، فلحاملها دون غيره من دائني الساحب استيفاء حقه من مقابل الوفاء الموجود على وجه صحيح عند المسحوب عليه."
+    },
+    {
+      "provision_ref": "art376",
+      "section": "376",
+      "title": "Article (376)",
+      "content": "إذا أفلس المسحوب عليه وكان مقابل الوفاء دينا في ذمته، دخل هذا الدين في موجودات التفليسة.\nأما إذا كان للساحب لدى المسحوب عليه بضائع أو أوراق تجارية أو أوراق مالية أو غير ذلك من الأعيان التي يجوز استردادها طبقا لأحكام الإفلاس، وكانت هذه الأعيان مخصصة صراحة أو ضمنا لوفاء الكمبيالة، فللحامل الأولوية في استيفاء حقه من قيمتها."
+    },
+    {
+      "provision_ref": "art377",
+      "section": "377",
+      "title": "Article (377)",
+      "content": "إذا سحبت عدة كمبيالات على مقابل وفاء واحد لا تكفي قيمته لوفائها كلها، روعي ترتيب تواريخ سحبها فيما يتعلق بحقوق حامليها في استيفاء ديونهم من مقابل الوفاء المذكور، ويكون حامل الكمبيالة السابق تاريخها على تواريخ الكمبيالات الأخرى مقدما على غيره.\nفإذا سحبت الكمبيالات في تاريخ واحد، قدمت الكمبيالة التي تحمل قبول المسحوب عليه.\nوإذا لم تحمل أية كمبيالة قبول المسحوب عليه، قدمت الكمبيالة التي خصص لوفائها من مقابل الوفاء.\nأما الكمبيالات التي تشتمل على شرط عدم القبول، فتأتي في المرتبة الأخيرة.\nالفرع الثاني - قبول الكمبيالة"
+    },
+    {
+      "provision_ref": "art378",
+      "section": "378",
+      "title": "Article (378)",
+      "content": "يجوز لحامل الكمبيالة أو لأي حائز لها، حتى ميعاد الاستحقاق، تقديمها إلى المسحوب عليه في موطنه لقبولها."
+    },
+    {
+      "provision_ref": "art379",
+      "section": "379",
+      "title": "Article (379)",
+      "content": "يجوز لساحب الكمبيالة أن يشترط وجوب تقديمها للقبول في ميعاد معين أو بغير ميعاد.\nوله أن يشترط عدم تقديمها للقبول، ما لم تكن مستحقة الدفع عند غير المسحوب عليه أو في جهة أخرى غير موطنه، أو مستحقة الدفع بعد مدة معينة من الاطلاع عليها.\nوله أن يشترط عدم تقديمها للقبول قبل أجل معين.\nولكل مظهر أن يشترط تقديم الكمبيالة للقبول في ميعاد معين أو بغير ميعاد، ما لم يكن الساحب قد اشترط عدم تقديمها للقبول."
+    },
+    {
+      "provision_ref": "art380",
+      "section": "380",
+      "title": "Article (380)",
+      "content": "الكمبيالة المستحقة الوفاء بعد مضي مدة معينة من الاطلاع عليها، يجب تقديمها للقبول خلال سنة من تاريخها. وللساحب تقصير هذا الميعاد أو إطالته. ولكل مظهر تقصير هذا الميعاد."
+    },
+    {
+      "provision_ref": "art381",
+      "section": "381",
+      "title": "Article (381)",
+      "content": "يجوز للمسحوب عليه أن يطلب تقديم الكمبيالة للقبول مرة ثانية في اليوم التالي للتقديم الأول، ولا يقبل من ذوي المصلحة الإدعاء بأن هذا الطلب قد رفض إلا إذا ذكر الطلب في البروتستو."
+    },
+    {
+      "provision_ref": "art382",
+      "section": "382",
+      "title": "Article (382)",
+      "content": "لا يلزم حامل الكمبيالة المقدمة للقبول بالتخلي عنها للمسحوب عليه، ويكتب القبول على الكمبيالة ذاتها. ويؤدى بلفظ \"مقبول\" أو بأية عبارة أخرى تدل على هذا المعنى، ويوقعه المسحوب عليه. ويعتبر قبولا مجرد وضع المسحوب عليه توقيعه على صدر الكمبيالة.\nوإذا كانت الكمبيالة مستحقة الوفاء بعد مدة من الاطلاع عليها، أو كانت واجبة التقديم للقبول في مدة معينة بناء على شرط خاص، وجب بيان تاريخ القبول في اليوم الذي حصل فيه، إلا إذا أوجب الحامل بيان تاريخ القبول في يوم تقديم الكمبيالة، فإذا خلا القبول من التاريخ، جاز للحامل حفظا لحقوقه في الرجوع على المظهرين أو على الساحب، إثبات هذا الخلو ببروتستو يعمل في وقت يكون فيه مجديا."
+    },
+    {
+      "provision_ref": "art383",
+      "section": "383",
+      "title": "Article (383)",
+      "content": "يجب أن يكون القبول غير معلق على شرط، ومع ذلك يجوز للمسحوب عليه قصره على جزء من مبلغ الكمبيالة.\nوأي تعديل لبيانات الكمبيالة يقع في صيغة القبول يعتبر رفضا لها، ومع ذلك يظل القابل ملزما بما تضمنته صيغة القبول."
+    },
+    {
+      "provision_ref": "art384",
+      "section": "384",
+      "title": "Article (384)",
+      "content": "إذا شطب المسحوب عليه قبوله المكتوب على الكمبيالة قبل ردها، اعتبر القبول المشطوب رفضا، ويعتبر الشطب حاصلا قبل رد الكمبيالة، ما لم يثبت العكس.\nومع ذلك إذا أخطر المسحوب عليه الحامل أو أي موقع آخر كتابة بقبوله، التزم نحوهم بهذا القبول."
+    },
+    {
+      "provision_ref": "art385",
+      "section": "385",
+      "title": "Article (385)",
+      "content": "إذا عين الساحب في الكمبيالة مكانا للوفاء غير موطن المسحوب عليه دون أن يعين من يجب الوفاء عنده، جاز للمسحوب عليه تعيينه عند القبول، فإذا لم يعينه اعتبر القابل ملزما بالدفع في مكان الوفاء. وإذا كانت الكمبيالة مستحقة الوفاء في موطن المسحوب عليه، جاز له أن يعين في صيغة القبول عنوانا في الجهة التي يجب أن يقع فيها الوفاء."
+    },
+    {
+      "provision_ref": "art386",
+      "section": "386",
+      "title": "Article (386)",
+      "content": "إذا قبل المسحوب عليه الكمبيالة، صار ملزما بوفاء قيمتها في ميعاد استحقاقها.\nوفي حالة عدم الوفاء يكون للحامل، ولو كان هو الساحب ذاته، مطالبة المسحوب عليه القابل بدعوى مباشرة ناشئة عن الكمبيالة بكل ما تجوز المطالبة به بموجب المادتين ( 413 ) و( 414 ).\nالفرع الثالث - الضمان الاحتياطي"
+    },
+    {
+      "provision_ref": "art387",
+      "section": "387",
+      "title": "Article (387)",
+      "content": "يجوز ضمان وفاء مبلغ الكمبيالة كله أو بعضه من ضمان احتياطي، ويكون هذا الضمان من أي شخص، ولو كان ممن وقعوا الكمبيالة."
+    },
+    {
+      "provision_ref": "art388",
+      "section": "388",
+      "title": "Article (388)",
+      "content": "يكتب الضمان الاحتياطي على الكمبيالة ذاتها أو على الورقة المتصلة بها، ويؤدى بصيغة \"مقبول كضمان احتياطي\" أو بأية عبارة أخرى تفيد معناها، ويوقعه الضامن. ويذكر في الضمان اسم المضمون، وإلا اعتبر الضمان حاصلا للساحب.\nويستفاد هذا الضمان من مجرد توقيع الضامن على صدر الكمبيالة، ما لم يكن هذا التوقيع صادرا عن المسحوب عليه، أو من الساحب."
+    },
+    {
+      "provision_ref": "art389",
+      "section": "389",
+      "title": "Article (389)",
+      "content": "يلتزم الضامن الاحتياطي على الوجه الذي يلتزم به المضمون، ويكون التزام الضامن الاحتياطي صحيحا، ولو كان الالتزام الذي ضمنه باطلا لأي سبب آخر غير عيب في الشكل.\nوإذا وفى الضامن الاحتياطي الكمبيالة، آلت إليه الحقوق الناشئة عنها، وذلك تجاه مضمونه وتجاه كل ملتزم نحو هذا الأخير بموجب الكمبيالة."
+    },
+    {
+      "provision_ref": "art390",
+      "section": "390",
+      "title": "Article (390)",
+      "content": "يجوز إعطاء الضمان الاحتياطي على ورقة مستقلة يبين فيها الجهة التي تم فيها هذا الضمان. والضامن الاحتياطي بورقة مستقلة لا يلزم إلا تجاه من أعطي له الضمان.\nالفصل الثالث- انقضاء الالتزام الثابت بالكمبيالة\nالفرع الأول- الوفاء\n1- ميعاد استحقاق الكمبيالة"
+    },
+    {
+      "provision_ref": "art391",
+      "section": "391",
+      "title": "Article (391)",
+      "content": "ميعاد استحقاق الكمبيالة يكون على أحد الوجوه الآتية:\nأ- لدى الاطلاع.\nب- بعد مضي مدة معينة من الاطلاع.\nج- بعد مضي مدة معينة من تاريخ الكمبيالة.\nد- في يوم معين.\nوالكمبيالات المشتملة على مواعيد استحقاق أخرى، أو على مواعيد استحقاق متعاقبة تكون باطلة."
+    },
+    {
+      "provision_ref": "art392",
+      "section": "392",
+      "title": "Article (392)",
+      "content": "الكمبيالة المستحقة الوفاء لدى الاطلاع تكون واجبة الوفاء بمجرد تقديمها. ويجب أن تقدم للوفاء خلال سنة من تاريخها، وللساحب تقصير هذا الميعاد أو إطالته، وللمظهرين تقصيره.\nوللساحب أن يشترط عدم تقديم الكمبيالة المستحقة الوفاء لدى الاطلاع قبل انقضاء أجل معين. وفي هذه الحالة يحسب ميعاد التقديم ابتداء من هذا الأجل."
+    },
+    {
+      "provision_ref": "art393",
+      "section": "393",
+      "title": "Article (393)",
+      "content": "يبدأ ميعاد استحقاق الكمبيالة الواجبة الوفاء بعد مدة من الاطلاع من تاريخ قبولها، أو من تاريخ البروتستو.\nفإذا لم يعمل البروتستو، اعتبر القبول غير المؤرخ حاصلا بالنسبة إلى القابل في اليوم الأخير من الميعاد المقرر لتقديم الكمبيالة للقبول طبقا للمادة ( 380 )."
+    },
+    {
+      "provision_ref": "art394",
+      "section": "394",
+      "title": "Article (394)",
+      "content": "الكمبيالة المسحوبة لشهر أو أكثر من تاريخها أو من تاريخ الاطلاع عليها يقع استحقاقها في التاريخ المقابل من الشهر الذي يجب فيه الوفاء. فإذا لم يوجد للتاريخ مقابل في الشهر الذي يجب فيه الوفاء، وقع الاستحقاق في اليوم الأخير من الشهر.\nوإذا سحبت الكمبيالة لشهر ونصف، أو لعدة شهور ونصف شهر من تاريخها، أو من تاريخ الاطلاع عليها وجب بدء الحساب بالشهور كاملة، وتعني عبارة \"نصف شهر\" خمسة عشر يوما.\nولا تعني عبارة \"ثمانية أيام\" أو خمسة عشر يوما أسبوعا أو أسبوعين، وإنما ثمانية أيام، أو خمسة عشر يوما بالفعل."
+    },
+    {
+      "provision_ref": "art395",
+      "section": "395",
+      "title": "Article (395)",
+      "content": "إذا كانت الكمبيالة مستحقة الوفاء في يوم معين، وكان الاستحقاق في أول الشهر أو في منتصفه أو في آخره، كان المقصود من هذه التعبيرات اليوم الأول أو الخامس عشر أو الأخير من الشهر.\n2- الوفاء بقيمة الكمبيالة"
+    },
+    {
+      "provision_ref": "art396",
+      "section": "396",
+      "title": "Article (396)",
+      "content": "على حامل الكمبيالة أن يقدمها للوفاء في يوم استحقاقها. ويعتبر تقديمها إلى إحدى غرف المقاصة المعترف بها قانونا بمثابة تقديم للوفاء.\nومن وفى الكمبيالة في ميعاد الاستحقاق، دون معارضة صحيحة، برئت ذمته، إلا إذا وقع منه غش أو خطأ جسيم، وعليه أن يستوثق من انتظام تسلسل التظهيرات، ولكنه غير ملزم بالتحقق من صحة توقيعات المظهرين."
+    },
+    {
+      "provision_ref": "art397",
+      "section": "397",
+      "title": "Article (397)",
+      "content": "لا يجبر حامل كمبيالة على قبض قيمتها قبل ميعاد الاستحقاق. وإذا وفى المسحوب عليه قيمة الكمبيالة قبل ميعاد الاستحقاق، تحمل تبعة ذلك."
+    },
+    {
+      "provision_ref": "art398",
+      "section": "398",
+      "title": "Article (398)",
+      "content": "إذا وفى المسحوب عليه الكمبيالة، جاز له طلب تسلمها من الحامل موقعا عليها بما يفيد الوفاء.\nولا يجوز للحامل الامتناع عن قبول الوفاء الجزئي ويجوز للمسحوب عليه أن يطلب إثبات هذا الوفاء الجزئي على الكمبيالة وإعطاء مخالصة به. وكل ما يدفع من أصل قيمة الكمبيالة تبرأ منه ذمة ساحبها ومظهريها وغيرهم من الملتزمين بها. وعلى حاملها أن يعمل بالبروتستو عن القدر غير المدفوع من قيمتها."
+    },
+    {
+      "provision_ref": "art399",
+      "section": "399",
+      "title": "Article (399)",
+      "content": "إذا لم تقدم الكمبيالة للوفاء في يوم الاستحقاق، جاز لكل مدين بها إيداع مبلغها خزانة المحكمة. ويكون الإيداع على نفقة الحامل وتحت مسئوليته.\nويسلم قلم كتاب المحكمة المودع وثيقة يذكر فيها إيداع المبلغ وقدره وتاريخ الكمبيالة وتاريخ الاستحقاق واسم من حررت في الأصل لمصلحته. فإذا طالب الحامل المدين بالوفاء، وجب على المدين تسليم وثيقة الإيداع مقابل تسلم الكمبيالة، وللحامل قبض المبلغ من قلم الكتاب بموجب هذه الوثيقة. فإذا لم يسلم المدين وثيقة الإيداع إلى الحامل، وجب عليه وفاء قيمة الكمبيالة له."
+    },
+    {
+      "provision_ref": "art400",
+      "section": "400",
+      "title": "Article (400)",
+      "content": "لا يقبل الامتناع عن وفاء الكمبيالة إلا إذا ضاعت أو أفلس حاملها."
+    },
+    {
+      "provision_ref": "art401",
+      "section": "401",
+      "title": "Article (401)",
+      "content": "إذا ضاعت كمبيالة غير مقبولة، وكانت محررة من عدة نسخ، جاز لمستحق قيمتها أن يطالب بوفائها بموجب إحدى نسخها الأخرى."
+    },
+    {
+      "provision_ref": "art402",
+      "section": "402",
+      "title": "Article (402)",
+      "content": "يجوز لمن ضاعت منه كمبيالة، سواء أكانت مقترنة بالقبول أم لا، ولم يتمكن من تقديم إحدى نسخها الأخرى أن يستصدر من المحكمة أمرا بوفائها، بشرط أن يثبت ملكيته لها وأن يقدم كفيلا.\nالفرع الثاني- الامتناع عن الوفاء المطالبة والرجوع لعدم القبول أو لعدم الدفع"
+    },
+    {
+      "provision_ref": "art403",
+      "section": "403",
+      "title": "Article (403)",
+      "content": "لحامل الكمبيالة، عند عدم وفائها له في ميعاد الاستحقاق، الرجوع على مظهريها وساحبها وغيرهم من الملزمين بها.\nوله حق الرجوع إلى هؤلاء قبل ميعاد الاستحقاق في الأحوال الآتية:\nأولا: في حالة الامتناع الكلي أو الجزئي عن القبول.\nثانيا: في حالة إفلاس المسحوب عليه سواء كان قد قبل الكمبيالة أو لم يكن قد قبلها، وفي حالة توقفه عن دفع ما عليه، ولو لم يثبت التوقف بحكم، وفي حالة الحجز على أمواله حجزا غير مجد.\nثالثا: في حالة إفلاس ساحب الكمبيالة المشروط عدم تقديمها للقبول.\nويجوز للضامنين، عند الرجوع عليهم في الحالات المبينة في البندين ثانيا وثالثا أن يقدموا إلى رئيس المحكمة خلال ثلاثة أيام من تاريخ الرجوع عليهم عريضة بطلب مهلة للوفاء. فإذا رأت المحكمة مبررا للطلب، حددت في أمرها الميعاد الذي يجب أن يحصل فيه الوفاء بشرط إل ا تجاوز المهلة الممنوحة التاريخ المعين لاستحقاق الكمبيالة. ولا يقبل الطعن في هذا الأمر."
+    },
+    {
+      "provision_ref": "art404",
+      "section": "404",
+      "title": "Article (404)",
+      "content": "إذا وافق استحقاق الكمبيالة يوم عطلة رسمية، لم تجز المطالبة بوفائها إلا في يوم العمل التالي، وكذلك لا يجوز القيام بأي إجراء معلق بالكمبيالة، وبوجه خاص تقديمها للقبول أو عمل البروتستو أو ما يقوم مقامه إلا في يوم عمل. وإذا حدد لعمل أي إجراء متعلق بالكمبيالة ميعاد معين ووافق يومه الأخير يوم عطلة، امتد الميعاد إلى اليوم التالي. وتحسب من الميعاد أيام العطلة التي تتخلله. ولا يدخل في حساب المواعيد القانونية أو الاتفاقية المتعلقة بالكمبيالة اليوم الأول منها، ما لم ينص على خلاف ذلك."
+    },
+    {
+      "provision_ref": "art405",
+      "section": "405",
+      "title": "Article (405)",
+      "content": "يكون إثبات الامتناع عن قبول الكمبيالة أو عن وفائها في بروتستو عدم القبول أو عدم الوفاء، ويحرر بوساطة كاتب العدل، ويشتمل البروتستو على صورة حرفية للكمبيالة ولما أثبت فيها من عبارات القبول والتظهير، وعلى الإنذار بوفاء قيمة الكمبيالة، ويذكر فيها حضور أم غياب الملتزم بالقبول أو بالوفاء وأسباب الامتناع عن القبول أو الوفاء.\nويجب على كاتب العدل المكلف بعمل البروتستو أن يترك صورة منه لمن حرر في مواجهته. وعليه قيد أوراق البروتستو بتمامها يوما فيوما، مع مراعاة ترتيب التواريخ في سجل خاص مرقم الصفحات ومؤشر عليه حسب الأصول ويجري القيد في السجل المذكور على الطريقة المتبعة في سجلات الفهرس.\nوعلى كاتب العدل خلال العشرة أيام الأولى من كل شهر، أن يرسل إلى مكتب السجل التجاري قائمة بروتستات عدم الدفع التي حررها خلال الشهر السابق عن الكمبيالات المقبولة والسندات لأمر. ويمسك مكتب السجل التجاري دفترا لقيد هذه البروتستات. ويجوز لكل شخص الاطلاع عليها مقابل الرسوم المقررة، ويقوم المكتب بعمل نشرة تتضمن هذه البروتستات."
+    },
+    {
+      "provision_ref": "art406",
+      "section": "406",
+      "title": "Article (406)",
+      "content": "يجب عمل بروتستو عدم القبول في المواعيد المحددة لتقديم الكمبيالة للقبول، فإذا وقع التقديم الأول للقبول وفقا للمادة ( 381 ) في اليوم الأخير من الميعاد المحدد للتقديم، جاز عمل البروتستو في اليوم التالي."
+    },
+    {
+      "provision_ref": "art407",
+      "section": "407",
+      "title": "Article (407)",
+      "content": "يجب عمل بروتستو عدم الوفاء عن الكمبيالة المستحق وفاؤها في يوم معين أو بعد مدة من تاريخها، أو من تاريخ الاطلاع عليها في أحد يومي العمل التاليين ليوم استحقاقها.\nوإذا كانت الكمبيالة مستحقة الوفاء لدى الاطلاع، وجب عمل بروتستو عدم الوفاء وفقا للشروط المبينة في المادة السابقة بشأن بروتستو عدم القبول."
+    },
+    {
+      "provision_ref": "art408",
+      "section": "408",
+      "title": "Article (408)",
+      "content": "يغني بروتستو عدم القبول عن تقديم الكمبيالة للوفاء، وعن عمل بروتستو عدم الوفاء."
+    },
+    {
+      "provision_ref": "art409",
+      "section": "409",
+      "title": "Article (409)",
+      "content": "في حالة توقف المسحوب عليه عن الدفع، سواء كان قابلا للكمبيالة أو غير قابل، وفي حالة توقيع حجز غير مجد على أمواله، لا يجوز لحامل الكمبيالة الرجوع على ضامنيه إلا بعد تقديم الكمبيالة للمسحوب عليه لوفائها وبعد عمل بروتستو عدم الوفاء.\nوفي حالة إفلاس المسحوب عليه. سواء كان قابلا للكمبيالة أو غير قابل، وفي حالة إفلاس ساحب الكمبيالة المشروط عدم تقديمها للقبول، يكون تقديم حكم الإفلاس كافيا بذاته لتمكين الحامل من استعمال حقوقه في الرجوع على الضامنين."
+    },
+    {
+      "provision_ref": "art410",
+      "section": "410",
+      "title": "Article (410)",
+      "content": "يجوز للساحب ولأي مظهر أو ضامن إحتياطي أن يعفي حامل الكمبيالة من عمل بروتستو عدم القبول أو عدم الوفاء عند مباشرة حقه في الرجوع إذا كتب على الكمبيالة وذيل بتوقيعه شرط \"الرجوع بلا مصروفات\" أو \"بدون بروتستو\" أو أي عبارة أخرى تؤدي هذا المعنى.\nولا يعفي هذا الشرط الحامل من تقديم كمبيالة في المواعيد المقررة، ولا من عمل الإخطارات اللازمة وعلى من يتمسك قبل الحامل بعدم مراعاة هذه المواعيد إثبات ذلك.\nوإذا كتب الساحب هذا الشرط، سرت آثاره على كل الموقعين، أما إذا كتبه أحد المظهرين، أو أحد الضامنين الإحتياطيين، سرت آثاره عليه وحده.\nوإذا كان الساحب هو الذي وضع الشرط، وعمل الحامل بروتستو رغم ذلك، تحمل وحده المصروفات. أما إذا كان الشرط صادرا من مظهر أو من ضامن احتياطي، فإنه يجوز الرجوع على جميع الموقعين بمصروفات البروتستو إن عمل."
+    },
+    {
+      "provision_ref": "art411",
+      "section": "411",
+      "title": "Article (411)",
+      "content": "على حامل الكمبيالة أن يخطر ساحبها ومن ظهرها له بعدم قبولها أو بعدم وفائها خلال أربعة أيام العمل التالية ليوم عمل البروتستو، أو ليوم تقديمها للقبول أو للوفاء إن اشتملت على شرط الإعفاء من عمل البروتستو. وعلى كل مظهر خلال يومي العمل التاليين ليوم تسلمه الإخطار أن يخطر من ظهر له الكمبيالة بتسليمه هذا الإخطار مبينا له أسماء وعناوين من قاموا بالإخطارات السابقة، وهكذا من مظهر إلى آخر حتى الساحب. ويبدأ الميعاد بالنسبة إلى كل مظهر من التاريخ الذي تلقى فيه الإخطار.\nومتى أخطر أحد الموقعين على الكمبيالة على الوجه المتقدم الذكر، وجب كذلك إخطار ضامنه الاحتياطي في الميعاد ذاته.\nومتى أخطر أحد الموقعين على الكمبيالة على الوجه المتقدم الذكر، وجب كذلك إخطار ضامنه الاحتياطي في الميعاد ذاته.\nوإذا لم يعين أحد الموقعين على الكمبيالة عنوانه، أو بينة بكيفية غير مقروءة، اكتفى بإخطار المظهر السابق عليها.\nولمن وجب عليه الإخطار أن يقوم به على أية صورة، ولو برد الكمبيالة ذاتها.\nويجب عليه إثبات قيامه بالإخطار في الميعاد المقرر له، ويعتبر الميعاد مراعيا إذا أرسل الإخطار في الميعاد المذكور بكتاب مسجل.\nولا تسقط حقوق من وجب عليه الإخطار إذا لم يقم به في الميعاد المبين آنفا. وإنما يلزمه عند الاقتضاء تعويض الضرر المترتب على إهماله، بشرط ألا يجاوز التعويض مبلغ الكمبيالة."
+    },
+    {
+      "provision_ref": "art412",
+      "section": "412",
+      "title": "Article (412)",
+      "content": "ساحب الكمبيالة وقابلها ومظهرها وضامنها الاحتياطي مسؤولون جميعا بالتضامن نحو حاملها، ولهذا الحامل مطالبتهم منفردين أو مجتمعين، دون مراعاة أي ترتيب.\nويثبت هذا الحق لكل موقع على كمبيالة وفى بقيمتها تجاه المسؤولين نحوه.\nوالدعوى المقامة تجاه أحد الملتزمين لا تحول دون مطالبة الباقين، ولو كان إلتزامهم لاحقا لمن وجهت إليه الدعوى ابتداء."
+    },
+    {
+      "provision_ref": "art413",
+      "section": "413",
+      "title": "Article (413)",
+      "content": "لحامل الكمبيالة مطالبة من له حق الرجوع عليه بما يأتي:\nأ- أصل مبلغ الكمبيالة غير المقبولة أو غير المدفوعة مع الفوائد إن كانت مشترطة.\nب- الفوائد محسوبة بالسعر القانوني (5%) من تاريخ الاستحقاق.\nج- مصروفات البروتستو والإخطارات وغير ذلك من المصروفات.\nوفي أحوال الرجوع قبل ميعاد استحقاق الكمبيالة يجب أن يستنزل من قيمتها ما يساوي سعر الخصم الرسمي في تاريخ الرجوع بالمكان الذي يقع فيه موطن الحامل."
+    },
+    {
+      "provision_ref": "art414",
+      "section": "414",
+      "title": "Article (414)",
+      "content": "يجوز لمن وفى بكمبيالة أن يطالب الضامنين بما يأتي:\nأ- كل المبلغ الذي وفاه.\nب- فوائد ما وفاه محسوبة من يوم الوفاء بالسعر القانوني (5%).\nج- المصروفات التي تحملها."
+    },
+    {
+      "provision_ref": "art415",
+      "section": "415",
+      "title": "Article (415)",
+      "content": "لا يجوز للمحاكم أن تمنح مهلا للوفاء بقيمة الكمبيالات أو للقيام بأي إجراء متعلق بها، إلا في الأحوال المنصوص عليها في القانون."
+    },
+    {
+      "provision_ref": "art416",
+      "section": "416",
+      "title": "Article (416)",
+      "content": "لكل ملتزم طولب بكمبيالة على وجه الرجوع، أو كان مستهدفا للمطالبة بها، أن يطلب في حالة قيامه بالوفاء تسلم الكمبيالة مع البروتستو ومخالصة ما وفاه.\nولكل مظهر وفى الكمبيالة أن يشطب تظهيره والتظهيرات اللاحقة له."
+    },
+    {
+      "provision_ref": "art417",
+      "section": "417",
+      "title": "Article (417)",
+      "content": "إذا حال حادث قهري لا يمكن التغلب عليه دون تقديم كمبيالة أو عمل بروتستو في المواعيد المقررة لذلك، امتدت هذه المواعيد، وعلى الحامل أن يخطر دون إبطاء من ظهر له الكمبيالة بالحادث القهري وأن يثبت هذا الإخطار مؤرخا وموقعا منه في الكمبيالة أو في الورقة المتصلة بها. وتتسلسل الإخطارات حتى تصل إلى الساحب وعلى الحامل بعد زوال الحادث القهري تقديم الكمبيالة للقبول أو للوفاء ثم عمل البروتستو عند الاقتضاء.\nوإذا استمر الحادث القهري أكثر من ثلاثين يوما محسوبة من يوم الاستحقاق، جاز الرجوع على الملتزمين بغير الحاجة إلى تقديم الكمبيالة أو عمل بروتستو. فإذا كانت الكمبيالة مستحقة الوفاء لدى الاطلاع عليها أو بعد مدة من الاطلاع، سرى ميعاد الثلاثين يوما من التاريخ الذي أخطر فيه الحامل من ظهر له الكمبيالة بوقوع الحادث ولو وقع هذا التاريخ قبل انتهاء مواعيد تقديم الكمبيالة، وتزاد مدة الاطلاع على ميعاد الثلاثين يوما إذا كانت الكمبيالة مستحقة الوفاء بعد مدة من الاطلاع عليها.\nولا تعتبر من قبيل الحادث القهري الأمور المتصلة بشخص حامل الكمبيالة أو بمن كلفه تقديمها أو بعمل البروتستو."
+    },
+    {
+      "provision_ref": "art418",
+      "section": "418",
+      "title": "Article (418)",
+      "content": "لكل من له حق الرجوع على غيره من الملتزمين بالكمبيالة أن يستوفي حقه بسحب كمبيالة جديدة على أحد ضامنيه تكون مستحقة الوفاء لدى الاطلاع وواجبه الوفاء في موطن هذا الضامن، ما لم يشترط خلاف ذلك."
+    },
+    {
+      "provision_ref": "art419",
+      "section": "419",
+      "title": "Article (419)",
+      "content": "تشتمل كمبيالة الرجوع على المبالغ الوارد بيانها في المادتين ( 413 ) و( 414 ) مضافا إليها ما دفع من عمولة ورسم دمغة.\nوإذا كان ساحب كمبيالة الرجوع هو الحامل، حدد مبلغها على الأساس الذي تحدد بموجبه قيمة كمبيالة مستحقة الوفاء لدى الاطلاع مسحوبة من المكان الذي استحق فيه وفاء الكمبيالة الأصلية على المكان الذي فيه موطن الضامن.\nوإذا كان ساحب كمبيالة الرجوع هو أحد المظهرين، حدد مبلغها على الأساس الذي تحدد بموجبه قيمة كمبيالة مستحقة الوفاء لدى الاطلاع مسحوبة من المكان الذي فيه موطن ساحب كمبيالة الرجوع على المكان الذي فيه موطن الضامن."
+    },
+    {
+      "provision_ref": "art420",
+      "section": "420",
+      "title": "Article (420)",
+      "content": "إذا تعددت كمبيالات الرجوع، لم تجز مطالبة ساحب الكمبيالة الأصلية أو أي مظهر لها إلا بسعر كمبيالة رجوع واحدة.\nالفرع الثالث - التقادم"
+    },
+    {
+      "provision_ref": "art421",
+      "section": "421",
+      "title": "Article (421)",
+      "content": "كل دعوى ناشئة عن الكمبيالة تجاه قابلها تتقادم بمضي ثلاث سنوات من تاريخ الاستحقاق.\nوتتقادم دعاوي الحامل تجاه المظهرين أو الساحب مضي سنة من تاريخ البروتستو المحرر في الميعاد القانوني أو من تاريخ الاستحقاق إن اشتملت الكمبيالة على شرط الإعفاء من البروتستو.\nوتتقادم دعاوي المظهرين بعضهم تجاه بعض أو تجاه الساحب بمضي ستة شهور من اليوم الذي وفى فيه المظهر الكمبيالة، أو من يوم إقامة الدعوى عليه."
+    },
+    {
+      "provision_ref": "art422",
+      "section": "422",
+      "title": "Article (422)",
+      "content": "لا تسري مواعيد التقادم في حالة إقامة الدعوى إلا من يوم آخر إجراء فيها.\nولا يسري التقادم إذا صدر حكم بالدين، أو أقر به المدين في صك مستقل إقرارا يترتب عليه تجديد الدين."
+    },
+    {
+      "provision_ref": "art423",
+      "section": "423",
+      "title": "Article (423)",
+      "content": "لا يكون لانقطاع التقادم من أثر إلا بالنسبة لمن اتخذ قبله الإجراء القاطع لسريانه."
+    },
+    {
+      "provision_ref": "art424",
+      "section": "424",
+      "title": "Article (424)",
+      "content": "يجب على المدعى عليهم بالدين، رغم انقضاء مدة التقادم، أن يقرروا باليمين براءة ذمتهم من الدين إذا طلب إليهم حلفها، وعلى ورثتهم أو خلفائهم الآخرين أن يحلفوا اليمين على أنهم لا يعلمون أن مورثهم مات وذمته مشغولة بالدين.\nالباب الثاني- السند لأمر"
+    },
+    {
+      "provision_ref": "art425",
+      "section": "425",
+      "title": "Article (425)",
+      "content": "يشتمل السند لأمر على البيانات الآتية:\n1- شرط لأمر، أو عبارة \"سند لأمر\" مكتوبة في متن السند وباللغة التي كتب بها.\n2- تاريخ إنشاء السند ومكان إنشائه.\n3- إسم من يجب الوفاء له أو لأمره.\n4- تعهد الغير المعلق على شرط بوفاء مبلغ معين من النقود.\n5- ميعاد الاستحقاق.\n6- مكان الوفاء.\n7- توقيع من أنشأ السند."
+    },
+    {
+      "provision_ref": "art426",
+      "section": "426",
+      "title": "Article (426)",
+      "content": "الصك الخالي من أحد البيانات المذكورة في المادة السابقة لا يعتبر سندا لأمر، إلا في الحالتين التاليتين:\nأ- إذا خلا السند من بيان مكان إنشائه، اعتبر منشأ في المكان المبين بجانب إسم المحرر.\nب- وإذا خلا من بيان ميعاد الاستحقاق اعتبر الوفاء لدى الاطلاع عليه."
+    },
+    {
+      "provision_ref": "art427",
+      "section": "427",
+      "title": "Article (427)",
+      "content": "الأحكام المتعلقة بالكمبيالة فيما يختص بتعدد نسخها وصورها وبتظهيرها واستحقاقها، ووفائها، والرجوع بسبب عدم الوفاء، وعدم جواز منح مهلة للوفاء، والبروتستو، وحساب المواعيد وأيام العمل، والرجوع بطريق إنشاء كمبيالة رجوع، والتقادم، تسري على السند لأمر، بالقدر الذي لا تتعارض فيه مع ماهيته.\nوكذلك تسري على السند لأمر الأحكام المتعلقة بالضمان الاحتياطي، مع مراعاة أنه إذا لم يذكر في صيغة هذا الضمان إسم المضمون، اعتبر الضمان حاصلا لمصلحة محرر السند."
+    },
+    {
+      "provision_ref": "art428",
+      "section": "428",
+      "title": "Article (428)",
+      "content": "يلتزم محرر السند لأمر على الوجه الذي يلتزم به قابل الكمبيالة.\nويجب تقديم السند لأمر، المستحق الوفاء بعد مدة معينة من الاطلاع، إلى المحرر في الميعاد المنصوص عليه في المادة ( 380 ) للتأشير عليه بما يفيد الاطلاع على السند. ويجب أن يكون هذا التأشير مؤرخا وموقعا من المحرر وتبدأ مدة الاطلاع من تاريخ التأشير المذكور، وإذا امتنع المحرر عن وضع التأشير، وجب إثبات امتناعه ببروتستو، ويعتبر تاريخ البروتستو بداية لسريان مدة الاطلاع.\nالباب الثالث الشيك"
+    },
+    {
+      "provision_ref": "art429",
+      "section": "429",
+      "title": "Article (429)",
+      "content": "فيما عدا الأحكام المذكورة في هذا الباب، تسري على الشيك أحكام الكمبيالة في القدر الذي لا تتعارض فيه مع ماهيته.\nالفصل الأول- إنشاء الشيك وتداوله\nالفرع الأول- إنشاء الشيك\n1- أركان الشيك"
+    },
+    {
+      "provision_ref": "art430",
+      "section": "430",
+      "title": "Article (430)",
+      "content": "يشتمل الشيك على البيانات الآتية:\n1- لفظ \"شيك\" مكتوبا في متن الصك، وباللغة التي كتب بها.\n2- تاريخ إنشاء الشيك ومكان إنشائه.\n3- اسم من يلزمه الوفاء (المسحوب عليه).\n4- اسم من يجب الوفاء له أو لأمره وفقا لما سيجيء في المادتين ( 435 ) و( 436 ).\n5- أمر غير معلق على شرط بوفاء مبلغ معين من النقود.\n6- مكان الوفاء.\n7- توقيع من أنشأ الشيك (الساحب)."
+    },
+    {
+      "provision_ref": "art431",
+      "section": "431",
+      "title": "Article (431)",
+      "content": "الصك الخالي من أحد البيانات المذكورة في المادة السابقة لا يعتبر شيكا، إلا في الحالتين الآتيتين:\n1- إذا خلا الشيك من بيان مكان الإنشاء، اعتبر منشأ في المكان المبين بجانب اسم الساحب.\n2- وإذا خلا من بيان مكان وفائه، فالمكان المعين بجانب اسم المسحوب عليه يعتبر مكان وفائه، فإن ذكرت عدة أمكنة بجانب اسم المسحوب عليه اعتبر الشيك مستحق الوفاء في أول مكان مبين. وإذا خلا الشيك من هذه البيانات أو من أي بيان آخر، اعتبر مستحق الوفاء في المكان الذي يقع فيه المحل الرئيسي للمسحوب عليه."
+    },
+    {
+      "provision_ref": "art432",
+      "section": "432",
+      "title": "Article (432)",
+      "content": "الشيكات الصادرة في قطر والمستحقة الوفاء فيها لا يجوز سحبها إلا على بنك، والصكوك المسحوبة في صورة شيكات على غير بنك لا تعتبر شيكات صحيحة."
+    },
+    {
+      "provision_ref": "art433",
+      "section": "433",
+      "title": "Article (433)",
+      "content": "لا يجوز إصدار شيك ما لم يكن للساحب لدى المسحوب عليه، وقت إنشاء الشيك، نقود يستطيع التصرف فيها بموجب شيك طبقا لاتفاق صريح أو ضمني.\nوعلى ساحب الشيك أو الأمر غيره بسحبه لحسابه أداء مقابل وفائه. ومع ذلك يظل الساحب لحساب غيره مسئولا شخصيا نحو المظهرين والحامل دون غيرهم.\nوعلى الساحب دون غيره أن يثبت في حالة الإنكار أن من سحب عليه الشيك كان لديه مقابل وفائه وقت إنشائه، فإذا لم يثبت ذلك كان ضامنا وفاءه ولو عمل البروتستو بعد المواعيد المعينة."
+    },
+    {
+      "provision_ref": "art434",
+      "section": "434",
+      "title": "Article (434)",
+      "content": "لا قبول في الشيك وإذا كتبت على الشيك عبارة القبول اعتبرت كأن لم تكن.\nومع ذلك يجوز للمسحوب عليه أن يؤشر على الشيك باعتماده، وتفيد هذه العبارة وجود مقابل الوفاء في تاريخ التأشير، ولا يجوز للمسحوب عليه رفض اعتماد الشيك إذا كان لديه مقابل وفاء يكفي لدفع قيمته. ويعتبر توقيع المسحوب عليه على صدر الشيك بمثابة اعتماد له."
+    },
+    {
+      "provision_ref": "art435",
+      "section": "435",
+      "title": "Article (435)",
+      "content": "يجوز اشتراط وفاء الشيك:\nأ- إلى شخص مسمى مع النص صراحة على شرط الأمر أو بدونه.\nب- إلى شخص مسمى مع ذكر شرط \"ليس الأمر\" أو أية عبارة أخرى تفيد هذا المعنى.\nج- إلى حامل الشيك.\nوالشيك المسحوب لمصلحة شخص مسمى والمنصوص فيه علي عبارة \"أو لحامله\" أو أية عبارة أخرى تفيد هذا المعنى يعتبر شيكا لحامله. وإذا لم يبين إسم المستفيد اعتبر الشيك لحامله.\nوالشيك المشتمل على شرط \"عدم القابلية للتداول\" لا يدفع إلا لحامله الذي تسلمه مقترنا بهذا الشرط."
+    },
+    {
+      "provision_ref": "art436",
+      "section": "436",
+      "title": "Article (436)",
+      "content": "يجوز سحب الشيك لأمر ساحبه نفسه. ويجوز سحبه لحساب شخص آخر.\nولا يجوز سحبه على ساحبه نفسه إلا في حال سحبه من منشأة أخرى كلتاهما للساحب نفسه بشرط ألا يكون مستحق الوفاء لحامله."
+    },
+    {
+      "provision_ref": "art437",
+      "section": "437",
+      "title": "Article (437)",
+      "content": "إشتراط فائدة في الشيك يعتبر كأن لم يكن."
+    },
+    {
+      "provision_ref": "art438",
+      "section": "438",
+      "title": "Article (438)",
+      "content": "يجوز اشتراط وفاء الشيك في بنك آخر يوجد في الجهة التي بها موطن المسحوب عليه أو في أية جهة أخرى."
+    },
+    {
+      "provision_ref": "art439",
+      "section": "439",
+      "title": "Article (439)",
+      "content": "يضمن صاحب وفاء الشيك، وكل شرط يعفي الساحب نفسه من هذا الضمان يعتبر كأن لم يكن.\nولا يتجدد الدين بقبول الدائن تسلم شيك استيفاء لدينه. بل يبقى الدين الأصلي قائما بكل ما له من ضمانات إلى أن توفى قيمة الشيك.\n2- تعدد النسخ والتحريف"
+    },
+    {
+      "provision_ref": "art440",
+      "section": "440",
+      "title": "Article (440)",
+      "content": "فيما عدا الشيك لحامله يجوز سحب الشيك نسخا متعددة يطابق بعضها بعضا، إذا كان مسحوبا من بلد ومستحق الوفاء في بلد آخر. أو في جزء من البلد واقع عبر البحار، أو بالعكس، أو كان مسحوبا ومستحق الوفاء في جزء أو أجزاء مختلفة من البلد التي تقع عبر البحار."
+    },
+    {
+      "provision_ref": "art441",
+      "section": "441",
+      "title": "Article (441)",
+      "content": "إذا سحبت شيك في أكثر من نسخة واحدة، وجب أن يوضع في متن كل نسخة منه رقمها وإلا اعتبرت كل نسخة شيكا مستقلا."
+    },
+    {
+      "provision_ref": "art442",
+      "section": "442",
+      "title": "Article (442)",
+      "content": "يتحمل المسحوب عليه وحده الضرر المترتب على وفاء شيك زور فيه توقيع الساحب أو حرفت البيانات الواردة في متنه، إذا لم تكن نسبة الخطأ إلى الساحب المبين اسمه في الشيك، وكل شرط على خلاف ذلك يعتبر كأن لم يكن.\nويعتبر الساحب مخطئا بوجه خاص إذا لم يبذل في المحافظة على دفتر الشيكات المسلم إليه عناية الرجل العادي.\nالفرع الثاني- تداول الشيك والضامن الاحتياطي\n1- تداول الشيك بالتظهير"
+    },
+    {
+      "provision_ref": "art443",
+      "section": "443",
+      "title": "Article (443)",
+      "content": "الشيك المشروط دفعه إلى شخص مسمى، سواء نص فيه صراحة على شرط الأمر أو لم ينص عليه يكون قابلا للتداول بطريق التظهير.\nوالشيك المشروط دفعه إلى شخص مسمى، والمكتوبة فيه عبارة \"ليس لأمر\" أو أية عبارة أخرى في هذا المعنى، لا يجوز تداوله إلا باتباع أحكام حوالة الحق.\nويجوز التظهير ولو للساحب أو لأي ملتزم آخر، ويجوز لهؤلاء تظهير الشيك من جديد."
+    },
+    {
+      "provision_ref": "art444",
+      "section": "444",
+      "title": "Article (444)",
+      "content": "يعتبر التظهير إلى المسحوب عليه بمثابة مخالصة، إلا إذا كان للمسحوب عليه عدة منشآت وحصل التظهير لمصلحة منشأة غير التي سحب عليها الشيك."
+    },
+    {
+      "provision_ref": "art445",
+      "section": "445",
+      "title": "Article (445)",
+      "content": "يضمن المظهر وفاء الشيك، ما لم يشترط غير ذلك.\nويجوز له حظر تظهيره من جديد وفي هذه الحالة لا يكون ملزما بالضمان نحو من يؤول إليهم الشيك بتظهير لاحق."
+    },
+    {
+      "provision_ref": "art446",
+      "section": "446",
+      "title": "Article (446)",
+      "content": "يعتبر حائز الشيك القابل للتظهير أنه حامله الشرعي متى أثبت أنه صاحب الحق فيه بالتظهيرات غير المنقطعة ولو كان آخرها تظهيرا على بياض والتظهيرات المشطوبة تعتبر في هذا الشأن كأن لم تكن. وإذا أعقب التظهير على بياض تظهير آخر اعتبر الموقع على هذا التظهير أنه هو الذي آل إليه الحق في الشيك بالتظهير على بياض."
+    },
+    {
+      "provision_ref": "art447",
+      "section": "447",
+      "title": "Article (447)",
+      "content": "التظهير المكتوب على شيك لحامله يجعل المظهر مسئولا طبقا لأحكام الرجوع، ولكن لا يترتب على هذا التظهير أن يصير الصك شيكا لأمر."
+    },
+    {
+      "provision_ref": "art448",
+      "section": "448",
+      "title": "Article (448)",
+      "content": "إذا فقد شخص حيازة شيك إثر حادث ما، سواء أكان الشيك لحامله أم كان قابلا للتظهير، لم يلزم من آل إليه هذا الشيك بالتخلي عنه متى أثبت حقه فيه بالكيفية المبينة في المادة ( 446 ) إلا إذا كان قد حصل عليه بسوء نية أو ارتكب في الحصول عليه خطأ جسيما."
+    },
+    {
+      "provision_ref": "art449",
+      "section": "449",
+      "title": "Article (449)",
+      "content": "التظهير اللاحق للبروتستو أو الحاصل بعد انقضاء ميعاد تقديم الشيك لا يترتب عليه إلا آثار حوالة الحق.\nويعتبر التظهير الخالي من التاريخ أنه تم قبل عمل البروتستو أو أنه تم قبل انقضاء ميعاد تقديم الشيك، إلا إذا أثبت خلاف ذلك.\nولا يجوز تقديم تواريخ التظهير، وإن وقع ذلك اعتبر تزويرا.\n2- الضامن الاحتياطي"
+    },
+    {
+      "provision_ref": "art450",
+      "section": "450",
+      "title": "Article (450)",
+      "content": "يجوز ضمان وفاء مبلغ الشيك كله أو بعضه من ضامن إحتياطي.\nويكون هذا الضمان من الغير عدا المسحوب عليه. كما يجوز أن يكون من أحد الموقعين على الشيك.\nالفرع الثالث - عقوبات جزائية"
+    },
+    {
+      "provision_ref": "art451",
+      "section": "451",
+      "title": "Article (451)",
+      "content": "كل من سحب بسوء نية شيكا لا يكون له مقابل وفاء قائم وقابل للسحب، أو يكون له مقابل وفاء أقل من قيمة الشيك، وكل من استرد بسوء نية بعد إعطاء الشيك مقابل الوفاء أو بعضه بحيث أصبح الباقي لا يفي بقيمة الشيك، أو أمر وهو سيئ النية المسحوب عليه الشيك بعدم دفع قيمته، يعاقب بالجزاء المقرر في قانون العقوبات."
+    },
+    {
+      "provision_ref": "art452",
+      "section": "452",
+      "title": "Article (452)",
+      "content": "إذا أقيمت على الساحب دعوى جزائية طبقا لأحكام المادة السابقة، جاز لحامل الشيك الذي ادعى بالحق المدني أن يطلب من المحكمة الجزائية أن تقضي له بمبلغ يعادل المقدار غير المدفوع من قيمة الشيك والفوائد القانونية عن هذا المقدار محسوبة من يوم تقديم الشيك للوفاء، مع التعويضات التكميلية عند الاقتضاء.\nوتقوم النيابة العامة بنشر أسماء الأشخاص الذين تصدر عليهم أحكام بالإدانة طبقا للمادة السابقة في الجريدة الرسمية مع بيان مهنهم ومواطنهم ومقدار العقوبات المحكوم بها عليهم."
+    },
+    {
+      "provision_ref": "art453",
+      "section": "453",
+      "title": "Article (453)",
+      "content": "يعاقب بغرامة لا تزيد على ألف ريال كل مسحوب عليه رفض بسوء قصد وفاء شيك مسحوب سحبا صحيحا على خزانته، وله مقابل وفاء، ولم تقدم بشأنه أية معارضة، وهذا مع عدم الإخلال بالتعويض المستحق للساحب عما أصابه من ضرر بسبب عدم الوفاء وعما لحق إئتمانه من أذى."
+    },
+    {
+      "provision_ref": "art454",
+      "section": "454",
+      "title": "Article (454)",
+      "content": "يعاقب بغرامة لا تزيد على خمسمائة ريال كل مسحوب عليه صرح عن علم بوجود مقابل وفاء هو أقل مما لديه فعلا."
+    },
+    {
+      "provision_ref": "art455",
+      "section": "455",
+      "title": "Article (455)",
+      "content": "يعاقب بغرامة لا تزيد على خمسمائة ريال:\nأ- كل من أصدر شيكا لم يؤرخه أو ذكر فيه تاريخا غير صحيح.\nب- كل من سحب شيكا على غير بنك.\nج- كل من وفى شيكا خاليا من التاريخ، وكل من تسلم هذا الشيك على سبيل المقاصة.\nد- كل من سحب شيكا ليس له مقابل وفاء كامل على سحبه، وذلك مع عدم الإخلال بالأحكام المنصوص عليها في المادتين ( 451 ، 452 )."
+    },
+    {
+      "provision_ref": "art456",
+      "section": "456",
+      "title": "Article (456)",
+      "content": "يجب على كل مصرف لديه مقابل وفاء، وسلم لدائنه دفتر شيكات على بياض للدفع بموجبها من خزانته، أن يكتب على كل شيك منها اسم الشخص الذي تسلمه.\nوكل مخالفة لحكم هذه المادة يعاقب عليها بغرامة لا تزيد عن مائة ريال.\nالفصل الثاني - انقضاء الالتزام الثابت بالشيك\nالفرع الأول - الوفاء تقديم الشيك ووفاءه"
+    },
+    {
+      "provision_ref": "art457",
+      "section": "457",
+      "title": "Article (457)",
+      "content": "يكون الشيك مستحق الوفاء بمجرد الاطلاع عليه، وكل بيان مخالف لذلك يعتبر كأن لم يكن.\nوإذا ذكر في الشيك تاريخ لاحق لتاريخ السحب الحقيقي، وقدم للوفاء به قبل حلول التاريخ كان للبنك أن يمتنع عن دفع قيمته حتى حلول اليوم المبين فيه كتاريخ لإصداره.\nفإذا قام البنك بالوفاء قبل ذلك التاريخ، كان مسئولا عن الأضرار التي تنشأ عن هذا الوفاء."
+    },
+    {
+      "provision_ref": "art458",
+      "section": "458",
+      "title": "Article (458)",
+      "content": "(كما تعدلت بموجب القانون رقم 10 لسنة 1982 الجريدة الرسمية 6 لسنة 1982):\nالشيك المسحوب في قطر والمستحق الوفاء فيها، يجب تقديمه للوفاء خلال ستة أشهر على الأكثر. فإذا كان مسحوبا خارج قطر ومستحق الوفاء فيها، وجب تقديمه خلال ثمانية أشهر على الأكثر. وتبدأ المواعيد السالف ذكرها من التاريخ المبين في الشيك أنه تاريخ إصداره."
+    },
+    {
+      "provision_ref": "art459",
+      "section": "459",
+      "title": "Article (459)",
+      "content": "إذا سحب الشيك بين مكانين مختلفي التقويم، أرجع تاريخ إصداره إلى اليوم المقابل في تقويم مكان الوفاء."
+    },
+    {
+      "provision_ref": "art460",
+      "section": "460",
+      "title": "Article (460)",
+      "content": "للمسحوب عليه أن يوفي بقيمة الشيك ولو بعد انقضاء ميعاد تقديمه.\nولا تقبل المعارضة من الساحب في وفاء الشيك إلا في حالة ضياعه أو إفلاس حامله."
+    },
+    {
+      "provision_ref": "art461",
+      "section": "461",
+      "title": "Article (461)",
+      "content": "إذا توفي الساحب أو فقد أهليته أو أفلس بعد إنشاء الشيك، لم يؤثر ذلك في الأحكام المترتبة عليه."
+    },
+    {
+      "provision_ref": "art462",
+      "section": "462",
+      "title": "Article (462)",
+      "content": "إذا قدمت عدة شيكات في وقت واحد، وكان مقابل الوفاء غير كاف لوفائها وجب مراعاة تواريخ سحبها.\nفإذا كانت الشيكات المقدمة مفصولة من دفتر واحد وتحمل تاريخ إصدار واحد، اعتبر الشيك الأسبق رقما مسحوبا قبل غيره من الشيكات، ما لم يثبت خلاف ذلك."
+    },
+    {
+      "provision_ref": "art463",
+      "section": "463",
+      "title": "Article (463)",
+      "content": "إذا ضاع شيك لحامله أو هلك، جاز لمالكه أن يعارض لدى المسحوب عليه في الوفاء بقيمته. ويجب أن تشتمل المعارضة على رقم الشيك ومبلغه واسم ساحبه وكل بيان آخر يساعد على التعرف عليه والظروف التي أحاطت فقدانه أو هلاكه، وإذا تعذر تقديم بعض هذه البيانات وجب ذكر أسباب ذلك، وإذا لم يكن للمعارض موطن في قطر وجب أن يعين موطنا مختارا له بها.\nومتى تلقى المسحوب عليه المعارضة، وجب عليه الامتناع عن وفاء قيمة الشيك لحائزه، وتجنيب مقابل وفاء الشيك إلى أن يفصل في أمره.\nويقوم المسحوب عليه على نفقة المعارض بنشر رقم الشيك المفقود أو الهالك ومبلغه واسم صاحبه واسم المعارض وعنوانه في الجريدة الرسمية، ويكون باطلا كل تصرف يقع على الشيك بعد تاريخ هذا النشر."
+    },
+    {
+      "provision_ref": "art464",
+      "section": "464",
+      "title": "Article (464)",
+      "content": "يجوز لحائز الشيك المشار إليه في المادة السابقة أن ينازع لدى المسحوب عليه في المعارضة، وعلى المسحوب عليه أن يتسلم منه الشيك مقابل إيصال، ثم يخطر المعارض بكتاب مسجل مصحوب بعلم وصول بإسم حائز الشيك وعنوانه.\nوعلى حائز الشيك إخطار المعارض بكتاب مسجل مصحوب بعلم وصول بوجوب رفع دعوى إستحقاق الشيك خلال شهر من تسلمه الإخطار، ويشتمل الإخطار على أسباب حيازة الشيك وتاريخها.\nوإذا لم يرفع المعارض دعوى الإستحقاق خلال الميعاد المتقدم الذكر، وجب على المحكمة بناء على طلب حائز الشيك أن تقضي برفض المعارضة، وفي هذه الحالة يعتبر حائز الشيك بالنسبة إلى المسحوب عليه مالكه الشرعي.\nوإذا رفع المعارض دعوى إستحقاق الشيك، لم يجز للمسحوب عليه أن يدفع قيمته إلا لمن يتقدم له من الخصمين بحكم نهائي بملكية الشيك أو بتسوية ودية مصادق عليها من الطرفين تقر له بالملكية."
+    },
+    {
+      "provision_ref": "art465",
+      "section": "465",
+      "title": "Article (465)",
+      "content": "إذا انقضت ستة شهور من تاريخ المعارضة المنصوص عليها في المادة ( 463 ) دون أن يتقدم حائز الشيك للمطالبة بالوفاء، جاز للمعارض أن يطلب من المحكمة الإذن له في قبض قيمة الشيك. ويصدر هذا الحكم في مواجهة المسحوب عليه بعد أن تتحقق المحكمة من ملكية المعارض للشيك.\nوإذا لم يقدم المعارض الطلب المتقدم الذكر، أو قدمه ورفضته المحكمة، وجب على المسحوب عليه أن يعيد قيد مقابل الوفاء في جانب الأصول من حساب الساحب.\nالفرع الثاني- الامتناع عن الوفاء"
+    },
+    {
+      "provision_ref": "art466",
+      "section": "466",
+      "title": "Article (466)",
+      "content": "لحامل الشيك الرجوع على الساحب أو المظهرين وغيرهم من الملتزمين به إذا قدمه في الميعاد القانوني ولم تدفع قيمته، وأثبت الامتناع عن الدفع ببروتستو.\nويجوز، عوضا عن البروتستو، إثبات الامتناع عن الدفع:\nأ- ببيان صادر من المسحوب عليه مع ذكر يوم تقديم الشيك.\nب- ببيان صادر من غرفة مقاصة يذكر فيه أن الشيك قدم في الميعاد القانوني ولم تدفع قيمته.\nويجب أن يكون البيان مؤرخا ومكتوبا على الشيك ذاته، ومذيلا بتوقيع من صدر منه. ولا يجوز الامتناع عن وضع هذا البيان على الشيك إذا طلب الحامل، ولو كان الشيك يتضمن شرط الرجوع بلا مصروفات، وإنما يجوز للملتزم بوصفه طلب مهلة لا تجاوز يوم العمل التالي لتقديم الشيك ولو قدم في اليوم الأخير من ميعاد التقديم."
+    },
+    {
+      "provision_ref": "art467",
+      "section": "467",
+      "title": "Article (467)",
+      "content": "يحتفظ الحامل بحقه في الرجوع على الساحب ولو لم يقدم الحامل الشيك إلى المسحوب عليه أو لم يقم بعمل البروتستو أو ما يقوم مقامه في الميعاد القانوني، إلا إذا كان الساحب قد قدم مقابل الوفاء وظل هذا المقابل موجودا عند المسحوب عليه حتى انقضاء ميعاد تقديم الشيك ثم زال المقابل بفعل غير منسوب إلى الساحب."
+    },
+    {
+      "provision_ref": "art468",
+      "section": "468",
+      "title": "Article (468)",
+      "content": "يجب إثبات الامتناع عن الدفع بالكيفية المنصوص عليها في المادة ( 466 ) قبل انقضاء ميعاد التقديم. فإذا وقع التقديم في آخر يوم من هذا الميعاد، جاز إثبات الامتناع عن الدفع في يوم العمل التالي له."
+    },
+    {
+      "provision_ref": "art469",
+      "section": "469",
+      "title": "Article (469)",
+      "content": "إذا حال حادث قهري لا يمكن التغلب عليه دون تقديم الشيك أو عمل البروتستو أو ما يقوم مقامه في المواعيد المقررة لذلك، إمتدت هذه المواعيد، وعلى الحامل أن يخطر دون إبطاء من ظهر له الشيك بالحادث القهري وأن يثبت هذا الإخطار مؤرخا وموقعا في الشيك أو في الورقة المتصلة به، وتتسلسل الإخطارات حتى تصل إلى الساحب. وعلى الحامل بعد زوال الحادث القهري تقديم الشيك للوفاء دون إبطاء ثم عمل البروتستو أو ما يقوم مقامه عند الاقتضاء.\nوإذا استمر الحادث القهري أكثر من خمسة عشر يوما محسوبة من تاريخ اليوم الذي قام به الحامل بإخطار مظهره بوقوع الحادث القهري ولو وقع هذا التاريخ قبل انقضاء ميعاد تقديم الشيك، جاز الرجوع على الملتزمين دون حاجة إلى تقديم الشيك أو عمل البروتستو أو ما يقوم مقامه.\nولا يعتبر من قبيل الحادث القهري الأمور المتصلة بشخص حامل الشيك أو بمن كلفه بتقديمه أو بعمل البروتستو أو ما يقوم مقامه.\nالفرع الثالث- التقادم"
+    },
+    {
+      "provision_ref": "art470",
+      "section": "470",
+      "title": "Article (470)",
+      "content": "تتقادم دعاوي رجوع حامل الشيك على المسحوب عليه والساحب والمظهر وغيرهم من الملتزمين بمضي ستة شهور من تاريخ انقضاء ميعاد تقديم الشيك، وتتقادم دعاوي رجوع مختلف الملتزمين بوفاء الشيك بعضهم تجاه بعض بمضي ستة شهور من اليوم الذي وفى فيه الملتزم أو من يوم مطالبته قضائيا.\nويجب على المدعى عليهم، رغما عن انقضاء مدة التقادم، أن يزيدوا باليمين براءة ذمتهم من الدين إذا طلب منهم حلفها، وعلى ورثتهم أو خلفائهم الآخرين أن يحلفوا اليمين على أنهم لا يعلمون أن مورثهم مات وذمته مشغولة بالدين."
+    },
+    {
+      "provision_ref": "art471",
+      "section": "471",
+      "title": "Article (471)",
+      "content": "لا تسري مدة التقادم المنصوص عليها في المادة السابقة في حالة رفع الدعوى إلا من تاريخ آخر إجراء فيها.\nولا يسري التقادم المذكور إذا صدر حكم بالدين، أو أقر به المدين بصك مستقل إقرارا يترتب عليه تجديد الدين."
+    },
+    {
+      "provision_ref": "art472",
+      "section": "472",
+      "title": "Article (472)",
+      "content": "لا يكون لانقطاع التقادم من أثر إلا بالنسبة إلى من اتخذ قبله الإجراء القاطع لسريانه."
+    },
+    {
+      "provision_ref": "art473",
+      "section": "473",
+      "title": "Article (473)",
+      "content": "لا يحول تقادم دعوى المطالبة بقيمة الشيك دون الحامل ومطالبة الساحب الذي لم يقدم مقابل الوفاء أو قدمه واسترده كله أو بعضه، برد ما أثرى به دون حق. ويسري هذا الحكم على الساحب إذا رجع عليه الملتزمون بوفاء قيمة الشيك.\nالكتاب الخامس الإفلاس والصلح الواقي"
+    },
+    {
+      "provision_ref": "art474",
+      "section": "474",
+      "title": "Article (474)",
+      "content": "كل تاجر اضطربت أعماله المالية، فوقف عن دفع ديونه التجارية يجوز شهر إفلاسه."
+    },
+    {
+      "provision_ref": "art475",
+      "section": "475",
+      "title": "Article (475)",
+      "content": "ينظم قانون خاص أحكام شهر الإفلاس وما يترتب عليه من آثار."
+    }
+  ],
   "definitions": []
 }

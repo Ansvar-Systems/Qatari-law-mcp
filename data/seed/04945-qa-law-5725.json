@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (21) لسنة 2000 بانتهاء الولاية القضائية لأربعة قضاة بالمحاكم الشرعية",
   "short_name": "مرسوم رقم (21) لسنة 2000 بانتهاء الولاية القضائية لأربعة قضاة بالمحاكم الشرعية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5725&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5725&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تنتهي الولاية القضائية لقضاة المحاكم الشرعية الآتي بيانهم:\n1- السيد/ عبد العزيز الرشيد محمد عثمان.\n2- السيد/ عبد الله فياض العلي العلاوين.\n3- السيد/ وهبي أحمد دهب محمد.\n4- السيد/ محمد العبد سلامي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به اعتبارا ًمن أول أغسطس سنة 2000. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

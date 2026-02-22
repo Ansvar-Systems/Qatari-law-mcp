@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (1) لسنة 2009 بشأن تعبئة وتقديم بعض الأغذية الآدمية",
   "short_name": "قرار مجلس الوزراء رقم (1) لسنة 2009 بشأن تعبئة وتقديم بعض الأغذية الآدمية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3210&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3210&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحظر على منتجي وموزعي وتجار الأغذية الآدمية بجميع أنواعها، وأصحاب المحال التجارية والمسؤولين عن إدارتها، استخدام أكياس البولي إيثلين سوداء اللون أو أوراق الصحف أو المطبوعات المختلفة في تعبئة أو تغليف الأغذية الآدمية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُحظر على منتجي وموزعي وبائعي العجائن والمخبوزات، غير المجمدة، بجميع أنواعها، تعبئتها في أكياس بلاستيك من أي نوع، ويتم تعبئتها في أكياس ورقية غير قابلة للتدوير، وفقاً للمواصفات القياسية المعتمدة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُحظر على المطاعم والكفتريات والمقاهي استخدام الأكواب أو الصحون أو ادوات تناول الطعام المصنعة من البلاستيك أو الفلين في تقديم المأكولات أو المشروبات الساخنة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

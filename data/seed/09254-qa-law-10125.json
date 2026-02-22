@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (70) لسنة 2025 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (70) لسنة 2025 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10125&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10125&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة قاض بمحكمة الاستئناف، وتُحدد أقدمية كل منهم فيها اعتباراً من التاريخ المدون قرين الاسم:\n1-\nالسيد/ مبارك سعد محمد حباب الهاجري\n20/01/2025 .\n2-\nالسيد/ موسى إبراهيم موسى صالح الهتمي\n20/01/2025 .\n3-\nالسيد/ إبراهيم محمد إبراهيم الحسن المهندي\n20/01/2025 .\n4-\nالسيد/ علي راشد هادي مشعاب المري\n21/02/2025 ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة قاض بالمحكمة الابتدائية، وتُحدد أقدمية كل منهم فيها اعتبارًا من التاريخ المدون قرين الاسم:\n1-\nالسيدة/ منيرة عبد الله مفلح معيض القحطاني\n30/08/2024 .\n2-\nالسيد/ راشد عبدالله راشد الجفالي النعيمي\n30/08/2024 .\n3-\nالسيد/ خميس جمعة خميس الغوانم المريخي\n30/08/2024 .\n4-\nالسيد/ علي راشد عيد الخويطر العجمي\n30/08/2024 .\n5-\nالسيد/ نايف محمد أحمد حسن الإبراهيم\n30/08/2024 .\n6-\nالسيد/ عبدالرحمن عبدالحميد إسماعيل العمادي\n29/03/2025 ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

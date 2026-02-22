@@ -4,8 +4,45 @@
   "title": "قانون رقم (39) لسنة 1995 بتعديل بعض أحكام قانون الإجراءات الجنائية",
   "short_name": "قانون رقم (39) لسنة 1995 بتعديل بعض أحكام قانون الإجراءات الجنائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=279&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=279&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصوص المواد ( 27 )، ( 137 )، ( 140 )، ( 141 ) من قانون الإجراءات الجنائية المشار إليه، النصوص التالية:"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Article (27)",
+      "content": "لا يجوز للشرطة الإفراج عن الشخص المقبوض عليه دون أمر قبض إلا بكفالة مالية يحدد مقدارها المدعي العام أو من ينيبه، وتودع بالإدعاء العام، وذلك ما لم يقرر المدعي العام - تبعاً للملابسات التي تم فيها القبض- أن يكون الإفراج عن المقبوض عليه بتعهد شخصي."
+    },
+    {
+      "provision_ref": "art137",
+      "section": "137",
+      "title": "Article (137)",
+      "content": "يجوز للمحكمة المختصة الإفراج عن الشخص المتهم بارتكاب جريمة؛ يعاقب عليها بالحبس مع الغرامة أو بدونها، لمدة لا تجاوز ثلاث سنوات، أو بالغرامة فقط، إذا قدم كفالة مالية تقدرها المحكمة، أو ضمناً من أحد المصارف المقبولة بقيمة الكفالة، إلا إذا رأت المحكمة أن الإفراج عن المتهم قد يلحق ضرراً بالتحقيق أو قد يترتب عليه فرار المتهم."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "Article (140)",
+      "content": "لا يجوز تنفيذ الإفراج إلا بعد إيداع مبلغ الكفالة خزينة المحكمة نقداً، أو تقديم ضمان من أحد المصارف المقبولة بقيمة الكفالة."
+    },
+    {
+      "provision_ref": "art141",
+      "section": "141",
+      "title": "Article (141)",
+      "content": "إذا لم يقم المتهم -بغير عذر مقبول- بتنفيذ أحد الالتزامات المفروضة عليه، أصبح مبلغ الكفالة ملكاً للحكومة بغير حاجة إلى صدور حكم بذلك."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (54) لسنة 2014 بتعديل المبلغ المحدد لكل من جائزتي الدولة التقديرية والتشجيعية في العلوم والفنون والآداب",
   "short_name": "قرار أميري رقم (54) لسنة 2014 بتعديل المبلغ المحدد لكل من جائزتي الدولة التقديرية والتشجيعية في العلوم والفنون والآداب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6290&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6290&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُزاد المبلغ المحدد لكل من جائزتي الدولة التقديرية والتشجيعية في العلوم والفنون والآداب، ليكون على النحو التالي:\nأ- جائزة الدولة التقديرية (500,000) خمسمائة ألف ريال.\nب- جائزة الدولة التشجيعية (300,000) ثلاثمائة ألف ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

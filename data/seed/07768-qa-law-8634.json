@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (21) لسنة 2021 بالتصديق على مذكرة تفاهم للتعاون في مجالي الثقافة البدنية والرياضة بين وزارة الشباب والرياضة في دولة قطر واللجنة الوطنية للثقافة البدنية والرياضة في الولايات المتحدة المكسيكية.",
   "short_name": "مرسوم رقم (21) لسنة 2021 بالتصديق على مذكرة تفاهم للتعاون في مجالي الثقافة البدنية والرياضة بين وزارة الشباب والرياضة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8634&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8634&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على امذكرة تفاهم للتعاون في مجالي الثقافة البدنية والرياضة بين وزارة الشباب والرياضة في دولة قطر واللجنة الوطنية للثقافة البدنية والرياضة في الولايات المتحدة المكسيكية الموقعة بمدينة الدوحة بتاريخ 21/01/2016 المرفق نصها بهذا المرسوم، وتكون لها قوة القانون وفقا للمادة 68 من الدستور"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية\nعلى جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

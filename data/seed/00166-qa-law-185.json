@@ -4,8 +4,45 @@
   "title": "قانون رقم (21) لسنة 1995 بتعديل بعض أحكام القانون رقم (2) لسنة 1975 في شأن إيجار الأماكن والمباني",
   "short_name": "قانون رقم (21) لسنة 1995 بتعديل بعض أحكام القانون رقم (2) لسنة 1975 في شأن إيجار الأماكن والمباني",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=185&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=185&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 17 )، ( 25 ) من القانون رقم (2) لسنة 1975 المشار إليه، النصان التاليان:"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Article (17)",
+      "content": "«يكون مقدار الأجرة المتفق عليها في عقد الإيجار ملزماً للطرفين، طيلة مدة سريان العقد، فإذا لم يتفق الطرفان على مقدار الأجرة أو على كيفية تقديرها، أو تعذر إثبات مقدارها، وجب اعتبار أجرة المثل، ويراعى في تقدير أجرة المثل جميع العناصر اللازمة لذلك، كحالة العين المؤجرة، ومساحتها، ودرجة العمران، والأجور السائدة في منطقتها، وما يتصل بها من أوصاف عامة أو خاصة تؤثر في منفعتها»."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Article (25)",
+      "content": "«ينتهي عقد الإيجار بانتهاء المدة المحددة فيه، فإذا انتهى العقد وظل المستأجر منتفعاً بالعين المؤجرة بعلم المؤجر ودون أي اعتراض منه، اعتبر العقد قد تجدد بذات شروطه الأولى.\nولا يسري حكم هذه المادة على عقود الإيجار القائمة قبل تاريخ العمل بهذا القانون، إلا بعد مضي سنتين من ذلك التاريخ»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تلغى المادتان ( 30 ، 32 ) من القانون رقم (2) لسنة 1975 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

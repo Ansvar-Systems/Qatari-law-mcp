@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الإدارة رقم (26) لسنة 2007بإصدار لائحة المشتريات والأشغال والمناقصات لمؤسسة حمد الطبية",
   "short_name": "قرار رئيس مجلس الإدارة رقم (26) لسنة 2007بإصدار لائحة المشتريات والأشغال والمناقصات لمؤسسة حمد الطبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3688&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3688&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعمل بأحكام لائحة المشتريات والأشغال والمناقصات من تاريخ الموافقة عليها من قبل الهيئة الوطنية للصحة بتاريخ 12/7/2007."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار والعمل به وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

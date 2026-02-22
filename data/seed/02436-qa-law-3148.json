@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (11) لسنة 1989 بشأن اعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (5) لسنة 1989 م الخاص باتفاقية القرض لتمويل حقل غاز الشمال والضمان الخاص بها",
   "short_name": "قرار مجلس الوزراء رقم (11) لسنة 1989 بشأن اعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (5) لسنة 1989 م ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3148&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1989.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3148&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إقرار القرار الصادر عن مجلس إدارة المؤسسة العامة القطرية للبترول رقم ( 5 ) لسنة 1989م بشأن عقد اتفاقية قرض مع بنوك تعمل دولياً مقداره أربعمائة مليون دولار أمريكي (- ر400 مليون) لتمويل مشروع حقل غاز الشمال، ويخول وزير المالية والبترول بتوقيع اتفاقية القرض المذكور والضمان الخاص بها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيها يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

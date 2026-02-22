@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (22) لسنة 2001 بتعديل بعض أحكام القانون رقم (9) لسنة 1996 بإنشاء كلية قطر لعلوم الطيران",
   "short_name": "مرسوم بقانون رقم (22) لسنة 2001 بتعديل بعض أحكام القانون رقم (9) لسنة 1996 بإنشاء كلية قطر لعلوم الطيران",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=532&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=532&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 2 )، ( 4 ) من القانون رقم (9) لسنة 1996 المشار إليه، النصان التاليان:-"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به اعتباراً من 26/10/2001. وينشر في الجريدة الرسمية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يتولى مجلس إدارة الهـيئة العامة للطيران المدني إدارة الكلية وتصريف شؤونها."
+    }
+  ],
   "definitions": []
 }

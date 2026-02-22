@@ -4,8 +4,21 @@
   "title": "قرار رقم (111) لسنة 2015 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (111) لسنة 2015 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6734&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6734&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني التالية اسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (8) لسنة 1990 م، بشأن تنظيم مراقبة الأغذية الآدمية، وتعديلاته، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nصبري علي محمد قرطمة\nطبيب بيطري\n2\nعبدالرحمن فضل السيد البشير العوض\nطبيب بيطري\n3\nاحمد سمير محمد ابراهيم\nطبيب بيطري\n4\nمريم جميل زكي واصف\nطبيب بيطري\n5\nسامي عيسى الجاحد\nطبيب بيطري\n6\nايمن سيد عباس حمدون\nطبيب بيطري\n7\nعبدالله منصور محمد الحوبان\nمفتش صحة عامة ثالث\n8\nمحمد محمود احمد بداري\nطبيب بيطري\n8\nشيخة محمد محمد الجديع المنصوري\nباحث شؤون ادارية ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

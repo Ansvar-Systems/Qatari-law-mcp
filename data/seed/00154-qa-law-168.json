@@ -4,8 +4,27 @@
   "title": "قانون رقم (1) لسنة 2000 بتعديل بعض أحكام القانون رقم (2) لسنة 1977 بإنشاء جامعة قطر",
   "short_name": "قانون رقم (1) لسنة 2000 بتعديل بعض أحكام القانون رقم (2) لسنة 1977 بإنشاء جامعة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=168&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=168&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 9 ) من القانون رقم (2) لسنة 1977 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Article (9)",
+      "content": "«يُعين مدير الجامعة بقرار أميري لمدة أربع سنوات قابلة للتجديد، ويشترط فيه أن يكون أستاذاً جامعياً من ذوي الخبرة الطويلة والمكانة العلمية الرفيعة.\nواستثناءً من أحكام الفقرة السابقة يجوز الإعفاء من بعض الشروط السالف بيانها، إذا كان المعين قطرياً حاصلاً على درجة الدكتوراة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

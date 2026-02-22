@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (17) لسنة 2002 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
   "short_name": "قرار مجلس الوزراء رقم (17) لسنة 2002 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1466&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1466&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى تشكيل اللجنة الدائمة للطوارئ المنصوص عليها في المادة (1) من قرار مجلس الوزراء رقم (17) لسنة 1998 المشار إليه، ممثلاً عن:\n«16- جمعية الهلال الأحمر القطري»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

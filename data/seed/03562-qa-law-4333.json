@@ -4,8 +4,21 @@
   "title": "قرار وزير العمل والشؤون الاجتماعية والإسكان رقم (2) لسنة 1992 بتعديل بعض أحكام نموذج النظام الأساسي للجمعيات التعاونية المرافق للقرار رقم (1) لسنة 1979",
   "short_name": "قرار وزير العمل والشؤون الاجتماعية والإسكان رقم (2) لسنة 1992 بتعديل بعض أحكام نموذج النظام الأساسي للجمعيات التعاوني...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4333&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1992.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4333&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (26) من نموذج النظام الأساسي للجمعيات التعاونية المرافق لقرار وزير العمل والشؤون الاجتماعية رقم (1) لسنة 1979 المشار إليه النص التالي:\nمادة «26» : تبدأ السنة المالية للجمعية في أول شهر يوليو وتنتهي في نهاية شهر يونيو من العام التالي، على أن تشمل السنة الأولى المدة من تاريخ تأسيس الجمعية حتى نهاية شهر يونيو من السنة التالية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

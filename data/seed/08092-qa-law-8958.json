@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (8) لسنة 2022 بتعديل بعض أحكام القرار رقم (8) لسنة 2020 بتشكيل الـمجلس الدائم للتأديب",
   "short_name": "قرار رئيس مجلس الوزراء رقم (8) لسنة 2022 بتعديل بعض أحكام القرار رقم (8) لسنة 2020 بتشكيل الـمجلس الدائم للتأديب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8958&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8958&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارات وكلمة \"رئيس ديوان الخدمة المدنية والتطوير الحكومي\"، و\"المدير العام للديوان\"، و\"ديوان الخدمة المدنية والتطوير الحكومي\"، و\"الرئيس\"، بعبارات وكلمة \"وزير التنمية الإدارية والعمل والشؤون الاجتماعيه\"، و\"وكيل الوزارة\"، و\"وزارة التنمية الإدارية والعمل والشؤون الاجتماعية\"، و\"الوزير\"، على التوالي،\nالواردة في المادة (1) من القرار رقم (8) لسنة 2020 المُشار إليه"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تـاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

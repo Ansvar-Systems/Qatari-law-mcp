@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (35) لسنة 2006 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (35) لسنة 2006 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5796&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5796&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين قاضياً بمحكمة التمييز، كل من السادة الآتية أسماؤهم:\n1- أحمد محمود كامل.\n2- منير أحمد علي الصاوي.\n3- أحمد سعيد حسين خليل.\n4- نبيل أحمد توفيق صادق.\nوتكون أقدمية كل منهم حسب ترتيبه الوارد بهذا المرسوم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به اعتباراً من 18/9/2006. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

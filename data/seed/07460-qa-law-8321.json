@@ -4,8 +4,39 @@
   "title": "قرار وزير البلدية والبيئة رقم (105) لسنة 2020 بتحديد مناطق سكن العائلات وما يعد تجمعاً للعمال داخل تلك المناطق والاستثناءات الواردة عليها",
   "short_name": "قرار وزير البلدية والبيئة رقم (105) لسنة 2020 بتحديد مناطق سكن العائلات وما يعد تجمعاً للعمال داخل تلك المناطق والاست...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8321&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8321&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد مناطق سكن العائلات المنصوص عليها في المادة (1) من القانون رقم (15) لسنة 2010 المشار إليه، وفقاً للخرائط المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون تجمعاً للعمال داخل مناطق سكن العائلات المنصوص عليها في المادة السابقة، سكن أكثر من خمسة عمال بأحد الأماكن أو أجزاء الأماكن داخل أي من هذه المناطق."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يستثنى من حكم المادة السابقة:-\n1- سكن العاملات أياً كانت طبيعة عملهن.\n2- سكن المستخدمين في المنازل ومن في حكمهم."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُلغى قرار وزير البلدية والتخطيط العمراني رقم (83) لسنة 2011 المشار إليه."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قانون رقم (14) لسنة 2008 بتعديل بعض أحكام القانون رقم (11) لسنة 2003 بإنشاء جائزتي الدولة التقديرية والتشجيعية في العلوم والفنون والآداب",
   "short_name": "قانون رقم (14) لسنة 2008 بتعديل بعض أحكام القانون رقم (11) لسنة 2003 بإنشاء جائزتي الدولة التقديرية والتشجيعية في الع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2502&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2502&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 8 / فقرة أولى) من القانون رقم (11) لسنة 2003 المشار إليه، النص التالي:\nمادة (8/ فقرة أولى) :\n«يُمنح الفائز بجائزة الدولة التشجيعية مبلغ (150,000) مائة وخمسون ألف ريال، وتمنح هذه الجائزة كل عامين، ويجوز منحها أكثر من مرة في الدورة ذاتها، ويجوز أن يتقاسمها أكثر من شخص في المجال الواحد، كما يجوز منحها للشخص الواحد أكثر من مرة إذا اختلف موضوع الترشيح»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُضاف إلى القانون رقم (11) لسنة 2003 المشار إليه، مادة برقم (8 مكرراً)، نصها التالي:"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "مكرراً):\n«يجوز بقرار من الأمير، بناءً على اقتراح مجلس الوزراء، تعديل المبلغ المحدد لأي من الجائزتين المنصوص عليهما في هذا القانون»."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

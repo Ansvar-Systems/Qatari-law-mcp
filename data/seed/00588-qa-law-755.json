@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (45) لسنة 1998 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1991 بشأن إجراءات إعداد التشريعات",
   "short_name": "قرار أميري رقم (45) لسنة 1998 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1991 بشأن إجراءات إعداد التشريعات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=755&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=755&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 11 ) من القرار الأميري رقم (14) لسنة 1991 بشأن إجراءات إعداد التشريعات المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article (11)",
+      "content": "أ- تعقد اللجنة ستة اجتماعات شهرياً، في غير مواعيد العمل الرسمية، ويجوز عقدها عند الاقتضاء أثناء تلك المواعيد. ويتقاضى كل من رئيس وأعضاء اللجنة مكافأة مالية قدرها (3000) ثلاثة آلاف ريال شهرياً، وإذا تخلف العضو عن حضور أحد الاجتماعات، خصم منه مبلغ (500) خمسمائة ريال.\nب- يتولى أعمال السكرتارية، موظف أو أكثر من موظفي وزارة العدل، يصدر بندبه وتحديد مكافآته قرار من الوزير."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به إعتباراً من 1/10/1998. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

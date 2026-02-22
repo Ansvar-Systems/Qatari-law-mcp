@@ -4,8 +4,27 @@
   "title": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (2) لسنة 2005 بإصدار نماذج عقد أو وثيقة تأسيس الجمعيات والجمعيات المهنية والمؤسسات الخاصة والنظام الأساسي لكل منها",
   "short_name": "قرار وزير شؤون الخدمة المدنية والإسكان رقم (2) لسنة 2005 بإصدار نماذج عقد أو وثيقة تأسيس الجمعيات والجمعيات المهنية و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4045&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4045&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحرر عقد أو وثيقة تأسيس الجمعيات والجمعيات المهنية والمؤسسات الخاصة والنظام الأساسي لكل منها، وفقاً للنماذج المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

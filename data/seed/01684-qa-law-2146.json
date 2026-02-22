@@ -4,8 +4,33 @@
   "title": "قرار وزير الداخلية رقم (5) لسنة 1992 بتعديل بعض أحكام اللائحة التنفيذية للقانون رقم (10) لسنة 1979 بشأن قواعد المرور",
   "short_name": "قرار وزير الداخلية رقم (5) لسنة 1992 بتعديل بعض أحكام اللائحة التنفيذية للقانون رقم (10) لسنة 1979 بشأن قواعد المرور",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2146&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1992.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2146&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 76 ) من قرار وزير الداخلية رقم (1) لسنة 1981 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Article (76)",
+      "content": "يجب على المؤمن الوفاء بالتزامه بدفع التعويض النقدي أو إصلاح الضرر بحسب الأحوال وذلك خلال عشرة أيام على الأكثر من تاريخ إبلاغه بتقرير الشرطة عن الحادث."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

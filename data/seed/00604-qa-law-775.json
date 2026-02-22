@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (54) لسنة 2000 بإعادة تشكيل لجنة قبول المحامين",
   "short_name": "قرار أميري رقم (54) لسنة 2000 بإعادة تشكيل لجنة قبول المحامين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=775&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=775&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل لجنة قبول المحامين المنصوص عليها في المادة (8) من قانون المحاماة الصادر بالقانون رقم (10) لسنة 1996 المشار إليه، على الوجه الآتي:-\n1- وزير العدل\nرئيساً\n2- رئيس المحاكم العدلية\nنائباً للرئيس\n3- مدير إدارة الفتوى والعقود بوزارة العدل\nعضواً\n4- السيد/خليفة سلطان الكبيسي نائب رئيس محكمة الاستئناف\nعضواً\n5- السيد/ناصر يوسف آل عبد الغني قاضي المحكمة المدنية الكبرى\nعضواً\n6- الشيخ/أحمد محمد المنصوري قاضي المحكمة الابتدائية الشرعية\nعضواً\n7- أحد المحامين القطريين يختاره وزير العدل\nعضواً\nوذلك لمدة ثلاث سنوات اعتباراً من تاريخ العمل بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

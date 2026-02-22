@@ -4,8 +4,33 @@
   "title": "أمر أميري رقم (1) لسنة 2002 بتعديل تشكيل مجلس الوزراء",
   "short_name": "أمر أميري رقم (1) لسنة 2002 بتعديل تشكيل مجلس الوزراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2421&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2421&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين سعادة الشيخ حمد بن فيصل آل ثاني وزيرا للاقتصاد والتجارة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تعدل أحكام المرسوم بقانون رقم (22) لسنة 1993 المشار إليه بما يتفق وأحكام هذا الأمر الأميري."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا الأمر الأميري."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يعمل بهذا الأمر الأميري من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

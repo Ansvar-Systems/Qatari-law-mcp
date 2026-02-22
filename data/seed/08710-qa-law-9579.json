@@ -4,8 +4,21 @@
   "title": "مرسوم رقم ( 25 ) لسنة 2024 بالتصديق على اتفاقية للتعاون في مجال التعليم والتكوين والبحث العلمي بين حكومة دولة قطر وحكومة الجمهورية الإسلامية الموريتانية",
   "short_name": "مرسوم رقم ( 25 ) لسنة 2024 بالتصديق على اتفاقية للتعاون في مجال التعليم والتكوين والبحث العلمي بين حكومة دولة قطر وحك...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9579&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9579&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على اتفاقية للتعاون في مجـــــال الـتـعـلـيـــــم والتكوين والبحث العلمي بين حكومة دولـــة قـطــــر وحـكـومـــة الجمهورية الإسلامية الموريتانية ، الموقعة بمدينة الدوحة بتاريخ 2011/02/27 ، المرفق نصها بهذا المرسوم، وتكـــــون لـهــا قـــــوة القانون ، وفقاً للمادة (68) من الدستور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره. ويُنشر فـي الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

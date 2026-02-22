@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (62) لسنة 2005 بتعديل بعض أحكام المرسوم رقم (35) لسنة 1994 بمنح امتياز لقطر للبترول بالانتفاع بأراضي ومرافق منطقة رأس لفان",
   "short_name": "مرسوم رقم (62) لسنة 2005 بتعديل بعض أحكام المرسوم رقم (35) لسنة 1994 بمنح امتياز لقطر للبترول بالانتفاع بأراضي ومرافق...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1227&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1227&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعدل حدود الأراضي المقرر عليها امتياز بالانتفاع لقطر للبترول بمنطقة رأس لفان، بموجب المرسوم رقم (35) لسنة 1994 المشار إليه، لتصبح وفقاً للإحداثيات (آر 4 سي. آر 4 بي. آر 5. آر5 إيه. آر 14. آر 18. آر 17. آر 16. آر 15. آر 13 آر 12. آر 11. آر 8 دي. آر 8 إي) المبينة بالخريطة المرفقة بهذا المرسوم، ويشمل هذا الانتفاع المرافق المقامة على تلك الأراضي والأرصفة المتصلة بها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تلتزم قطر للبترول بالحصول على موافقة مجلس الوزراء قبل القيام بأي نشاط أو إقامة أية أسوار أو مبان أو منشآت على أي جزء من الأراضي المحددة بالإحداثيات (آر13. آر15. آر16. آر17. آر 18) المبينة بالخريطة المشار إليها في المادة السابقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

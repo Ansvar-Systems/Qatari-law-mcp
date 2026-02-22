@@ -4,8 +4,33 @@
   "title": "قانون رقم (6) لسنة 2022 بتعديل بعض أحكام القانون رقم (4) لسنة 2008 بشأن إيجـار العقارات",
   "short_name": "قانون رقم (6) لسنة 2022 بتعديل بعض أحكام القانون رقم (4) لسنة 2008 بشأن إيجـار العقارات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8967&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8967&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل عبارتا \"وزارة البلدية\" و\"وزير البلدية\" بعبارتَي \"وزارة البلدية والبيئة\" و\"وزير البلدية والبيئة\"، المنصوص عليهما في المادة (1) من القانون رقم (4) لسنة 2008 المُشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يستبدل بنص المادة ( 21 ) من القانون رقم (4) لسنة 2008 المُشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Article (21)",
+      "content": "\"تُنشأ بالوزارة لجنة أو أكثر تُسمى \"لجنة فض المنازعات الإيجارية\"، تكون برئاسة قاضٍ بالمحكمة الابتدائية يختاره، المجلس الأعلى للقضاء، ويصدر بتشكيلها وتحديد مكافأتها قرار من مجلس الوزراء.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

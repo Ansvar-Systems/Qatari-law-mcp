@@ -4,8 +4,27 @@
   "title": "قرار وزير الصحة العامة رقم (4) لسنة 2023 بتحديد بيانات ومواصفات بطاقة التأمين الصحي",
   "short_name": "قرار وزير الصحة العامة رقم (4) لسنة 2023 بتحديد بيانات ومواصفات بطاقة التأمين الصحي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9175&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9175&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجب أن تُدون البيانات التالية في بطاقة التأمين الصحي باللغتين العربية والإنجليزية:\n1. اسم البطاقة.\n2. اسم شركة التأمين الصحي.\n3. اسم المستفيد.\n4. الرقم الشخصي.\n5. الجنسية.\n6. تاريخ الميلاد.\n7. عدد المنتفعين.\n8. اسم وصفة المنتفعين.\n9. درجة التأمين.\n10. تاريخ إصدار البطاقة.\n11. توقيع حامل البطاقة،\n12. توقيع المسؤول عن شركة التأمين."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يجب أن تتضمن بطاقة التأمين على المواصفات التالية:\n1. صورة فوتوغرافية حديثة لصاحبها تُمكن مُقدم خدمة الرعاية الصحية من التحقق من هويته واستحقاقه لخدمات الرعاية الصحية المقررة له.\n2. الرمز الشريطي (الباركود) لقراءة بيانات البطاقة إلكترونياً.\n3. شعار شركة التأمين.\nوتكون البطاقة بالحجم الذي يتيح سهولة حملها وإبرازها لمُقدم خدمات الرعاية الصحية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة، كلُ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

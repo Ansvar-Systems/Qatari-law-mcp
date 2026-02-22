@@ -4,8 +4,27 @@
   "title": "قرار رقم (26) لسنة 2021 بإلغاء وتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (26) لسنة 2021 بإلغاء وتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8606&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8606&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهما صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (19) لسنة 2005م، المُشار إليه أعلاه والقرارات المنفذة له، وهما :\nم\nالإسم\nالمسمى الوظيفي\n1\nخالد جمعة المرزوقي\nرئيس لجنة قبول تصنيف المهندسين\nومكاتب الاستشارات الهندسية\n2\nإبراهيم صالح عبدالرب العبادي\nمهندس ثالث باللجنة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة لموظفي وزارة البلدية والبيئة،\nوالسابق منحها لهم بموجب قراري النائب العام رقم (153) لسنة 2015م و(75) لسنة 2017م المُشار إليهما، وهم:\nم\nالإسم\nالرقم الشخصي\n1\nخالد عبدالرحمن آل سعد\n25863400286\n2\nأشرف السيد حسن\n26781801074\n3\nزينب عبده أحمد حسن العمادي\n27763401692"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (16) لسنة 2020 بتعديل بعض أحكام المرسوم بقانون رقم (11) لسنة 2012 بشأن التنظيم الحكومي لبيع وشراء المنتجات الكيماوية والبتروكيماوية التي تنتج في دولة قطر",
   "short_name": "مرسوم بقانون رقم (16) لسنة 2020 بتعديل بعض أحكام المرسوم بقانون رقم (11) لسنة 2012 بشأن التنظيم الحكومي لبيع وشراء ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8402&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8402&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة (12/ فقرة أولى) من المرسوم بقانون رقم (11) السنة 2012 المشار إليه، النص التالي:\nمادة (12/فقرة أول&#1740;):\n\"&#1740;كون للحكومة، من وقت إلى آخر، سلطة تقديرية في استبعاد منتج أو أكثر من المنتجات الخاضعة للتنظيم الحكومي المحددة بهذا القانون، وفي تسمية منتجات كيماوية وبتروكيماوية أخرى تنتج في دولة قطر، كمنتجات خاضعة للتنظيم الحكومي.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُضاف إلى المرسوم بقانون رقم (11) لسنة 2012 المشار إليه، مادة برقم (3 مُكرراً)، نصها التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "مُكرراً):\nتُعين الشركة قطر للبترول وكيلاً عنها في القيام بجميع الأعمال والأفعال والتصرفات والسلطات والصلاحيات المخولة لها بموجب هذا القانون.\"."
+    }
+  ],
   "definitions": []
 }

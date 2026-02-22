@@ -4,8 +4,33 @@
   "title": "قانون رقم (16) لسنة 2014 بإعفاء بعض البضائع من الرسوم الجمركية",
   "short_name": "قانون رقم (16) لسنة 2014 بإعفاء بعض البضائع من الرسوم الجمركية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6368&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6368&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعفى من الرسوم الجمركية البضائع المبينة في الجدول المرفق بهذا القانون."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يقتصر الإعفاء المنصوص عليه في المادة السابقة على البضائع التي يستخدمها الأشخاص ذوي الاحتياجات الخاصة، والتي يتم استيرادها من خارج دول مجلس التعاون لدول الخليج العربية من قبل الجهات الحكومية المعنية برعاية الأشخاص ذوي الاحتياجات الخاصة، أو الجمعيات المرخص لها برعايتهم، أو مواطني دول مجلس التعاون من حاملي بطاقات ذوي الاحتياجات الخاصة، وبغرض الاستخدام الشخصي وفقاً لطبيعة الإعاقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "إذا تم التصرف في السيارات المعفاة وفقاً لأحكام هذا القانون بأي وجه، قبل مُضي ثلاث سنوات على استيرادها، وجب استيفاء الرسوم الجمركية المقررة عليها وفقاً لحالتها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

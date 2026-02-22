@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (10) لسنة 1997 بتعديل أحكام القرار رقم (9) لسنة 1995 بتشكيل مجلس إدارة صندوق الزكاة",
   "short_name": "قرار مجلس الوزراء رقم (10) لسنة 1997 بتعديل أحكام القرار رقم (9) لسنة 1995 بتشكيل مجلس إدارة صندوق الزكاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1363&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1363&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعدل تشكيل مجلس إدارة صندوق الزكاة المنصوص عليه في قرار مجلس الوزراء رقم (9) لسنة 1995 المشار إليه، على النحو التالي:\n1- يحل السيد/أحمد بن عبد الله المري، محل الشيخ/عبد الله بن خالد آل ثاني في رئاسة المجلس.\n2- يحل الشيخ/عبد العزيز بن عبد الرحمن آل ثاني، محل الشيخ/عبد الله بن سيف آل ثاني في عضوية المجلس."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

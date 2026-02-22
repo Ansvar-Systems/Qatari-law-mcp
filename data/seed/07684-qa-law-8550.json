@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (8) لسنة 2021 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (8) لسنة 2021 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8550&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8550&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السيد/ ناصر يوسف عبدالغني آل عبدالغني ، والسيد/ أحمد سلطان محمد العسيري، في وظيفة نائب رئيس بمحكمة التمييز ، وتحدد أقدمية كل منهما فيها اعتبارا من 13/10/2020."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعيّن السيد/ عبد العزيز أحمد خليفة السليطي، في وظيفة قاض بمحكمة التمييز وتُحدّد أقدميته فيها اعتبارًا من 1 / 10 / 2020."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعيّن كل من الآتية أسماؤهم في وظيفة رئيس بالمحكمة الابتدائية ، وتُحدّد أقدمية كل منهم فيها اعتبارا من 17/ 11/ 2020:\n1- السيدة/ فاطمة عبدالله يوسف مال الله المال .\n2- السيد/ علي عبدالله علي عبدالله العبيدلي .\n3- الشيخ / محمد فهد أحمد العبدالرحمن آل ثاني .\n4- السيد/ أحمد عبدالله محمد حسن المنصوري .\n5- السيد / عبدالعزيز خليفة صالح الربيعة الكواري.\n6- السيد/ جاسم عبدالله أحمد مبارك الفضالة ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا المرسوم ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

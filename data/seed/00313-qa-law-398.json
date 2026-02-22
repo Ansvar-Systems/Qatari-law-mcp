@@ -4,8 +4,33 @@
   "title": "قانون رقم (7) لسنة 2004 بتعديل بعض أحكام المرسوم بقانون رقم (37) لسنة 2002 بإنشاء المجلس الأعلى للتعليم وتعيين اختصاصاته",
   "short_name": "قانون رقم (7) لسنة 2004 بتعديل بعض أحكام المرسوم بقانون رقم (37) لسنة 2002 بإنشاء المجلس الأعلى للتعليم وتعيين اختصاصاته",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=398&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=398&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف «فقرة ثانية» إلى المادة ( 12 ) من المرسوم بقانون رقم (37) لسنة 2002 المشار إليه، نصها الآتي:"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Article (12)",
+      "content": "فقرة ثانية) :\n«ويمثل المنسق المجلس أمام القضاء وفي علاقاته مع الغير»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُلغى المادة (5) من المرسوم بقانون رقم (37) لسنة 2002 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون، ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

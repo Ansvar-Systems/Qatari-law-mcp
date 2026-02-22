@@ -4,8 +4,15 @@
   "title": "استدراك",
   "short_name": "استدراك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6808&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6808&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "استدراك\nاستدراك 0 / 2015\nقرار وزاري رقم (108) لسنة 2015 بتعديل بعض أحكام القرار الوزاري رقم (6) لسنة 1989 بشأن المواصفات الفنية للمباني المتعلقة بترشيد استهلاك الكهرباء، المنشور في الجريدة الرسمية العدد (16) لسنة 2015.\n(التعديل على رقم القرار)\nبعد التعديل\nقبل التعديل\nقرار وزاري رقم (203) لسنة 2015\nبتعديل بعض أحكام القرار الوزاري رقم\n(6) لسنة 1989 بشأن المواصفات الفنية\nللمباني المتعلقة بترشيد استهلاك الكهرباء.\nقرار وزاري رقم (108) لسنة 2015\nبتعديل بعض أحكام القرار الوزاري رقم\n(6) لسنة 1989 بشأن المواصفات الفنية\nللمباني المتعلقة بترشيد استهلاك الكهرباء."
+    }
+  ],
   "definitions": []
 }

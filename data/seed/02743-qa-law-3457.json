@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (21) لسنة 2008 بتسمية أعضاء لجنة سياسات تمويل مشاريع الدولة",
   "short_name": "قرار رئيس مجلس الوزراء رقم (21) لسنة 2008 بتسمية أعضاء لجنة سياسات تمويل مشاريع الدولة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3457&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3457&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل «لجنة سياسات تمويل مشاريع الدولة»، برئاسة وزير الاقتصاد والمالية، وعضوية كلٍ من:\n1- الدكتور/ حسين علي العبدالله ممثلاً عن جهاز قطر للاستثمار.\n2- السيد/ عبدالرحمن أحمد عبدالرحمن الشيبي ممثلاً عن قطر للبترول."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قانون رقم (11) لسنة 1991 بتعديل بعض أحكام المرسوم بقانون رقم (5) لسنة 1965 بشأن البطاقات الشخصية",
   "short_name": "قانون رقم (11) لسنة 1991 بتعديل بعض أحكام المرسوم بقانون رقم (5) لسنة 1965 بشأن البطاقات الشخصية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=29&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=29&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة (4) من المرسوم بقانون رقم (5) لسنة 1965، المشار إليه، النص الآتي:"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على إدارة الهجرة والجوازات والجنسية التحقق من استيفاء كافة بيانات الطلبات التي تقدم لها، وإثبات هذه الطلبات في سجل خاص بأرقام مسلسلة، ولصق إحدى الصورتين الشمسيتين على الطلب وأخذ بصمة إبهام اليد اليسرى للطالب على الطلب والصورة معاً، ولصق الصورة الثانية على البطاقة، وختم الطلب والصورتين والبطاقة بخاتم الإدارة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

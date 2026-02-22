@@ -4,8 +4,21 @@
   "title": "قرار لجنة تعيين الحد الأقصى للأسعار ونسب الأرباح رقم (1) لسنة 2022 بشأن تعيين الحد الأقصى لأسعار استقدام العمالة المنزلية",
   "short_name": "قرار لجنة تعيين الحد الأقصى للأسعار ونسب الأرباح رقم (1) لسنة 2022 بشأن تعيين الحد الأقصى لأسعار استقدام العمالة المن...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8830&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8830&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون الحد الأقصى لأسعار استقدام العمالة المنزلية على النّحو المُبيّن فى الجدول التالي:\nم\nالدولة\nالحد الأقصى لسعر الاستقدام\n1\nجمهورية إندونيسيا\n17,000 ريال\n2\nجمهورية سريلانكا الديمقراطية الاشتراكية\n16,000 ريال\n3\nجمهورية الفلبين\n15,000 ريال\n4\nجمهورية بنغلادش الشعبية\n14,000 ريال\n5\nجمهورية الهند\n14,000 ريال\n6\nجمهورية كينيا\n9,000 ريال\n7\nجمهورية إثيوبيا الفيدرالية الديمقراطية\n9,000 ريال"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يَخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

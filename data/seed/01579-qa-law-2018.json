@@ -4,8 +4,27 @@
   "title": "قرار وزير المالية والاقتصاد والتجارة رقم (2) لسنة 1994 بشأن البنوك المرخص لها بتلقي الاكتتاب في أسهم شركات المساهمة وبقبول إيداع الأسهم المخصصة لضمان إدارة أعضاء مجالس الإدارة",
   "short_name": "قرار وزير المالية والاقتصاد والتجارة رقم (2) لسنة 1994 بشأن البنوك المرخص لها بتلقي الاكتتاب في أسهم شركات المساهمة و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2018&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2018&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص للبنوك التالية، بتلقي الاكتتاب في أسهم شركات المساهمة، وبقبول إيداع الأسهم المخصصة لضمان إدارة أعضاء مجالس إدارة هذه الشركات:\n1- بنك قطر الوطني.\n2- بنك الدوحة المحدود.\n3- البنك التجاري القطري المحدود.\n4- مصرف قطر الإسلامي.\n5- البنك الأهلي القطري.\n6- بنك قطر الدولي الإسلامي.\n7- بنك المشرق (بنك عمان سابقاً).\n8- البنك العربي.\n9- بنك صادرات إيران.\n10- ستاندرد تشارترد بنك.\n11- البنك البريطاني للشرق الأوسط.\n12- بنك باريبا.\n13- بنك يونايتد\n14- أي.ان.زد. كرندليز بنك."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى القرار الوزاري رقم (4) لسنة 1984 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره بالجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

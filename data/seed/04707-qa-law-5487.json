@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (45) لسنة 2006 بزيادة الرواتب التقاعدية والمعاشات",
   "short_name": "قرار أميري رقم (45) لسنة 2006 بزيادة الرواتب التقاعدية والمعاشات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5487&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5487&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تزاد بنسبة (40%) الرواتب التقاعدية التي تصرف عن طريق وزارة شئون الخدمة المدنية والإسكان، للموظفين المدنيين المحالين إلى التقاعد قبل تاريخ العمل ب القانون رقم (24) لسنة 2002 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تزود الرواتب التقاعدية التي تصرف عن طريق قطر للبترول، لموظفيها وموظفي الشركات التابعة لها المحالين إلى التقاعد قبل تاريخ العمل ب القانون رقم (24) لسنة 2002 المشار إليه، وفقاً للشرائح والنسب المبينة في الجدول المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تزاد بنسبة (40%) المعاشات المستحقة للموظفين المدنيين الخاضعين لأحكام قانون الخدمة المدنية ، وأحيلوا إلى التقاعد، بعد تاريخ العمل ب القانون رقم (24) لسنة 2002 المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من أول ديسمبر 2006. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

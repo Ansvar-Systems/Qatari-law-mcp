@@ -4,8 +4,21 @@
   "title": "قرار رقم (102) لسنة 2009 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (102) لسنة 2009 بتخويل بعض موظفي وزارة البلدية والتخطيط العمراني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3482&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3482&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والتخطيط العمراني المبينة أسماؤهم بعد، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (3) لسنة 1975 م المُشار إليه، والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nنورة محمد هضبان سالم محمد\nمفتش صالونات أول\n2\nدانه ناصر سعيد النعيمي\nمراقب صالونات\n3\nفوزية عبد الهادي عبد الرب محمد\nمراقب صالونات\n4\nنجلاء منصور راشد الخاطر\nمشرف مراقبين صالونات\n5\nصافية سالم سعيد المري\nباحث شؤون إدارية\n6\nمنى أحمد إبراهيم المناعي\nباحث شؤون إدارية أول\n7\nالعنود محمد راشد العذبي\nباحث شؤون إدارية\n8\nإيمان محمد صالح العبيدلي\nباحث شؤون إدارية\n9\nمنال يوسف عبد الرحمن الملا\nباحث شؤون إدارية\n10\nميثى سعيد محمد قحيز\nكاتب شؤون إدارية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

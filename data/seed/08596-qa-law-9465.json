@@ -4,8 +4,27 @@
   "title": "قرار المؤسس رقم (42) لسنة 2023 بشأن تعديل وثيقة التأسيس والنظام الأساسي لمركز رعاية الأيتام",
   "short_name": "قرار المؤسس رقم (42) لسنة 2023 بشأن تعديل وثيقة التأسيس والنظام الأساسي لمركز رعاية الأيتام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9465&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9465&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعدل وثيقة التأسيس والنظام الأساسي لمركز رعاية الأيتام على النحو المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعمل بوثيقة التأسيس والنظام الأساسي المعدلين لمركز رعاية الأيتام المُرفقين بهذا القرار، ويُسجلان لدى الجهة المختصة بالتوثيق التي تتولى نشرهما في الجريدة الرسمية وذلك من تاريخ توثيقهما."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    }
+  ],
   "definitions": []
 }

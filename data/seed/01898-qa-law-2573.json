@@ -4,8 +4,21 @@
   "title": "قانون رقم (28) لسنة 2005 بتعديل بعض أحكام القانون رقم (1) لسنة 1996 بإنشاء قناة الجزيرة الفضائية",
   "short_name": "قانون رقم (28) لسنة 2005 بتعديل بعض أحكام القانون رقم (1) لسنة 1996 بإنشاء قناة الجزيرة الفضائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2573&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2573&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل مسمى «شبكة الجزيرة الفضائية» بمسمى «قناة الجزيرة الفضائية» وذلك في عنون ومواد القانون رقم (1) لسنة 1996 المشار إليه، وأينما ورد في سائر التشريعات الأخرى."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

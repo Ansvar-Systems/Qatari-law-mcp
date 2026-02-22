@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (2) لسنة 1989 باستثناء المؤسسة العامة القطرية للبترول من أحكام القانون رقم (1) لسنة 1988 م بتنظيم حفر آبار المياه الجوفية",
   "short_name": "قرار مجلس الوزراء رقم (2) لسنة 1989 باستثناء المؤسسة العامة القطرية للبترول من أحكام القانون رقم (1) لسنة 1988 م بتنظ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1579&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1989.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1579&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستثنى المؤسسة العامة القطرية للبترول من أحكام القانون رقم (1) لسنة 1988 المشار إليه، وذلك مع عدم الإخلال بوجوب استمرار التعاون القائم بين المؤسسة وبين إدارة البحوث الزراعية والمائية بوزارة الصناعة والزراعة بشأن إجراء البحوث على الآبار التي يتم حفرها عند الأعماق التي توجد بها المياه ويتم استغناء المؤسسة عنها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

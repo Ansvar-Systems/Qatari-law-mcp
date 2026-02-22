@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (30) لسنة 2021 بتعيين قضاة المحكمة الابتدائية",
   "short_name": "مرسوم رقم (30) لسنة 2021 بتعيين قضاة المحكمة الابتدائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8647&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8647&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من الآتية أسماؤهم في وظيفة قاض بالمحكمة الابتدائية، وتحدد أقدمية كل منهم فيها اعتباراً من 17/03/2021:\n1 - السيّدة/ سارة منصور محمد المصلح.\n2 - السيّد/ محمد عيسى علي حسين الأنصاري.\n3 - السيّد/ ناصر محمد ناصر آل حباب الهاجري.\n4 - السيّد/ ماجد محمد راشد الشملاني العنزي.\n5 - السيّد/ عبدالرحمن يوسف أحمد علي الكواري.\n6 - السيّد/ جهيم زايد جهيم الجنيدي الشمري.\n7 - السيّد/ سعد أحمد سعد اليوسف السليطي.\n8 - السيّد/ خالد عبدالله محمد راشد لبده.\n9 - السيّد/ عبدالله أحمد صالح الفضالة السليطي.\n10 - السيّد/ سعود مساعد نادر سليمان العبد الله.\n11 - السيّد/ عبدالله عبدالرحمن عبدالله أحمد العبدالله.\n12 - السيّد/ جاسم محمد أحمد حسن السيّد."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كلّ فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

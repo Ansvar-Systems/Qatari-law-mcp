@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (107) لسنة 2024 بتعيين وكيل لوزارة الريـاضـة والـشـبـاب",
   "short_name": "مرسوم رقم (107) لسنة 2024 بتعيين وكيل لوزارة الريـاضـة والـشـبـاب",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9835&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9835&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعيّن سعادة السيّد/ ياسر بن عبد الله بن أحمد الجمال، وكيلاً لوزارة الـريـاضـة والـشـبـاب."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا المرسوم."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المخـتـصـة، كـل فيـمـا يـخـصـه، تنـفـيـذ هـذا المـرسـوم. ويُعـمـل بـه من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير المالية رقم (1) لسنة 2026 بإضافة لجنة المناقصات والمزايدات المُشكلة بدار الوثائق القطرية إلى قرار وزير المالية رقم (43) لسنة 2025 بشأن مكافآت لجان المناقصات والمزايدات",
   "short_name": "قرار وزير المالية رقم (1) لسنة 2026 بإضافة لجنة المناقصات والمزايدات المُشكلة بدار الوثائق القطرية إلى قرار وزير الما...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10283&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2026.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10283&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف لجنة المناقصات والمزايدات بدار الوثائق القطرية، إلى المجموعة الرابعة من القرار رقم (43) لسنة 2025 المشار اليه، وتسري عليها كافة أحكامه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

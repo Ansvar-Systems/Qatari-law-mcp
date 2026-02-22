@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (12) لسنة 1993 بتعديل بعض أحكام القانون رقم (1) لسنة 1981 بتنظيم خدمة الضباط في القوات المسلحة",
   "short_name": "مرسوم بقانون رقم (12) لسنة 1993 بتعديل بعض أحكام القانون رقم (1) لسنة 1981 بتنظيم خدمة الضباط في القوات المسلحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=466&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1993.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=466&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 4/2 ) و( 16 ) من القانون رقم (1) لسنة 1981 المشار إليه النصان الآتيان:\nمادة (4/2) :\n«2- أن يكون قد أتم من العمر ثماني عشرة سنة ميلادية»."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Article (16)",
+      "content": "«يقدم عن كل ضابط تقرير سري في شهر يناير من كل عام يبين كفاءته وسلوكه خلال العام الميلادي السابق»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

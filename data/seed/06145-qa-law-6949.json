@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (23) لسنة 2016 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (23) لسنة 2016 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6949&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6949&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة الآتية أسماؤهم، في الوظيفة المبينة قرين اسم كل منهم:\n1- السيد/ عبدالله صالح سلطان الهديفي\nنائب رئيس بمحكمة الاستئناف.\n2- السيد/ خالد محمد راشد آل شريم\nنائب رئيس بمحكمة الاستئناف.\n3- السيد/ عيسى أحمد علي النصر\nنائب رئيس بمحكمة الاستئناف.\n4- السيد/ علي سلطان النعيمي\nنائب رئيس بمحكمة الاستئناف.\n5- السيد/ خالد سعد عبدالرحمن الحمر\nنائب رئيس بمحكمة الاستئناف.\n6- السيد/ حمد إبراهيم علي عبدالله شهبيك\nرئيساً بالمحكمة الابتدائية.\n7- السيد/ محمد عبدالهادي فهيد الودعاني الدوسري\nرئيساً بالمحكمة الابتدائية.\n8- السيد/ علي مبارك خليفة محمد العسيري\nرئيساً بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (3) لسنة 2000 بتشكيل لجنة سوق الدوحة للأوراق المالية",
   "short_name": "قرار مجلس الوزراء رقم (3) لسنة 2000 بتشكيل لجنة سوق الدوحة للأوراق المالية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1630&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1630&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة السوق على النحو التالي:\n1- السيد/يوسف حسين كمال\nممثلاً عن وزارة المالية والاقتصاد والتجارة\nرئيساً\n2- الدكتور/حسين علي العبد الله\nمدير السوق\nنائباً للرئيس\n3- السيد/عبد الله اسماعيل العمادي\nممثلاً ثانياً عن وزارة المالية والاقتصاد والتجارة\nعضواً\n4- السيد/حسن عبد الله الخال\nممثلاً عن مصرف قطر المركزي\nعضواً\n5- الدكتور/ماجد عبد الله المالكي\nممثلاً عن غرفة تجارة وصناعة قطر\nعضواً\n6- الشيخ/فهد بن محمد بن جبر آل ثاني\nممثلان عن الوسطاء\nعضوين\n7- السيد/فهد حسين الفردان\n8- السيد/عزت محمد رشيد\nممثلان عن الشركات القطرية\nعضوين\n9- السيد/محمد إبراهيم السليطي\nالتي يجري التعامل في أوراقها بالسوق\n10- السيد/علي سلطان الهاجري\nمن ذوي الخبرة والكفاءة\nعضوين"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به إعتباراً من 17/7/1999. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

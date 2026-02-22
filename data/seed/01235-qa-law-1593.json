@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (30) لسنة 1995 بشأن منح علاوة توجيه للموجهين والموجهات ورؤساء ورئيسات التعليم القطريين ومساواة الموجهين والموجهات بالعاملين بالهيئة التدريسية في المدارس من حيث الإجازة الدورية السنوية، وإجازة منتصف العام الدراسي",
   "short_name": "قرار مجلس الوزراء رقم (30) لسنة 1995 بشأن منح علاوة توجيه للموجهين والموجهات ورؤساء ورئيسات التعليم القطريين ومساواة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1593&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1593&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمنح علاوة توجيه قدرها (600) ستمائة ريال شهرياً للموجهين والموجهات ورؤساء ورئيسات التعليم القطريين، تصرف عن أيام العمل الفعلية، وترصد المبالغ اللازمة لها في موازنة وزارة التربية والتعليم بدءً من موازنة 95/1996."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تسري على الموجهين والموجهات القواعد المطبقة على العاملين في الهيئة التدريسية بالمدارس من حيث الإجازة الدورية السنوية، وإجازة منتصف العام الدراسي."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من بداية العام الدراسي 95/1996. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

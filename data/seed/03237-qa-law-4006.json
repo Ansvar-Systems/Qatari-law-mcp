@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (20) لسنة 2007 بتشكيل مجلس إدارة الهيئة العامة للتقاعد والمعاشات",
   "short_name": "قرار أميري رقم (20) لسنة 2007 بتشكيل مجلس إدارة الهيئة العامة للتقاعد والمعاشات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4006&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4006&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة الهيئة العامة للتقاعد والمعاشات برئاسة محافظ مصرف قطر المركزي، وممثل عن وزارة المالية نائباً للرئيس، وعضوية ممثل عن كل من الجهات التالية:\n1- وزارة الدفاع.\n2- وزارة الطاقة والصناعة.\n3- وزارة الداخلية.\n4- وزارة العدل.\n5- وزارة العمل والشؤون الاجتماعية.\n6- المجلس الأعلى للتعليم.\n7- جامعة قطر.\n8- الأمانة العامة للتخطيط التنموي.\n9- الشركات المساهمة (البنوك)، يختاره مجلس الوزراء.\nوتفوض الجهات المشار إليها في تسمية ممثليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات، ويتولى الأعضاء عملهم فيه بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

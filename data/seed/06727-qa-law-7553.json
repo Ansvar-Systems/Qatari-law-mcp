@@ -4,8 +4,21 @@
   "title": "قرار رقم (10) لسنة 2018م بتخويل بعض موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (10) لسنة 2018م بتخويل بعض موظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7553&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7553&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التنمية الإدارية والعمل والشؤون الاجتماعية التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط واثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (1) لسنة 2014 م، المشار إليه والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nبثينة صالح على الحسن المهندي.\nأخصائي اجتماعي أول.\n2\nسلوى جاسم درويش عوجان.\nفني تدريب نسوي ثاني.\n3\nهيا محمد سعد الفهد النعيمي.\nفني تدريب نسوي ثالث.\n4\nأحمد داود سلمان أحمد الصايغ.\nاستشاري اجتماعي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

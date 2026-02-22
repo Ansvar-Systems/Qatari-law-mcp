@@ -4,8 +4,21 @@
   "title": "قرار وزير الدولة للشئون الداخلية رقم (66) لسنة 2001 بتعديل الجدول رقم (2) المرافق للمرسوم بقانون (20) لسنة 1998 بشأن تحديد فئات وقواعد الرسوم والأجور التي تحصلها وزارة الداخلية والغرامات التي يجوز التصالح عليها في جرائم دخول وإقامة الأجانب في قطر",
   "short_name": "قرار وزير الدولة للشئون الداخلية رقم (66) لسنة 2001 بتعديل الجدول رقم (2) المرافق للمرسوم بقانون (20) لسنة 1998 بشأن...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2163&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2163&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي البندين رقمي (6)، (7) من الجدول رقم (2) المرافق للمرسوم بقانون رقم (20) لسنة 1998 المشار إليه، النصان التاليان:\nبند (6):\n«تأشيرة دخول لمدة أسبوعين لرجال الأعمال أو تمديدها (50 ريال)».\nبند (7):\n«تأشيرة سياحة لمدة أسبوعين أو تمديدها (50 ريال و20 ريال عن كل مرافق)»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار وزير الأعمال والتجارة رقم (109) لسنة 2011 بتأسيس شركة مساهمة قطرية خاصة بإسم/ شركة وادي السيل القابضة",
   "short_name": "قرار وزير الأعمال والتجارة رقم (109) لسنة 2011 بتأسيس شركة مساهمة قطرية خاصة بإسم/ شركة وادي السيل القابضة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4490&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2011.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4490&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لمصرف قطر المركزي أن يؤسس (شركة مساهمة قطرية خاصة) تسمى \"شركة وادي السيل القابضة\" برأس مال قدره (10,000,000) عشرة مليون ريالاً قطرياً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسس الإلتزام بأحكام وثيقة التأسيس و النظام الأساسي المرفق نصهما بهذا القرار، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها فيما لم يرد بشأنه نص في وثيقة التأسيس و النظام الأساسي ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

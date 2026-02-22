@@ -4,8 +4,27 @@
   "title": "قرار بتعديل النظام الاساسي لمؤسسة التعليم فوق الجميع",
   "short_name": "قرار بتعديل النظام الاساسي لمؤسسة التعليم فوق الجميع",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4765&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4765&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعدل النظام الاساسي لمؤسسة التعليم فوق الجميع لتوفير المرونة في ادارة شؤونها ولاستقطاب شخصيات عالمية للمشاركة بصورة فعالة في انشطتها، وذلك على النحو المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بالتعديلات على النظام الاساسي لمؤسسة التعليم فوق الجميع المرفقة بهذا القرار وتسجل لدى الجهة المختصة بالتوثيق التي تتولى نشره في الجريدة الرسمية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يبقى النظام الاساسي السابق المؤرخ 16/4/2009 ساري المفعول بما لا يتعارض مع التعديلات المرفقة."
+    }
+  ],
   "definitions": []
 }

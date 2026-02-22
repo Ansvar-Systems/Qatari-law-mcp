@@ -4,8 +4,21 @@
   "title": "مـــرســـوم رقـــم (38) لـسـنـــة 2025 بـالـتـصـديــق عـلـى اتـفـاق تـكـمـيـلـي لاتـفــاق أســاسـي بـين حـكـومـة دولـة قـطـر وصـنـدوق الأمم الأمم لـلـطـفـولـة",
   "short_name": "مـــرســـوم رقـــم (38) لـسـنـــة 2025 بـالـتـصـديــق عـلـى اتـفـاق تـكـمـيـلـي لاتـفــاق أســاسـي بـين حـكـومـة دولـ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10028&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10028&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُـــودق عـلـــى اتـفـــاق تــكـميـلـــي لإتـفـــاق أسـاســـي بـــين حـكـومـــة دولـــة قطـــر وصنـــدوق الأمم المتـحـــدة لـلـطـفـولـــة، المـوقـــع بمـديـنـــة نـيـويـــورك بـتـاريـــخ 07/ 02/ 2025، المـرفــق نـصــه بـهــذا المـرسـوم، وتـكــون لـه قـوة الـقـانــون، وفقاً للمادة (68) مــن الـدسـتـور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عـلـى جـمـيـع الجـهـات المـخـتـصـة، كـل فـيـمـا يـخـصـه، تـنـفـيـذ هـذا المـرســوم. ويُـعـمـل بـه مـن تـاريـخ صــدوره. ويُـنـشــر فـي الجـريــدة الـرسـمـيـة."
+    }
+  ],
   "definitions": []
 }

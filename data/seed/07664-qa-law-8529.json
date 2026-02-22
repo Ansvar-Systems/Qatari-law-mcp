@@ -4,8 +4,21 @@
   "title": "قرار رقم (95) لسنة 2020 بتخويل بعض موظفي وزارة الصحة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (95) لسنة 2020 بتخويل بعض موظفي وزارة الصحة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8529&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8529&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (2) لسنة 1983 المشار إليه أعلاه والقرارات المنفّذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nالسيدة / حصة يوسف احمد العبدالله\nمشرف تجديد\n2\nالدكتورة / مريم إبراهيم الهيدوس\nمنسق تسجيل\n3\nالسيدة / حبيبة مبارك الكواري\nأخصائي تسجيل\n4\nالسيدة / هبة خالد البيتموني\nاخصائي ترخيص\n5\nالدكتورة / هاجر عبدالكريم يوسف\nمدقق شهادات طبية\n6\nالدكتورة / أمينة حمزة\nمنسق تسجيل\n7\nالدكتورة / سارة سعيد السنوي\nمنسق"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصه كل فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تار&#1740;خ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

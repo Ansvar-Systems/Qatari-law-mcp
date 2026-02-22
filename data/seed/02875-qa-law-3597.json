@@ -4,8 +4,21 @@
   "title": "قرار رقم (159) لسنة 2009 بإلغاء تخويل بعض موظفي وزارة الأعمال والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (159) لسنة 2009 بإلغاء تخويل بعض موظفي وزارة الأعمال والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3597&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3597&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة لِكُلٍ من:\n1. ناصر سلطان السويدي.\n2. بندر سعد العتيبي.\n3. راشد محمد آل خليفة.\nوالموظفين بوزارة الأعمال والتجارة، والسابق منحها لهم بموجب قرارات النائب العام أرقام (79) لسنة 2007 ( 30 - 154 ) لسنة 2008."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

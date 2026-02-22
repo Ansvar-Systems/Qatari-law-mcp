@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (3) لسنة 2024 بشأن منح تراخيص إقامة بدون مستقدم لبعض الفئات",
   "short_name": "قرار مجلس الوزراء رقم (3) لسنة 2024 بشأن منح تراخيص إقامة بدون مستقدم لبعض الفئات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9528&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9528&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجوز للوحدة الإدارية المختصة بوزارة الداخلية إصدار سمات دخول ومنح تراخيص إقامة بدون مستقدم للفئات التالية :\n1 - رواد الأعمال الخاضعين لأحكام القوانين المنظمة لتأسيس الأعمال والشركات في الدولة\n2- ذوي المواهب في المجالات التكنولوجية أو العلمية أو الإبداعية أو الرياضية أو الثقافية أو الفنية .\nويكون دخول وخروج وإقامة هذه الفئات وفقاً للأحكام المبينة في الفصل السابع من القانون رقم (21) لسنة 2015 المشار إليه ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

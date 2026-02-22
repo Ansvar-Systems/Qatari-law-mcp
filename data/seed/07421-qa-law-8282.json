@@ -4,8 +4,21 @@
   "title": "قرار رقم (40) لسنة 2020م بتخويل بعض موظفي هيئة تنظيم الاتصالات صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (40) لسنة 2020م بتخويل بعض موظفي هيئة تنظيم الاتصالات صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8282&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8282&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي هيئة تنظيم الاتصالات التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (34) لسنة 2006 م المشار إليه والقرارات المُنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nزين العابدين عمر الشيخ\nخبير أول ترخيص الطيف الترددي\n2\nعبدالرحمن محمد علي عليان\nفني رابع تفتيش اعتماد النوع\n3\nدلال أحمد إبراهيم الاسحاق\nمهندس ثالث البنية التحتية والشبكات\n4\nعطاالله خلف إبراهيم جراح\nخبير تركيب النطاق العريض\n5\nأحمد جمعه حموده السلاخي\nأخصائي أول حماية المستهلك\n6\nالسيد علي جمعة السيد علي\nأخصائي أول حماية المستهلك\n7\nحميد محمد حميد خلفان المنصوري\nأخصائي قانوني\n8\nسارة عبدالعزيز صالح الباكر\nباحث قانوني ثالث\n9\nسرور محمد العلي\nباحث قانوني ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

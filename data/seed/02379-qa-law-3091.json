@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (54) لسنة 2009 بالتصديق على اتفاقية الاستكشاف ومشاركة الإنتاج للمنطقة الاستكشافية رقم \"BC\" البحرية، بين حكومة دولة قطر والمؤسسة الصينية الوطنية البحرية للبترول للشرق الأوسط (قطر) المحدودة",
   "short_name": "مرسوم رقم (54) لسنة 2009 بالتصديق على اتفاقية الاستكشاف ومشاركة الإنتاج للمنطقة الاستكشافية رقم \"BC\" البحرية، بين حكو...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3091&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3091&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية الاستكشاف ومشاركة الإنتاج للمنطقة الاستكشافية رقم \"BC\" البحرية، الموقعة بتاريخ 31/8/2009 المشار إليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

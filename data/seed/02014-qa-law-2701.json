@@ -4,8 +4,45 @@
   "title": "مرسوم بقانون رقم (23) لسنة 2002 بإلغاء كلية قطر التقنية",
   "short_name": "مرسوم بقانون رقم (23) لسنة 2002 بإلغاء كلية قطر التقنية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2701&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2701&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُوقف قبول الطلاب الجدد بكلية قطر التقنية بدءاً من العام الدراسي 2002/2003."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تستمر الكلية في مباشرة أعمالها حتى يتخرج الطلاب الذين التحقوا بها، ولمدة لا تجاوز ثلاث سنوات من تاريخ العمل بهذا القانون، ويجوز مد هذه المدة لمدة أقصاها سنة واحدة بقرار من الأمير.\nوفي نهاية المدة المشار إليها تلغى الكلية وتؤول أموالها الثابتة والمنقولة إلى الدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتولى إدارة الكلية واتخاذ الإجراءات اللازمة لتصفيتها، وحتى إلغائها نهائياً، لجنة خاصة يصدر بتشكيلها وتحديد اختصاصاتها قرار من الأمير."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يُنقل إلى جامعة قطر من يرى نقله من أعضاء هيئة التدريس، وموظفي الكلية القطريين، بذات أوضاعهم الوظيفية ودرجاتهم المالية وقت النقل، وتتولى وزارة شؤون الخدمة المدنية والإسكان تسوية أوضاع الذين لا يتم نقلهم."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يستمر العمل بأحكام القانون رقم (14) لسنة 1998 المشار إليه، والقرارات المنفذة له، وذلك فيما لا يتعارض مع أحكام هذا القانون وحتى نهاية المدة المنصوص عليها في المادة ( 2 ) منه."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

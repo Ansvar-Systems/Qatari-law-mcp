@@ -4,8 +4,21 @@
   "title": "مرسوم رقم ( 31 ) لسنة 2024 بالتصديق على مذكرة تفاهم للتعاون في المجالات القانونية بين وزارة العدل في دولة قطر ووزارة الشؤون القانونية وغرف النائب العام في جمهورية غويانا التعاونية",
   "short_name": "مرسوم رقم ( 31 ) لسنة 2024 بالتصديق على مذكرة تفاهم للتعاون في المجالات القانونية بين وزارة العدل في دولة قطر ووزارة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9585&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9585&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صودق على مذكرة تفاهم للتعاون في المجالات القانونية بين وزارة العدل في دولة قطر ووزارة الشؤون القانونية وغرف النائب العام في جمهورية غويانا التعاونية ، الموقعة بمدينة جورج تاون بتاريخ 2023/09/12 ، المرفق نصها بهذا المرسوم، وتكون لها قوة القانون ، وفقاً للمادة (68) من الدستور"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

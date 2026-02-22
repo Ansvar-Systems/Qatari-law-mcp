@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (65) لسنة 1972 بالتصديق على اتفاقية جنيف المبرمة بين بلدان الخليج ومجموعة الشركات البترولية بتاريخ 20/1/1972",
   "short_name": "مرسوم رقم (65) لسنة 1972 بالتصديق على اتفاقية جنيف المبرمة بين بلدان الخليج ومجموعة الشركات البترولية بتاريخ 20/1/1972",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3109&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1972.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3109&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يصادق على اتفاقية جنيف المبرمة بين بلدان الخليج ومجموعة الشركات البترولية بتاريخ 20/1/1972."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينشر هذا المرسوم في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

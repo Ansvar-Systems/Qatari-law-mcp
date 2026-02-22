@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (13) لسنة 1999 بالموافقة على انضمام دولة قطر إلى اتفاقية فيينا للعلاقات القنصلية لسنة 1963",
   "short_name": "مرسوم رقم (13) لسنة 1999 بالموافقة على انضمام دولة قطر إلى اتفاقية فيينا للعلاقات القنصلية لسنة 1963",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=899&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=899&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى اتفاقية فيينا للعلاقات القنصلية التي عقدت في فيينا بتاريخ 24 ابريل عام 1963، المرفق نصها بهذا المرسوم، ويكون للاتفاقية قوة القانون وفقا للمادة ( 24 ) من النظام الأساسي المؤقت المعدل، مع مراعاة التحفظات الواردة عليها بوثيقة الانضمام المرافقة لهذا المرسوم."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

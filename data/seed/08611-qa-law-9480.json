@@ -4,8 +4,27 @@
   "title": "قرار وزير الداخلية رقم (149) لسنة 2023 بتحديد موعد الانتخاب التكميلي لعضو مجلس الشورى عن الدائرة الانتخابية الحادية والعشرين",
   "short_name": "قرار وزير الداخلية رقم (149) لسنة 2023 بتحديد موعد الانتخاب التكميلي لعضو مجلس الشورى عن الدائرة الانتخابية الحادية و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9480&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9480&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحدد يوم السبت الرابع والعشرين من شهر جمادى الآخرة عام 1445 هجرية،\nالموافق للسادس من شهر يناير عام 2024 ميلادية، موعداً للانتخاب التكميلي لعضو مجلس الشورى عن الدائرة الانتخابية الحادية والعشرين."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُدعى المواطنون الذين يتمتعون بحق الانتخاب وتتوفر فيهم شروط الناخب، والمقيدة أسماؤهم بجدول الناخبين، بالدائرة الانتخابية الحادية والعشرين، للإدلاء بأصواتهم لانتخاب عضو مجلس الشورى عن الدائرة المذكورة، في الموعد المنصوص عليه في المادة السابقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُلّ فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

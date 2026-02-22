@@ -4,8 +4,21 @@
   "title": "قرار رقم (118) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (118) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9089&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9089&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (1) لسنة 2012 المشار إليه أعلاه، والقرارات المنفذة له، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nطالب علي حمد الفهيدي\nمراقب نظافة عامة ثالث\n2\nعبدالعزيز مسلم الدوسري\nكاتب متابعة ثالث\n3\nراشد راشد الهاجري\nاستشاري تفتيش نظافة عامة\n4\nحمد صقر صالح المهندي\nمفتش حدائق أول\n5\nصالح علي محمد المهندي\nمشرف تفتيش نظافة وصحة بيئية\n6\nمحمد راشد ثلاب الهاجري\nمنسق متابعة ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

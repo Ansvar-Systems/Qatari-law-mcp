@@ -4,8 +4,33 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (133) لسنة 2013 بتعديل بعض أحكام قرار وزير المالية والاقتصاد والتجارة رقم (3) لسنة 1992 بتنظيم أعمال الدلالة لبيع الخضر والفاكهة في السوق المركزي",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (133) لسنة 2013 بتعديل بعض أحكام قرار وزير المالية والاقتصاد والتجارة رقم (3) لسنة 19...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6555&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6555&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"في تطبيق أحكام هذا القرار تكون للكلمات التالية المعاني الموضحة قرين كل منها، ما لم يقتض السياق معنى آخر:\nالوزارة: وزارة الاقتصاد والتجارة.\nالوزير: وزير الاقتصاد والتجارة.\nالإدارة: إدارة حماية المستهلك بالوزارة.\nالدلالة: الوساطة والسعي في بيع السلع بطريق المزايدات العلنية في السوق المركزي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنصي المادتين ( 1 )، ( 3 بند 3) من قرار وزير المالية والاقتصاد والتجارة رقم (3) لسنة 1992 المشار إليه، النصان التاليان:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تستبدل كلمة \"السلع\" بعبارة \"الخضر والفاكهة\" الواردة بالمواد ( 2 )، ( 11 )، ( 12 )، ( 16 ) من قرار وزير المالية والاقتصاد والتجارة رقم (3) لسنة 1992، المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

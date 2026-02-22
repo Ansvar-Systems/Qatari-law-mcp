@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (18) لسنة 2017 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها الأمانة العامة لمجلس الوزراء وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (18) لسنة 2017 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها الأمانة العامة لمجلس الوزراء و...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7242&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7242&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى اختصاصات إدارة المتابعة، المنصوص عليها في المادة (8) من القرار الأميري رقم (32) لسنة 2014 المشار إليه، الاختصاصان التاليان:\n\"7- تسلم وتصنيف وقيد البريد الصادر والوارد.\n8- تنظيم أرشيف الأمانة العامة وحفظ الوثائق وفقاً لأحدث الطرق.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُحذف من اختصاصات إدارة الشؤون الإدارية والمالية، الاختصاصان المنصوص عليهما في البندين (13)، (14) من المادة (9) من القرار الأميري رقم (32) لسنة 2014 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

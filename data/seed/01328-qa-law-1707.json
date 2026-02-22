@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (7) لسنة 1992 بشأن اعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) لسنة 1992 الخاص بإتفاقية قرض تمويل إنشاء ميناء رأس لفان والضمان الخاص بها",
   "short_name": "قرار مجلس الوزراء رقم (7) لسنة 1992 بشأن اعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) لسنة 1992 الخا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1707&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1992.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1707&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "إقرار القرار الصادر عن مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) لسنة 1992 بشأن عقد اتفاقية قرض مع مجوعة بنوك بقيادة \"ميديوكريدتو\" الايطالي مقداره أربعمائة مليون دولار أمريكي (-/400 مليون) بضمان الدولة لتمويل إنشاء \"ميناء رأس لفان\"، ويخول وزير المالية والبترول بالإنابة بتوقيع اتفاقية القرض المذكور والضمان الخاص بها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

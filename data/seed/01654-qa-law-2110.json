@@ -4,8 +4,21 @@
   "title": "قرار وزاري رقم (4) لسنة 1984 بشأن البنوك المرخص لها بتلقي الاكتتاب في أسهم شركات المساهمة وبقبول ايداع الأسهم المخصصة لضمان إدارة أعضاء مجلس الادارة",
   "short_name": "قرار وزاري رقم (4) لسنة 1984 بشأن البنوك المرخص لها بتلقي الاكتتاب في أسهم شركات المساهمة وبقبول ايداع الأسهم المخصصة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2110&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1984.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2110&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص للبنوك التالية بتلقي الاكتتاب في أسهم شركات المساهمة - وبقبول ايداع الأسهم المخصصة لضمان إدارة أعضاء مجالس إدارة هذه الشركات:\n1- بنك قطر الوطني\n2- البنك الأهلي القطري\n3- مصرف قطر الإسلامي\n4- البنك التجاري المحدود\n5- بنك الدوحة المحدود\n6- البنك العربي\n7- بنك عمان\n8- تشارتد بنك\n9- بنك بارى با\n10- بنك صادرات إيران\n11- البنك البريطاني للشرق الأوسط\n12- جريندليز بنك\n13- بنك المشرق\n14- يونيتد بنك\n15- سيتي بنك"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينشر هذا القرار في الجريدة الرسمية. ويعمل به من تاريخ نشره."
+    }
+  ],
   "definitions": []
 }

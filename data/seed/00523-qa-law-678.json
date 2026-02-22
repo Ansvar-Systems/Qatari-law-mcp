@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (1) لسنة 2002 بتشكيل المجلس الوطني للثقافة والفنون والتراث",
   "short_name": "قرار أميري رقم (1) لسنة 2002 بتشكيل المجلس الوطني للثقافة والفنون والتراث",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=678&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=678&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل المجلس الوطني للثقافة والفنون والتراث من السادة:\n1- الشيخ/ سعود بن محمد بن علي آل ثاني\nرئيسا\n2- السيد/ محمد حمد النصر\nنائبا للرئيس\n3- السيد/ موسى زينل موسى\nعضواً\n4- السيد/ محمد جاسم الخليفي\nعضواً\n5- الدكتورة/ هدى محمد عبد اللطيف النعيمي\nعضواً\n6- السيد/ محمد سعد البلم\nعضواً\n7- السيد/ فالح العجلان الهاجري\nعضواً\n8- الدكتورة/ زكية علي مال الله\nعضواً\n9- السيد/ علي سعيد القحطاني\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مدة المجلس ثلاث سنوات تبدأ من تاريخ صدور هذا القرار، ويتولى أعضاء المجلس عملهم في المجلس بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تلغى القرارات الأميرية أرقام (51) لسنة 1998 ، (4) لسنه 2000، (17) لسنة 2000 المشار إليها."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

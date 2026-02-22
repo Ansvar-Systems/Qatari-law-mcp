@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (35) لسنة 2020 بتعديل بعض أحكام القرار رقم (33) لسنة 2017 بتشكيل لجنة لفض المنازعات الإدارية الناشئة عن تطبيق أحكام قانون تنظيم المناقصات والمزايدات ولائحته التنفيذية والقواعد والإجراءات الواجب اتباعها أمامه",
   "short_name": "قرار مجلس الوزراء رقم (35) لسنة 2020 بتعديل بعض أحكام القرار رقم (33) لسنة 2017 بتشكيل لجنة لفض المنازعات الإدارية ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8493&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8493&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيد / نايف معيض الحبابي ، محل السيد / عبدالعز&#1740;ز ز&#1740;د راشد آل طالب ، في عضوية لجنة فض المنازعات الإدارية الناشئة عن تطبيق أحكام قانون تنظيم المناقصات والمزايدات ولائحته التنفيذية ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تار&#1740;خ صدوره ، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

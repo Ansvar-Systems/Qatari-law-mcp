@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (18) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1995 بتشكيل مجلس إدارة صندوق الزكاة",
   "short_name": "قرار مجلس الوزراء رقم (18) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1995 بتشكيل مجلس إدارة صندوق الزكاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1479&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1479&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضم السيد/عبد العزيز الحمادي، مساعد مدير إدارة الشئون الإدارية والمالية بوزارة الأوقاف والشئون الإسلامية إلى عضوية مجلس إدارة صندوق الزكاة المنصوص عليه في قرار مجلس الوزراء رقم (9) لسنة 1995 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

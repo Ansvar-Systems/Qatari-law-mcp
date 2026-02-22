@@ -4,8 +4,27 @@
   "title": "قرار رقم (65) لسنة 2017 بتعديل قراري النائب العام رقمي (65) و(128) لسنة 2013 بشأن تخويل بعض موظفي وزارة الثقافة والفنون والتراث صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (65) لسنة 2017 بتعديل قراري النائب العام رقمي (65) و(128) لسنة 2013 بشأن تخويل بعض موظفي وزارة الثقافة والفن...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7302&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7302&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغي صفة مأموري الضبط القضائي الممنوحة لكل من نجلاء فيصل آل ثاني، وأشقر أحمد أشقر العريدي، ومحمد محمد الجيدة، وعبدالله جاسم المعيدي الموظفين بوزارة الثقافة والفنون والتراث، والسابق منحها لهم بموجب قراري النائب العام رقمي ( 65 ) و( 128 ) لسنة 2013م المُشار إليهما."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون لموظفي وزارة الثقافة والرياضة التالية أسماؤهم صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (8) لسنة 1979 المشار إليه والقرارات المنفذة له وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nعبدالرحمن أحمد عبدالله الدرهم.\nإدارة المطبوعات والنشر.\n2\nعلى راشد محمد المري.\nإدارة المطبوعات والنشر.\n3\nمحمد أحمد محمد سرور.\nإدارة المطبوعات والنشر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

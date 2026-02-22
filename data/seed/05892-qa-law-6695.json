@@ -4,8 +4,21 @@
   "title": "قرار رقم (103) لسنة 2015م بشأن تخويل بعض موظفي هيئة تنظيم الأعمال الخيرية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (103) لسنة 2015م بشأن تخويل بعض موظفي هيئة تنظيم الأعمال الخيرية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6695&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6695&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي هيئة تنظيم الاعمال الخيرية التالية أسماؤهم، صفة مأموري الضبط القضائي قي ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (15) لسنة 2014 بشأن تنظيم الأعمال الخيرية، المشار اليه والقرارات المنفذة له وهم:\nم\nالإسم\nالرقم الشخصي\n1\nطلال صباح العبدالله\n27263400347\n3\nمحمد سعيدان الراشدي\n27663401810"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

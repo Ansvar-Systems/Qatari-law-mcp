@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (26) لسنة 2022 بالتصديق على اتفاقية بين حكومة دولة قطر والاتحاد الأوروبي والمجموعة الأوروبية للطاقة الذرية بشأن تأسيس بعثة الاتحاد الأوروبي في دولة قطر وامتيازاتها وحصاناتها",
   "short_name": "مرسوم رقم (26) لسنة 2022 بالتصديق على اتفاقية بين حكومة دولة قطر والاتحاد الأوروبي والمجموعة الأوروبية للطاقة الذرية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8909&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8909&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُودق على اتفاقية بين حكومة دولة قطر والاتحاد الأوروبي والمجموعة الأوروبية للطاقة الذرية بشأن تأسيس بعثة الاتحاد الأوروبي في دولة قطر وامتيازاتها وحصاناتها، المُوقعة بمدينة بروكسل بتاريخ 21/02/2022، المُرفق نصها بهذا المرسوم، وتكون لها قوة القانون، وفقاً للمادة (68) من الدستور"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

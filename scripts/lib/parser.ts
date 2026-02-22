@@ -360,10 +360,45 @@ const ORDINAL_SECTION_MAP: Record<string, string> = {
   'twenty-eighth': '28',
   'twenty-ninth': '29',
   'thirtieth': '30',
+  // Arabic ordinal headings commonly used in decrees/announcements.
+  'اولا': '1',
+  'ثانيا': '2',
+  'ثالثا': '3',
+  'رابعا': '4',
+  'خامسا': '5',
+  'سادسا': '6',
+  'سابعا': '7',
+  'ثامنا': '8',
+  'تاسعا': '9',
+  'عاشرا': '10',
+  'الحادي-عشر': '11',
+  'الثاني-عشر': '12',
+  'الثالث-عشر': '13',
+  'الرابع-عشر': '14',
+  'الخامس-عشر': '15',
+  'السادس-عشر': '16',
+  'السابع-عشر': '17',
+  'الثامن-عشر': '18',
+  'التاسع-عشر': '19',
+  'العشرون': '20',
 };
 
 function normaliseDigits(value: string): string {
   return value.replace(/[٠-٩۰-۹]/g, digit => DIGIT_MAP[digit] ?? digit);
+}
+
+function normaliseArabicOrdinal(value: string): string {
+  return value
+    .replace(/[\u064B-\u065F\u0670]/g, '') // diacritics
+    .replace(/\u0640/g, '') // tatweel
+    .replace(/[أإآٱ]/g, 'ا')
+    .replace(/ى/g, 'ي')
+    .replace(/ؤ/g, 'و')
+    .replace(/ئ/g, 'ي')
+    .replace(/[^\u0621-\u064A\s-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .replace(/\s/g, '-');
 }
 
 function parseSectionToken(value: string): string | null {
@@ -386,6 +421,11 @@ function parseSectionToken(value: string): string | null {
     return ORDINAL_SECTION_MAP[ordinalKey];
   }
 
+  const arabicOrdinalKey = normaliseArabicOrdinal(normalised);
+  if (arabicOrdinalKey && arabicOrdinalKey in ORDINAL_SECTION_MAP) {
+    return ORDINAL_SECTION_MAP[arabicOrdinalKey];
+  }
+
   return null;
 }
 
@@ -393,7 +433,7 @@ function matchOrdinalHeading(line: string): { section: string; inlineText?: stri
   const compact = normaliseWhitespace(normaliseDigits(line));
   if (!compact) return null;
 
-  const withText = compact.match(/^([A-Za-z]+(?:[-\s][A-Za-z]+)?)\s*[:.)-]\s*(.*)$/);
+  const withText = compact.match(/^([A-Za-z\u0600-\u06FF]+(?:[-\s][A-Za-z\u0600-\u06FF]+)?)\s*[:.)\-،]\s*(.*)$/);
   if (withText) {
     const section = parseSectionToken(withText[1]);
     if (!section) return null;
@@ -401,7 +441,7 @@ function matchOrdinalHeading(line: string): { section: string; inlineText?: stri
     return { section, inlineText: inlineText || undefined };
   }
 
-  const standalone = compact.match(/^([A-Za-z]+(?:[-\s][A-Za-z]+)?)\s*[:.)-]?$/);
+  const standalone = compact.match(/^([A-Za-z\u0600-\u06FF]+(?:[-\s][A-Za-z\u0600-\u06FF]+)?)\s*[:.)\-،]?$/);
   if (!standalone) return null;
   const section = parseSectionToken(standalone[1]);
   if (!section) return null;
@@ -634,6 +674,38 @@ function parseLinesToDocument(lines: string[]): { provisions: ParsedProvision[];
   return { provisions: deduped, definitions };
 }
 
+function buildSingleProvisionFallback(lines: string[]): { provisions: ParsedProvision[]; definitions: ParsedDefinition[] } | null {
+  const meaningful = lines
+    .map(line => normaliseWhitespace(line))
+    .filter(line => line.length > 0)
+    .filter(line => !/^فهرس الموضوعات$/.test(line))
+    .filter(line => !/^المواد$/.test(line))
+    .filter(line => !/^عدد المواد\s*:/.test(line))
+    .filter(line => !/^الميزان\s*\|/.test(line))
+    .filter(line => !/^الرجاء عدم اعتبار/.test(line));
+
+  if (meaningful.length === 0) {
+    return null;
+  }
+
+  const content = meaningful.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+  if (content.length < 40) {
+    return null;
+  }
+
+  return {
+    provisions: [
+      {
+        provision_ref: 'art1',
+        section: '1',
+        title: 'Article (1)',
+        content,
+      },
+    ],
+    definitions: [],
+  };
+}
+
 function extractElementInnerHtmlById(html: string, elementId: string, tagName = 'div'): string | null {
   const startRegex = new RegExp(`<${tagName}\\b[^>]*\\bid=["']${elementId}["'][^>]*>`, 'i');
   const startMatch = startRegex.exec(html);
@@ -710,7 +782,22 @@ export function parseLawViewWordLegislation(html: string): { provisions: ParsedP
 
   // Fallback parser pass on full HTML body if main content wrappers are not present.
   const fallbackLines = htmlToCleanLines(html);
-  return parseLinesToDocument(fallbackLines);
+  const fallback = parseLinesToDocument(fallbackLines);
+  if (fallback.provisions.length > 0) {
+    return fallback;
+  }
+
+  const singleFromPrimary = buildSingleProvisionFallback(primaryLines);
+  if (singleFromPrimary) {
+    return singleFromPrimary;
+  }
+
+  const singleFromFallback = buildSingleProvisionFallback(fallbackLines);
+  if (singleFromFallback) {
+    return singleFromFallback;
+  }
+
+  return fallback;
 }
 
 export function buildSeedDocument(

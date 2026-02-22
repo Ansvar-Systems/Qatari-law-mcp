@@ -4,8 +4,21 @@
   "title": "أمر أميري رقم (5) لسنة 2003 بتعيين نائب للقائد العام للقوات المسلحة",
   "short_name": "أمر أميري رقم (5) لسنة 2003 بتعيين نائب للقائد العام للقوات المسلحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5218&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5218&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين سمو الشيخ تميم بن حمد بن خليفة آل ثاني، ولي العهد، نائباً للقائد العام للقوات المسلحة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعمل بهذا الأمر الأميري من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

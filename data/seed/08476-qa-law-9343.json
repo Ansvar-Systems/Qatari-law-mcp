@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (35) لسنة 2023 بتعديل بعض أحكام القرار رقم (2) لسنة 2022 بإعادة تشكيل مجلس إدارة صندوق دعم وتأمين العمال",
   "short_name": "قرار رئيس مجلس الوزراء رقم (35) لسنة 2023 بتعديل بعض أحكام القرار رقم (2) لسنة 2022 بإعادة تشكيل مجلس إدارة صندوق دعم...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9343&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9343&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحل الشيخة/ نجوى بنت عبدالرحمن آل ثاني، محل السيّد/ محمد حسن العبيـدلي، نائباً للرئيس ممثلاً عن وزارة العمل، في عضوية مجلس إدارة صندوق دعم وتأمين العمال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر فى الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

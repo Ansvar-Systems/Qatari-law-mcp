@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (25) لسنة 2017 بتجديد مدة مجلس إدارة جهاز قطر للاستثمار",
   "short_name": "قرار أميري رقم (25) لسنة 2017 بتجديد مدة مجلس إدارة جهاز قطر للاستثمار",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7442&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7442&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُجدد مدة مجلس إدارة جهاز قطر للاستثمار، لمدة ثلاث سنوات، على النحو التالي:\n1. سمو الشيخ/ عبد الله بن حمد آل ثاني\nرئيساً.\n2. سعادة الشيخ/ أحمد بن جاسم بن محمد آل ثاني\nنائباً للرئيس.\n3. سعادة السيد/ علي شريف العمادي\nعضواً.\n4. سعادة الشيخ/ عبدالله بن سعود آل ثاني\nعضواً.\n5. سعادة الدكتور/ حسين علي العبدالله\nعضواً.\n6. سعادة السيد/ ناصر بن غانم الخليفي\nعضواً.\n7. السيد/ سعد شريدة الكعبي\nعضواً."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار وزير العدل رقم (10) لسنة 2026 بتسمية نائب رئيس وأعضاء لجنة قبول المحامين",
   "short_name": "قرار وزير العدل رقم (10) لسنة 2026 بتسمية نائب رئيس وأعضاء لجنة قبول المحامين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10294&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2026.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10294&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُسمّى نائب رئيس وأعضاء لجنة قبول المحامين على النحو التالي :\n1- وكيل الوزارة المساعد للشؤون القانونية\nممثلًا عن الوزارة\nنائباً للرئيس\n2- مدير إدارة شؤون المحاماة\nممثلًا عن الوزارة\n(عضواً وأميناً للسر)\n3- السيد/ عبدالله محمود سالم العامري\nرئيس بمحكمة الاستئناف\n(عضواً)\n4- السيد/ محسن محمود مصطفى القاضي\nرئيس بمحكمة الاستئناف\n(عضواً)\n5- السيد/ محمد راشد البنعلي\nمحام عام بالنيابة العامة\n(عضواً)\n6- السيد/ مبارك عبدالله السليطي\nمحام\n(عضواً)\n7- الشيخ الدكتور/ ثاني بن علي بن سعود آل ثاني\nمحام\n(عضواً)\n8- السيد/ محمد لحدان محمد الحسن المهندي\nمحام\n(عضواً)"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة ، كل فيما يخصه ، تنفيذ هذا القرار . ويُعمل به من تاريخ صدوره . ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

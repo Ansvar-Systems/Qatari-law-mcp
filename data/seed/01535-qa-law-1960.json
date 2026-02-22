@@ -4,8 +4,21 @@
   "title": "قرار وزير الصحة العامة رقم (24) لسنة 1998 بتعديل الجدولين رقمي (3) و(4) الملحقين بالقانون رقم (7) لسنة 1996 بشأن تنظيم العلاج الطبي والخدمات الصحية في الداخل",
   "short_name": "قرار وزير الصحة العامة رقم (24) لسنة 1998 بتعديل الجدولين رقمي (3) و(4) الملحقين بالقانون رقم (7) لسنة 1996 بشأن تنظي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1960&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1960&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بالجدولين رقمي (3) ، (4) المرافقين للقانون رقم (7) لسنة 1996 المشار إليه الجدولان رقما (3) و (4) المرافقان لهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

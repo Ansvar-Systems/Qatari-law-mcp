@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (22) لسنة 1980 بإنشاء منصب خبير الشرطة",
   "short_name": "قرار أميري رقم (22) لسنة 1980 بإنشاء منصب خبير الشرطة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=693&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1980.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=693&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينشأ في قيادة الشرطة منصب (خبير الشرطة)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تواجه المصروفات اللازمة لتنفيذ هذا القرار من الاحتياطي العام للدولة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يعين العميد يحيى حسين في منصب (خبير الشرطة)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

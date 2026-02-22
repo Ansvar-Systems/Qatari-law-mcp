@@ -4,8 +4,21 @@
   "title": "قرار رقم (54) لسنة 2015 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (54) لسنة 2015 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6590&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6590&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "( عدلت بموجب قرار وزاري 54/2020 ) ( عدلت بموجب قرار وزاري 49/2018 )\nيكون لموظفي وزارة الصحة العامة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وأثبات الجرائم التي تقع بالمخالفة لإحكام القوانين المشار إليها أعلاه، والقرارات المنفذة لها وهم:\nم\nالاسم\nالجهة\n2.\nالدكتور/ نبيله عبدالله المير.\nمؤسسة حمد الطبية\n3.\nالدكتور/ غانم علي المناعي.\nمؤسسة حمد الطبية\n6.\nالدكتور/ أحمد محمد المحمد.\nمؤسسة حمد الطبية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

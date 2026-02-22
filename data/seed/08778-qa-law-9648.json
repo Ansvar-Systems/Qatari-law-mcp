@@ -4,8 +4,33 @@
   "title": "قرار وزير البيئة والتغير المناخي رقم (21) لسنة 2024 بشأن تحديد رسوم التصريح بالمخيمات الشتوية",
   "short_name": "قرار وزير البيئة والتغير المناخي رقم (21) لسنة 2024 بشأن تحديد رسوم التصريح بالمخيمات الشتوية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9648&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9648&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد رسوم التصريح بالمخيمات الشتوية على النحو المبين بالجدول المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تعفى من رسوم التصريح بالمخيمات الشتوية المنصوص عليها في الجدول المرفق بهذا القرار الفئات التالية:\n1- المتقاعدين.\n2- الأشخاص ذوي الإعاقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى قرار وزير البلدية والبيئة رقم (288) لسنة 2019 المشار إليه، كما يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

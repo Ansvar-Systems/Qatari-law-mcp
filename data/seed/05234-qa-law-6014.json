@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (9) لسنة 2002 بمنح بدل حضور جلسات لرئيس وأعضاء مجلس إدارة مركز الدراسات القانونية والقضائية",
   "short_name": "قرار مجلس الوزراء رقم (9) لسنة 2002 بمنح بدل حضور جلسات لرئيس وأعضاء مجلس إدارة مركز الدراسات القانونية والقضائية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6014&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6014&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُمنح رئيس وأعضاء مجلس إدارة مركز الدراسات القانونية والقضائية بدلاً سنوياً عن حضور جلسات المجلس وفقاٌ لما يلي:\n1- (50,000) خمسين ألف ريال للرئيس.\n2- (40,000) أربعين ألف ريال لكل عضو من الأعضاء."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به اعتباراً من 15/7/2001. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

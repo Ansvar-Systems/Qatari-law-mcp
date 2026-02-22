@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (30) لسنة 2023 بتشكيل مجلس أمناء دار الوثائق القطرية",
   "short_name": "قرار أميري رقم (30) لسنة 2023 بتشكيل مجلس أمناء دار الوثائق القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9226&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9226&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس أمناء دار الوثائق القطرية، برئاسة سعادة السيّد/ عبدالله بن خليفة العطية، وسعادة وزير الثقافة نائباً للرئيس، وعضوية كُل من:\n1 - سعادة وزير الدولة لشؤون مجلس الوزراء.\n2- ممثل عن الديوان الأميري.\n3 - ممثل عن هيئة متاحف قطر.\n4 - ممثل عن مكتبة قطر الوطنية.\nوتختار الجهات المنصوص عليها في البنود (2)، (3)، (4)، من يُمثلها بالتنسيق مع سعادة رئيس مجلس الأمناء.\nويجوز بقرار من رئيس الديوان الأميري، إضافة عدد من الأعضاء لا يزيد على ثلاثة، من ذوي الخبرة والكفاءة في مجالات عمل دار الوثائق القطرية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس أربع سنوات، قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار.\nويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

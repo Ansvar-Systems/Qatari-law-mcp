@@ -4,8 +4,21 @@
   "title": "قرار رقم (36) لسنة 2016 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (36) لسنة 2016 بتخويل بعض موظفي وزارة الصحة العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6938&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6938&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الصحة العامة التالية أسماؤهم، صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (8) لسنة 1990 م، بشأن تنظيم مراقبة الأغذية الآدمية وتعديلاته، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nد. نصر أحمد إبراهيم حسنين.\nخبير أغذية\n2\nعبدالله سلطان محمد علي المحمدي.\nخبير تفتيش صحي\n3\nصلاح محمد محسن ناصر.\nمشرف تفتيش صحي أول\n4\nوضاح عبدالله العبو.\nطبيب بيطري\n5\nعبدالرحمن غالب عوض ناصر بن عامر.\nمشرف تفتيش صحي أول\n6\nالسيد عطية عبدالحق الجمل.\nطبيب بيطري\n7\nعصام سعيد إبراهيم.\nطبيب بيطري\n8\nأحمد السيد أحمد السيد عبدالرزاق.\nفني تفتيش صحي ثالث\n9\nعبدالله جمعة ماجد حمد الهاجري.\nمشرف تفتيش صحي\n10\nمحمد سالمان سليمان سالمان.\nطبيب بيطري"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

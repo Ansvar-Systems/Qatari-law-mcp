@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (5) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) في اجتماعه الثامن لعام 2002 فيما تضمنه من الموافقة على إبرام اتفاقية قرض مع بنك كريدتا نستالت فورفيدرفبو",
   "short_name": "قرار مجلس الوزراء رقم (5) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) في اجتماعه الثامن لعام 2002 فيما تضمن...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1672&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1672&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعتمد قرار مجلس إدارة قطر للبترول رقم (2) في اجتماعه الثامن لعام 2002، المنعقد بتاريخ 29/12/2002 فيما تضمنه من الموافقة على إبرام اتفاقية قرض بمبلغ (200) مائتي مليون دولار أمريكي مع بنك كريدتا نستالت فورفيدروفبو."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

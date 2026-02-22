@@ -4,8 +4,15 @@
   "title": "استدراك",
   "short_name": "استدراك",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6429&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6429&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "استدراك\nاستدراك 0 / 2014\nنص المادة (6) من قرار مجلس الوزراء رقم (33) لسنة 2014 المنشور في العدد (14) لسنة 2014 هو:\n«تُطبق اللجنة الأحكام والإجراءات والقواعد التي ينص عليها قانون تنظيم المناقصات والمزايدات المشار إليه، فيما لا يتعارض وأحكام هذا القرار.»"
+    }
+  ],
   "definitions": []
 }

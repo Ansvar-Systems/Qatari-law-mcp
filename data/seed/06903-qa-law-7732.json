@@ -4,8 +4,21 @@
   "title": "قرار رقم (89) لسنة 2018 بإلغاء تخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (89) لسنة 2018 بإلغاء تخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7732&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7732&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُلغى صفة مأموري الضبط القضائي الممنوحة لموظفي الاقتصاد والتجارة التالية اسماؤهم، والسابق منحها لهم بموجب قرارات النائب العام ارقام (76) لسنة 2016 و (67) لسنة 2017 ، و (38) لسنة 2018 المشار إليها وهم:_\nم\nالاسم\nالمسمى الوظيفي\n1\nالشافعي عبد البديع السيد\nفني مخازن سلع رابع\n2\nغانم أحمد الحمادي\nفني مخازن سلع رابع\n3\nعلي محمد الخزاعي\nفني مخازن سلع رابع\n4\nسعيد حمد المري\nكاتب اذون بيع سلع تموينية رابع\n5\nمحمد جاسم التميمي\nاخصائي تسجيل تراخيص\n6\nفهد عبدالعزيز اليافعي\nمراقب اسواق ثالث\n7\nمحمد علي الخالدي\nفني مخازن سلع رابع\n8\nأحمد محمد راشد المناعي\nكاتب اذون بيع سلع تموينية رابع\n9\nهادي حمد سالم العذبة\nمراقب اسواق رابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

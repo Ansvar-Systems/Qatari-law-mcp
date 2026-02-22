@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (10) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (1) لسنة 1990 بشأن تشكيل لجنتين لتثمين العقارات المنزوعة ملكيتها للمنفعة العامة",
   "short_name": "قرار مجلس الوزراء رقم (10) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (1) لسنة 1990 بشأن تشكيل لجنتين لتثمين ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1373&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1373&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يحل السيد/أحمد عبد الله السليطي، محل السيد/حسين رجب الإسماعيل، في عضوية اللجنة الأولى المنصوص عليها في المادة (1) من قرار مجلس الوزراء رقم (1) لسنة 1990 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يستبدل بنص المادتين ( 1 - فقرة أخيرة)، ( 13 ) من قرار مجلس الوزراء رقم (1) لسنة 1990 المشار إليه، النصان التاليان:\n( مادة «1» فقرة أخيرة ):\n«ويتولى أمانة السر في كل لجنة موظف من إدارة نزع الملكية، يصدر بندبه قرار من الوزير»."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Article (13)",
+      "content": "«يتقاضى كل من رئيس وأعضاء لجنتي التثمين مكافأة شهرية مقدارها (6000) ستة آلاف ريال، وإذا تخلف أي منهم عن حضور أحد الاجتماعات خصم منه مبلغ (1000) ألف ريال، عن كل اجتماع تخلف عنه.\nويتقاضى أمين سر كل لجنة مكافأة شهرية مقدارها (2000) ألفا ريال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتبارا من 28/1/2004. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

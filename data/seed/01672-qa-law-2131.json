@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (54) لسنة 1997 بتحديد القياس القانوني للأسماك المسموح بصيدها",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (54) لسنة 1997 بتحديد القياس القانوني للأسماك المسموح بصيدها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2131&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2131&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجب الا يقل قياس الأسماك المسموح بصيدها في دولة قطر، عن القياس القانوني الوارد قرين كل منها بالجدول التالي:\nجدول يبين القياس القانوني للأسماك الاقتصادية الهامة بدولة قطر\nم\nالاسم المحلي\nالاسم العلمي\nالقياس القانوني\n1\nهامور.\nEpinephelus tauvina\n25سم\n2\nبرطامة.\nEpinephelus fuscoguttatus\n25سم\n3\nقطوه.\nEpinephelus areolatus\n25سم\n4\nشنينوه.\nCephalopholis miniatus\n20سم\n5\nزبيدي صالة.\nCarangoides malabricus\n14سم\n6\nربيب.\nGnathanodon speciosus\n14سم\n7\nحمام.\nSeriolina nigrofasciata\n17سم\n8\nجش.\nCaranx gymnostethoides\n16سم\n9\nكراري.\nCaranx tille\n15سم\n10\nفرخ اليب.\nCaranx folvoguttatus\n14سم\n11\nبسار.\nScomberoides tol\n15سم\n12\nصافي عربي.\nSiganus canaliculatus\n15سم\n13\nصافي صنيفي.\nSiganus javus\n20سم\n14\nكوفر.\nArgyrops spinifer\n15سم\n15\nقرقفان.\nSparus sarba\n13سم\n16\nمجواه.\nDiplodus noct\n13سم\n17\nفسكر.\nMylio bifasciatus\n16سم\n18\nشعم.\nMylio latus\n16سم\n19\nشعري.\nLethrinus sp\n17سم\n20\nسولي.\nLethrinus miniatus\n17سم\n21\nكنعد.\nScomberomorus commerson\n30سم\n22\nخباط.\nScomberomorus guttatus\n30سم\n23\nحامر.\nUpeneus vittatus\n14سم\n24\nنيسر.\nLutjanus russelli\n14سم\n25\nحمره.\nLutjanus sanguineus\n17سم\n26\nباسي.\nNemipterus delagoae\n15سم\n27\nبياح عربي.\nValamugil seheli\n18سم\n28\nبياح صفطي.\nLiza macrolepis\n18سم\n29\nبدح.\nGerres oyena\n16سم\n30\nجد.\nSphyraena jello\n25سم\n31\nسكن.\nRachycentron canadus\n25سم\n32\nقين.\nScarus ghobban\n16سم\n33\nفرش.\nPlecrhyncncus cinctus\n17سم\n34\nأم الربيان.\nScyllarus thirouxi\n15سم\n35\nالخثاق.\nLoligo Vulgaris\n15سم\n36\nالجم.\nArius thalassinus\n20سم"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يجب على جميع الصيادين إرجاع الأسماك الصغيرة الحية، التي تقل عن القياس القانوني المنصوص عليه في المادة السابقة، إلى البحر، إذا وجدت بين الأسماك والربيان المصطادة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

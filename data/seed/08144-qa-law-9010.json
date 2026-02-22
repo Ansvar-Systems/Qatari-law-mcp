@@ -4,8 +4,21 @@
   "title": "قرار وزير الصحة العامة رقم (17) لسنة 2022 بتحديد قسط التأمين الصحي على خدمات الرعاية الصحية للزائرين",
   "short_name": "قرار وزير الصحة العامة رقم (17) لسنة 2022 بتحديد قسط التأمين الصحي على خدمات الرعاية الصحية للزائرين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9010&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9010&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"يُحدد قسط التأمين الصحي للزائرين، وفقاً للأحكام القانون رقم (22) لسنة 2021 المُشار إليه، بمبلغ مقداره (50) خمسون ريالاً لكُل شهر.\nويكون قسط التأمين بذات المبلغ عند تمديد سمة الدخول\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

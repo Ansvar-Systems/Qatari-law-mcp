@@ -4,8 +4,39 @@
   "title": "قانون رقم (16) لسنة 2005 بتعديل بعض أحكام القانون رقم (23) لسنة 1993 بشأن قوة الشرطة",
   "short_name": "قانون رقم (16) لسنة 2005 بتعديل بعض أحكام القانون رقم (23) لسنة 1993 بشأن قوة الشرطة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=106&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=106&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 25 )، ( 28 ) من القانون (23) لسنة 1993 المشار إليه النصان التاليان:"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Article (25)",
+      "content": "«تحدد الرواتب والعلاوات الدورية للضباط وضباط الصف والأفراد، العاملين والمحالين إلى قوة\nالاحتياط، وفقاً للجدولين رقمي (1) ، (2) المرفقين بهذا القانون.\nويجوز تعديل هذين الجدولين بقرار من الأمير.»"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Article (28)",
+      "content": "«يستحق العسكريون القطريون العاملون والمحالون إلى قوة الاحتياط بقوة الشرطة، علاوة اجتماعية على النحو الوارد بالجدول رقم (3) المرفق بهذا القانون.\nويجوز تعديل هذا الجدول بقرار من الأمير.\nوتحدد أنواع وفئات وشروط استحقاق البدلات والعلاوات الإضافية والفنية الأخرى، التي تمنح لأعضاء قوة الشرطة، بقرار من وزير الداخلية بناء على توصية من اللجنة العامة لشؤون الشرطة»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تلغى علاوات بدل السكن، وبدل الخدم، والأرزاق، والجندية، المقررة للعسكريين القطريين بقوة الشرطة بموجب التشريعات المشار إليها، كما يُلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به اعتباراً من 3/4/2005. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (46) لسنة 2008 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (46) لسنة 2008 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5866&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5866&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة الآتية أسماؤهم في الوظيفة المبينة قرين اسم كل منهم:\n1. السيد/ علي أحمد شكيب\nقاضياً بمحكمة التمييز\n2. السيد/ عبد المنعم أحمد محمد منصور\nقاضياً بمحكمة التمييز\n3. السيد/ طارق إبراهيم حسين العقاد\nقاضياً بمحكمة الاستئناف\n4. السيد/ مصطفى حسن محمد الجندي\nرئيساً بالمحكمة الابتدائية\n5. السيد/ محمد نصر محمد فتحي نصر\nرئيساً بالمحكمة الابتدائية\n6. السيد/ محمد مأمون سليمان محمد\nرئيساً بالمحكمة الابتدائية\n7. السيد/ عماد إبراهيم مصيلحي عفيفي\nقاضياً بالمحكمة الابتدائية\n8. السيد/ أيمن محمد علي محمد حسين\nقاضياً بالمحكمة الابتدائية\n9. السيد/ حازم حسن محمد مكاوي\nقاضياً بالمحكمة الابتدائية\n10. السيد/ هانئ حسن عبد الحميد حسن قنديل\nقاضياً بالمحكمة الابتدائية"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من 7/9/2008. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار وزير الشؤون البلدية والزراعة رقم (46) لسنة 2007 بشأن الإشتراطات الواجب توافرها في محال صالونات الحلاقة الرجالية والصالونات النسائية",
   "short_name": "قرار وزير الشؤون البلدية والزراعة رقم (46) لسنة 2007 بشأن الإشتراطات الواجب توافرها في محال صالونات الحلاقة الرجالية...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3776&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3776&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "مع مراعاة أحكام القرار الوزاري رقم (11) لسنة 1979 المشار إليه، لا يجوز الترخيص بفتح محال صالونات الحلاقة الرجالية والصالونات النسائية، أو تجديدها، ما لم يستوف المحل الإشتراطات اللازمة لمنح الترخيص، الواردة في الملحقين رقمي (1) ، (2) المرفقين بهذا القرار.\nكما يجب على المحال المرخص لها الالتزام بالاشتراطات الصحية والاشتراطات الأخرى الواردة بهذين الملحقين."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على محال صالونات الحلاقة الرجالية والصالونات النسائية المرخص لها قبل تاريخ العمل بهذا القرار، تعديل أوضاعها بما يتفق والاشتراطات الواردة في الملحقين رقمي (1) ، (2) المرفقين بهذا القرار، وذلك خلال ستة أشهر من تاريخ العمل به."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قـرار وزيـر الصحة العامة رقم (8) لسنة 2026 بتعديل الجدول رقم (2) الملحق بالقانون رقم (9) لسنة 1987 في شأن مكافحة المخدرات والمؤثرات العقلية الخطرة وتنظيم استعمالها والاتجار فيها",
   "short_name": "قـرار وزيـر الصحة العامة رقم (8) لسنة 2026 بتعديل الجدول رقم (2) الملحق بالقانون رقم (9) لسنة 1987 في شأن مكافحة المخ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10296&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2026.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10296&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بالبنود أرقام (11)، (12)، (13)، (14) من قائمة المواد المدرجة في البند رقم (ب &ndash; المؤثرات العقلية الخطرة) من الجدول رقم (2) الملحق بالقانون رقم (9) لسنة 1987 المشار إليه، البنود التالية:\n11-ليفامفيتامين\nLEVAMFETAMINE 1-alpha-methylphenethylamine\n12-ليفوميثامفيتامين\nLEVOMETHAMPHETAMINE N,alpha dimethylphenethylamine\n13-سيكوباربيتال\nSECOBARBITAL 5-allyl-5-(1-methylbutyl) barbituric acid\n14-راسيمات الميثامفيتامين\nMETHAMPHETAMINE RACEMATE (&plusmn;)&ndash; N x-dimethylphenetylamine"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُضاف إلى قائمة المواد المدرجة في البند رقم (ب &ndash; المؤثرات العقلية الخطرة) من الجدول رقم (2) الملحق بالقانون رقم (9) لسنة 1987 المشار إليه، بند نصه التالي:\n\" مجموعة نيتريت الألكيل (alkyl nitrites) بجميع مسمياتها وأنواعها وأشكالها \"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

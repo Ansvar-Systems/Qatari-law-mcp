@@ -4,8 +4,27 @@
   "title": "قانون رقم (18) لسنة 2014 بتعديل بعض أحكام المرسوم بقانون رقم (37) لسنة 2004 بمنح شركة المواصلات (شركة مساهمة قطرية) \"مواصلات\" امتياز إدارة وتسيير سيارات الأجرة",
   "short_name": "قانون رقم (18) لسنة 2014 بتعديل بعض أحكام المرسوم بقانون رقم (37) لسنة 2004 بمنح شركة المواصلات (شركة مساهمة قطرية) \"...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6370&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6370&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُضاف مادة برقم (3 مكرراً) إلى المرسوم بقانون رقم (37) لسنة 2004 المشار إليه، يكون نصها التالي:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "مكرراً):\n\"يجوز منح الشركة دعماً مالياً سنوياً من خزانة الدولة، لتغطية الفرق بين التكلفة الفعلية التي تتحملها الشركة لخدمة النقل، وما يدفعه الجمهور مقابل هذه الخدمة.\nويصدر بتحديد مقدار هذا الدعم ومواعيد صرفه قرار من مجلس الوزراء، بناءً على اقتراح وزير المالية.\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

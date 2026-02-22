@@ -4,8 +4,15 @@
   "title": "شهادة تسجيل رقم (2) لسنة 1980 دولة قطر شهادة تسجيل الجمعية القطرية للفنون التشكيلية",
   "short_name": "شهادة تسجيل رقم (2) لسنة 1980 دولة قطر شهادة تسجيل الجمعية القطرية للفنون التشكيلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3700&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1980.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3700&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "شهادة تسجيل رقم (2) لسنة 1980\nدولة قطر\nشهادة تسجيل\nالجمعية القطرية للفنون التشكيلية\nشهادة تسجيل رقم (2) لسنة 1980\nدولة قطر\nشهادة تسجيل\nالجمعية القطرية للفنون التشكيلية 2 / 1980\nبموجب هذا أشهد أن الجمعية القطرية للفنون التشكيلية قد سجلت تحت رقم (2) بوزارة العمل والشئون الاجتماعية بموجب قانون الجمعيات الخيرية رقم (2) لسنة 1974م وذلك بتاريخ 14 ربيع الثاني 1400هـ الموافق 1 مارس 1980م."
+    }
+  ],
   "definitions": []
 }

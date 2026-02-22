@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (220) لسنة 2007 بشأن اعتماد تبني مواصفات قياسية دولية كلوائح فنية قطرية",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (220) لسنة 2007 بشأن اعتماد تبني مواصفات قياسية دولية كلوائح فنية قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4415&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4415&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد تبني المواصفات القياسية الدولية أرقام (ISO 6935- 3/2007, ISO6935-1/2007, ISO 6935 - 2/2007) والمبينة بالجدول المرفق بهذا القرار كلوائح فنية قطرية حسب البيانات الموضحة قرين كل منها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تحل اللوائح الفنية المعتمدة بهذا القرار محل المواصفة القياسية القطرية 1705/2004 «أسياخ الصلب لتسليح الخرسانة غير القابل للحام» المعتمدة بقرار وزير الاقتصاد والتجارة رقم (89) لسنة 2004 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد ستة أشهر من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

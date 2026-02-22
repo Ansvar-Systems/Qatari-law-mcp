@@ -4,8 +4,27 @@
   "title": "قرار وزير التنمية الاجتماعية والأسرة رقم (26) لسنة 2024 بالموافقة على تعديل النظام الأساسي لجمعية الأطباء القطرية",
   "short_name": "قرار وزير التنمية الاجتماعية والأسرة رقم (26) لسنة 2024 بالموافقة على تعديل النظام الأساسي لجمعية الأطباء القطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9674&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9674&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمت الموافقة على تعديل المادة رقم (8) من النظام الأساسي لجمعية الأطباء القطرية لتصبح \"تحدد قيمة الاشتراك السنوي للعضو بمبلغ (500) خمسمائة ريال يؤديه دفعة واحدة أو على أقساط شهرية حسبما يرى مجلس الإدارة. وفي جميع الأحوال يجب أن يتم أداء الاشتراك قبل نهاية السنة المالية للجمعية بشهر واحد على الأقل، وإذا انضم أحد الأعضاء إلى الجمعية خلال السنة المالية، فلا يؤدي إلا ما يستحق عليه من الاشتراك السنوي للمدة الباقية من السنة\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُسجل التعديل ويُشهر وفقاً لأحكام المرسوم بقانون رقم (21) لسنة 2020 المشار إليه."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية رقم (4) لسنة 2019م بالموافقة على تعديل النظام الأساسي للجمعية القطرية للثروة الحيوانية",
   "short_name": "قرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية رقم (4) لسنة 2019م بالموافقة على تعديل النظام الأساسي للجمعية ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7911&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7911&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "وُوفق على إضافة اسم \"أنعام\" كشعار مختصر للجمعية إلى البند رقم (1) من المادة رقم (1) من النظام الأساسي للجمعية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "وُوفق على تعديل البند رقم (1) من المادة رقم (2) في النظام الأساسي للجمعية ليصبح \"المساهمة في رصد المشاكل التي تتعلق بالثروة الحيوانية ورفعها لجهة الاختصاص لدراستها وإيجاد الحلول اللازمة لها\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُسجل التعديلات وتُشهر وفقاً لأحكام القانون رقم (12) لسنة 2004 م المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذه هذا القرار ويُعمل به من تاريخ صدوره ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

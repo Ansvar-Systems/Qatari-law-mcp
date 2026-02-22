@@ -4,8 +4,27 @@
   "title": "قرار أميري رقم (27) لسنة 1999 بتعيين مساعدي وكيل وزارة بوزارة الداخلية",
   "short_name": "قرار أميري رقم (27) لسنة 1999 بتعيين مساعدي وكيل وزارة بوزارة الداخلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5362&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5362&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين كل من:\n1&shy; العقيد الدكتور/ علي سلطان محمد آل الشيخ الكواري\n2&shy; المقدم/ عبد الله علي جابر الحنزاب\nبدرجة مساعد وكيل وزارة بوزارة الداخلية، نقلاً من قوة الشرطة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُلغى كل حكم يخالف أحكام هـذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

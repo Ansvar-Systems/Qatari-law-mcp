@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (104) لسنة 2024 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (104) لسنة 2024 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9832&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9832&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد/ خالد علي عبد الله العبيدلي، في وظيفة نائب رئيس بمحكمة التمييز، وتُحدد أقدميته فيها اعتباراً من تاريخ 2024/09/10."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة نائب أول للرئيس بـمـحـكـمـة الاستئناف، وتُحدد أقدمية كل منهم فيها اعتباراً من التاريخ المدون قرين الإسم :\n1 - الدكتور / منصور ناصر محمد القحطاني 2024/08/03.\n2 - الدكتور / نايف محمد راشد الكعبي 2024/09/06.\n3 - السيد/ سـعـيـد أحـمـد محمــد الكعبي 2024/09/06.\n4 - السيد/ ناصر فخرى حسن الفخري 2024/09/06.\n5 - السيد/ عارف محمد عبد الله العيسى 2024/09/06.\n6 - السيد / فهد مبارك عجلان عبد الله العجلان 2024/10/01."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُـعـيـن السيد/ عبـدالـرحـمـن عـبـد الحـمـيـد إسماعيل العمادي، في وظيفة قاض مساعد، وتحدد أقدميته فيها اعتباراً من تاريخ 2023/03/29."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

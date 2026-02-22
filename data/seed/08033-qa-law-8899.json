@@ -4,8 +4,21 @@
   "title": "قرار رقم (4) لسنة 2022م بتخويل بعض موظفي وزارة الرياضة والشباب صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (4) لسنة 2022م بتخويل بعض موظفي وزارة الرياضة والشباب صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8899&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8899&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الرياضة والشباب التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (1) لسنة 2016 المُشار اليه أعلاه، والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nمحمود سليمان داود\nخبير رياضي أول\n2\nإبراهيم محمد علي حسن\nأخصائي رياضي أول\n3\nعبد الله محمد البناء\nأخصائي رياضي أول\n4\nأحمد عبدالله المرهون\nمشرف برامج رياضية ثاني\n5\nسارة أحمد بوحماد\nباحث شؤون رياضية ثالث\n6\nفيصل علي المري\nسكرتير ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يَخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

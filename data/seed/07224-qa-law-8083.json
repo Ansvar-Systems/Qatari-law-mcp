@@ -4,8 +4,21 @@
   "title": "قرار رقم (128) لسنة 2019 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (128) لسنة 2019 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8083&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8083&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (15) لسنة 2010 م المشار إليه وهم:-\nم\nالاسم\nالمسمى الوظيفي\n1\nفضالة محمد حسن الفضالة\nمراقب أملاك دولة أول\n2\nمحمد أحمد محمد عبدالرحمن\nمفتش رخص بناء ثاني\n3\nخالد محمد مبارك المناعي\nمشرف تفتيش رخص بناء أول\n4\nعلي ناصر محمد الخاطر\nمفتش رخص بناء ثالث\n5\nأحمد عبدالعزيز أحمد الكواري\nمفتش رخص أول\n6\nراشد صباح سيف النعيمي\nمفتش أراضي ثالث\n7\nجاسم ظاهر فهد الشمري\nمراقب رخص بناء رابع\n8\nصالح محمد سعد الكواري\nمفتش رخص بناء ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

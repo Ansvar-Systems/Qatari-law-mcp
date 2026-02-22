@@ -4,8 +4,33 @@
   "title": "قرار نائب رئيس الهيئة للشباب والرياضة رقم (1) لسنة 1993 بإنشاء النادي القطري لرياضة المعوقين",
   "short_name": "قرار نائب رئيس الهيئة للشباب والرياضة رقم (1) لسنة 1993 بإنشاء النادي القطري لرياضة المعوقين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4321&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1993.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4321&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ينشأ ناد لرياضة المعوقين يسمى «النادي القطري لرياضة المعوقين» طبقاً لأحكام المرسوم بقانون رقم (5) لسنة 1984 المشار إليه و النظام الأساسي المرفق بهذا القرار، ويخضع لإشراف الهيئة العامة للشباب والرياضة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يشكل مجلس إدارة النادي القطري لرياضة المعوقين برئاسة سعادة الشيخ/حمد بن علي بن جاسم آل ثاني، وعضوية كل من:\n1- السيد/عبد الرحمن نعمه الجابر\nنائباً للرئيس\n2- السيد/حسن راشد السويدي\nأميناً للسر\n3- السيد/سلطان جوهر العبد الله\nأميناً للصندوق\n4- السيد/محمد عبد الله السليطي\nعضواً\n5- السيد/محمد عبد الرحمن السيد\n\"\n6- السيد/فيصل السادة\n\"\n7- السيد/محمد علي الكميث\n\"\n8- السيد/علي إبراهيم العلي\n\"\n9- السيد/عارف علي الحمادي\n\""
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تكون مدة العضوية بالمجلس سنتين، يجوز تجديدها لمدة أو لمدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر بالجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

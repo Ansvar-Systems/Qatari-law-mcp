@@ -4,8 +4,27 @@
   "title": "قانون رقم (11) لسنة 1995 بتعديل بعض أحكام القانون رقم (1) لسنة 1981 بتنظيم خدمة الضباط في القوات المسلحة",
   "short_name": "قانون رقم (11) لسنة 1995 بتعديل بعض أحكام القانون رقم (1) لسنة 1981 بتنظيم خدمة الضباط في القوات المسلحة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=36&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=36&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف للقانون رقم (1) لسنة 1981 المشار إليه ثلاث مواد بأرقام (51) مكرر و (51) مكرر (أ) و(51) مكرر (ب)، يكون نصها كالآتي:"
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Article (51)",
+      "content": "مكرر :\nيكون منح إجازة الحج، المشار إليها في المادة السابقة، وفقاً للشروط الآتية:\n1- أن تسمح ظروف العمل بمنح الإجازة.\n2- أن يحصل الضابط على موافقة جهة عمله.\n3- أن لا تقل مدة خدمة الضابط غير القطري عن ثلاث سنوات.\nويعفى من توافر الشرط الثالث، من الشروط المتقدمة، زوج الموظفة التي تعمل في إحدى الوزارات أو الأجهزة الحكومية الأخرى، إذا رغب في مرافقة زوجته، وكانت هذه الشروط متوافرة فيها.\nويجوز منح الضابط إجازة لأداء فريضة الحج، تخصم من إجازته الدورية، إذا لم تتوافر فيه شروط منح إجازة الحج السالف بيانها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

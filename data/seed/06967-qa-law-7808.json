@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (17) لسنة 2018 بتعديل بعض أحكام القرار رقم (26) لسنة 2017 بإنشاء لجنة التنسيق بين الجهات العاملة بمطار حمد الدولي",
   "short_name": "قرار مجلس الوزراء رقم (17) لسنة 2018 بتعديل بعض أحكام القرار رقم (26) لسنة 2017 بإنشاء لجنة التنسيق بين الجهات العامل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7808&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7808&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى عضوية لجنة التنسيق بين الجهات العاملة بمطار حمد الدولي، المنشأة بقرار مجلس الوزراء رقم (26) لسنة 2017 المشار إليه، ممثل عن الديوان الأميري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (5) لسنة 2000 بتعيين نائبين لمدير جامعة قطر",
   "short_name": "قرار أميري رقم (5) لسنة 2000 بتعيين نائبين لمدير جامعة قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5553&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5553&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين كل من:\n1- الدكتور عبد الرحمن حسن الإبراهيم نائباً لمدير الجامعة للشئون الأكاديمية.\n2- الدكتورة شيخة عبد الله المسند نائباً لمدير الجامعة للبحوث وخدمة المجتمع. وذلك لمدة أربع سنوات."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

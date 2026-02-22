@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (14) لسنة 2023 بتعديل بعض أحكام القرار رقم (8) لسنة 2010 بإنشاء اللجنة القطرية لتحالف الحضارات",
   "short_name": "قرار مجلس الوزراء رقم (14) لسنة 2023 بتعديل بعض أحكام القرار رقم (8) لسنة 2010 بإنشاء اللجنة القطرية لتحالف الحضارات",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9311&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9311&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "\"تنشأ بوزارة الخارجية لجنة تسمى \"اللجنة القطرية لتحالف الحضارات\" تُشكل برئاسة الأمين العام لوزارة الخارجية، وممثل دولة قطر لدى تحالف الحضارات نائباً للرئيس، وعضوية ممثل عن كل من:\n1 - وزارة الخارجية.\n2 - وزارة التربية والتعليم والتعليم العالي.\n3 - وزارة الأوقاف والشؤون الإسلامية.\n4 - وزارة الثقافة.\n5 - وزارة الرياضة والشباب.\n6 - وزارة العمل.\n7 - مركز الدوحة الدولي لحوار الأديان.\nوتختار كل جهة من يُمثلها في اللجنة، ويصدر بتسمية نائب رئـيس وأعضاء اللجنة قرار من وزير الخارجية.\nويتولى أمانة سر اللجنة موظف أو أكثر من موظفي وزارة الخارجية يصدر بنـدبهم وتحديد اختصاصاتهم ومكافآتهم قرار من وزير الخارجية\"."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

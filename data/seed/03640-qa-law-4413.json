@@ -4,8 +4,21 @@
   "title": "قرار رقم (20) لسنة 2007 بإلغاء صفة الضبطية القضائية لموظفة بوزارة الداخلية",
   "short_name": "قرار رقم (20) لسنة 2007 بإلغاء صفة الضبطية القضائية لموظفة بوزارة الداخلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4413&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2007.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4413&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلغى صفة الضبطية القضائية التي خولت للسيدة / غادة مبارك محمد ضمن المهندي الموظفة بوزارة الداخلية بالقرار رقم (68) لسنة 2006 ،"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

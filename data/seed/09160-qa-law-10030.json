@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (40) لسنة 2025 بالتصديق على اتفاقية المساهمة الأساسية بين صندوق قطر للتنمية في دولة قطر وبرنامج الأمم المتحدة الإنمائي لدعم الموارد العادية لبرنامج الأمم المتحدة الإنمائي للأعوام 2025- 2026",
   "short_name": "مرسوم رقم (40) لسنة 2025 بالتصديق على اتفاقية المساهمة الأساسية بين صندوق قطر للتنمية في دولة قطر وبرنامج الأمم المتح...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10030&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10030&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "صُــودق عــلى اتفــاقـيـة المـســاهـمـة الأسـاسـيـة بــين صـنـدوق قـطـر للـتـنـمـيـة فـي دولــة قـطــر وبـرنــامـج الأمـم المـتـحــدة الإنمـائـي لـدعـم المـوارد الـعـاديـة لـبـرنـامـج الأمـم المـتـحـدة الإنمـائـي للأعـوام 2025- 2026، المـوقـعــة بمــدينـــة نـيــويـورك بتــاريـخ 06/02/2025، المـرفـق نـصــهـا بـهـذا المـرسـوم، وتــكــون لــهـا قــوة الـقـانـون، وفـقـاً لـلـمـادة (68) مـن الدسـتـور."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "عـلـى جـمـيـع الجـهـات المـخـتـصـة، كـل فـيـمـا يـخـصـه، تـنـفـيـذ هـذا المـرســوم. ويُـعـمـل بـه مـن تـاريـخ صــدوره. ويُـنـشــر فـي الجـريــدة الـرسـمـيـة."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار رقم (60) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (60) لسنة 2022 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8892&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8892&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (10) لسنة 1987 المشار إليه، والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nمحمد سعيد بخيت قحيز المري\nمدخل بيانات وتقارير ثالث\n2\nمنصور أحمد محمد عبدالكريم المير\nمفتش نظافة عامة ثاني\n3\nعبد الرحمن عيسى محمد\nمساح ثاني\n4\nمسعود حمد علي ال عتيق المري\nمنسق متابعة ثالث\n5\nطالب محمد هادي هليل الغفران\nمندوب متابعة ثالث\n6\nإبراهيم محمد عبدالله يوسف المالكي\nمشرف تفتيش رخص بناء أول\n7\nجابر حمد محمد ظرمان المري\nمدخل بيانات وتقارير رابع\n8\nمحمد سعيد صالح سعيد القريصي\nباحث شؤون إدارية ثالث\n9\nعلي بخيت حمد قريع المري\nخبير تفتيش رخص بناء أول"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُل فيما يَخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

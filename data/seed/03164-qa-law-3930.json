@@ -4,8 +4,21 @@
   "title": "قرار رقم (93) لسنة 2010 بتخويل بعض موظفي الهيئة العامة للطيران المدني صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (93) لسنة 2010 بتخويل بعض موظفي الهيئة العامة للطيران المدني صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3930&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2010.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3930&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي الهيئة العامة للطيران المدني التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي ترتكب بالمخالفة لأحكام قانون تنظيم مكاتب الشحن جواً ، المُشار إليه والقرارات المنفذة له وهم:\nم\nالاسم\nالوظيفة\n1\nمبارك راشد حسن الدرهم\nرئيس قسم مكاتب السفر\n2\nخالد عبدالله النصيري\nرئيس قسم شركات الطيران\n3\nناصر هزيم المالكي\nمفتش مكاتب سفر\n4\nموسى الماس العبدالله\nمفتش مكاتب سفر\n5\nعلي سلمان الماجد\nمراقب مكاتب سفر"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

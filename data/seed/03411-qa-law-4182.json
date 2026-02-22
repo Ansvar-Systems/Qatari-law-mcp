@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (24) لسنة 2001 بمنح شركة الكهرباء والماء القطرية امتياز بالانتفاع بالأرض المقامة عليها محطة رأس أبو فنطاس (ب)",
   "short_name": "مرسوم رقم (24) لسنة 2001 بمنح شركة الكهرباء والماء القطرية امتياز بالانتفاع بالأرض المقامة عليها محطة رأس أبو فنطاس (ب)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4182&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4182&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمنح شركة الكهرباء والماء القطرية (شركة مساهمة قطرية) امتيازاً بدون مقابل بالانتفاع بالأرض المقامة عليها محطة رأس أبو فنطاس (ب) لتوليد الكهرباء وتحلية المياه، ويشمل الانتفاع بالمرافق المقامة عليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تحدد مدة الامتياز بخمسين سنة تبدأ من 5/7/1990 تاريخ صدور المرسوم رقم (89) لسنة 1990 بتأسيس شركة الكهرباء والماء القطرية (شركة مساهمة قطرية) ويكون للشركة حق استعمال واستغلال الأرض وإدارتها وممارسة جميع الحقوق عليها دون حق التصرف أو الرهن أو ترتيب أي حق عيني عليها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

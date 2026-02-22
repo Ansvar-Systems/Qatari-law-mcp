@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (96) لسنة 2006م. بتأسيس شركة رتاج (شركة مساهمة قطرية خاصة)",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (96) لسنة 2006م. بتأسيس شركة رتاج (شركة مساهمة قطرية خاصة)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4354&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4354&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُرخّص لكل من:-\n1. إدارة الأوقاف بوزارة الأوقاف والشؤون الإسلامية\n2. شركة عقار للتطوير والاستثمار العقاري.\n3. مؤسسة الشيخ/ عيد بن محمد آل ثاني الخيرية.\n4. شركة الجزيرة الإسلامية.\n5. مؤسسة الأمراء للعقارات والتجارة.\nفي أن يؤسسوا فيما بينهم شركة مساهمة قطرية خاصة تسمى \"رتاج\" برأس مال مدفوع مقداره (2,500,000) مليونان وخمسمائة ألف ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة ونظامها الأساسي، وبأحكام قانون الشركات التجارية المشار إليه، والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويعمل به اعتباراً من 11/5/2004م، وينشر في الجريدة الرسمية مرفقاً به عقد تأسيس الشركة ونظامها الأساسي."
+    }
+  ],
   "definitions": []
 }

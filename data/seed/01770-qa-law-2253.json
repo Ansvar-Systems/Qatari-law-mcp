@@ -4,8 +4,27 @@
   "title": "قرار وزاري رقم (95) لسنة 2005 بتعديل بعض أحكام قرار وزير شؤون البلدية والزراعة رقم (81) لسنة 2003 باعتبار مشروع إنشاء حديقة ومرافق عامة شرق طريق الشمال بمنطقة العب من أعمال المنفعة العامة",
   "short_name": "قرار وزاري رقم (95) لسنة 2005 بتعديل بعض أحكام قرار وزير شؤون البلدية والزراعة رقم (81) لسنة 2003 باعتبار مشروع إنشاء...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2253&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2253&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُستبدل المذكرة و الرسم التخطيطي المرفقين بهذا القرار بالمذكرة و الرسم التخطيطي المرفقين بقرار وزير الشؤون البلدية والزراعة رقم (81) لسنة 2003 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين هندسياً حدود ومعالم العقارات المطلوب نزع ملكيتها لتنفيذ المشروع المبين في قرار وزير الشؤون البلدية والزراعة رقم (81) لسنة 2003 المشار إليه، وفقاً لما تضمنه الرسم التخطيطي المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كلٌ فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

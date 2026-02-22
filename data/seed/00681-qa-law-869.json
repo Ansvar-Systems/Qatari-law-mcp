@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (11) لسنة 1998 بزيادة رأس المال الإسمي والمدفوع للمؤسسة العامة القطرية للبترول",
   "short_name": "مرسوم رقم (11) لسنة 1998 بزيادة رأس المال الإسمي والمدفوع للمؤسسة العامة القطرية للبترول",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=869&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=869&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يزاد رأس المال الإسمي المصرح به للمؤسسة العامة القطرية للبترول إلى (20) عشرين ألف مليون ريال، ويزاد رأسمالها المدفوع إلى (10) عشرة آلاف مليون ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تنفذ الزيادة في رأس المال المدفوع، وذلك بإجراء القيود المحاسبية التالية:\n-4321.3 مليون ريال مدفوعة بالفعل حتى 31/12/1997.\n-259.3 مليون ريال محول من الاحتياطي الرأسمالي للمؤسسة.\n-5419.4 مليون ريال محول من الرصيد الدائن للوزارة لدى المؤسسة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "في جميع الأحوال تتم الزيادة في رأس مال المؤسسة الإسمي أو المدفوع بإصدار قرارات تتعلق باحتياجاتها وبحيث لا تدفع نقداً، وتجري تسويتها دفترياً من خلال ما يتوفر من احتياطيات أو أرصدة دائنة للدولة عن طريق الحساب الجاري لوزارة المالية والاقتصاد والتجارة لدى المؤسسة."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

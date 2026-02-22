@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (27) لسنة 2021 تعيين بعض القضاة",
   "short_name": "مرسوم رقم (27) لسنة 2021 تعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8625&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8625&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من الآتية أسماؤهم في الوظيفة المبينة قرين اسم كل منهم، وتحدد أقدمية كل منهم فيها اعتباراً من 22/02/2021:\n1 &ndash; السيد/ هشام عوض أحمد أسد رئيس بالمحكمة الابتدائية.\n2 &ndash; السيد/ بدر الدين محمد أحمد مختار رئيس بالمحكمة الابتدائية.\n3 &ndash; الدكتور/ أحمد محمد خليل البحر رئيس بالمحكمة الابتدائية.\n4 &ndash; السيد/ أسامة حسن عبد القادر رئيس بالمحكمة الابتدائية.\n5 &ndash; السيد/ معتز عبد الرحيم النور الحسن قاض بالمحكمة الابتدائية.\n6 &ndash; السيد/ محمد محمد أحمد محمد سعيد قاض بالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

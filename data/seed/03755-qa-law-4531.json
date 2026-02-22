@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (25) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (39) لسنة 2011 بإنشاء لجنة تسيير مشروع إنشاء شبكات السكك الحديدية القطرية \"الريل\"",
   "short_name": "قرار أميري رقم (25) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (39) لسنة 2011 بإنشاء لجنة تسيير مشروع إنشاء شبكات...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4531&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4531&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى تشكيل لجنة تسيير مشروع إنشاء شبكات السكك الحديدية القطرية \"الريل\"، ممثل عن المؤسسة العامة القطرية للكهرباء والماء، يختاره رئيس المؤسسة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

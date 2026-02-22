@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (57) لسنة 1999 بتعيين قاض بمحكمة الاستئناف",
   "short_name": "مرسوم رقم (57) لسنة 1999 بتعيين قاض بمحكمة الاستئناف",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5913&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5913&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيد/ برهان محمد توحيد أمرالله، قاضياً بمحكمة الاستئناف."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به اعتباراً من 12/12/1999. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

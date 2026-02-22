@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (33) لسنة 2009 بتعديل بعض أحكام القرار رقم (6) لسنة 2008 بتحديد أيام العطلات الرسمية في الدولة وتنظيم العمل خلالها",
   "short_name": "قرار مجلس الوزراء رقم (33) لسنة 2009 بتعديل بعض أحكام القرار رقم (6) لسنة 2008 بتحديد أيام العطلات الرسمية في الدولة...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3302&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3302&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يضاف إلى المادة (3) من قرار مجلس الوزراء رقم (6) لسنة 2008 المشار إليه، بند برقم (5) نصه التالي:\n«5- عطلة يوم الأحد الأول من شهر مارس من كل عام.»"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

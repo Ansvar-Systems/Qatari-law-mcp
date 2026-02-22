@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (9) لسنة 2004 باعتماد قرار مجلس إدارة الهيئة العامة للتقاعد والمعاشات رقم (4) لسنة 2003 بشأن نظام استثمار أموال صندوق المعاشات",
   "short_name": "قرار مجلس الوزراء رقم (9) لسنة 2004 باعتماد قرار مجلس إدارة الهيئة العامة للتقاعد والمعاشات رقم (4) لسنة 2003 بشأن نظ...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1746&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2004.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1746&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتمد قرار مجلس إدارة الهيئة العامة للتقاعد والمعاشات رقم (4) لسنة 2003 بشأن نظام استثمار أموال صندوق المعاشات، الصادر في اجتماعه المنعقد بتاريخ 18/12/2003."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

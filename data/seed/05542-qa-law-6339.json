@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (55) لسنة 2014 بتشكيل مجلس إدارة هيئة تنظيم الأعمال الخيرية",
   "short_name": "قرار أميري رقم (55) لسنة 2014 بتشكيل مجلس إدارة هيئة تنظيم الأعمال الخيرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6339&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6339&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُشكل مجلس إدارة هيئة تنظيم الأعمال الخيرية، برئاسة وزير العمل والشؤون الاجتماعية، وعضوية كل من:\n1- الرائد/ خالد علي الكعبي\nممثلاً عن وزارة الداخلية.\n2- الدكتور/ أحمد محمد المريخي\nممثلاً عن وزارة الخارجية.\n3- السيد/ أحمد نصر عبدالله النصر\nممثلاً عن وزارة العمل والشؤون الاجتماعية.\n4- المقدم/ محمد صقر المفتاح\nممثلاً عن جهاز أمن الدولة.\n5- السيد/ هشام صالح المناعي\nممثلاً عن مصرف قطر المركزي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة أو مدد أخرى مماثلة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتقاضى رئيس مجلس الإدارة مكافأة سنوية مقدارها (120,000) مائة وعشرون ألف ريال، ويتقاضى كل من أعضاء مجلس الإدارة مكافأة سنوية مقدارها (100,000) مائة ألف ريال."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

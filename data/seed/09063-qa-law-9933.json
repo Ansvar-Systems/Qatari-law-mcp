@@ -4,8 +4,33 @@
   "title": "قرار وزير البلدية رقم (38) لسنة 2025 بشأن الاشتراطات الخاصة بالصحة العامة غير العلاجية الواجب توافرها في بعض المحال الخاضعة لأحكام القانون رقم (5) لسنة 2015 بشأن المحال التجارية والصناعية والعامة المماثلة والباعة المتجولين",
   "short_name": "قرار وزير البلدية رقم (38) لسنة 2025 بشأن الاشتراطات الخاصة بالصحة العامة غير العلاجية الواجب توافرها في بعض المحال ا...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9933&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9933&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد الاشتراطات الخاصة بالصحة العامة غير العلاجية الواجب توافرها في بعض المحال الخاضعة لأحكام القانون رقم (5) لسنة 2015 المشار إليه، على النحو المنصوص عليه في الملاحق المرفقة بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المحال الخاضعة لأحكام هذا القرار، والمرخص لها قبل تاريخ العمل به، توفيق أوضاعها بما يتفق والاشتراطات المنصوص عليها في الملاحق المرفقة بهذا القرار، وذلك خلال ستة أشهر من تاريخ العمل به."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

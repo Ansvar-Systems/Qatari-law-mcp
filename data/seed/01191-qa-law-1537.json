@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (22) لسنة 2005 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
   "short_name": "قرار مجلس الوزراء رقم (22) لسنة 2005 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1537&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1537&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُضاف إلى تشكيل اللجنة الدائمة للطوارئ المنصوص عليها في المادة (1) من قرار مجلس الوزراء رقم (17) لسنة 1998 المشار إليه، ممثل عن كل من جهاز أمن الدولة وقوة الأمن الداخلي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُستبدل بنص البند (7) من المادة (1) من قرار مجلس الوزراء رقم (17) لسنة 1998 المشار إليه، النص التالي:\nبند (7):\n\"الهيئة الوطنية للصحة\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

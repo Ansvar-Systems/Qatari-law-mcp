@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (32) لسنة 2009 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (32) لسنة 2009 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5779&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2009.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5779&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين كل من السادة التالية أسماؤهم في الوظيفة ومن التاريخ المبين قرين اسم كل منهم:\n1. السيد/ أكرم يوسف إبراهيم، قاضياً بمحكمة الاستئناف، اعتباراً من 6/5/2009.\n2. السيد/ قحطان إبراهيم عزت، رئيساً بالمحكمة الابتدائية، اعتباراً من 6/5/2009.\n3. الدكتور/ عماد حسين نجم، قاضياً بالمحكمة الابتدائية، اعتباراً من 10/5/2009."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

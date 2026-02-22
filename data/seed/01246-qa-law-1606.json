@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (35) لسنة 2001 بإعفاء الأرباح الناتجة عن مشروع توسعة (قافكو 4) من ضريبة الدخل",
   "short_name": "قرار مجلس الوزراء رقم (35) لسنة 2001 بإعفاء الأرباح الناتجة عن مشروع توسعة (قافكو 4) من ضريبة الدخل",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1606&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1606&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعفى من ضريبة الدخل صافي الأرباح التي تحققها كل من شركة قطر للأسمدة، والشريك الأجنبي، من مشروع التوسعة (قافكو 4)، وذلك لمدة عشر سنوات إعتباراً من تاريخ بدء تشغيل هذا المشروع."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يعفى من ضريبة الدخل صافي الأرباح التي يحققها المقاولون الأصليون والمقاولون من الباطن المنفذون لمشروع التوسعة (قافكو 4)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

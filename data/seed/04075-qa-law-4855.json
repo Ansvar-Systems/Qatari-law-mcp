@@ -4,8 +4,27 @@
   "title": "قرار وزير الأعمال والتجارة رقم (29) لسنة 2012 بتأسيس شركة مساهمة قطرية خاصة باسم شركة/ إسناد لخدمات تموين الطعام",
   "short_name": "قرار وزير الأعمال والتجارة رقم (29) لسنة 2012 بتأسيس شركة مساهمة قطرية خاصة باسم شركة/ إسناد لخدمات تموين الطعام",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4855&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2012.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4855&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص للسادة الوارد اسمائهم في عقد التأسيس و النظام الاساسي المرفقين بهذا القرار أن يؤسسوا فيما بينهم (شركة مساهمة قطرية خاصة) بأسم شركة/ إسناد لخدمات تموين الطعام برأس مال وقدرة (2,000,000) مليوني ريال قطري.\nمدير إدارة الشؤون القانونية\nالخبير القانوني بمكتب الوزير\nمدير مكتب الوزير"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسس الالتزام بأحكام القوانين المعمول بها في الدولة، وأحكام عقد التأسيس و النظام الأساسي المرفق نصهما بهذا القرار. وتلتزم الشركة بأحكام قانون الشركات التجارية وتعديلاته المشار إليه، فيما لم يرد بشأنه نص خاص في عقد التأسيس و النظام الأساسي ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

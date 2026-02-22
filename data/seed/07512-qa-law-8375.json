@@ -4,8 +4,21 @@
   "title": "قرار رقم (66) لسنة 2020م بتخويل بعض موظفي وزارة المواصلات والاتصالات صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (66) لسنة 2020م بتخويل بعض موظفي وزارة المواصلات والاتصالات صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8375&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2020.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8375&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة المواصلات والاتصالات التالية أسماؤهما صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (13) لسنة 2016م ، المُشار إليه والقرارات المنفذه له وهما :\nم\nالإسم\nالمسمى الوظيفي\n1\nدانة يوسف إبراهيم العبدالله\nمدير إدارة الامتثال وحماية البيانات\n2\nأشرف على إسماعيل\nرئيس قسم ضمان أمن المعلومات"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصّة كُلٍّ فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

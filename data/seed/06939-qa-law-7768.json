@@ -4,8 +4,21 @@
   "title": "قرار وزير المواصلات والاتصالات رقم (30) لسنة 2018 بتحديد الرسوم والأجور في موانئ قطر البحرية",
   "short_name": "قرار وزير المواصلات والاتصالات رقم (30) لسنة 2018 بتحديد الرسوم والأجور في موانئ قطر البحرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7768&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7768&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُحدد الرسوم والأجور التي تفرض على أصحاب البواخر والسفن ووكلائهم ومستوردي البضائع ومن يستعملون مرافق الميناء، على النحو المبين بالجدول المرفق بهذا القرار.\nويجوز تعديل الرسوم والأجور المشار إليها، بالزيادة أو النقصان في حدود نسبة (70%)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

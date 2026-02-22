@@ -4,8 +4,39 @@
   "title": "قرار مجلس الوزراء رقم (8) لسنة 1996 بشأن فرض رسوم وأجور خدمات على السفن الحربية",
   "short_name": "قرار مجلس الوزراء رقم (8) لسنة 1996 بشأن فرض رسوم وأجور خدمات على السفن الحربية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1726&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1726&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تفرض رسوم وأجور خدمات على السفن والقطع الحربية الأجنبية، التي تدخل موانئ قطر البحرية، مساوية للرسوم والأجور المفروضة على السفن التجارية، مضافاً إليها زيادة مقدارها 50%."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتولى إدارة الموانئ والشئون البحرية والنقل البري بوزارة المواصلات والنقل تحصيل الرسوم والأجور المنصوص عليهـا في المادة السابقة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يجوز لوزير الدفاع، أو لمن يفوضه، إعفاء بعض السفن والقطع الحربية الأجنبية من الرسوم والأجور المنصوص عليهـا في المادة الأولى من هـذا القرار؛ وذلك في حالة وجود اتفاقيات تقضي بهـذا الإعفاء، أو توافر شرط المعاملة بالمثل، أو بمقتضى قواعد المجاملة الدولية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يصدر وزير المواصلات والنقل، بالتشاور مع وزير الدفاع، اللوائح والقرارات اللازمة لتنفيذ هذا القرار."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به بعد ثلاثين يوماً من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,57 @@
   "title": "مرسوم بقانون رقم (12) لسنة 1996 بشأن تحصيل ثمن الكتب الدراسية وأجور المواصلات من الطلبة غير القطريين",
   "short_name": "مرسوم بقانون رقم (12) لسنة 1996 بشأن تحصيل ثمن الكتب الدراسية وأجور المواصلات من الطلبة غير القطريين",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=465&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=465&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تسري أحكام هذا القانون على الطلبة غير القطريين، بجميع مراحل التعليم بالمدارس الحكومية. ويستثنى من تطبيق أحكامه مواطنو دول مجلس التعاون لدول الخليج العربية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يحصل من الطلبة غير القطريين، المشار إليهم في المادة السابقة، ثمن الكتب الدراسية، وأجور المواصلات عند استخدامهم وسائل النقل المدرسية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يحدد ثمن الكتب الدراسية لجميع المراحل التعليمية، بواقع مائة وخمسين ريالاً لكل طالب، عن كل سنة دراسية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "تحدد أجور المواصلات لجميع المراحل التعليمية، بواقع ثلاثمائة ريال لكل طالب عند استخدامه وسائل النقل المدرسية، عن كل سنة دراسية."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يجوز بقرار من مجلس الوزراء، بناء على اقتراح وزير التربية والتعليم، تعديل الرسوم والمبالغ المنصوص عليها في هذا القانون، أو الإعفاء منها."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "يصدر وزير التربية والتعليم القرارات اللازمة لتنفيذ هذا القانون، متضمنة كيفية تحصيل المبالغ المشار إليها، وجواز تقسيطها."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القانون."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Article (8)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من 1/9/1996. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

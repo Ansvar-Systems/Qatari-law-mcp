@@ -4,8 +4,27 @@
   "title": "قرار وزير المالية والاقتصاد والتجارة رقم (47) لسنة 1998 بالنظام الأساسي لشركة إتصالات قطر (كيوتل) شركة مساهمة قطرية",
   "short_name": "قرار وزير المالية والاقتصاد والتجارة رقم (47) لسنة 1998 بالنظام الأساسي لشركة إتصالات قطر (كيوتل) شركة مساهمة قطرية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4339&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4339&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعمل بالنظام الأساسي المرافق لهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تلتزم الشركة بأحكام القانون رقم (21) لسنة 1998 المشار إليه، و نظامها الأساسي المرافق لهذا القرار."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهـات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به إعتباراً من 25/11/1998 وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

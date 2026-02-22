@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (36) لسنة 2008 بتشكيل لجان فض المنازعات الإيجارية",
   "short_name": "قرار مجلس الوزراء رقم (36) لسنة 2008 بتشكيل لجان فض المنازعات الإيجارية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3319&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3319&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُشكل في وزارة البلدية والتخطيط العمراني أربع لجان لفض المنازعات الإيجارية، على النحو التالي :\n1ـ اللجنة الأولى :\n1ـ السيد/ نبيل محضار السعدي\nرئيساً\n2ـ السيدة/ نوف عبد الرحمن عبد الله المالكي\nعضواً\n3ـ السيد/ نبيل محمد أحمد بدر\nعضواً\n2ـ اللجنة الثانية :\n1ـ السيد/ خالد محمد آل شريم\nرئيساً\n2ـ السيد/ جاسم عبدالله طالب المحنا\nعضواً\n3ـ السيد/ علي محمد حسين الحمادي\nعضواً\n3ـ اللجنة الثالثة :\n1ـ السيد/ علي خميس السليطي\nرئيساً\n2ـ السيد/ ناصر محمد سعيد الجبارة\nعضواً\n3ـ السيد/ حمد محمد متعب الصعاق\nعضواً\n4ـ اللجنة الرابعة :\n1ـ السيد/ ناصر عيسى الخليفي\nرئيساً\n2ـ السيد/ سعيد نفل سعيد الدوسري\nعضواً\n3ـ السيد/ مبارك سالم سعيد النابت\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يكون لكل لجنة أمانة سر، تتكون من موظف أو أكثر من موظفي الوزارة، يصدر بندبهم، وتحديد مكافآتهم قرار من الوزير."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتقاضى كل رئيس لجنة مكافأة شهرية مقدارها (5000) خمسة آلاف ريال، ويتقاضى كل عضو من أعضاء اللجان مكافأة شهرية مقدارها (4000) أربعة آلاف ريال."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

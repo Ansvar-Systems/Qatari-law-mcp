@@ -4,8 +4,27 @@
   "title": "قرار وزير الصحة العامة رقم (2) لسنة 2025 بتعديل بعض الجداول الملحقة بكل من القانون رقم (9) لسنة 1987 في شأن مكافحة المخدرات والمؤثرات العقلية الخطرة وتنظيم استعمالها والاتجار فيها والقانون رقم (19) لسنة 1993 بشأن تنظيم تداول المواد ذات التأثير النفسي",
   "short_name": "قرار وزير الصحة العامة رقم (2) لسنة 2025 بتعديل بعض الجداول الملحقة بكل من القانون رقم (9) لسنة 1987 في شأن مكافحة ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9855&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2025.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9855&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحذف من قائمة الأسماء المدرجة بالجدول الثاني الملحق بالقانون رقم (19) لسنة 1993 المشار إليه، العقار Gamma - hydroxybutyric acid) GHB)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُضاف إلى قائمة الأسماء المدرجة بالجدول رقم (2) الملحق بالقانون رقم (9) لسنة 1987 المشار إليه، العقاران التاليان:\n1-\nGHB\n(Gamma-hydroxybutyric acid)\n2-\nGBL\n(Gamma - Butyrolactone)"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

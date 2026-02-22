@@ -4,8 +4,27 @@
   "title": "مرسوم بقانون رقم (26) لسنة 1994 بالترخيص في إبرام اتفاقية قرض بين حكومة دولة قطر وبنك سوميتومو الياباني ومجموعة البنوك المشاركة",
   "short_name": "مرسوم بقانون رقم (26) لسنة 1994 بالترخيص في إبرام اتفاقية قرض بين حكومة دولة قطر وبنك سوميتومو الياباني ومجموعة البنو...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=543&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1994.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=543&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لوزارة المالية والاقتصاد والتجارة في إبرام اتفاقية قرض بمبلغ (250) مليون دولار أمريكي (مائتين وخمسين مليون دولار أمريكي) مع بنك سوميتومو الياباني ومجموعة البنوك المشاركة معه، وذلك وفقاً للشروط المنصوص عليها في الاتفاقية المذكورة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية والاقتصاد والتجارة، أو وكيل الوزارة، في التوقيع على اتفاقية القرض المشار إليها في المادة السابقة وتنفيذها.\nويفوض وكيل وزارة المالية والاقتصاد والتجارة بالتوقيع على المستندات الخاصة بالاتفاقية واتخاذ الإجراءات اللازمة لتنفيذها، بما في ذلك السحب من القرض وفقاً للشروط المنصوص عليها فيها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

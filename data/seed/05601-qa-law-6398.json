@@ -4,8 +4,21 @@
   "title": "قرار رقم (162) لسنة 2014 بتعديل بعض اسماء موظفي وزارة البيئة والسابق منحهم صفة مأموري الضبط القضائي بالقرار رقم (120) لسنة 2010",
   "short_name": "قرار رقم (162) لسنة 2014 بتعديل بعض اسماء موظفي وزارة البيئة والسابق منحهم صفة مأموري الضبط القضائي بالقرار رقم (120)...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6398&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2014.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6398&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "نأمر بتعديل الاسماء التالية والمبينة بقرارنا أنف البيان وهم: قاسم ناصر حسن القاسمي، حازم محمود غباشي، محمود عصاد رشاد حمدي. لتصبح/ قاسم ناصر حسن القحطاني، حازم محمد محمود غباشي، محمود عصام رشاد حمدي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

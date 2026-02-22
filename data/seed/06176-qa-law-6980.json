@@ -4,8 +4,21 @@
   "title": "قرار رقم (76) لسنة 2016م بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (76) لسنة 2016م بتخويل بعض موظفي وزارة الاقتصاد والتجارة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6980&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6980&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة الاقتصاد والتجارة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القوانين المُشار إليها والقرارات المُنفذه لها وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nمبارك خليفة مبارك المهندي\nمساعد مدير إدارة التموين\n2\nفايز عبدالله جاسم الخزاعي\nمشرف فنيين مخازن سلع ثالث\n3\nجبر فضل عبدالله النعيمي\nمدخل بيانات ثالث\n7\nيوسف أحمد حسن المحاسنة\nخبير مالي\n8\nخالد جاسم أحمد الكواري\nكاتب سجلات ثان\n15\nجراح عيسى يوسف العبيدلي\nمراقب اسواق رابع\n16\nمحمد علي بخيت العذبي\nمراقب اسواق رابع\n17\nمحمد محمد محمود يوسف\nفني مخازن سلع رابع\n19\nجمال علي محمد المولى\nباحث شؤون مالية ثالث\n20\nمحمد شوقي خليل أبو ندا\nمراجع حسابات"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

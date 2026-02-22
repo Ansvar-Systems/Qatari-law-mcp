@@ -4,8 +4,21 @@
   "title": "قرار رقم (112) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (112) لسنة 2023 بتخويل بعض موظفي وزارة البلدية صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9421&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9421&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (25) لسنة 2010 المشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالاسم\nالمسمى الوظيفي\n1\nبسام محمد الأبرص\nمهندس زراعي ثالث\n2\nعزت عزالدين محمد علي عبيد\nمهندس زراعي ثاني\n3\nعبدالكريم أحمد المحمود\nمهندس زراعي ثالث\n4\nالمأمون بكري السيّد أحمد\nمهندس ذراعي أول\n5\nخالد فهد ناصر باتل الدوسري\nرئيس قسم التشجير والإنتاج الزراعي\n6\nمحمد أحمد المتولي عوض\nمشرف تفتيش حجر زراعي\n7\nطارق اسماعيل محمد على\nباحث زراعي ثاني\n8\nرياض حميد كردى مصيول العسافى\nمهندس زراعي ثالث\n9\nناصر عبده صالح محمد الطيرى\nمراقب مزارع رابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصّة كُل فيما يخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

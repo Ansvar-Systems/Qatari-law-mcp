@@ -4,8 +4,33 @@
   "title": "قرار وزير التجارة والصناعة رقم (21) لسنة 2024 بفرض رسوم نهائية لمكافحة الإغراق ضد واردات الدولة من صنف مدخرات (جماعات) كهربائية (بطاريات السيارات) سعة (35) حتى (115) أمبير ذات المنشأ أو المُصدرة من جمهورية كوريا",
   "short_name": "قرار وزير التجارة والصناعة رقم (21) لسنة 2024 بفرض رسوم نهائية لمكافحة الإغراق ضد واردات الدولة من صنف مدخرات (جماعات...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9551&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9551&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُفرض رسوم نهائية لمُكافحة الإغراق ضد ورادات الدولة من صنف مدخرات (جماعات) كهربائية (بطاريات السيارات)، بما في ذلك فواصلها، وإن كانت مُستطيلة أو مُربعة بالرصاص والحامض من الأنواع المستعملة لإطلاق الحركة للمحركات ذات المكابس، سعة (35) حتى (115) أمبير، ذات المنشأ أو المُصدرة من جمهورية كوريا، المندرجة تحت البند رقم (85.07) رمز النظام المنسق 85071000 من التعرفة الجمركية الموحدة لدول مجلس التعاون لدول الخليج العربية، وذلك على النحو المبين بالجدول الآتي:\nالدولة\nمصدر/ مُنتج أجنبي\nهامش الإغراق كنسبة مئوية من القيمة CIF\nجمهورية كوريا\nHANKOOK&COMPANY CO.,LTD\n21%\nSEBANG GLOBAL BATTERY CO.,LTD\n19%\nHYUNDAI SUNGWOO SOLITE CO.,LTD\n12%\nDN AUTOMOTIVE CORPORATION\n25%\nالشركات الأخرى\n25%"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تُستثنى من فرض الرسوم المُبينة بالمادة السابقة، البطاريات من نوع AGM وEFB."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُفرض الرسوم النهائية لمُكافحة الإغراق المنصوص عليها في المادة (1) من هذا القرار اعتباراً من تاريخ العمل به، وحتى تاريخ 23/06/2027."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

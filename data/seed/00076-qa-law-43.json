@@ -4,8 +4,39 @@
   "title": "قانون رقم (12) لسنة 1999 بتعديل بعض أحكام القانون رقم (4) لسنة 1995 بشأن ديوان المحاسبة",
   "short_name": "قانون رقم (12) لسنة 1999 بتعديل بعض أحكام القانون رقم (4) لسنة 1995 بشأن ديوان المحاسبة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=43&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=43&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصوص المواد أرقام ( 1 )، ( 52 )، ( 59 )، ( 61 ) من القانون رقم (4) لسنة 1995 المشار إليه، النصوص التالية:"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Article (52)",
+      "content": "استثناء من أحكام القانون رقم (5) لسنة 1989 المشار إليه، يتولى رئيس الديوان إعداد مشروع موازنة الديوان السنوية، وعرضها على الأمير أو من يفوضه لإعتمادها، وتدرج اعتمادات هذه الموازنة رقماً واحداً بصورة إجمالية.\nويصدر رئيس الديوان القرارات التي تتضمن الأسس والإجراءات المتعلقة بتنفيذ بنود موازنة الديوان في الأغراض المخصصة لها."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Article (59)",
+      "content": "يصدر رئيس الديوان، دون التقيد بالقواعد والنظم الحكومية، اللوائح المنظمة لشئون موظفي الديوان، ولا تصبح هذه اللوائح نافذة إلا بعد اعتمادها من مجلس الوزراء.\nوإلى أن تصدر هذه اللوائح، يطبق في شأن موظفي الديوان قانون الوظائف العامة المدنية واللوائح والقرارات المنفذة له."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Article (61)",
+      "content": "يكون فحص ومراجعة حسابات الديوان بناء على تكليف من الأمير أو من يفوضه، تحدد فيه الجهة التي تتولى ذلك."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

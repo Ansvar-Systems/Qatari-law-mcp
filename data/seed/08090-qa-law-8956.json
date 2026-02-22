@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (10) لسنة 2022 بتحديد المعاملات التي يُحظر استخدام النقد فيها",
   "short_name": "قرار مجلس الوزراء رقم (10) لسنة 2022 بتحديد المعاملات التي يُحظر استخدام النقد فيها",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8956&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8956&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُحظر استخدام النقد في المعاملات التالية، متى جاوزت قيمتها (50,000) خمسبين ألف ريال:\n1 - بيع وشراء وتأجير العقارات وإجراء أية تصرفات عليها.\n2 - بيع وشراء وتأجير المركبات بكافة أنواعها وأرقامها المميزة.\n3 - بيع وشراء وتأجير الوسائط البحرية.\n4 - بيع وشراء وتأجير المعادن الثمينة أو الأحجار الكريمة والمجوهرات.\n5 - بيع وشراء وتأجير الإبل والخيول والمواشي والصقور، سواء كانت مفردة أو متعددة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ العمل بالقانون رقم (4) لسنة 2022 المُشار إليه. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

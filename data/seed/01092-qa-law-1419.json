@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (13) لسنة 2000 بشأن تحديد رسوم منح وتجديد تراخيص مزاولة مهنة الطب البيطري وفتح العيادات البيطرية أو فروعها",
   "short_name": "قرار مجلس الوزراء رقم (13) لسنة 2000 بشأن تحديد رسوم منح وتجديد تراخيص مزاولة مهنة الطب البيطري وفتح العيادات البيطري...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1419&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1419&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحدد رسوم منح وتجديد تراخيص مزاولة مهنة الطب البيطري وفتح العيادات البيطرية أو فروعها على النحو التالي:\n(1)\nأ-&shy; ترخيص مزاولة مهنة الطب البيطري ألف ريال.\nب-&shy; تجديد الترخيص خمسمائة ريال.\n(2)\nأ-&shy; ترخيص فتح عيادة بيطرية خاصة أو فرع لها ألف ريال.\nب-&shy; تجديد الترخيص خمسمائة ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

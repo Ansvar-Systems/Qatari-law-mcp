@@ -4,8 +4,27 @@
   "title": "قانون رقم (19) لسنة 2016 بإصدار النظام الموحد لمد الحماية التأمينية للعسكريين من مواطني دول مجلس التعاون لدول الخليج العربية العاملين في غير دولهم في أي دولة عضو في المجلس",
   "short_name": "قانون رقم (19) لسنة 2016 بإصدار النظام الموحد لمد الحماية التأمينية للعسكريين من مواطني دول مجلس التعاون لدول الخليج...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7154&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2016.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7154&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعمل بأحكام النظام الموحد لمد الحماية التأمينية للعسكريين من مواطني دول مجلس التعاون لدول الخليج العربية العاملين في غير دولهم في أي دولة عضو في المجلس، المرفق بهذا القانون."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "مكرر ( اضيفت بموجب: قانون 11 / 2023 )\n\"لا تلتزم الجهات العسكرية بمكافأة نهاية الخدمة المقررة طبقاً لقانون الخدمة العسكرية الصادر بالمرسوم بقانون رقم (31) لسنة 2006، أو أي عقود وظيفية أو أنظمة خاصة.\"."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

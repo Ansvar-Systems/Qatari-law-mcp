@@ -4,8 +4,33 @@
   "title": "قرار أميري رقم (66) لسنة 2005 بتشكيل مجلس أمناء هيئة متاحف قطر",
   "short_name": "قرار أميري رقم (66) لسنة 2005 بتشكيل مجلس أمناء هيئة متاحف قطر",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4014&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4014&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يشكل مجلس أمناء هيئة متاحف قطر على النحو التالي:\n1- الشيخة/المياسة بنت حمد بن خليفة آل ثاني\nرئيسا.\n2- الشيخ/حسن بن محمد بن علي آل ثاني\nنائبا للرئيس.\n3- السيد/عبد الله بن خليفة العطية\nعضوا.\n4- اللورد/روتشايلد جي\nعضوا.\n5- السيد/فاروق عبد العزيز حسني\nعضوا.\n6- السيد/لويس موريال\nعضوا.\n7- السيد/توماس لايشتن\nعضوا.\n1- سعادة الشيخة/ حصة بنت خليفة بن حمد آل ثاني.\n2- سعادة الشيخ/ عبد الرحمن بن سعود بن فهد آل ثاني.\n3- سعادة الدكتور/ محمد عبد الرحيم كافود."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون عضوية المجلس ثلاث سنوات قابلة للتجديد لمدة، أو مدد أخرى مماثلة. ويتولى أعضاء المجلس عملهم بالمجلس بالإضافة إلى أعمالهم الأصلية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يتولى مجلس الأمناء، اعتباراً من تاريخ العمل بأحكام هذا القرار، اتخاذ الإجراءات اللازمة لممارسة هيئة متاحف قطر لاختصاصاتها المقررة في قرار إنشائها عند العمل بأحكامه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

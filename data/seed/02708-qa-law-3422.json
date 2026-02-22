@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (6) لسنة 1997 بتعديل بعض أحكام القرار رقم (21) لسنة 1995 بإنشاء اللجنة الدائمة للمزارع والآبار وتنظيم شئون المزارعين",
   "short_name": "قرار مجلس الوزراء رقم (6) لسنة 1997 بتعديل بعض أحكام القرار رقم (21) لسنة 1995 بإنشاء اللجنة الدائمة للمزارع والآبار...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3422&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3422&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "أ- ضم المهندس/محمد مسفر الهاجري، ممثلاً عن إدارة الهندسة المدنية لوزارة الشئون البلدية والزراعة إلى عضوية اللجنة الدائمة للمزارع والآبار وتنظيم شئون المزارعين المنصوص عليها في قرار مجلس الوزراء رقم (21) لسنة 1995 المشار إليه.\nب- الإبقاء على عضوية الدكتورة لطيفة شاهين النعيمي في اللجنة المذكورة، ممثلاً عن جامعة قطر."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

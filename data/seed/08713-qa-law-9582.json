@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (28) لسنة 2024 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (28) لسنة 2024 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9582&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9582&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين كل من التالية أسماؤهم في وظيفة قاض أول بالمحكمة الابتدائية ، وتُحدد أقدمية كل منهم فيها اعتباراً من التاريخ المدون قرين الإسم :\n1- السيد/ عبدالله محمد عيسى الحسن المهندي 2024/03/16\n2- السيد/ حمد يوسف حامد آل حامد المرواني 2024/03/17\n3- السيد/ سعد عبدالله حسن الحسن المهندي 2024/03/17"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

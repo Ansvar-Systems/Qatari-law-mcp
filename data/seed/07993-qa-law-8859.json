@@ -4,8 +4,21 @@
   "title": "قرار رئيس مجلس الوزراء رقم (3) لسنة 2022 بتعيين مساعد قاض",
   "short_name": "قرار رئيس مجلس الوزراء رقم (3) لسنة 2022 بتعيين مساعد قاض",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8859&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8859&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيّد/ عمر مسفر محمد حمد المري، في وظيفة مساعد قاض."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات الـمُختصة، كُل فيما يخصّه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

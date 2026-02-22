@@ -4,8 +4,21 @@
   "title": "قرار رقم (11) لسنة 2023 بتخويل بعض موظفي هيئة الأشغال العامة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (11) لسنة 2023 بتخويل بعض موظفي هيئة الأشغال العامة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9134&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2023.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9134&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي هيئة الأشغال العامة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون رقم (14) لسنة 2015 المُشار إليه أعلاه، والقرارات المنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nأحمد عبدالله راشد مبارك السليطي\nمشرف طرق ثاني\n2\nجاسم محمد جاسم السليطي\nمشرف طرق ثالث\n3\nإبراهيم محمد جمعه أحمد السليطي\nمشرف طرق ثاني\n4\nعادل عباس حسن عباس طالب\nمراقب طرق أول\n5\nعبدالرحمن أحمد محمد علوى الرياشي\nمراقب سلامة الطرق رابع\n6\nعلي طالب علي دحروج المري\nمراقب طرق رابع\n7\nراشد حمد راشد متعب الصعاق\nمراقب طرق رابع"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلّ فيما يخُصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (91) لسنة 2003 بتأسيس شركة الجزيرة للصرافة (شركة مساهمة قطرية)",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (91) لسنة 2003 بتأسيس شركة الجزيرة للصرافة (شركة مساهمة قطرية)",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=10177&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=10177&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لكل من :\n1\nعبد العزيز بن محمد العطية\nقطري\n2\nعبدالرحمن حمد الابراهيم العطية\nقطري\n3\nعبد الله ناصر عبدالله المسند\nقطري\n4\nمجموعة الباكر للتجارة والمقاولات\nقطرية\n5\nمحمد أحمد محمد الهيل\nقطري\n6\nحمد عبدالله عبدالله آل إبراهيم العطية\nقطري\n7\nشركة كمال للتجارة والمقاولات\nقطرية\n8\nحسن شكري حسين المحسن\nقطري\n9\nخالد محمد عجاج الكبيسي\nقطري\nفي أن يؤسسوا فيما بينهم شركة مساهمة قطرية خاصة تسمى &laquo;شركة الجزيرة للصرافة براس مال مدفوع قدره (4,250,000) أربعة ملايين ومائتان وخمسون ألف ريال قطري ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة ونظامها الأساسي وبأحكام قانون الشركات التجارية رقم 5 لسنة 2002 والقوانين الأخرى المعمول بها وبخاصة القانون رقم 36 لسنة 1995 بتنظيم أعمال الصرافة ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة كل فيما يخصه تنفيذ هذا القرار وينشر في الجريدة الرسمية مرفقاً به عقد تأسيس الشركة ونظامها الأساسي."
+    }
+  ],
   "definitions": []
 }

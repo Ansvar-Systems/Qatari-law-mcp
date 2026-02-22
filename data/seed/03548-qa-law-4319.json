@@ -4,8 +4,45 @@
   "title": "قرار رئيس الهيئة العامة للشباب والرياضة رقم (1) لسنة 1991 بفصل نشاط الرماية عن نشاط الفروسية وإنشاء اتحاد مستقل لكل من اللعبتين",
   "short_name": "قرار رئيس الهيئة العامة للشباب والرياضة رقم (1) لسنة 1991 بفصل نشاط الرماية عن نشاط الفروسية وإنشاء اتحاد مستقل لكل م...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4319&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4319&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يفصل نشاط الرماية عن نشاط الفروسية، وينشأ اتحاد رياضي مستقل لكل من اللعبتين."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ينشأ اتحاد رياضي يسمى (الاتحاد القطري للرماية)، ويضم هذا الاتحاد أندية هذه اللعبة القائمة حالياً والتي تتكون مستقبلاً."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "ينشأ اتحاد رياضي يسمى (الاتحاد القطري للفروسية)، ويضم هذا الاتحاد أندية هذه اللعبة القائمة حالياً والتي تتكون مستقبلاً."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يضع كل اتحاد نظامه الأساسي، متضمناً القواعد المنظمة لأعماله ولكل أوجه نشاطه، وبوجه خاص تحديد أهدافه واختصاصاته.\nولا يكون النظام الأساسي لكل منهما نافذاً إلا بعد اعتماده من الهيئة العامة للشباب والرياضة."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

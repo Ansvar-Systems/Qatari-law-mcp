@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (15) لسنة 2000 بشأن المواصفات القياسية الاختيارية لبعض السلع والمواد",
   "short_name": "قرار مجلس الوزراء رقم (15) لسنة 2000 بشأن المواصفات القياسية الاختيارية لبعض السلع والمواد",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1444&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2000.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1444&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعتمد المواصفات القياسية الوطنية أرقام (1045)، (1046)، (1047)، (1048)، (1049)، (1050)، (1051)، المرفق ملخصاتها بهذا القرار، كمواصفات قياسية قطرية اختيارية، وتضاف إلى المواصفات القياسية الاختيارية الأخرى."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

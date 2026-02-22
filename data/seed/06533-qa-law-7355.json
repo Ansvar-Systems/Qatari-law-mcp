@@ -4,8 +4,21 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (219) لسنة 2017 بمد فترة توفيق الاوضاع الخاصة بتطبيق احكام القانون رقم (20) لسنة 2014 بتعديل بعض أحكام القانون رقم (25) لسنة 2005 بشأن السجل التجاري",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (219) لسنة 2017 بمد فترة توفيق الاوضاع الخاصة بتطبيق احكام القانون رقم (20) لسنة 2014...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7355&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2017.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7355&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تمد فترة توفيق الأوضاع للمخاطبين بأحكام القانون رقم (20) لسنة 2014 المشار إليه، والذين يزاولون نشاطهم في وقت العمل بهذا القانون، وذلك لمدة ستة أشهر اعتباراً من 08/07/2017."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كلٍ فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

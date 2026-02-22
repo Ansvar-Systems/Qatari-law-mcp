@@ -4,8 +4,27 @@
   "title": "أمر أميري رقم (1) لسنة 1998 بتعديل تشكيل مجلس الوزراء",
   "short_name": "أمر أميري رقم (1) لسنة 1998 بتعديل تشكيل مجلس الوزراء",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=603&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=603&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعدل المادة (1) من الأمر الأميري رقم (4) لسنة 1996 المشار إليه، على النحو التالي:\nأولاً: يعين سمو الشيخ محمد بن خليفة آل ثاني، نائباً لرئيس مجلس الوزراء.\nثانياً: يعين كل من:\n1. سعادة الشيخ محمد بن خالد آل ثاني، وزير الدولة، عضواً بمجلس الوزراء.\n2. سعادة الدكتور محمد عبد الرحيم كافود، وزيراً للتربية والتعليم والتعليم العالي.\n3. سعادة السيد يوسف حسين كمال، وزيراً للمالية والاقتصاد والتجارة.\n4. سعادة السيد علي محمد الخاطر، وزيراً للدولة لشئون مجلس الوزراء، عضواً بمجلس الوزراء."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يلغى كل حكم يخالف أحكام هذا الأمر الأميري."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يعمل بهذا الأمر الأميري من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

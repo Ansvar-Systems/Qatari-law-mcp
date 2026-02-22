@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (11) لسنة 1999 بالموافقة على إنضمام دولة قطر إلى اتفاقية منع ومعاقبة الجرائم التي ترتكب ضد الأشخاص المشمولين بالحماية الدولية بما فيهم الممثلين الدبلوماسيين",
   "short_name": "مرسوم رقم (11) لسنة 1999 بالموافقة على إنضمام دولة قطر إلى اتفاقية منع ومعاقبة الجرائم التي ترتكب ضد الأشخاص المشمولي...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=871&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=871&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ووفق على انضمام دولة قطر إلى اتفاقية منع ومعاقبة الجرائم التي ترتكب ضد الأشخاص المشمولين بالحماية الدولية بما فيهم الممثلين الدبلوماسيين ، الموقعة بمدينة نيويورك بتاريخ 14/12/1973، المرفق نصها بهذا المرسوم، ويكون لها قوة القانون وفقًا للمادة ( 24 ) من النظام الأساسي المؤقت المعدل."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,21 @@
   "title": "قرار أميري رقم (18) لسنة 2005 بإعادة تشكيل لجنة المناقصات المركزية",
   "short_name": "قرار أميري رقم (18) لسنة 2005 بإعادة تشكيل لجنة المناقصات المركزية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=657&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=657&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعاد تشكيل لجنة المناقصات المركزية على النحو التالي:\nأولاً:\n1- السيد/غانم علي الكبيسي\nرئيساً.\n2- السيد/محمد حصين النعيمي، ممثلاً لوزارة المالية\nنائباً للرئيس.\n3- السيد/طارق حمد النعيمي، ممثلاً لوزارة العدل\nعضواً.\n4- السيد/محمد ناصر الفهيد\nعضواً.\n5- السيد/هلال جهام الكواري\nعضواً.\n6- السيد/سعد أحمد المسند\nعضواً.\n7- السيد/علي لحدان الفيحاني\nعضواً.\n8- السيد/راشد عبدالله السبيعي\nعضواً.\n9- السيد/محمد جاسم العثمان فخرو\nعضواً.\nوذلك لمدة ثلاث سنوات قابلة للتجديد. ويتفرغ كل من رئيس ونائب رئيس اللجنة لأعمالها.\nثانياً: عضو ممثل للجهة الحكومية التي طرحت المناقصة لحسابها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به اعتباراً من 5/4/2005، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

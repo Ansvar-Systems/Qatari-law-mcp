@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (11) لسنة 1995 باستثناء وزارة الشئون البلدية والزراعة من بعض أحكام القانون رقم (8) لسنة 1976 بشأن تنظيم المناقصات والمزايدات",
   "short_name": "قرار مجلس الوزراء رقم (11) لسنة 1995 باستثناء وزارة الشئون البلدية والزراعة من بعض أحكام القانون رقم (8) لسنة 1976 بش...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1378&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1378&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تستثنى وزارة الشئون البلدية والزراعة من تطبيق أحكام المادة ( 51 ) من القانون رقم (8) لسنة 1976 المشار إليه، وتخول حق التعاقد بطريق الممارسة أو الأمر المباشر على مقاولات الأعمال وتوريد الأصناف، التي لا تجاوز قيمتها (200,000) مائتي ألف ريال."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

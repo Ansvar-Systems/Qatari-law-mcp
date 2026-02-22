@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (29) لسنة 2005 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن إبرام اتفاقية قرض بين الشركة القطرية للمشاريع العقارية والتجارية وبين البنك التجاري القطري",
   "short_name": "مرسوم رقم (29) لسنة 2005 بضمان حكومة دولة قطر للالتزامات المالية الناشئة عن إبرام اتفاقية قرض بين الشركة القطرية للمش...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1021&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2005.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1021&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "توافق حكومة دولة قطر على ضمان الالتزامات المالية للشركة القطرية للمشاريع العقارية والتجارية الناشئة عن إبرام الشركة لاتفاقية قرض بمبلغ (54,954,000) أربعة وخمسين مليون وتسعمائة وأربعة وخمسين ألف دولار أمريكي مع البنك التجاري القطري، وذلك بما لا يجاوز مبلغ (100,000,000) مائة مليون ريال قطري، ووفقاً لشروط وأحكام اتفاقية الضمان المزمع إبرامها بين حكومة دولة قطر وبين البنك التجاري القطري، والمرفقة باتفاقية القرض المشار إليها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يفوض وزير المالية، أو من ينيبه، في التوقيع على اتفاقية الضمان المشار إليها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

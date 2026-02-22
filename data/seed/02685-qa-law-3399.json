@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (4) لسنة 1997 بتشكيل لجنة معادلة الشهادات الدراسية",
   "short_name": "قرار مجلس الوزراء رقم (4) لسنة 1997 بتشكيل لجنة معادلة الشهادات الدراسية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3399&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1997.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3399&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تشكل لجنة معادلة الشهادات الدراسية بوزارة التربية والتعليم والثقافة على النحو التالي:\n1- مساعد وكيل الوزارة للتخطيط التربوي والمناهج\nرئيساً\n2- مساعد وكيل الوزارة للشئون الإدارية والمالية\nعضواً\n3- مدير إدارة المناهج والكتب المدرسية بالوزارة\nعضواً\n4- مدير إدارة الإمتحانات وشئون الطلاب بالوزارة\nعضواً\n5- رئيس قسم معادلة الشهادات الدراسية بالوزارة\nعضواً وأميناً للسر\n6- عميد كلية العلوم بجامعة قطر\nعضواً\n7- عميد كلية التربية بجامعة قطر\nعضواً\n8- طبيب من وزارة الصحة العامة،\nيرشحه وزير الصحة العامة\nعضواً\n9- مهندس معماري من وزارة الشئون البلدية والزراعة،\nيرشحه وزير الشئون البلدية والزراعة\nعضواً\n10- رئيس قسم تخطيط القوى العاملة،\nبوزارة شئون الخدمة المدنية والإسكان\nعضواً"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتقاضى كل من رئيس وأعضاء اللجنة مكافأة شهرية قدرها (1000) ألف ريال."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يلغى كل حكم يخالف أحكام هذا القرار."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

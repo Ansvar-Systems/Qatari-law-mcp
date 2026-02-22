@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (18) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) في اجتماعه السادس لعام 2003 المعدل بالقرار رقم (2) في اجتماعه السابع لعام 2003 بشأن الموافقة على تأسيس شركة مساهمة قطرية قابضة، تسمى \"الصناعات القطرية\"",
   "short_name": "قرار مجلس الوزراء رقم (18) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) في اجتماعه السادس لعام 2003 المعدل ب...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1476&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1476&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعتمد قرار مجلس إدارة قطر للبترول رقم (1) في اجتماعه السادس لعام 2003 المنعقد بتاريخ 13/4/2003، المعدل بالقرار رقم (2) في اجتماعه السابع لعام 2003 المنعقد بتاريخ 22/4/2003، بشأن الموافقة على أن تؤسس قطر للبترول بمفردها شركة مساهمة قطرية قابضة، تسمى «الصناعات القطرية»، برأسمال مُصدر قدره (5,000,000,000) خمسة مليارات ريال قطري، موزعاً على أسهم اسمية عددها (500,000,000) خمسمائة مليون سهم، قيمة كل سهم منها (10) عشرة ريالات قطرية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

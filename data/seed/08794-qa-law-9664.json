@@ -4,8 +4,33 @@
   "title": "مرسوم رقم ( 41 ) لسنة 2024 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم ( 41 ) لسنة 2024 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=9664&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2024.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=9664&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين الدكتور / خالد محمد صالح الرومي، في وظيفة نـائب رئيس بمحكمة الاستئناف ، وتُحدد أقدمـيـتـه فـيـهـا اعتباراً مـن تـاريـخ 2024/05/17."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين كل من التالية أسماؤهم في وظيفة قاض أول بمحكمة الاستئناف ، وتُحدد أقدمية كل منهم فيها اعتباراً مـن الـتـاريـخ المدون قرين الإسم :\n1- السيد/ فهد خالد مسند المسند الهاجري 2024/04/27.\n2- السيد/ عبدالعزيز علي عيسى الخليفي 2024/04/27.\n3- الدكتورة/ حصة أحمد عبدالله السليطي 2024/04/28."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تُعين الشيخة / مها منصور سلمان آل ثاني، في وظيفة قاض بمحكمة الاستئناف، وتحدد أقدميتها فيها من تاريخ 2024/04/14."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم . ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

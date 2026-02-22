@@ -4,8 +4,21 @@
   "title": "قرار رقم (11) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (11) لسنة 2021 بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8591&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8591&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القانون رقم (4) لسنة 2008 م المشار إليه، والقرارات المُنفذة له وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nحمد سالم ناصر النعيمي\nرئيس مكتب تسجيل عقود ايجار العقارات\n2\nمحمد سعيد فهد الهاجري\nأخصائي علاقات عامة واتصال\n3\nضوى زايد علي المري\nكاتب شؤون إدارية رابع\n4\nهنوف ناصر محمد السهلي\nباحث شؤون إدارية أول\n5\nسعيده رإشد صقر المريخي\nكاتب شؤون إدارية رابع\n6\nيوسف محمد أحمد المهندي\nرئيس مكتب تسجيل عقود إيجار العقارات\n7\nجوهرة سالم علي الهاجري\nاستشاري خدمات إدارية\n8\nعواطف علي فضل الأنصاري\nرئيس مكتب تسجيل عقود إيجار العقارات\n9\nضحى محمد فرهود الهاجري\nباحث شؤون إدارية ثاني"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

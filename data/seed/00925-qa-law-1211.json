@@ -4,8 +4,27 @@
   "title": "مرسوم رقم (58) لسنة 1989 بتأسيس شركة مساهمة قطرية باسم «الشركة العربية القطرية لانتاج الخضراوات»",
   "short_name": "مرسوم رقم (58) لسنة 1989 بتأسيس شركة مساهمة قطرية باسم «الشركة العربية القطرية لانتاج الخضراوات»",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1211&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1989.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1211&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يرخص لحكومة دولة قطر ممثلة بسعادة وزير الشئون البلدية والزراعة وللهيئة العربية للاستثمار والإنماء الزراعي ممثلة برئيسها، في أن يؤسسا في قطر شركة مساهمة قطرية تسمى \" الشركة العربية القطرية لإنتاج الخضراوات \" برأس مال قدره 47 مليون (سبعة وأربعون مليون) ريال قطري."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على المؤسسين الالتزام بأحكام عقد تأسيس الشركة و نظامها الأساسي المرفق صورة من كل منهما بهذا المرسوم، وعليهما الالتزام بأحكام قانون الشركات التجارية الصادر بالقانون رقم (11) لسنة 1981 والقوانين الأخرى المعمول بها."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به من تاريخ صدوره. , وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,33 @@
   "title": "قرار مجلس الوزراء رقم (24) لسنة 2001 بشأن اعتماد بعض المواصفات القياسية الخليجية التجريبية",
   "short_name": "قرار مجلس الوزراء رقم (24) لسنة 2001 بشأن اعتماد بعض المواصفات القياسية الخليجية التجريبية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1548&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2001.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1548&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تُعتمد المواصفتان القياسيتان الخليجيتان التجريبيتان رقما (683)، (684)، المرفق ملخصهما بهذا القرار، كمواصفتين قياسيتين قطريتين تجريبيتين لمدة سنتين."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تعتمد المواصفة القياسية الخليجية التجريبية رقم (685) المرفق ملخصها بهذا القرار، كمواصفة قياسية قطرية تجريبية لمدة ثلاث سنوات."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "تعتمد المواصفات القياسية الخليجية التجريبية الموضحة بالجداول (1) ، (2) ، (3) ، (4) ، (5) ، (6) ، (7) ، المرفقة بهذا القرار، كمواصفات قياسية قطرية تجريبية."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

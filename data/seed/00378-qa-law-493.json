@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (16) لسنة 1999 بتعديل بعض أحكام القانون رقم (14) لسنة 1998 بشأن إنشاء كلية قطر التقنية",
   "short_name": "مرسوم بقانون رقم (16) لسنة 1999 بتعديل بعض أحكام القانون رقم (14) لسنة 1998 بشأن إنشاء كلية قطر التقنية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=493&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=493&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "«في تطبيق أحكام هذا القانون، تكون للكلمات التالية، المعاني الموضحة قرين كل منها، ما لم يقتض السياق معنى آخر:\nالوزير: وزير التربية والتعليم والتعليم العالي.\nالكلية: كلية قطر التقنية.\nالمجلس: مجلس إدارة الكلية.\nالمدير: مدير الكلية»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

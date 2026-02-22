@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (42) لسنة 2022 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (42) لسنة 2022 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8976&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8976&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السادة التالية أسماؤهم في وظيفة وكيل نيابة، وتُحدد أقدمية كل منهم فيها اعتباراً من 12/05/2022:\n1 - بدر سعيد عباد خير العبدالله.\n2 - عبدالمحسن غانم سعيد العلم الخيارين.\n3 - سلطان ناصر سلطان الجفالي النعيمي.\n4 - تركي عبـدالله مبارك مبارك القرشي.\n5 - جاسم محمد جاسم ناصر المسلماني.\n6 - حمد سعيد محمد سعيد العرجاني.\n7 - عبدالله سلطان غانم سلطان الغانم.\n8 - خميس جمعة خميس العرابيد الشهواني.\n9 - عبدالرحمن جابر يوسف ملا صالح الجابر.\n10 &ndash; علي محمد سعيد جمعة السليطي"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

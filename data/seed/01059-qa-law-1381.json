@@ -4,8 +4,21 @@
   "title": "قرار مجلس الوزراء رقم (11) لسنة 1999 بتعديل بعض أحكام قرار مجلس الوزراء رقم (21) لسنة 1995 بإنشاء اللجنة الدائمة للمزارع والآبار وتنظيم شئون المزارعين",
   "short_name": "قرار مجلس الوزراء رقم (11) لسنة 1999 بتعديل بعض أحكام قرار مجلس الوزراء رقم (21) لسنة 1995 بإنشاء اللجنة الدائمة للمز...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1381&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1381&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص الفقرة الأخيرة من المادة (1) من قرار مجلس الوزراء رقم (21) لسنة 1995 المشار إليه، الفقرة التالية:\n«ويعين وزير الشئون البلدية والزراعة من بين أعضاء اللجنة نائباً للرئيس، يحل محل الرئيس عند غيابه أو خلو منصبه، وتختار اللجنة مقرراً لها من بين أعضائها»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

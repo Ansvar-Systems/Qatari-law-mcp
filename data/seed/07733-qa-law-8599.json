@@ -4,8 +4,21 @@
   "title": "قرار رقم (19) لسنة 2021 بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (19) لسنة 2021 بتخويل بعض موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8599&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8599&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة التجارة والصناعة التالية أسماؤهم، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المُشار إليها أعلاه، والقرارات المُنفذة لها، وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nظبية أحمد المهندي.\nباحث شؤون إدارية ثالث\n2\nالبتول شاجع محمد شاجع.\nباحث شؤون شركات ثالث\n3\nعائشة مبارك الكواري.\nباحث شؤون شركات ثالث\n4\nعائشة عبدالعزيز العتيبي\nباحث شؤون شركات ثالث\n5\nسارة يوسف العمادي.\nباحث قانوني ثالث\n6\nفجر جمعة الكبيسي.\nمحاسب ثالث\n7\nنورا محمد الكعبي.\nمحاسب ثاني\n8\nفاطمة حمد الكواري.\nمحاسب ثالث\n9\nفاطمة علي القحطاني.\nمحاسب ثالث\n10\nموضي مسعود ناصر الخاطر.\nمحاسب ثالث"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كُلٍ فيما يَخُصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره ويُنشر في الجريدة الرسمية"
+    }
+  ],
   "definitions": []
 }

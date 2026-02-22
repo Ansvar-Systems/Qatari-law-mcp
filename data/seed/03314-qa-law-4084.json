@@ -4,8 +4,33 @@
   "title": "قانون رقم (5) لسنة 1999 بتعديل بعض أحكام القانون رقم (8) لسنة 1995 بشأن مزاولة مهنة الطب البيطري",
   "short_name": "قانون رقم (5) لسنة 1999 بتعديل بعض أحكام القانون رقم (8) لسنة 1995 بشأن مزاولة مهنة الطب البيطري",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4084&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1999.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4084&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنصي المادتين ( 10 ) و( 11 ) من القانون رقم (8) لسنة 1995 المشار إليه، النصان التاليان:"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Article (10)",
+      "content": "«تمنح وتجدد تراخيص مزاولة مهنة الطب البيطري، وفتح العيادات البيطرية أو فروعها، بناء على موافقة اللجنة، ويكون تجديد تراخيص مزاولة المهنة كل ثلاث سنوات ميلادية، وتجديد تراخيص العيادات أو فروعها كل سنة ميلادية»."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Article (11)",
+      "content": "«تحدد رسوم منح وتجديد التراخيص المشار إليها في المادة السابقة، بقرار من مجلس الوزراء بناء على اقتراح الوزير»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

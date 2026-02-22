@@ -4,8 +4,21 @@
   "title": "قانون رقم (15) لسنة 1998 تعديل بعض أحكام القانون رقم (23) لسنة 1993 بشأن قوة الشرطة",
   "short_name": "قانون رقم (15) لسنة 1998 تعديل بعض أحكام القانون رقم (23) لسنة 1993 بشأن قوة الشرطة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=93&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1998.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=93&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يستبدل بنص المادة ( 84 ) من القانون رقم (23) لسنة 1993 المشار إليه النص التالي:\n« مادة (84) :\nيجوز محو العقوبة التأديبية الموقعة على عضو قوة الشرطة بعد مضي ثلاث سنوات من تاريخ توقيعها وذلك إذا ثبت خلال هذه المدة حسن سلوكه وإنضباطه في عمله وعدم توقيع أي عقوبة تأديبية عليه. كما يجوز محو العقوبة الانضباطية بعد مضي سنة من تاريخ توقيعها بذات الشروط.\nويصدر بمحو العقوبة قرار من وزير الداخلية. ويكون أثر القرار بالنسبة إلى المستقبل فقط»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

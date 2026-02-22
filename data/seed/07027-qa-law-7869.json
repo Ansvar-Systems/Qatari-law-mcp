@@ -4,8 +4,51 @@
   "title": "قرار مجلس الوزراء رقم (26) لسنة 2018 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة المواصلات والاتصالات وتعيين اختصاصاتها",
   "short_name": "قرار مجلس الوزراء رقم (26) لسنة 2018 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة المواصلات والاتصالات وتع...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7869&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2018.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7869&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "ملغاة ( الغيت بموجب قرار أميري 1/2021 )"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "ملغاة ( الغيت بموجب قرار أميري 1/2021 )"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "ملغاة ( الغيت بموجب قرار أميري 1/2021 )"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "ملغاة ( الغيت بموجب قرار أميري 1/2021 )"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "يُحذف من اختصاصات إدارتي أصول الطرق، وهندسة المرور وسلامة الطرق، الاختصاصان المنصوص عليهما في المادتين ( 14 / بند 6)، ( 15 / بند 5)، على التوالي، من القرار الأميري رقم (8) لسنة 2016 المشار إليه."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Article (6)",
+      "content": "تُلغى إدارة الأمن السيبراني، المنصوص عليها في المادة ( 1 / خامساً/بند 5) من القرار الأميري رقم (8) لسنة 2016 المشار إليه و الخريطة التنظيمية المرفقة به، كما تُلغى اختصاصاتها المنصوص عليها في المادة ( 22 ) من ذات القرار."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Article (7)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

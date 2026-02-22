@@ -4,8 +4,27 @@
   "title": "قرار وزير البلدية والتخطيط العمراني رقم (25) لسنة 2015 باعتبار استملاك العقارات المتأثرة بمشروع المترو المرحلة الأولى (الجزء الثالث والعشرون) من أعمال المنفعة العامة",
   "short_name": "قرار وزير البلدية والتخطيط العمراني رقم (25) لسنة 2015 باعتبار استملاك العقارات المتأثرة بمشروع المترو المرحلة الأولى...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=6556&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2015.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=6556&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعتبر من أعمال المنفعة العامة مشروع استملاك العقارات المتأثرة بمشروع المترو المرحلة الأولى (الجزء الثالث والعشرون)، الموضحة تفاصيلها وموقعها بالمخطط التوجيهي المرفق بهذا القرار."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تتعين حدود ومعالم العقار المراد نزع ملكيته بما تضمنه الرسم التخطيطي المرفق."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

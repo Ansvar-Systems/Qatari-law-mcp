@@ -4,8 +4,21 @@
   "title": "قرار رقم (16) لسنة 2021 م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (16) لسنة 2021 م بتخويل بعض موظفي وزارة البلدية والبيئة صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8596&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2021.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8596&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي وزارة البلدية والبيئة التالية أسماؤهم صفة مأموري الضبط القضائي في ضبط وإثبات الجرائم التي تقع بالمخالفة لأحكام القوانين المُشار إليها أعلاه والقرارات المُنفذة لها وهم:\nم\nالإسم\nالمسمى الوظيفي\n1\nراشد محسن علي فطيس المري\nمراقب بيئة برية ثالث\n2\nمطلق سعد فهد السهلي\nمشرف تفتيش بيئي أول\n3\nفرج جابر فرج المري\nمساعد مراقب بيئة ثالث\n4\nعبدالله جابر متعب المري\nمراقب بيئة برية ثالث\n5\nعلي حمد محمد المري\nمخلص جمركي ثالث\n6\nعلي عبدالله الفضالة\nمندوب متابعة رابع\n7\nراشد عبدالله محمد عفيفة\nمراقب بيئة برية ثالث\n8\nسعيد محمد سعيد الخديعة\nباحث حياة قطرية ثالث\n9\nعبدالرحمن سعود خلفان البلوشي\nملاحظ حراسة خامس"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصّه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية ."
+    }
+  ],
   "definitions": []
 }

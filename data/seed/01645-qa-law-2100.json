@@ -4,8 +4,27 @@
   "title": "قرار وزير الاقتصاد والتجارة رقم (4) لسنة 1991 بتعديل بعض أحكام القرار الوزاري رقم (5) لسنة 1984 بشأن البيع عن طريق التخفيضات العامة للأسعار(التنزيلات)",
   "short_name": "قرار وزير الاقتصاد والتجارة رقم (4) لسنة 1991 بتعديل بعض أحكام القرار الوزاري رقم (5) لسنة 1984 بشأن البيع عن طريق ال...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2100&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1991.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2100&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تلغى المادة (4) من قرار وزير الاقتصاد والتجارة رقم (5) لسنة 1984 المشار إليه."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يضاف إلى نص المادة (6) من قرار وزير الاقتصاد والتجارة رقم (5) لسنة 1984 المشار إليه فقرة ثانية بالنص التالي:\nو لايجوز إجراء التخفيضات المنصوص عليها في الفقرة السابقة إلا خلال شهر أبريل ومايو وأكتوبر ونوفمبر من كل سنة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

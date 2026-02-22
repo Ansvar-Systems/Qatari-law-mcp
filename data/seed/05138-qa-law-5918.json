@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (59) لسنة 2003 بتعيين بعض أعضاء النيابة العامة",
   "short_name": "مرسوم رقم (59) لسنة 2003 بتعيين بعض أعضاء النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5918&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2003.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5918&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين السادة التالية أسماؤهم في الوظيفة المبينة قرين اسم كل منهم، وتكون أقدمية كل منهم حسب ترتيبه الوارد في هذا المرسوم:\n1-\nأسامة بدري إبراهيم مروان\nرئيس نيابة\n2-\nمحمد عبد اللطيف أحمد الخولي\nرئيس نيابة\n3-\nجمال يوسف عبد اللطيف أحمد\nرئيس نيابة\n4-\nيحيى محمود عبد القادر أحمد\nرئيس نيابة\n5-\nفهد سعدون محمد جابر آل عذبة\nوكيل نيابة أول\n6-\nمحمد محمود جاسم المحمود\nوكيل نيابة\n7-\nغانم سعيد محمد الفهيد الهاجري\nوكيل نيابة\n8-\nمحمد راشد محمد راشد البنعلي\nمساعد نيابة\n9-\nحمد ناصر راشد المسند المهندي\nمساعد نيابة\n10-\nحسن عبد الله الضابت الدوسري\nمساعد نيابة"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

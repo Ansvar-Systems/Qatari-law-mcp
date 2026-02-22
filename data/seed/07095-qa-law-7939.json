@@ -4,8 +4,27 @@
   "title": "قرار مجلس الوزراء رقم (7) لسنة 2019 بتحديد الحد الأدنى لقيمة الدخل لطالبي الترخيص بالإقامة الدائمة وحالات الاستثناء منه",
   "short_name": "قرار مجلس الوزراء رقم (7) لسنة 2019 بتحديد الحد الأدنى لقيمة الدخل لطالبي الترخيص بالإقامة الدائمة وحالات الاستثناء منه",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=7939&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2019.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=7939&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يجب أن ألا يقل الحد الأدنى لدخل المتقدم للحصول على الترخيص بالإقامة الدائمة في دولة قطر، وفقاً لأحكام القانون رقم (10) لسنة 2018 المشار إليه، عن المبالغ المحددة فيما يلي:\n1- (20,000) عشرون ألف ريال راتب أساسي شهري، بالنسبة للعاملين بالقطاع الحكومي.\n2- (30,000) ثلاثون ألف ريال راتب إجمالي شهري، بالنسبة للعاملين بالقطاع الخاص.\nويُشترط في المتقدم للحصول على الترخيص بالإقامة الدائمة، من المستثمرين، أن يكون لديه استثمار فعلي في الدولة، لا يقل عن (1,000,000) مليون ريال، كأصول للشركة أو موازنتها."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يستثنى من الحد الأدنى المنصوص عليه في المادة السابقة الفئات التالية:\n1- العسكريون.\n2- مواليد دولة قطر.\n3- من مضى على إقامتهم في دولة قطر أكثر من (50) خمسين سنة."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

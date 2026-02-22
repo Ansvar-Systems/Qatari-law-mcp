@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (41) لسنة 2006 بتعيين بعض القضاة",
   "short_name": "مرسوم رقم (41) لسنة 2006 بتعيين بعض القضاة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5837&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5837&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين كل من السادة الآتية أسماؤهم، في الوظيفة المحددة قرين كل منهم:\n1- السيد/ عباس أحمد محمد أبو خريزة\nقاضياً بمحكمة الاستئناف.\n2- السيد/ طارق محمد بهجت عبدالعزيز راشد\nرئيساً بالمحكمة الابتدائية.\n3- السيد/ عماد محمود جمال الدين عبدالمجيد\nقاضياً بالمحكمة الابتدائية.\n4- السيد/ وائل سعد محمد رفاعي قاضياً\nبالمحكمة الابتدائية."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا المرسوم. ويعمل به اعتبارا من 6/11/2006. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار رئيس المجلس الأعلى لرعاية الشباب رقم (2) لسنة 1990 بحل ثلاث أندية رياضية",
   "short_name": "قرار رئيس المجلس الأعلى لرعاية الشباب رقم (2) لسنة 1990 بحل ثلاث أندية رياضية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=1995&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1990.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=1995&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تحل كل من الأندية التالية:\n1- نادي النصر الرياضي.\n2- نادي النهضة الرياضي الاجتماعي.\n3- نادي التضامن الرياضي."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يتولى المجلس الأعلى لرعاية الشباب اتخاذ إجراءات تصفية الأندية الثلاث المشار إليها في المادة السابقة طبقاً لأحكام المادة (67) من النظام الأساسي لهذه الأندية."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

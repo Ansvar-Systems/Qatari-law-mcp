@@ -4,8 +4,27 @@
   "title": "قانون رقم (25) لسنة 2008 بتعديل بعض أحكام القانون رقم (2) لسنة 2002 بشأن تنظيم تملك العقار لمواطني دول مجلس التعاون لدول الخليج العربية",
   "short_name": "قانون رقم (25) لسنة 2008 بتعديل بعض أحكام القانون رقم (2) لسنة 2002 بشأن تنظيم تملك العقار لمواطني دول مجلس التعاون ل...",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=2568&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2008.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=2568&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُستبدل بنص المادة ( 5 ) من القانون رقم (2) لسنة 2002 المشار إليه، النص التالي:"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Article (5)",
+      "content": "«لا يجوز لمالك العقار التصرف فيه تصرفاً ناقلاً للملكية إلا بعد انقضاء سنتين من تاريخ تسجيله باسمه. واستثناءً من ذلك، يجوز للمالك التصرف قبل انقضاء هذه المدة، بشرط الحصول على إذن مسبق من رئيس مجلس الوزراء»."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

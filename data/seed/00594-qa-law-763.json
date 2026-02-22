@@ -4,8 +4,33 @@
   "title": "قرار أمير دولة قطر رقم (4) لسنة 1995 في شأن الأحكام الخاصة بتوارث الحكم في الدولة",
   "short_name": "قرار أمير دولة قطر رقم (4) لسنة 1995 في شأن الأحكام الخاصة بتوارث الحكم في الدولة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=763&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1995.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=763&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "حكم الدولة وراثي في أسرة آل ثاني، وينتقل من الأب إلى أحد أبنائه، فإن لم يوجد، فإلى من يختاره الأمير من أسرة آل ثاني.\nويعين ولي العهد بالطريقة المنصوص عليها في المادة ( 21 ) من النظام الأساسي المؤقت المعدل للحكم في دولة قطر.\nويكون لقبه (سمو ولي العهد)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يشترط في ولي العهد أن يكون رشيداً عاقلاً."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "إذا فقد ولي العهد أحد الشروط الواجب توافرها فيه، أو فقد القدرة الصحية على ممارسة صلاحياته، أو إذا تطلبت ذلك مصالح الدولة العليا، تنتقل ولاية العهد إلى غيره وفقاً لما تقرره أحكام المادة ( 21 ) من النظام الأساسي المؤقت المعدل المشار إليه."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "يعمل بهذا القرار من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

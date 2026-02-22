@@ -4,8 +4,33 @@
   "title": "مرسوم رقم (24) لسنة 2022 بتعيين أعضاء في النيابة العامة",
   "short_name": "مرسوم رقم (24) لسنة 2022 بتعيين أعضاء في النيابة العامة",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=8907&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2022.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=8907&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يُعين السيّد/ تركي راشد حارب المهندي، في وظيفة رئيس نيابة أول، وتُحدد أقدميته فيها اعتباراً من 16/02/2022."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "يُعين السيّد/ فواز حمد يوسف إبراهيم آل محمود، في وظيفة وكيل نيابة مساعد، وتُحدد أقدميته فيها اعتباراً من 17/09/2020."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "يُعين كل من السادة الآتية أسماؤهم في وظيفة وكيل نيابة مساعد، وتُحدد أقدمية كُل منهم فيها اعتباراً من 23/03/2022:\n1 - فهد محمد سالم المالكي\n2 &ndash; سحيم حمد سعيد الراشدي\n3 - يوسف سنان عبدالرحمن سنان المسلماني.\n4 - جاسم عبدالله جاسم خاطر السليطي.\n5 - عبدالله فيصل يوسف محمد بهزاد.\n6 - عبدالرحمن عيسى أحمد عيسى المناعي.\n7 - محمد سالم عبدالهادي بحيح المري.\n8 - محمد علي عبدالله الفـياض الخالدي.\n9 - ثامر مبارك غانم بوثامر العلي.\n10 - سعود عبدالعزيز حسن غانم الغانم.\n11 - تميم محمد عبدالله آل إبراهيم العطية.\n12 - عبد اللطيف عبدالله عبد اللطيف السادة.\n13 - نايف سعد ناصر كليفيخ العتيبي.\n14 - علي حسن ماجد أحمد الهاجري.\n15 - مبارك سعيد مبارك آل عامر الكعبـي.\n16 - مشعل عويد مطر التومي الشمري."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Article (4)",
+      "content": "على جميع الجهات المُختصة، كُل فيما يخُصّه، تنفيذ هذا المرسوم. ويُعمل به من تاريخ صدوره. ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

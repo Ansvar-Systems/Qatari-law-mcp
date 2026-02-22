@@ -4,8 +4,21 @@
   "title": "مرسوم رقم (20) لسنة 1996 بتعيين قاض بالمحاكم العدلية",
   "short_name": "مرسوم رقم (20) لسنة 1996 بتعيين قاض بالمحاكم العدلية",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=5722&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 1996.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=5722&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يعين قاضياً بالمحاكم العدلية، بفئة قضاة المحكمة المدنية الصغرى وما في حكمها، السيد/ أحمد سلطان محمد صباح العسيري، ويتقاضى مرتباً شهرياً قدره 7000 ريال، مع علاوة سنوية قدرها -/200 ريال في الشهر، حتى يصل المرتب إلى 8000 ريال شهرياً، وهو الحد الأعلى له."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هـذا المرسوم. ويعمل به اعتباراً من 16/5/1996. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

@@ -4,8 +4,27 @@
   "title": "قرار وزير الداخلية رقم (3) لسنة 2006 بشأن الأحكام الخاصة بالسمة السياحية المشتركة بين دولة قطر وسلطنة عمان",
   "short_name": "قرار وزير الداخلية رقم (3) لسنة 2006 بشأن الأحكام الخاصة بالسمة السياحية المشتركة بين دولة قطر وسلطنة عمان",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=3752&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2006.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=3752&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يسمح للأجنبي الذي يحصل على سمة دخول لدولة قطر بغرض السياحة من السلطات العمانية المختصة، بدخول دولة قطر والبقاء فيها للمدة المحددة في السمة أو المدة التي تمد إليها السمة، بحد أقصى شهرين.\nويجوز للسلطات القطرية المختصة عدم السماح له بدخول البلاد لأسباب أمنية أو لدواعي المصلحة العامة."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "تكون مدة السمة السياحية المشتركة التي تصدرها السلطات القطرية المختصة، لدخول سلطنة عمان لمدة شهر، وقابلة للتمديد لشهر آخر."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Article (3)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

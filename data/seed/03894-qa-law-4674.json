@@ -4,8 +4,21 @@
   "title": "قرار رقم (33) لسنة 2013 بشان تخويل بعض موظفي قطر للبترول صفة مأموري الضبط القضائي",
   "short_name": "قرار رقم (33) لسنة 2013 بشان تخويل بعض موظفي قطر للبترول صفة مأموري الضبط القضائي",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=4674&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2013.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=4674&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "يكون لموظفي قطر للبترول التالية أسماؤهم صفة مأموري الضبط القضائي وإثبات الجرائم التي تقع بالمخالفة لأحكام مواد قانون العقوبات المشار إليها والقوانين المشار إليها والقرارات المنفذة لها في حدود مناطق امتياز وانتفاع قطر للبترول وهم:\nم\nالاسم\nرقم البطاقة الشخصية\n2\nسعيد فرج مرزوق فرج العبدالله\n28163400216\n3\nبدر حسين عبدالله ناصر تر كتر\n27163400754\n4\nنبيل عبدالله علي الخاطر\n26663400985\n5\nخلف محمد علي محمد البوعينين\n28463403080\n6\nعبدالله فهد محمد علي الخاطر\n28563403666\n7\nمحمد عبدالله محمد العبدالجبار\n28263402309\n9\nجابر عبدالهادي محمد آل جهيم المري\n27863401333"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المُختصة كُلٍ فيما يخصه، تنفيذ هذا القرار، ويعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }

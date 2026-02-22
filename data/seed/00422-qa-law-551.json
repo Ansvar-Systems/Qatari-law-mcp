@@ -4,8 +4,21 @@
   "title": "مرسوم بقانون رقم (29) لسنة 2002 بإعفاء شركة إتصالات قطر (كيوتل) من الرسوم الجمركية والضرائب والرسوم الأخرى",
   "short_name": "مرسوم بقانون رقم (29) لسنة 2002 بإعفاء شركة إتصالات قطر (كيوتل) من الرسوم الجمركية والضرائب والرسوم الأخرى",
   "status": "in_force",
-  "url": "https://www.almeezan.qa/LawPage.aspx?id=551&language=ar",
-  "description": "Official Al Meezan listing metadata retained (LawViewWord fetching disabled by ingestion mode). Listed year: 2002.",
-  "provisions": [],
+  "url": "https://www.almeezan.qa/LawViewWord.aspx?LawID=551&mode=DOC&language=ar",
+  "description": "Official legislation text retrieved from Al Meezan LawViewWord Arabic source.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Article (1)",
+      "content": "تعُفى من الرسوم الجمركية وغيرها من الضرائب والرسوم الأخرى المنصوص عليها في قانون الجمارك المشار إليه، الأجهزة والمعدات وقطع الغيار التي تستوردها شركة اتصالات قطر (كيوتل) باسمها ولحسابها من الخارج."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Article (2)",
+      "content": "على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القانون. ويعمل به اعتباراً من 26/11/1998. وينشر في الجريدة الرسمية."
+    }
+  ],
   "definitions": []
 }
