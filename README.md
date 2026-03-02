@@ -8,8 +8,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Qatari-law-mcp?style=social)](https://github.com/Ansvar-Systems/Qatari-law-mcp)
 [![CI](https://github.com/Ansvar-Systems/Qatari-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Qatari-law-mcp/actions/workflows/ci.yml)
 [![Daily Data Check](https://github.com/Ansvar-Systems/Qatari-law-mcp/actions/workflows/check-updates.yml/badge.svg)](https://github.com/Ansvar-Systems/Qatari-law-mcp/actions/workflows/check-updates.yml)
-[![Database](https://img.shields.io/badge/database-pre--built-green)](docs/INTERNATIONAL_INTEGRATION_GUIDE.md)
-[![Provisions](https://img.shields.io/badge/provisions-71%2C155-blue)](docs/INTERNATIONAL_INTEGRATION_GUIDE.md)
+[![Database](https://img.shields.io/badge/database-pre--built-green)](https://github.com/Ansvar-Systems/Qatari-law-mcp)
+[![Provisions](https://img.shields.io/badge/provisions-71%2C155-blue)](https://github.com/Ansvar-Systems/Qatari-law-mcp)
 
 Query **9,428 Qatari statutes** -- from قانون حماية البيانات الشخصية and قانون العقوبات to قانون التجارة, قانون الشركات, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
