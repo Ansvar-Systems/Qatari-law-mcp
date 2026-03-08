@@ -18,7 +18,14 @@ const ROOT_DIR = path.resolve(__dirname, '../..');
 const DB_PATH = path.resolve(ROOT_DIR, 'data/database.db');
 const SEED_DIR = path.resolve(ROOT_DIR, 'data/seed');
 
-const DB_EXISTS = fs.existsSync(DB_PATH);
+const DB_EXISTS = fs.existsSync(DB_PATH) && (() => {
+  try {
+    const _db = new Database(DB_PATH, { readonly: true });
+    const _row = _db.prepare("SELECT COUNT(*) as cnt FROM sqlite_master WHERE type='table' AND name='legal_documents'").get() as { cnt: number } | undefined;
+    _db.close();
+    return (_row?.cnt ?? 0) > 0;
+  } catch { return false; }
+})();
 
 const describeIfDb = DB_EXISTS ? describe : describe.skip;
 
