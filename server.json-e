@@ -24,7 +24,7 @@
       "version": "1.0.0",
       "transport": {
         "type": "streamable-http",
-        "url": "https://mcp.ansvar.eu/law-qatari-law-mcp/mcp"
+        "url": "https://qatari-law-mcp.vercel.app/mcp"
       }
     }
   ]
